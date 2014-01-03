@@ -54,8 +54,9 @@ def clean_text(t):
     if re_n.match(t):
         t = t.replace(' ', '')
         return int(t)
-    low = t.lower()
-    return t.strip()
+    t = t.lstrip('-, ')
+    t = re_cleanwords.sub(u'-', t)
+    return t
 
 def save_json(filename, data):
     with open(sep.join(['data', '%s.json' % filename]), 'w') as f:
@@ -73,13 +74,13 @@ def save_csv(filename, data, keys):
                     if k3 not in keys:
                         keys.append(k3)
                     if isinstance(v, list):
-                        res[k3] = " - ".join([unicode(va).lstrip(',- ') for va in v])
+                        res[k3] = " - ".join([unicode(va) for va in v])
                     else:
                         res[k3] = v
             elif k not in keys:
                 keys.append(k)
             if k in res and isinstance(res[k], list):
-                res[k] = " - ".join([unicode(va).lstrip(',- ') for va in res[k]])
+                res[k] = " - ".join([unicode(va) for va in res[k]])
         flat.append(res)
     flat.insert(0, {k: k for k in keys})
 
