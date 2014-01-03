@@ -1,0 +1,262 @@
+[
+  {
+    "op": "core/column-addition",
+    "description": "Create column sexe at index 1 based on column Nom using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "sexe",
+    "columnInsertIndex": 1,
+    "baseColumnName": "Nom",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Nom to Sexe",
+    "oldColumnName": "Nom",
+    "newColumnName": "Sexe"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column sexe to Nom",
+    "oldColumnName": "sexe",
+    "newColumnName": "Nom"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Nom using expression grel:value.replace(/^M[\\.mle]+ /, '')",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Nom",
+    "expression": "grel:value.replace(/^M[\\.mle]+ /, '')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Sexe using expression grel:value.replace(/^(M[\\.mle]+) .*$/, '$1')",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sexe",
+    "expression": "grel:value.replace(/^(M[\\.mle]+) .*$/, '$1')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Sexe",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sexe",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "M."
+        ],
+        "to": "H"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Sexe",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sexe",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mlle"
+        ],
+        "to": "F"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Sexe",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sexe",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mme"
+        ],
+        "to": "F"
+      }
+    ]
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column Prénom at index 2 based on column Nom using expression grel:value.replace(/^(.*[a-zé]) [A-ZÉ\\(\\)\\s\\-']+$/, '$1')",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "Prénom",
+    "columnInsertIndex": 2,
+    "baseColumnName": "Nom",
+    "expression": "grel:value.replace(/^(.*[a-zé]) [A-ZÉ\\(\\)\\s\\-']+$/, '$1')",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column Nom de famille at index 2 based on column Nom using expression grel:value.replace(/^(.*[a-zé]) ([A-ZÉ\\(\\)\\s\\-']+)$/, '$2')",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "Nom de famille",
+    "columnInsertIndex": 2,
+    "baseColumnName": "Nom",
+    "expression": "grel:value.replace(/^(.*[a-zé]) ([A-ZÉ\\(\\)\\s\\-']+)$/, '$2')",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Nom",
+    "columnName": "Nom"
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Prénom",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Prénom",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Benoit",
+          "Benoît"
+        ],
+        "to": "Benoît"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Fonction",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Fonction",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Directeur général",
+          "Directeur Général",
+          "directeur général"
+        ],
+        "to": "Directeur général"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Directrice des relations institutionnelles, rattachée à la Direction Générale",
+          "Directrice des relations institutionnelles, rattachée à la direction générale"
+        ],
+        "to": "Directrice des relations institutionnelles, rattachée à la direction générale"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Président",
+          "Président "
+        ],
+        "to": "Président"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Secrétaire général",
+          "Secrétaire Général"
+        ],
+        "to": "Secrétaire général"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Déléguée générale",
+          "Déléguée Générale"
+        ],
+        "to": "Déléguée générale"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Délégué général",
+          "Délégué Général"
+        ],
+        "to": "Délégué général"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Directeur des affaires publiques (Direction générale)",
+          "Directeur des affaires publiques - Direction générale"
+        ],
+        "to": "Directeur des affaires publiques - Direction générale"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Intérêts représentés",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Intérêts représentés",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Union française des industries pétrolières",
+          "Union française des industries pétrolières (UFIP)"
+        ],
+        "to": "Union française des industries pétrolières (UFIP)"
+      }
+    ]
+  }
+]
