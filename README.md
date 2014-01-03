@@ -4,6 +4,8 @@ Le [nouveau registre des représentants d'intérêts de l'Assemblée nationale](
 
 Dans un souci d'archive, nous reproduisons sous la forme d'un tableur CSV [les données de l'ancienne version du registre](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-AN-v1-131229.csv) riche de 236 inscrits avant sa suppression le 29 décembre 2013. 
 
+Pour aider l'Assemblée à mieux assurer ce souci de transparence, nous republions également les informations publiées sur le nouveau registre sous la forme de données réutilisables [CSV](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-AN-v1-131229-v2.csv) ou [JSON](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-AN-v2.json) sous conditions OpenData ([licence ODBL](http://www.vvlibri.org/fr/licence/odbl/10/fr/legalcode)).
+
 [Regards Citoyens](http://www.regardscitoyens.org)
 
 [Retrouvez nos études et plaidoyers sur l'encadrement du lobbying](http://www.regardscitoyens.org/etude-sur-le-lobbying-au-parlement/)
