@@ -1,0 +1,9 @@
+# Registre des représentants d'intérêts de l'Assemblée nationale
+
+Le [nouveau registre des représentants d'intérêts de l'Assemblée nationale](http://www2.assemblee-nationale.fr/representant/representant_interet_liste) fournit un ensemble d'informations communiquées par souci de transparence par les organisations enregistrées.
+
+Dans un souci d'archive, nous reproduisons sous la forme d'un tableur CSV [les données de l'ancienne version du registre](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-AN-v1-131229.csv) riche de 236 inscrits avant sa suppression le 29 décembre 2013. 
+
+[Regards Citoyens](http://www.regardscitoyens.org)
+
+[Retrouvez nos études et plaidoyers sur l'encadrement du lobbying](http://www.regardscitoyens.org/etude-sur-le-lobbying-au-parlement/)
