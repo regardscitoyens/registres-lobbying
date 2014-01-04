@@ -1,6 +1,7 @@
 #!/bin/bash
 
-rooturl="http://www2.assemblee-nationale.fr/representant/representant_interet_details/"
+rooturl="http://www2.assemblee-nationale.fr/representant/representant_interet_"
+url="${rooturl}liste"
 
 mkdir -p rss
 now=$(date -R)
@@ -21,9 +22,13 @@ cat data/registre-lobbying-AN-v2.csv    |
       sed 's/^0*\([0-9]\+\),.*$/\1/')
     nom=$(echo $line |
       sed 's/^[0-9]\+,"\(\([^"]\+\(""\)\?\)\+\)",.*$/\1/' |
-      sed 's/""/"/g')
+      sed 's/""/"/g' |
+      sed 's/\&/\&nbsp;/g')
+    safenom=$(echo $nom |
+      sed 's/\&nbsp;/\\\&/g' |
+      sed 's/"/""/g')
     orgtype=$(echo $line |
-      sed 's/^[0-9]\+,"'"$nom"'",[^,]*,"\([^"]\+\)",.*$/\1/')
+      sed 's/^[0-9]\+,"'"$safenom"'",[^,]*,"\([^"]\+\)",.*$/\1/')
     dat="2013-12-31"
     if [ "$id" -gt 44 ]; then
       dat="2014-01-03"
@@ -32,13 +37,11 @@ cat data/registre-lobbying-AN-v2.csv    |
     fi
     echo "  <item>
    <title>$nom ($orgtype, nouveau)</title>
-   <link>$rooturl$id</link>
+   <link>${rooturl}details/$id</link>
    <description><![CDATA[Nouvel inscrit au registre le $(date "+%d %b %Y" -d "$dat") : $nom ($orgtype)]]></description>
    <pubDate>$(date -R -d "$dat")</pubDate>
   </item>" >> rss/registre-lobbying-AN.rss
   done
 echo " </channel>
 </rss>" >> rss/registre-lobbying-AN.rss
-
-
 

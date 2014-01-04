@@ -2,9 +2,9 @@
 <rss version="2.0">
  <channel>
   <title>RSS Registre des représentants d'intérêts Assemblée nationale</title>
-  <link></link>
+  <link>http://www2.assemblee-nationale.fr/representant/representant_interet_liste</link>
   <description>Les dernières modifications au registre des représentants d'intérêts de l'Assemblée nationale</description>
-  <pubDate>Sat, 04 Jan 2014 02:19:42 +0100</pubDate>
+  <pubDate>Sat, 04 Jan 2014 02:35:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/regardscitoyens/registre-lobbying-AN</generator>
   <item>
    <title>Associarion Nationale des officiers de Carrière en Retraite (Association, nouveau)</title>
@@ -199,9 +199,9 @@
    <pubDate>Tue, 31 Dec 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
-   <title>FAIRVALUE CORPORATE & PUBLIC AFFAIRS (Cabinets de consultants spécialisés, nouveau)</title>
+   <title>FAIRVALUE CORPORATE &nbsp; PUBLIC AFFAIRS (Cabinets de consultants spécialisés, nouveau)</title>
    <link>http://www2.assemblee-nationale.fr/representant/representant_interet_details/13</link>
-   <description><![CDATA[Nouvel inscrit au registre le 31 déc. 2013 : FAIRVALUE CORPORATE & PUBLIC AFFAIRS (Cabinets de consultants spécialisés)]]></description>
+   <description><![CDATA[Nouvel inscrit au registre le 31 déc. 2013 : FAIRVALUE CORPORATE &nbsp; PUBLIC AFFAIRS (Cabinets de consultants spécialisés)]]></description>
    <pubDate>Tue, 31 Dec 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
