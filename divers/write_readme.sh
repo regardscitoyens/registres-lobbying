@@ -18,7 +18,7 @@ Pour aider l'Assemblée à mieux assurer ce souci de transparence, nous republio
 
 Un total de $total organisations sont inscrites au registre depuis la dernière mise-à-jour le $(date "+%d %B %Y$"), dont :
  + $cabinets agences de lobbying,
- + $prive entreprises
+ + $prive entreprises,
  + $orgas syndicats ou organisations professionnelles,
  + $public organismes publics,
  + $civil organisations de la société civile.

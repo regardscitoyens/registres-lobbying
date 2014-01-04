@@ -78,5 +78,3 @@ if git diff data/registre-lobbying-AN-v2.csv |
   
 fi
 
-
-
