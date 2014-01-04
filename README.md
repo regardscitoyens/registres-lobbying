@@ -6,12 +6,12 @@ Dans un souci d'archive, nous reproduisons sous la forme d'un tableur CSV [les d
 
 Pour aider l'Assemblée à mieux assurer ce souci de transparence, nous republions également les informations publiées sur le nouveau registre sous la forme de données réutilisables [CSV](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-AN-v2.csv) ou [JSON](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-AN-v2.json) sous conditions OpenData ([licence ODBL](http://www.vvlibri.org/fr/licence/odbl/10/fr/legalcode)).
 
-Un total de 45 organisations sont inscrites au registre depuis la dernière mise-à-jour le 04 janvier 2014$, dont :
+Un total de 47 organisations sont inscrites au registre depuis la dernière mise-à-jour le 04 janvier 2014$, dont :
  + 6 agences de lobbying,
- + 12 entreprises
+ + 13 entreprises,
  + 14 syndicats ou organisations professionnelles,
  + 7 organismes publics,
- + 6 organisations de la société civile.
+ + 7 organisations de la société civile.
 
 Les données sont collectées et mises-à-jour en cas de modification toutes les 30 minutes.
 Un [flux RSS](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/rss/registre-lobbying-AN.rss) permet ainsi d'être informé des futures modifications ou ajouts au registre.

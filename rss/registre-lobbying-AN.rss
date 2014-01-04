@@ -4,8 +4,20 @@
   <title>RSS Registre des représentants d'intérêts Assemblée nationale</title>
   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_liste</link>
   <description>Les dernières modifications au registre des représentants d'intérêts de l'Assemblée nationale</description>
-  <pubDate>Sat, 04 Jan 2014 02:35:02 +0100</pubDate>
+  <pubDate>Sat, 04 Jan 2014 04:30:10 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/regardscitoyens/registre-lobbying-AN</generator>
+  <item>
+   <title>GROUPE PROSECURE (Entreprise, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/46</link>
+   <description><![CDATA[Nouvel inscrit au registre le 04 janv. 2014 : GROUPE PROSECURE (Entreprise)]]></description>
+   <pubDate>Sat, 04 Jan 2014 04:30:10 +0100</pubDate>
+  </item>
+  <item>
+   <title>Regards Citoyens (Association, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/47</link>
+   <description><![CDATA[Nouvel inscrit au registre le 04 janv. 2014 : Regards Citoyens (Association)]]></description>
+   <pubDate>Sat, 04 Jan 2014 04:30:10 +0100</pubDate>
+  </item>
   <item>
    <title>Associarion Nationale des officiers de Carrière en Retraite (Association, nouveau)</title>
    <link>http://www2.assemblee-nationale.fr/representant/representant_interet_details/45</link>
