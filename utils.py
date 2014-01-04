@@ -82,7 +82,10 @@ def save_csv(filename, data, keys):
             if k in res and isinstance(res[k], list):
                 res[k] = " - ".join([unicode(va) for va in res[k]])
         flat.append(res)
-    flat.insert(0, {k: k for k in keys})
+    dictk = {}
+    for k in keys:
+        dictk[k] = k
+    flat.insert(0, dictk)
 
     with open(sep.join(['data', '%s.csv' % filename]), 'w') as f:
         for res in flat:
