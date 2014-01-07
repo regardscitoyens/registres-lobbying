@@ -1215,7 +1215,10 @@
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Les collaborateurs du groupe Lafarge s'engagent \u00e0 respecter le Pacte mondial des Nations Unies; la D\u00e9claration de l'ONU sur les peuples autochtones, les principes de l'OCDE sur la gouvernance d'entreprise; et le Code de Conduite des Affaires et la Charte du Lobbying du Groupe Lafarge.", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Industrie", 
   "Cat\u00e9gorie": "Entreprise", 
-  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Arnaud COLSON", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Arnaud COLSON", 
+   "Madame Laur\u00e8ne GUARDIOLA"
+  ], 
   "Dirigeant / personne juridiquement responsable": "Monsieur Pascal CASANOVA (Directeur g\u00e9n\u00e9ral de Lafarge France)", 
   "Statut l\u00e9gal": "Lafarge Services France - SAS", 
   "id": 14, 
@@ -1730,6 +1733,36 @@
    "Sant\u00e9", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac"
   ]
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 200 000 et 250 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/48", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Le Groupe Transdev a adopt\u00e9 un Code \u00e9thique en 2013", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Transports, logistique", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Laurent MAZILLE", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Jean-Marc JANAILLAC (Pr\u00e9sident-Directeur g\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
+  "id": 48, 
+  "Objectif et mission": "Transport public, Mobilit\u00e9 durable", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 95000, 
+  "Budget global": "Entre 7 750 000 et 8 000 000 \u20ac", 
+  "Raison sociale": "Transdev", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 200 000 et 250 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "UITP (union internationale des transports publics) UTP (union des transports publics et ferroviaires fran\u00e7ais) UNSPIC (union nationale des services publics industriels et commerciaux) Institut de la gestion d\u00e9l\u00e9gu\u00e9e Communaut\u00e9 europ\u00e9enne du rail FNTV (f\u00e9d\u00e9ration nationale des transports de voyageurs)", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "32 Boulevard Gallieni 92130 Issy les Moulineaux France", 
+   "(+33) 1 74 34 20 00"
+  ], 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
+  "Site internet": "http://transdev.net", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "auditions \u00e0 la demande des commissions; rendez-vous avec les d\u00e9put\u00e9s et les administrateurs; suivi des travaux parlementaires (ferroviaire, d\u00e9centralisation, transports, fiscalit\u00e9 des entreprises, transposition de directive europ\u00e9enne).", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "Entre 7 750 000 et 8 000 000 \u20ac", 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 35000, 
+   "A l'\u00e9tranger": 60000
+  }
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 

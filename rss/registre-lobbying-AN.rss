@@ -4,8 +4,20 @@
   <title>RSS Registre des représentants d'intérêts Assemblée nationale</title>
   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_liste</link>
   <description>Les dernières modifications au registre des représentants d'intérêts de l'Assemblée nationale</description>
-  <pubDate>Sat, 04 Jan 2014 04:30:10 +0100</pubDate>
+  <pubDate>Tue, 07 Jan 2014 04:30:10 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/regardscitoyens/registre-lobbying-AN</generator>
+  <item>
+   <title>Lafarge France (Entreprise, modifié)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/14</link>
+   <description><![CDATA[Modifications des informations du registre le 07 janv. 2014 : Lafarge France (Entreprise)]]></description>
+   <pubDate>Tue, 07 Jan 2014 04:30:10 +0100</pubDate>
+  </item>
+  <item>
+   <title>Transdev (Entreprise, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/48</link>
+   <description><![CDATA[Nouvel inscrit au registre le 07 janv. 2014 : Transdev (Entreprise)]]></description>
+   <pubDate>Tue, 07 Jan 2014 04:30:10 +0100</pubDate>
+  </item>
   <item>
    <title>GROUPE PROSECURE (Entreprise, nouveau)</title>
    <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/46</link>
