@@ -2130,7 +2130,10 @@
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Le Groupe Transdev a adopt\u00e9 un Code \u00e9thique en 2013", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Transports, logistique", 
   "Cat\u00e9gorie": "Entreprise", 
-  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Laurent MAZILLE", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Laurent MAZILLE", 
+   "Monsieur Michel QUIDORT"
+  ], 
   "Dirigeant / personne juridiquement responsable": "Monsieur Jean-Marc JANAILLAC (Pr\u00e9sident-Directeur g\u00e9n\u00e9ral)", 
   "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
   "id": 48, 
