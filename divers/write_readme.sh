@@ -1,12 +1,12 @@
 #!/bin/bash
 
-regexp='^[0-9]\+,[^,]*,[^,]*,'
+regexp='[^"]*","https\?:\/\/www2\?\.assemblee-nationale\.fr'
 total=$(($(cat data/registre-lobbying-AN-v2.csv | wc -l) - 1))
-civil=$(grep "$regexp\"\(Association\|Organisation non\)" data/registre-lobbying-AN-v2.csv | wc -l)
-cabinets=$(grep "$regexp\"\(Cabinets\|Consultants\)" data/registre-lobbying-AN-v2.csv | wc -l)
-prive=$(grep "$regexp\"Entreprise" data/registre-lobbying-AN-v2.csv | wc -l)
-orgas=$(grep "$regexp\"\(\w*\s*[oO]rganisation pro\|Syndicat\)" data/registre-lobbying-AN-v2.csv | wc -l)
-public=$(grep "$regexp\"\(Autorité\|Organisme\|Secteur\)" data/registre-lobbying-AN-v2.csv | wc -l)
+civil=$(grep ",\"\(Association\|Organisation non\)$regexp" data/registre-lobbying-AN-v2.csv | wc -l)
+cabinets=$(grep ",\"\(Cabinets\|Consultants\)$regexp" data/registre-lobbying-AN-v2.csv | wc -l)
+prive=$(grep ",\"Entreprise$regexp" data/registre-lobbying-AN-v2.csv | wc -l)
+orgas=$(grep ",\"\(\w*\s*[oO]rganisation pro\|Syndicat\)$regexp" data/registre-lobbying-AN-v2.csv | wc -l)
+public=$(grep ",\"\(Autorité\|Organisme\|Secteur\)$regexp" data/registre-lobbying-AN-v2.csv | wc -l)
 
 echo "## Registre des représentants d'intérêts de l'Assemblée nationale
 
