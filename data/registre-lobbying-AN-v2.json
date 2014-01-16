@@ -56,7 +56,7 @@
    2, 
    "Annick PERRIMOND- du BREUIL + sa secr\u00e9taire"
   ], 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "pr\u00e9sentation de la nouvelle organisation et de la gouvernance d'EADS; auditions dans le cadre de la pr\u00e9paration de la loi de programmation militaire/LPM; auditions par les rapporteurs budg\u00e9taires des commissions D\u00e9fense et Finances / PLF 2014; MEC sur les programmes de d\u00e9fense en coop\u00e9ration;auditions des dirigeants du groupe par les commissions des Affaires \u00e9conomiques et de la d\u00e9fense; visites de sites industriels en Ile de France", 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "pr\u00e9sentation de la nouvelle organisation et de la gouvernance d'EADS; auditions dans le cadre de la pr\u00e9paration de la loi de programmation militaire/LPM; auditions par lesrapporteurs budg\u00e9taires des commissions D\u00e9fense et Finances / PLF 2014; MEC surles programmes de d\u00e9fense en coop\u00e9ration;auditions des dirigeants du groupe par les commissions des Affaires \u00e9conomiques et de la d\u00e9fense; visites de sites industriels en Ile de France", 
   "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 52150, 
@@ -125,39 +125,39 @@
   "Site internet": "http://www.anthenor.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 5, 
   "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
-   "Agroalimentaire", 
+   "- Agroalimentaire", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique", 
+   "- Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "B\u00e2timent, travaux publics", 
+   "- B\u00e2timent, travaux publics", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "Banque, Assurance, finances", 
+   "- Banque, Assurance, finances", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "Commerce, distribution", 
+   "- Commerce, distribution", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "Consommation et concurrence", 
+   "- Consommation et concurrence", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "\u00c9nergie, eau", 
+   "- \u00c9nergie, eau", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "Environnement, \u00e9cologie, d\u00e9veloppement durable", 
+   "- Environnement, \u00e9cologie, d\u00e9veloppement durable", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "Fiscalit\u00e9", 
+   "- Fiscalit\u00e9", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "Finances sociales", 
+   "- Finances sociales", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "Immobilier, habitat, logement", 
+   "- Immobilier, habitat, logement", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "Industrie", 
+   "- Industrie", 
    "Entre 50 000 et 100 000 \u20ac", 
-   "Recherche et technologie", 
+   "- Recherche et technologie", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "Sant\u00e9", 
+   "- Sant\u00e9", 
    "Entre 50 000 et 100 000 \u20ac", 
-   "Sport, loisirs, tourisme", 
+   "- Sport, loisirs, tourisme", 
    "Entre 50 000 et 100 000 \u20ac", 
-   "T\u00e9l\u00e9communications", 
+   "- T\u00e9l\u00e9communications", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "Transports, logistique", 
+   "- Transports, logistique", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac"
   ]
  }, 
@@ -173,7 +173,7 @@
    "(+33) 6 76 16 90 46"
   ], 
   "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
-   "Professions lib\u00e9rales", 
+   "- Professions lib\u00e9rales", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac"
   ], 
   "Cat\u00e9gorie": "Cabinets de consultants sp\u00e9cialis\u00e9s", 
@@ -271,7 +271,7 @@
    "Noms des personnes morales membres de l'organisme": "", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes physiques", 
-    "Principalement personnes physiques, salari\u00e9s d'entreprise, \u00e9pargnants et retrait\u00e9s."
+    ", Principalement personnes physiques, salari\u00e9s d'entreprise, \u00e9pargnants et retrait\u00e9s."
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame Marie-Elsa PAQUIN", 
@@ -308,7 +308,7 @@
    "Noms des personnes morales membres de l'organisme": "", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes physiques", 
-    "Personnes physiques uniquement"
+    ", Personnes physiques uniquement"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Francois MATTENS", 
@@ -349,7 +349,8 @@
    "Nombre total d'adh\u00e9rents \"personnes physiques\"": 9000, 
    "Noms des personnes morales membres de l'organisme": "", 
    "Nature juridique des adh\u00e9rents": [
-    "Personnes physiques"
+    "Personnes physiques", 
+    ", aucune"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Jean-Paul Ameilhaud", 
@@ -391,7 +392,7 @@
    "Noms des personnes morales membres de l'organisme": "F\u00e9d\u00e9ration Nationale Bovine, F\u00e9d\u00e9ration Nationale Ovine, Coop de France b\u00e9tail et viandes, F\u00e9d\u00e9ration fran\u00e7aise des commer\u00e7ants en bestiaux, F\u00e9d\u00e9ration fran\u00e7aise des march\u00e9s de b\u00e9tail vif, F\u00e9d\u00e9ration nationale des exploitants d'abattoirs prestataires de service, F\u00e9d\u00e9ration nationale de l'industrie et de commerce en gros de viande, Syndicat national de l'industrie des viandes, FCD Comit\u00e9 m\u00e9tier viande, Conf\u00e9d\u00e9ration fran\u00e7aise de la boucherie, boucherie-charcuterie, traiteurs, F\u00e9d\u00e9ration nationale des groupements d'achat et coop\u00e9ratives de la boucherie-charcuterie fran\u00e7aise, Conf\u00e9d\u00e9ration nationale de la triperie fran\u00e7aise, Comit\u00e9 de coordination des collectivit\u00e9s.", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
-    "F\u00e9d\u00e9rations."
+    ", F\u00e9d\u00e9rations."
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame Marine COLLI", 
@@ -433,7 +434,8 @@
    "Nombre total d'adh\u00e9rents \"personnes physiques\"": 2450, 
    "Noms des personnes morales membres de l'organisme": "", 
    "Nature juridique des adh\u00e9rents": [
-    "Personnes physiques"
+    "Personnes physiques", 
+    ", Sans objet"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
@@ -592,7 +594,11 @@
   "Dirigeant / personne juridiquement responsable": "Monsieur Pascal RIVET (Secr\u00e9taire g\u00e9n\u00e9ral Groupe)", 
   "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
   "id": 16, 
+<<<<<<< HEAD
   "Objectif et mission": "Distribution \u00e0 dominante alimentaire - Vente \u00e0 distance - Distribution de carburant - Restauration collective - Cr\u00e9dit \u00e0 la consommation - Promotion immobili\u00e8re commerciale et fonci\u00e8re", 
+=======
+  "Objectif et mission": "- Distribution \u00e0 dominante alimentaire - Vente \u00e0 distance - Distribution de carburant - Restauration collective- Cr\u00e9dit \u00e0 la consommation - Promotion immobili\u00e8re commerciale et fonci\u00e8re", 
+>>>>>>> bc457a70c65f90903f2fa5734616c26555069f29
   "Acronyme": "GROUPE CASINO", 
   "Nombre de personnes employ\u00e9es par l'organisme": 319700, 
   "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
@@ -624,7 +630,7 @@
    "Noms des personnes morales membres de l'organisme": "AB Mauri, Soci\u00e9t\u00e9 Industrielle Lesaffre, SIL-FALA, Bio-Springer, Lallemand", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
-    "Les adh\u00e9rents de notre syndicat sont les entreprises couvertes par notre concention collective. Ce sont des producteurs de levure."
+    ", Les adh\u00e9rents de notre syndicat sont les entreprises couvertes par notre concention collective. Ce sont des producteurs de levure."
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Emmanuel GUICHARD", 
@@ -655,7 +661,7 @@
    1, 
    "Emmanuel GUICHARD (Secr\u00e9taire G\u00e9n\u00e9ral)"
   ], 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "rencontre avec des parlementaires - pr\u00e9sence dans les tribunes du public"
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "- rencontre avec des parlementaires - pr\u00e9sence dans les tribunes du public"
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "200000", 
@@ -703,7 +709,7 @@
    "Noms des personnes morales membres de l'organisme": "La liste compl\u00e8tes des entreprises adh\u00e9rentes au CNEI est disponible sur notre site internet.", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
-    "Entreprises d'insertion et entreprises de travail temporaire d'insertion, reconnues au titre de l'article L. 5132-4 du Code du Travail et conventionn\u00e9es par l'Etat (DIRECCTE) pour la mission d'insertion aupr\u00e8s des personnes \u00e9loign\u00e9es de l'emploi. Elles sont sous statut associatif, commercial ou coop\u00e9ratif."
+    ", Entreprises d'insertion et entreprises de travail temporaire d'insertion, reconnues au titre de l'article L. 5132-4 du Code du Travail et conventionn\u00e9es par l'Etat (DIRECCTE) pour la mission d'insertion aupr\u00e8s des personnes \u00e9loign\u00e9es de l'emploi. Elles sont sous statut associatif, commercial ou coop\u00e9ratif."
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
@@ -739,7 +745,7 @@
    16, 
    "Kenny Bertonazzi, Pr\u00e9sident Olivier Dupuis, secr\u00e9taire g\u00e9n\u00e9ral Jos\u00e9phine Labroue, charg\u00e9e de mission Potentiellement, les 13 membres du bureau f\u00e9d\u00e9ral, administrateurs du CNEI"
   ], 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Octobre 2012 - Emplois d'avenir : contribution; pr\u00e9sentation des propositions au cours d'une r\u00e9union \u00e0 l'Assembl\u00e9e ; propositions d'amendements - PLF 2013 : contributions \u00e9crites ; auditions ; propositions d'amendements - Avril 2013 : r\u00e9union de travail sur la r\u00e9forme de l'IAE - PLF 2014 : contributions \u00e9crites ; auditions ; propositions d'amendements - Une dizaine de rencontres avec des d\u00e9put\u00e9s \u00e0 l'Assembl\u00e9e - Envoi \u00e0 tous les d\u00e9put\u00e9s d'une carte de voeux, d'un document d'information sur les entreprises d'insertion et des Chiffres cl\u00e9s de la f\u00e9d\u00e9ration - Envoi \u00e0 certains d\u00e9put\u00e9s de notes, de contributions et d'une lettre d'information"
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "- Octobre 2012 - Emplois d'avenir : contribution; pr\u00e9sentation des propositions au cours d'une r\u00e9union \u00e0 l'Assembl\u00e9e ; propositions d'amendements - PLF 2013 : contributions \u00e9crites ; auditions ; propositions d'amendements - Avril 2013 : r\u00e9union de travail sur la r\u00e9forme de l'IAE - PLF 2014 : contributions \u00e9crites ; auditions ; propositions d'amendements - Une dizaine de rencontres avec des d\u00e9put\u00e9s \u00e0 l'Assembl\u00e9e - Envoi \u00e0 tous les d\u00e9put\u00e9s d'une carte de voeux, d'un document d'information sur les entreprises d'insertion et des Chiffres cl\u00e9s de la f\u00e9d\u00e9ration - Envoi \u00e0 certains d\u00e9put\u00e9s de notes, de contributions et d'une lettre d'information"
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
@@ -808,15 +814,15 @@
   "Site internet": "http://www.ddbd.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 4, 
   "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
-   "D\u00e9fense, armement", 
+   "- D\u00e9fense, armement", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "\u00c9nergie, eau", 
+   "- \u00c9nergie, eau", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "Sant\u00e9", 
+   "- Sant\u00e9", 
    "Entre 50 000 et 100 000 \u20ac", 
-   "Sport, loisirs, tourisme", 
+   "- Sport, loisirs, tourisme", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "Transports, logistique", 
+   "- Transports, logistique", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac"
   ]
  }, 
@@ -852,13 +858,13 @@
    "L'\u00e9quipe est constitu\u00e9e de 6 conseillers, et est accompagn\u00e9e d'experts externes, sollicit\u00e9s au cas par cas."
   ], 
   "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
-   "Banque, Assurance, finances", 
+   "- Banque, Assurance, finances", 
    "Entre 50 000 et 100 000 \u20ac", 
-   "Emploi", 
+   "- Emploi", 
    "Entre 50 000 et 100 000 \u20ac", 
-   "Environnement, \u00e9cologie, d\u00e9veloppement durable", 
+   "- Environnement, \u00e9cologie, d\u00e9veloppement durable", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "Sant\u00e9", 
+   "- Sant\u00e9", 
    "Entre 150 000 et 200 000 \u20ac"
   ]
  }, 
@@ -873,7 +879,7 @@
    "Noms des personnes morales membres de l'organisme": "Medef Guadeloupe, MPI Guadeloupe, CGPME Guadeloupe, CCI Guadeloupe, FAPHT, IGUAVIE, Medef Guyane, MPI Guyane, FRBTP Guyane, Medef Nouvelle Cal\u00e9donie, Nouvelle Cal\u00e9donie Economique, CGPME NC, Medef Polyn\u00e9sie, CCI Mayotte, FEABTP St Pierre et Miquelon, Medef Martinique, MPI Martinique, SEBTPAM, ZILEA, SDGA, AMIV, IMAFLOR, Medef R\u00e9union, CGPME R\u00e9union, ADIR, CGMPE R\u00e9union, Interinvest, Bamexport, BRED, CIRT-DOM,CLI, CMA CGM, CODEBAM, ECOFIP, EURODOM, la FCD, Financi\u00e8re Magenta, G\u00e9neris Capital Partners, GIHDOM, GIFOM, Groupe Bernard Hayot, Groupe Casino, Groupe NEL, MARFRET, PROFINA, SDV Outre-mer, SUNZIL, INGEPAR, SBTPC, Air France, SINTORIN, Soci\u00e9t\u00e9 g\u00e9n\u00e9rale.", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
-    "Les MEDEF outre-mer, les CGPME outre-mer, les CCI Outre-mer, les MPI (moyennes et petites industries) des grandes entreprises ayant des int\u00e9r\u00eats outre-mer , les f\u00e9d\u00e9rations du b\u00e2timent"
+    ", Les MEDEF outre-mer, les CGPME outre-mer, les CCI Outre-mer, les MPI (moyennes et petites industries) des grandes entreprises ayant des int\u00e9r\u00eats outre-mer , les f\u00e9d\u00e9rations du b\u00e2timent"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
@@ -919,7 +925,7 @@
    "Noms des personnes morales membres de l'organisme": "La liste des adh\u00e9rents est disponible sur le site internet de FEDEREC", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
-    "Entreprises de toutes tailles (groupes, ETI et TPE/PME)"
+    ", Entreprises de toutes tailles (groupes, ETI et TPE/PME)"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
@@ -963,7 +969,7 @@
    "Noms des personnes morales membres de l'organisme": "BHV Brico D\u00e9p\u00f4t Bricoman Bricomarch\u00e9 / Brico Cash Castorama Cofaq La Bo\u00eete \u00e0 Outils Les Briconautes Leroy Merlin Mr Bricolage / Cat\u00e9na Weldom (+ Ind\u00e9pendants : quelques magasins adh\u00e9rent individuellement).", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
-    "Soit des magasins de Bricolage, soit des enseignes, qui engagent leur r\u00e9seau."
+    ", Soit des magasins de Bricolage, soit des enseignes, qui engagent leur r\u00e9seau."
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
@@ -1009,7 +1015,7 @@
    "Noms des personnes morales membres de l'organisme": "ALDI \u2013 AUCHAN \u2013 BAILLY \u2013 BENSOUSSAN \u2013 BERGAMS \u2013 BOULANGER \u2013 BRUDIS \u2013 BRUNET \u2013 CARCED \u2013 CARREFOUR \u2013 CASINO - CDA - CERCLE VERT - CODIM 2 \u2013 COLRUYT - GROUPE DELHAIZE (CORA/MATCH) - DARTY - DECATHLON - DIA - DIAPAR - DISCOUNTAL - DISTRIBORG - ECOMAG - ELECTRO DEPOT - EUROCASH - FRANCAP - GEDAL - G20 - GALERIES LAFAYETTE - LE DELAS - LIDL - MARKS & SPENCER - MAXIMO - METRO - MIGROS - MONOPRIX - NEGRIER / CAPAL - NICOLAS - NORMA - NOUGEIN - PICARD - PROVENCIA - RALLYE GO SPORT - SCHIEVER - SEGEP - SEGUREL - SO DIS C - SODIBAY - TANG FRERES - TRANSGOURMET", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
-    "Entreprises"
+    ", Entreprises"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
@@ -1054,7 +1060,7 @@
    "Noms des personnes morales membres de l'organisme": "Groupe Point P, Gedimat, Bigmat, Tout Faire, Batiland, Batiman, Nebopan, Accueil, Starmat, Matnor, Mat+, Wolseley, MCD , Chausson, Alteral, Groupamat, Ind\u00e9pendants, France Mat\u00e9riaux, SIG...", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
-    "Entreprises du n\u00e9goce de bois et des mat\u00e9riaux de construction."
+    ", - Entreprises du n\u00e9goce de bois et des mat\u00e9riaux de construction."
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
@@ -1090,7 +1096,7 @@
    85000, 
    "Les entreprises de n\u00e9goce de bois et des mat\u00e9riaux de construction emploient 85 000 salari\u00e9s pour un chiffre d'affaire \u00e9valu\u00e9 en 2013 \u00e0 19 milliards d'euros."
   ], 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Audition par la commission des affaires \u00e9conomiques au sujet du projet de loi Hamon - Audition par un groupe parlementaire sur le repos dominical - Rencontre avec des parlementaires"
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "- Audition par la commission des affaires \u00e9conomiques au sujet du projet de loi Hamon - Audition par un groupe parlementaire sur le repos dominical - Rencontre avec des parlementaires"
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
@@ -1104,7 +1110,7 @@
    "Noms des personnes morales membres de l'organisme": "Se reporter \u00e0 l'annuaire de la F\u00e9d\u00e9ration.", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes physiques Personnes morales", 
-    "Entreprises priv\u00e9es, Collectivit\u00e9s locales."
+    ", Entreprises priv\u00e9es, Collectivit\u00e9s locales."
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
@@ -1148,7 +1154,7 @@
    "Noms des personnes morales membres de l'organisme": "Les principaux : - Syndicat Combustibles & Carburants - Syndicat FF3C Chauffage - Syndicat Station-service - Syndicat des Energies Alternatives - Association des ind\u00e9pendants du P\u00e9trole - Federation des Gaz de p\u00e9trole liqu\u00e9fi\u00e9s - 25 syndicats territoriaux", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
-    "Syndicats sp\u00e9cialis\u00e9s (station-service-distributeurs de fioul domestique-services d\u2019entretien et d\u2019installation thermiques) ; syndicats r\u00e9gionaux de m\u00eame objet"
+    ", Syndicats sp\u00e9cialis\u00e9s (station-service-distributeurs de fioul domestique-services d\u2019entretien et d\u2019installation thermiques) ; syndicats r\u00e9gionaux de m\u00eame objet"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur FREDERIC PLAN", 
@@ -1190,7 +1196,7 @@
    "Noms des personnes morales membres de l'organisme": "Syndicat des masseurs-kin\u00e9sith\u00e9rapeutes de l'Ain (etc.) un par d\u00e9partement environ", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes physiques Personnes morales", 
-    "Syndicats d\u00e9partementaux / associations / masseurs-kin\u00e9sith\u00e9rapeutes"
+    ", Syndicats d\u00e9partementaux / associations / masseurs-kin\u00e9sith\u00e9rapeutes"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Cyrille PERNOT", 
@@ -1230,7 +1236,7 @@
    "Noms des personnes morales membres de l'organisme": "1) SNAD - Syndicat National des Activit\u00e9s du D\u00e9chet 2) GNPMED - Les entrepreneurs de la fili\u00e8re d\u00e9chet 3) SYPREA - Syndicat des Professionnels du Recyclage en Agriculture 4) UPDS - Union Professionnelle des entreprises de la D\u00e9pollution de Sites 5) SYVED - Syndicat pour la Valorisation et l\u2019\u00c9limination des D\u00e9chets 6) SVDU - Syndicat national du traitement et de la Valorisation des D\u00e9chets Urbains 7) SNIDE - Syndicat National des concepteurs et constructeurs des Industries du D\u00e9chet et de l'Environnement 8) FAMAD - Chambre syndicale nationale des Fabricants de Mat\u00e9riels de nettoiement, de collecte et de traitement des D\u00e9chets 9) SN2E - Syndicat National des Bureaux d'Etudes Environnement", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
-    "Notre f\u00e9d\u00e9ration est compos\u00e9e de 9 syndicats repr\u00e9sentant eux-m\u00eames 283 entreprises regroupant environ 61 000 salari\u00e9s."
+    ", Notre f\u00e9d\u00e9ration est compos\u00e9e de 9 syndicats repr\u00e9sentant eux-m\u00eames 283 entreprises regroupant environ 61 000 salari\u00e9s."
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
@@ -1266,7 +1272,7 @@
    4, 
    "Quatre personnes de mani\u00e8re r\u00e9guli\u00e8re et 3 \u00e0 4 personnes sur des sujets plus particuli\u00e8res"
   ], 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Pr\u00e9sentation du projet FNADE pour acc\u00e9l\u00e9rer durablement le d\u00e9veloppement de l'industrie du recyclage et de la valorisation des d\u00e9chets en France - Participation \u00e0 une audition sur les REP"
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "- Pr\u00e9sentation du projet FNADE pour acc\u00e9l\u00e9rer durablement le d\u00e9veloppement de l'industrie du recyclage et de la valorisation des d\u00e9chets en France - Participation \u00e0 une audition sur les REP"
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
@@ -1311,7 +1317,7 @@
    "Noms des personnes morales membres de l'organisme": "Aisne 5 rue Amp\u00e8re BP 20024 02207 BELLEU CEDEX Carmausin 22 rue Raspail BP 81 81400 CARMAUX Ely 33 rue de la Gare 78910 TACOIGNIERES Fert\u00e9-Alais (LFA) 14 C avenue Carnot 91590 CERNY Lassigny (SER) Avenue du Parc ZA de Passel BP 20053 60402 NOYON CEDEX Oise 32 rue des Domeliers BP 70525 60250 COMPIEGNE CEDEX Pithiviers (SICAP) 3 rue du Moulin de la Canne BP 458 45304 PITHIVIERS CEDEX Pr\u00e9cy-Saint-Martin 28 rue Hautefeuille BP 3 10220 PINEY Est 9 avenue du Lac BP 159 75003 VESOUL CEDEX Saint-Martin-De-Londres 158 all\u00e9e des Ecureuils 34982 SAINT-GELY-DU FESC CEDEX Sausseron 16 avenue du Carrouge 95760 VALMONDOIS Somme et du Cambraisis 11 rue de la R\u00e9publique 80240 ROISEL", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
-    "Soci\u00e9t\u00e9s d'Inter\u00eat Collectif Agricole d'Electricit\u00e9"
+    ", Soci\u00e9t\u00e9s d'Inter\u00eat Collectif Agricole d'Electricit\u00e9"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
@@ -1418,7 +1424,7 @@
    "Noms des personnes morales membres de l'organisme": "", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes physiques", 
-    "Membres du Cabinet du Pr\u00e9sident de l'INRA"
+    ", Membres du Cabinet du Pr\u00e9sident de l'INRA"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
@@ -1455,7 +1461,7 @@
    5, 
    "Outre le Pr\u00e9sident-Directeur g\u00e9n\u00e9ral lui-m\u00eame, c'est le cabinet du PDG (4 personnes) qui est charg\u00e9 de repr\u00e9senter les int\u00e9r\u00eats de l'Institut aupr\u00e8s des pouvoirs publics, et notamment du Parlement."
   ], 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "En 2012, l'Institut national de la Recherche agronomique a \u00e9t\u00e9 auditionn\u00e9 \u00e0 six reprises par l'Assembl\u00e9e nationale. Ces auditions se divisent en : - auditions ponctuelles, \u00e0 notre demande ou \u00e0 celle des d\u00e9put\u00e9s : M. Houllier a notamment \u00e9t\u00e9 auditionn\u00e9 par la Commission des Affaires \u00e9conomiques dans le cadre de sa d\u00e9signation comme Pr\u00e9sident de l'INRA (juillet 2012) ; l'INRA a \u00e9galement particip\u00e9 \u00e0 des journ\u00e9es parlementaires th\u00e9matiques (agriculture durable...) et rencontre r\u00e9guli\u00e8rement des groupes d'\u00e9tudes. Signalons enfin que Mme. Marion Guillou, ancienne pr\u00e9sidente de l'INRA, a particip\u00e9 \u00e0 plusieurs rendez-vous du m\u00eame type pendant la fin de son mandat (1er semestre 2012). - auditions r\u00e9currentes : rencontres avec les rapporteurs budg\u00e9taires, pour les programmes loi de finance qui nous concernent, dans le cadre de l'examen du projet de loi de finances. Commissions rencontr\u00e9es : Finances et Affaires \u00e9conomiques. Parall\u00e8lement, notre institut a veill\u00e9 \u00e0 informer les d\u00e9put\u00e9s sur les positions qu'il adoptait vis-\u00e0-vis des principaux textes de loi le concernant. Pour la pr\u00e9sente l\u00e9gislature, citons notamment la loi Enseignement sup\u00e9rieur et Recherche de juillet 2013 ou la loi d'avenir pour l'Agriculture, en cours de discussion."
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "En 2012, l'Institut national de la Recherche agronomique a \u00e9t\u00e9 auditionn\u00e9 \u00e0 six reprises par l'Assembl\u00e9e nationale. Ces auditions se divisent en :- auditions ponctuelles, \u00e0 notre demande ou \u00e0 celle des d\u00e9put\u00e9s : M. Houllier a notamment \u00e9t\u00e9 auditionn\u00e9 par la Commission des Affaires \u00e9conomiques dans le cadre de sa d\u00e9signation comme Pr\u00e9sident de l'INRA (juillet 2012) ; l'INRA a \u00e9galement particip\u00e9 \u00e0 des journ\u00e9es parlementaires th\u00e9matiques (agriculture durable...) et rencontre r\u00e9guli\u00e8rement des groupes d'\u00e9tudes. Signalons enfin que Mme. Marion Guillou, ancienne pr\u00e9sidente de l'INRA, a particip\u00e9 \u00e0 plusieurs rendez-vous du m\u00eame type pendant la fin de son mandat (1er semestre 2012).- auditions r\u00e9currentes : rencontres avec les rapporteurs budg\u00e9taires, pour les programmes loi de finance qui nous concernent, dans le cadre de l'examen du projet de loi de finances. Commissions rencontr\u00e9es : Finances et Affaires \u00e9conomiques.Parall\u00e8lement, notre institut a veill\u00e9 \u00e0 informer les d\u00e9put\u00e9s sur les positions qu'il adoptait vis-\u00e0-vis des principaux textes de loi le concernant. Pour la pr\u00e9sente l\u00e9gislature, citons notamment la loi Enseignement sup\u00e9rieur et Recherche de juillet 2013 ou la loi d'avenir pour l'Agriculture, en cours de discussion."
  }, 
  {
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/7", 
@@ -1475,7 +1481,7 @@
   "Budget global": "", 
   "Acronyme": "JEANTET", 
   "Nombre de personnes employ\u00e9es par l'organisme": 5, 
-  "Information financi\u00e8re compl\u00e9mentaire": "Pr\u00e9visions budg\u00e9taires 2014 dans le domaine d'activit\u00e9 \"professions lib\u00e9rales\" : <50.000\u20ac", 
+  "Information financi\u00e8re compl\u00e9mentaire": "Pr\u00e9visions budg\u00e9taires 2014 dans le domaine d'activit\u00e9 \"professions lib\u00e9rales\" :<50.000\u20ac", 
   "Raison sociale": "JEANTETASSOCIES AARPI", 
   "Nom des clients": "SMALLBUSINESSACT.COM Pr\u00e9sident : Thierry Perret 11-15 rue de la Rochefoucauld 92100 Boulogne-Billancourt", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
@@ -1500,7 +1506,7 @@
    "Noms des personnes morales membres de l'organisme": "Les 23 structures r\u00e9gionales JA, repr\u00e9sentant 50 000 adh\u00e9rents physiques.", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
-    "F\u00e9d\u00e9rations r\u00e9gionales."
+    ", F\u00e9d\u00e9rations r\u00e9gionales."
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
@@ -1650,7 +1656,7 @@
    "Noms des personnes morales membres de l'organisme": "Liste des principales f\u00e9d\u00e9rations adh\u00e9rentes : Association nationale des industries agro-alimentaires (ANIA)/ Comit\u00e9 des constructeurs et fabriquants d'automobiles (CCFA)/ Groupement des industries fran\u00e7aises a\u00e9ronautiques et spatiales (GIFAS)/ F\u00e9d\u00e9ration bancaire fran\u00e7aise (FBF) / F\u00e9d\u00e9ration du commerce et de la distribution (FCD)/ F\u00e9d\u00e9ration des entreprises de la Beaut\u00e9 (FEBEA)/ F\u00e9d\u00e9ration des entreprises de la propret\u00e9 (FEP)/ F\u00e9d\u00e9ration des entreprises de services \u00e0 la personne (FESP)/ F\u00e9d\u00e9ration des industries \u00e9lectriques, \u00e9lectroniques et de la communication (FIEEC)/ F\u00e9d\u00e9ration des industries m\u00e9caniques (FIM)/ F\u00e9d\u00e9ration fran\u00e7aise du b\u00e2timent (FFB)/ F\u00e9d\u00e9ration fran\u00e7aise des soci\u00e9t\u00e9s d'assurance (FFSA)/ F\u00e9d\u00e9ration fran\u00e7aise des t\u00e9l\u00e9coms (FFT)/ F\u00e9d\u00e9ration nationale des travaux publics (FNTP)/ F\u00e9d\u00e9ration de la plasturgie et des composites/ F\u00e9d\u00e9ration Syntec/ Groupement des industries de transport et de logistique (GITL)/ Les entreprises du m\u00e9dicament (LEEM)/ PRISME (travail temporaire)/ Union fran\u00e7aise de l'\u00e9nergie (UFE)/ Union des industries et m\u00e9tiers de la m\u00e9tallurgie (UIMM)/ Union des industries chimiques (UIC)/ Union des industries textile (UIT)", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
-    "F\u00e9d\u00e9rations professionnelles"
+    ", F\u00e9d\u00e9rations professionnelles"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Guillaume RESSOT", 
@@ -1658,7 +1664,7 @@
   "Statut l\u00e9gal": "Association loi 1901", 
   "id": 59, 
   "Objectif et mission": "1\u00b0) Contribuer \u00e0 un dialogue social constructif au niveau national interprofessionnel, dans les entreprises et leurs organisations professionnelles 2\u00b0) D\u00e9finir et faire conna\u00eetre le point de vue des entrepreneurs sur les sujets concernant directement ou indirectement les entreprises, afin qu'elles b\u00e9n\u00e9ficient d'un environnement l\u00e9gislatif et r\u00e9glementaire favorable 3\u00b0) Favoriser la libert\u00e9 d'entreprendre, promouvoir et diffuser l'esprit d'entreprise dans toutes les composantes de la soci\u00e9t\u00e9", 
-  "Information financi\u00e8re compl\u00e9mentaire": "Financement du MEDEF : Cotisations des adh\u00e9rents (63,5 %) Fonds paritaires (34 %) Produits et placements (2,5 %)", 
+  "Information financi\u00e8re compl\u00e9mentaire": "Financement du MEDEF :Cotisations des adh\u00e9rents (63,5 %) Fonds paritaires (34 %) Produits et placements (2,5 %)", 
   "Acronyme": "MEDEF", 
   "Nombre de personnes employ\u00e9es par l'organisme": 187, 
   "Autres sources": {
@@ -1738,9 +1744,9 @@
   "Site internet": "http://www.publicap-conseil.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
   "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
-   "Affaires institutionnelles, vie publique", 
+   "- Affaires institutionnelles, vie publique", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "\u00c9nergie, eau", 
+   "- \u00c9nergie, eau", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac"
   ]
  }, 
@@ -1785,7 +1791,8 @@
    "Nombre total d'adh\u00e9rents \"personnes physiques\"": 11, 
    "Noms des personnes morales membres de l'organisme": "", 
    "Nature juridique des adh\u00e9rents": [
-    "Personnes physiques"
+    "Personnes physiques", 
+    ", N\u00e9ant"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
@@ -1822,7 +1829,7 @@
    11, 
    "Tous les membres du Conseil d'administration"
   ], 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "En 2013, Regards Citoyens s'est investi dans 3 plaidoyers aupr\u00e8s des parlementaires : - \u00e9tablissement d'un registre obligatoire des lobbyistes permettant de tracer les d\u00e9penses et actions des repr\u00e9sentants d'int\u00e9r\u00eats (rencontres vice-pr\u00e9sident et d\u00e9ontologue, propositions lois transparence) ; - conflits d'int\u00e9r\u00eats et d\u00e9ontologie de la vie politique : propositions pour les projets de lois pour la Transparence de la vie Politique ; - ouverture des donn\u00e9es parlementaires, votes, d\u00e9l\u00e9gations, ... L'ensemble des plaidoyers et amendements propos\u00e9s est rendu public \u00e0 tous en ligne \u00e0 l'adresse suivante : http://www.regardscitoyens.org/documents/notes/"
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "En 2013, Regards Citoyens s'est investi dans 3 plaidoyers aupr\u00e8s des parlementaires : - \u00e9tablissement d'un registre obligatoire des lobbyistes permettant de tracer les d\u00e9penses et actions des repr\u00e9sentants d'int\u00e9r\u00eats (rencontres vice-pr\u00e9sident et d\u00e9ontologue, propositions lois transparence) ;- conflits d'int\u00e9r\u00eats et d\u00e9ontologie de la vie politique : propositions pour les projets de lois pour la Transparence de la vie Politique ; - ouverture des donn\u00e9es parlementaires, votes, d\u00e9l\u00e9gations, ... L'ensemble des plaidoyers et amendements propos\u00e9s est rendu public \u00e0 tous en ligne \u00e0 l'adresse suivante : http://www.regardscitoyens.org/documents/notes/"
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
@@ -1882,7 +1889,7 @@
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
   "Site internet": "http://www.saur.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 13000, 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Loi Brottes (aspect tarification sociale) - Rapports parlementaires (Martin, Lesage,...) - Fiscalit\u00e9 locale des Golfs - Mesures d'application du CICE - Conf\u00e9rence environnementale", 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "- Loi Brottes (aspect tarification sociale) - Rapports parlementaires (Martin, Lesage,...) - Fiscalit\u00e9 locale des Golfs - Mesures d'application du CICE- Conf\u00e9rence environnementale", 
   "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 11180, 
@@ -1970,7 +1977,7 @@
    "Noms des personnes morales membres de l'organisme": "", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes physiques", 
-    "individus payant une cotisation annuelle"
+    ", individus payant une cotisation annuelle"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame Elisabeth Ronzier", 
@@ -2013,7 +2020,7 @@
    "Noms des personnes morales membres de l'organisme": "Entreprises membres du Conseil d'Administration d'ASMEP-ETI: - Sisley - Thuasne - Lyreco - TS0 - Henner - Poujoulat - Bel - Bongrain - L'Or\u00e9al - Bic - Exacompta-Clairefontaine - A. Raymond - Fayat - Oddo", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
-    "Entreprises"
+    ", Entreprises"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
@@ -2023,7 +2030,7 @@
   "Dirigeant / personne juridiquement responsable": "Monsieur Alexandre MONTAY (D\u00e9l\u00e9gu\u00e9 G\u00e9n\u00e9ral)", 
   "Statut l\u00e9gal": "Syndicat", 
   "id": 1, 
-  "Objectif et mission": "Faire conna\u00eetre et promouvoir dans le d\u00e9bat public, les 4600 ETI fran\u00e7aises qui constituent des acteurs majeurs de notre \u00e9conomie ; - Porter la voix des ETI aupr\u00e8s des pouvoirs publics et des acteurs institutionnels ; - Proposer des mesures concr\u00e8tes pour garantir la p\u00e9rennit\u00e9 des ETI (notamment patrimoniales) et favoriser un \u00e9cosyst\u00e8me propice \u00e0 leur d\u00e9veloppement. - Garantir les conditions de transmission et de p\u00e9rennit\u00e9 des ETI notamment patrimoniales en d\u00e9fendant les acquis des \u00ab Pactes \u00bb et en faisant des propositions aux pouvoirs publics pour les renforcer; - Am\u00e9liorer l\u2019\u00e9cosyst\u00e8me de comp\u00e9titivit\u00e9 des ETI en promouvant la mise en place, \u00e0 l\u2019instar du Mittelstand allemand, d\u2019une v\u00e9ritable politique publique en faveur de leur d\u00e9veloppement; - Installer durablement la marque ETI dans le paysage institutionnel et le d\u00e9bat public. Capitalisme raisonn\u00e9, investissement de long terme, ancrage territorial et \u00ab Made in France \u00bb, relations sociales souvent sereines\u2026 autant de qualit\u00e9s des ETI qui doivent aujourd\u2019hui \u00eatre mises au service du redressement comp\u00e9titif du site France.", 
+  "Objectif et mission": "- Faire conna\u00eetre et promouvoir dans le d\u00e9bat public, les 4600 ETI fran\u00e7aises qui constituent des acteurs majeurs de notre \u00e9conomie ; - Porter la voix des ETI aupr\u00e8s des pouvoirs publics et des acteurs institutionnels ; - Proposer des mesures concr\u00e8tes pour garantir la p\u00e9rennit\u00e9 des ETI (notamment patrimoniales) et favoriser un \u00e9cosyst\u00e8me propice \u00e0 leur d\u00e9veloppement. - Garantir les conditions de transmission et de p\u00e9rennit\u00e9 des ETI notamment patrimoniales en d\u00e9fendant les acquis des \u00ab Pactes \u00bb et en faisant des propositions aux pouvoirs publics pour les renforcer; - Am\u00e9liorer l\u2019\u00e9cosyst\u00e8me de comp\u00e9titivit\u00e9 des ETI en promouvant la mise en place, \u00e0 l\u2019instar du Mittelstand allemand, d\u2019une v\u00e9ritable politique publique en faveur de leur d\u00e9veloppement; - Installer durablement la marque ETI dans le paysage institutionnel et le d\u00e9bat public. Capitalisme raisonn\u00e9, investissement de long terme, ancrage territorial et \u00ab Made in France \u00bb, relations sociales souvent sereines\u2026 autant de qualit\u00e9s des ETI qui doivent aujourd\u2019hui \u00eatre mises au service du redressement comp\u00e9titif du site France.", 
   "Information financi\u00e8re compl\u00e9mentaire": "", 
   "Acronyme": "ASMEP-ETI", 
   "Nombre de personnes employ\u00e9es par l'organisme": 5, 
@@ -2045,7 +2052,7 @@
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.asmep-eti.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rencontres entre parlementaires et chefs d'entreprises - Information des parlementaires et pistes de propositions - Participation \u00e0 des groupes de travail"
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "- Rencontres entre parlementaires et chefs d'entreprises - Information des parlementaires et pistes de propositions - Participation \u00e0 des groupes de travail"
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
@@ -2058,7 +2065,7 @@
    "Noms des personnes morales membres de l'organisme": "", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes physiques", 
-    "Professionnels lib\u00e9raux"
+    ", Professionnels lib\u00e9raux"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
@@ -2102,7 +2109,7 @@
    "Noms des personnes morales membres de l'organisme": "", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes physiques", 
-    "Les adh\u00e9rents sont tous syndiqu\u00e9s aupr\u00e8s du SNAII-CGT"
+    ", Les adh\u00e9rents sont tous syndiqu\u00e9s aupr\u00e8s du SNAII-CGT"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
@@ -2151,7 +2158,7 @@
    "Noms des personnes morales membres de l'organisme": "", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes physiques", 
-    "Moniteurs de ski des Ecoles du Ski Fran\u00e7ais, travailleurs ind\u00e9pendants"
+    ", Moniteurs de ski des Ecoles du Ski Fran\u00e7ais, travailleurs ind\u00e9pendants"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Gilles CHABERT", 
@@ -2237,13 +2244,13 @@
   "Site internet": "http://www.thomas-legrain-conseil.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
   "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
-   "Gouvernance", 
+   "- Gouvernance", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "Industrie", 
+   "- Industrie", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "Professions lib\u00e9rales", 
+   "- Professions lib\u00e9rales", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-   "Sant\u00e9", 
+   "- Sant\u00e9", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac"
   ]
  }, 
@@ -2292,7 +2299,7 @@
    "Noms des personnes morales membres de l'organisme": "A\u00e9roports de Paris, Association nationale des soci\u00e9t\u00e9s par actions, BNP Paribas, Carrefour, Compagnie nationale des commissaires aux comptes, Conseil sup\u00e9rieur de l'ordre des experts-comptables, Cr\u00e9dit Agricole SA, Cr\u00e9dit mutuel, Ernst and Young France, Essilor, GDF Suez, KPMG France, La Poste, Lafarge, La Fran\u00e7aise des Jeux, Macif gestion, Natixis, ORSE, Service Public 2000, SGS France, Soci\u00e9t\u00e9 g\u00e9n\u00e9rale, Suez Environnement, Tilder, L'Or\u00e9al, Pernod Ricard, H\u00f4tel Cyrnos", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes physiques Personnes morales", 
-    "entreprises, ordres professionnels, associations"
+    ", entreprises, ordres professionnels, associations"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame Myriam Savy", 
@@ -2337,7 +2344,7 @@
    "Noms des personnes morales membres de l'organisme": "Aucune personne morale membre de VAINCRE L'AUTISME", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes physiques", 
-    "Parents de personnes autistes"
+    ", Parents de personnes autistes"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur M'Hammed SAJIDI", 
