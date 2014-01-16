@@ -34,11 +34,11 @@ def clean_html(h):
 
 # Nettoyage des données brutes
 cregexps = [
-    (re.compile(r'\s*<[\s/]*br[\s/]*>\s*'), u' '),
-    (re.compile(r'<[^>]+>'), u''),
+    (re.compile(r'[\s\r\n]*<[\s/]*br[\s/]*>[\s\r\n]*'), u' '),
+    (re.compile(r'\s*<[^>]+>\s*'), u' '),
     (re.compile(r'\s*:\s*$'), u''),
     (re.compile(r'^\s*:\s*'), u''),
-    (re.compile(r'\s\s+'), u''),
+    (re.compile(r'\s+'), u' '),
     (re.compile(r'^\s*'), u''),
     (re.compile(r'\s*$'), u''),
     (re.compile(r'^([\d\s]+)%s\s*(((sup|inf)%srieur\s*%s|Entre)\s*\d+.*%s)?$' % (u'€', u'é', u'à', u'€')), r'\1'),
