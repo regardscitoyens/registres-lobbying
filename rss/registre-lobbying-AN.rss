@@ -4,8 +4,422 @@
   <title>RSS Registre des représentants d'intérêts Assemblée nationale</title>
   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_liste</link>
   <description>Les dernières modifications au registre des représentants d'intérêts de l'Assemblée nationale</description>
-  <pubDate>Thu, 16 Jan 2014 11:30:11 +0100</pubDate>
+  <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/regardscitoyens/registre-lobbying-AN</generator>
+  <item>
+   <title>-<<<<<<< HEAD (-<<<<<<< HEAD, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/-<<<<<<< HEAD</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : -<<<<<<< HEAD (-<<<<<<< HEAD)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>-======= (-=======, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/-=======</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : -======= (-=======)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>AIRBUS Group France (Entreprise, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/26</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : AIRBUS Group France (Entreprise)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29 (->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : ->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29 (->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Anthenor Public Affairs (Cabinets de consultants spécialisés, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/52</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Anthenor Public Affairs (Cabinets de consultants spécialisés)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>ARIEP (Cabinets de consultants spécialisés, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/43</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : ARIEP (Cabinets de consultants spécialisés)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Anthenor Public Affairs (Cabinets de consultants spécialisés, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/52</link>
+   <description><![CDATA[Nouvel inscrit au registre le 16 janv. 2014 : Anthenor Public Affairs (Cabinets de consultants spécialisés)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>ARIEP (Cabinets de consultants spécialisés, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/43</link>
+   <description><![CDATA[Nouvel inscrit au registre le 16 janv. 2014 : ARIEP (Cabinets de consultants spécialisés)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Association française d'épargne et de retraite (Association, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/30</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Association française d'épargne et de retraite (Association)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Association Nationale des Auditeurs Jeunes de l'IHEDN (Association, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/22</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Association Nationale des Auditeurs Jeunes de l'IHEDN (Association)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Association Nationale des officiers de Carrière en Retraite (Association, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/45</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Association Nationale des officiers de Carrière en Retraite (Association)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Association Nationale Interprofessionnelle du Bétail et des Viandes (Autre organisation professionnelle, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/15</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Association Nationale Interprofessionnelle du Bétail et des Viandes (Autre organisation professionnelle)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>ASSOCIATION NATIONALE LE REFUGE (Association, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/12</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : ASSOCIATION NATIONALE LE REFUGE (Association)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Association française d'épargne et de retraite (Association, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/30</link>
+   <description><![CDATA[Nouvel inscrit au registre le 16 janv. 2014 : Association française d'épargne et de retraite (Association)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Association Nationale des Auditeurs Jeunes de l'IHEDN (Association, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/22</link>
+   <description><![CDATA[Nouvel inscrit au registre le 16 janv. 2014 : Association Nationale des Auditeurs Jeunes de l'IHEDN (Association)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Association Nationale des officiers de Carrière en Retraite (Association, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/45</link>
+   <description><![CDATA[Nouvel inscrit au registre le 16 janv. 2014 : Association Nationale des officiers de Carrière en Retraite (Association)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Association Nationale Interprofessionnelle du Bétail et des Viandes (Autre organisation professionnelle, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/15</link>
+   <description><![CDATA[Nouvel inscrit au registre le 16 janv. 2014 : Association Nationale Interprofessionnelle du Bétail et des Viandes (Autre organisation professionnelle)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>ASSOCIATION NATIONALE LE REFUGE (Association, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/12</link>
+   <description><![CDATA[Nouvel inscrit au registre le 16 janv. 2014 : ASSOCIATION NATIONALE LE REFUGE (Association)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>-<<<<<<< HEAD (-<<<<<<< HEAD, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/-<<<<<<< HEAD</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : -<<<<<<< HEAD (-<<<<<<< HEAD)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>-======= (-=======, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/-=======</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : -======= (-=======)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>CASINO GUICHARD PERRACHON (Entreprise, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/16</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : CASINO GUICHARD PERRACHON (Entreprise)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Chambre Syndicale Française de la Levure (Syndicat, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/40</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Chambre Syndicale Française de la Levure (Syndicat)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29 (->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : ->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29 (->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Comité National des Entreprises d'Insertion (Autre organisation professionnelle, modifié)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/17</link>
+   <description><![CDATA[Modifications des informations du registre le 16 janv. 2014 : Comité National des Entreprises d'Insertion (Autre organisation professionnelle)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>-<<<<<<< HEAD (-<<<<<<< HEAD, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/-<<<<<<< HEAD</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : -<<<<<<< HEAD (-<<<<<<< HEAD)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>-======= (-=======, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/-=======</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : -======= (-=======)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Dahan, Dahan-Bitton &nbsp; Dahan, Avocats (Cabinets d'avocats, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/49</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Dahan, Dahan-Bitton &nbsp; Dahan, Avocats (Cabinets d'avocats)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>FAIRVALUE CORPORATE &nbsp; PUBLIC AFFAIRS (Cabinets de consultants spécialisés, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/13</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : FAIRVALUE CORPORATE &nbsp; PUBLIC AFFAIRS (Cabinets de consultants spécialisés)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Fédération des Entreprises d'outre-mer (Organisation professionnelle, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/23</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Fédération des Entreprises d'outre-mer (Organisation professionnelle)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Fédération des Entreprises du Recyclage (Organisation professionnelle, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/54</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Fédération des Entreprises du Recyclage (Organisation professionnelle)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Fédération des magasins de bricolage et de l'aménagement de la maison (Organisation professionnelle, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/61</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Fédération des magasins de bricolage et de l'aménagement de la maison (Organisation professionnelle)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Fédération du Commerce et de la Distribution (Organisation professionnelle, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/32</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Fédération du Commerce et de la Distribution (Organisation professionnelle)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Féderation du Négoce de Bois et des Matériaux de construction (Organisation professionnelle, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/27</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Féderation du Négoce de Bois et des Matériaux de construction (Organisation professionnelle)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Fédération Electricité Autonome Française (Organisation professionnelle, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/10</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Fédération Electricité Autonome Française (Organisation professionnelle)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>FEDERATION FRANCAISE COMBUSTIBLES CARBURANTS CHAUFFAGE (Organisation professionnelle, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/56</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : FEDERATION FRANCAISE COMBUSTIBLES CARBURANTS CHAUFFAGE (Organisation professionnelle)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Fédération française des masseurs-kinésithérapeutes rééducateurs (Syndicat, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/31</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Fédération française des masseurs-kinésithérapeutes rééducateurs (Syndicat)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Fédération nationale des Activités de Dépollution et de l'Environnement (Organisation professionnelle, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/55</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Fédération nationale des Activités de Dépollution et de l'Environnement (Organisation professionnelle)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29 (->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : ->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29 (->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Fédération Nationale des Sociétés d'Intérêt Collectif Agricole d'Electricité (Organisation professionnelle, modifié)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/41</link>
+   <description><![CDATA[Modifications des informations du registre le 16 janv. 2014 : Fédération Nationale des Sociétés d'Intérêt Collectif Agricole d'Electricité (Organisation professionnelle)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>-<<<<<<< HEAD (-<<<<<<< HEAD, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/-<<<<<<< HEAD</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : -<<<<<<< HEAD (-<<<<<<< HEAD)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>-======= (-=======, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/-=======</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : -======= (-=======)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Institut national de la Recherche agronomique (Organisme de recherche, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/8</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Institut national de la Recherche agronomique (Organisme de recherche)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>JEANTETASSOCIES AARPI (Cabinets d'avocats, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/7</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : JEANTETASSOCIES AARPI (Cabinets d'avocats)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Jeunes Agriculteurs (Syndicat, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/20</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Jeunes Agriculteurs (Syndicat)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Keolis (Entreprise, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/6</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Keolis (Entreprise)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>LA POSTE (Entreprise, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/11</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : LA POSTE (Entreprise)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Lafarge France (Entreprise, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/14</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Lafarge France (Entreprise)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Mouvement des entreprises de France (Organisation professionnelle, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/59</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Mouvement des entreprises de France (Organisation professionnelle)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29 (->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : ->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29 (->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>PUBLICAP CONSEIL (Consultants agissant en qualité d'indépendants, modifié)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/3</link>
+   <description><![CDATA[Modifications des informations du registre le 16 janv. 2014 : PUBLICAP CONSEIL (Consultants agissant en qualité d'indépendants)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>-<<<<<<< HEAD (-<<<<<<< HEAD, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/-<<<<<<< HEAD</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : -<<<<<<< HEAD (-<<<<<<< HEAD)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>-======= (-=======, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/-=======</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : -======= (-=======)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Regards Citoyens (Association, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/47</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Regards Citoyens (Association)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29 (->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : ->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29 (->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>SAUR (Entreprise, modifié)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/24</link>
+   <description><![CDATA[Modifications des informations du registre le 16 janv. 2014 : SAUR (Entreprise)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>-<<<<<<< HEAD (-<<<<<<< HEAD, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/-<<<<<<< HEAD</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : -<<<<<<< HEAD (-<<<<<<< HEAD)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>-======= (-=======, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/-=======</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : -======= (-=======)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>SOS homophobie (Association, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/51</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : SOS homophobie (Association)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Syndicat des entreprises de taille intermédiaire et des entreprises patrimoniales (Syndicat, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/1</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Syndicat des entreprises de taille intermédiaire et des entreprises patrimoniales (Syndicat)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Syndicat Français Des Ostéopathes (Syndicat, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/42</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Syndicat Français Des Ostéopathes (Syndicat)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Syndicat National des Auteurs d'Inventions Indépendants-cgt (Syndicat, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/37</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Syndicat National des Auteurs d'Inventions Indépendants-cgt (Syndicat)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>SYNDICAT NATIONAL DES MONITEURS DU SKI FRANCAISSNMSF (Syndicat, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/5</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : SYNDICAT NATIONAL DES MONITEURS DU SKI FRANCAISSNMSF (Syndicat)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>THALES (Entreprise, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/33</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : THALES (Entreprise)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Thomas Legrain Conseil (Cabinets de consultants spécialisés, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/9</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Thomas Legrain Conseil (Cabinets de consultants spécialisés)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29 (->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : ->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29 (->>>>>>> bc457a70c65f90903f2fa5734616c26555069f29)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Transparency International (Organisation non gouvernementale, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/38</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : Transparency International (Organisation non gouvernementale)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>VAINCRE L'AUTISME (Association, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/35</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2014 : VAINCRE L'AUTISME (Association)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>Transparency International (Organisation non gouvernementale, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/38</link>
+   <description><![CDATA[Nouvel inscrit au registre le 16 janv. 2014 : Transparency International (Organisation non gouvernementale)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>VAINCRE L'AUTISME (Association, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/35</link>
+   <description><![CDATA[Nouvel inscrit au registre le 16 janv. 2014 : VAINCRE L'AUTISME (Association)]]></description>
+   <pubDate>Thu, 16 Jan 2014 12:08:11 +0100</pubDate>
+  </item>
   <item>
    <title>AIRBUS Group France (Entreprise, modifié)</title>
    <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/26</link>
