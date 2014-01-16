@@ -73,6 +73,7 @@ def extract_data(text):
             sublevel = False
     return res
 
+re_split_line = re.compile(r'</td> <td[^>]*>', re.I)
 # Télécharge la liste des représentnts et itère dessus
 data = []
 listpage = get_html(url, "liste")
@@ -84,7 +85,7 @@ for line in listpage.split('\n'):
         continue
 
     # Récupère premières infos standard
-    match = line.split('</td> <td>')
+    match = re_split_line.split(line)
     res[u'Raison sociale'] = clean_text(match[0])
     res[u'Catégorie'] = clean_text(match[1])
     res[u'Catégorie'] = cleancateg(res[u'Catégorie'])
