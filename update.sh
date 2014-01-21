@@ -77,8 +77,8 @@ if git diff data/registre-lobbying-AN-v2.csv |
   echo " </channel>
 </rss>" >> rss/registre-lobbying-AN.rss
   ./divers/write_readme.sh
-#  git commit rss/registre-lobbying-AN.rss data/registre-lobbying-AN-v2.* README.md -m "update registre"
-#  git push
+  git commit rss/registre-lobbying-AN.rss data/registre-lobbying-AN-v2.* README.md -m "update registre"
+  git push
   
 fi
 
