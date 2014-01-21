@@ -1221,6 +1221,49 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Apporter un \u00e9clairage compl\u00e9mentaire aux l\u00e9gislateurs dans les domaines relatifs \u00e0 la sant\u00e9 en g\u00e9n\u00e9ral et \u00e0 la masso-kin\u00e9sith\u00e9rapie en particulier. Informer les l\u00e9gislateurs des modifications quant \u00e0 l'exercice de la profession notamment au niveau conventionnel. Attirer l'attention des l\u00e9gislateurs sur les \u00e9ventuels dangers risquant de mettre en p\u00e9ril l'exercice de la profession dans le cadre de l'examen des textes de loi."
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 30 000 et 40 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/62", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Artisanat - Arts et culture - B\u00e2timent, travaux publics - Consommation et concurrence - Droit des soci\u00e9t\u00e9s - \u00c9ducation, enseignement, formation - Emploi - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Handicap - Immobilier, habitat, logement - Recherche et technologie", 
+  "Cat\u00e9gorie": "Organisation professionnelle", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 57000, 
+   "Noms des personnes morales membres de l'organisme": "Ce sont les noms des 57 000 entreprises", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "Entreprises et artisans du B\u00e2timent"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Beno\u00eet VANSTAVEL", 
+   "Madame Klervi LE LEZ"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Bertrand SABLIER (D\u00e9l\u00e9gu\u00e9 G\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "Union de syndicats professionnels (loi de 1884)", 
+  "id": 62, 
+  "Objectif et mission": "Porter la parole et les pr\u00e9occupations des entrepreneurs et artisans du b\u00e2timent au sein du d\u00e9bat public. D\u00e9fendre les int\u00e9r\u00eats de la profession. Aider, accompagner les entreprises dans leur d\u00e9veloppement d'activit\u00e9. Anticiper les \u00e9volutions du secteur, \u00eatre force de proposition.", 
+  "Acronyme": "FFB", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 164, 
+  "Autres sources": {
+   "Dons": "", 
+   "Cotisations des membres": 59151000, 
+   "Autres": "", 
+   "Commercialisation de produits, services": ""
+  }, 
+  "Budget global": 59151000, 
+  "Raison sociale": "FEDERATION FRANCAISE DU B\u00c2TIMENT", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 30 000 et 40 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "La FFB est adh\u00e9rentes \u00e0 la CGPME, au MEDEF et \u00e0 la FIEC (F\u00e9d\u00e9ration de l'industrie europ\u00e9enne de la construction).", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "33 avenue Kl\u00e9ber Cedex 16 75784 PARIS FRANCE", 
+   140695100
+  ], 
+  "Dont financement public": "", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
+  "Site internet": "http://www.ffbatiment.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 10, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Auditions devant les diff\u00e9rentes commissions et rapporteurs (PLF, PLFSS, PJL \"Consommation\", PJL \"ALUR\", PJL \"retraites, PJL \"habilitant le gouvernement \u00e0 prendre des ordonnances dans le secteur de l'urbanisme\") Audiences sollicit\u00e9es aupr\u00e8s des d\u00e9put\u00e9s Participation \u00e0 des tables rondes th\u00e9matiques"
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/55", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Environnement, \u00e9cologie, d\u00e9veloppement durable", 
@@ -1689,7 +1732,8 @@
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
    "Madame Marie Benech", 
    "Madame Judith Matharan", 
-   "Monsieur Bruno Goimier"
+   "Monsieur Bruno Goimier", 
+   "Monsieur Armand Hennon"
   ], 
   "Dirigeant / personne juridiquement responsable": "Monsieur Pierre Pringuet (Directeur G\u00e9n\u00e9ral et Vice-Pr\u00e9sident du Conseil d'Administration)", 
   "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
@@ -1817,7 +1861,7 @@
   ], 
   "Dont financement public": 2570, 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
-  "Site internet": "http://www.regardscitoyens.org", 
+  "Site internet": "http://www.regardscitoyens.org/", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
    11, 
    "Tous les membres du Conseil d'administration"
