@@ -11,6 +11,7 @@ if git diff data/registre-lobbying-AN-v2.csv |
   now=$(date -R)
   dat=$(date "+%d %b %Y")
   id=""
+  action=""
   if test -f rss/registre-lobbying-AN.rss; then
     nl=$(cat rss/registre-lobbying-AN.rss | wc -l)
     tail -n $(($nl - 8)) rss/registre-lobbying-AN.rss |
@@ -28,10 +29,11 @@ if git diff data/registre-lobbying-AN-v2.csv |
   git diff data/registre-lobbying-AN-v2.csv     | 
     grep -v "/data/registre-lobbying-AN-v2.csv" |
     grep "^[-+]"                                |
-    sed "s/^\([-+]\)\(.*\)$/\2;\1/"               |
+    sed "s/^\([-+]\)\(.*\)$/\2;\1/"             |
     sort                                        |
     while read line; do
       oldid=$id
+      oldaction=$action
       action=$(echo $line       |
         sed 's/^.*\([+-]\)$/\1/')
       id=$(echo $line           |
@@ -55,7 +57,7 @@ if git diff data/registre-lobbying-AN-v2.csv |
       esac
       if [ "$id" != "$oldid" ] && [ -f "/tmp/registreitem.tmp" ] ; then
         cat /tmp/registreitem.tmp >> rss/registre-lobbying-AN.rss
-      elif [ "$id" == "$oldid" ] && [ "$action" == "+" ]; then
+      elif [ "$id" == "$oldid" ] && [ "$oldaction" != "$action" ]; then
         desc="Modifications des informations d"
         statut="modifié"
       fi
@@ -75,8 +77,8 @@ if git diff data/registre-lobbying-AN-v2.csv |
   echo " </channel>
 </rss>" >> rss/registre-lobbying-AN.rss
   ./divers/write_readme.sh
-  git commit rss/registre-lobbying-AN.rss data/registre-lobbying-AN-v2.* README.md -m "update registre"
-  git push
+#  git commit rss/registre-lobbying-AN.rss data/registre-lobbying-AN-v2.* README.md -m "update registre"
+#  git push
   
 fi
 
