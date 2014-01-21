@@ -28,21 +28,23 @@ if git diff data/registre-lobbying-AN-v2.csv |
   git diff data/registre-lobbying-AN-v2.csv     | 
     grep -v "/data/registre-lobbying-AN-v2.csv" |
     grep "^[-+]"                                |
+    sed "s/^\([-+]\)\(.*\)$/\2;\1/"               |
+    sort                                        |
     while read line; do
       oldid=$id
-      action=$(echo $line |
-        sed 's/^\([+-]\).*$/\1/')
-      id=$(echo $line |
-        sed 's/^[+-]\([0-9]\+\),.*$/\1/')
-      nom=$(echo $line |
-        sed 's/^[+-][0-9]\+,"\(\([^"]\+\(""\)\?\)\+\)",.*$/\1/' |
-        sed 's/""/"/g' |
+      action=$(echo $line       |
+        sed 's/^.*\([+-]\)$/\1/')
+      id=$(echo $line           |
+        sed 's/^\([0-9]\+\),.*$/\1/')
+      nom=$(echo $line          |
+        sed 's/^[0-9]\+,"\(\([^"]\+\(""\)\?\)\+\)",.*$/\1/' |
+        sed 's/""/"/g'          |
         sed 's/\&/\&nbsp;/g')
-      safenom=$(echo $nom |
-        sed 's/\&nbsp;/\\\&/g' |
+      safenom=$(echo $nom       |
+        sed 's/\&nbsp;/\\\&/g'  |
         sed 's/"/""/g')
-      orgtype=$(echo $line |                                              
-        sed 's/^[+-][0-9]\+,"'"$safenom"'",[^,]*,"\([^"]\+\)",.*$/\1/')
+      orgtype=$(echo $line      |
+        sed 's/^[0-9]\+,"'"$safenom"'",[^,]*,"\([^"]\+\)",.*$/\1/')
       case "$action" in
         "+")
             desc="Nouvel inscrit a"
