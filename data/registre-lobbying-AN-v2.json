@@ -331,10 +331,7 @@
   "Raison sociale": "Association Nationale des Auditeurs Jeunes de l'IHEDN", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "L'ANAJ-IHEDN est membres de l'UNION-IHEDN (F\u00e9d\u00e9ration des association de l'IHEDN)", 
-  "Adresse et t\u00e9l\u00e9phone": [
-   "1 Place Joffre Case 41 75007 Paris France Ecole Militaire - Case 41 - 1 Place Joffre, Paris 7e", 
-   688958058
-  ], 
+  "Adresse et t\u00e9l\u00e9phone": "1 Place Joffre Case 41 75007 Paris France Ecole Militaire - Case 41 - 1 Place Joffre, Paris 7e", 
   "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Site internet": "http://www.anaj-ihedn.org", 
@@ -778,6 +775,37 @@
   }
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/66", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Cr\u00e9dit Agricole SA est engag\u00e9 par sa charte de lobbying : http://credit-agricole.com/Etre-engage-et responsable/FIDES/Deontologie", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Banque, Assurance, finances", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur J\u00e9r\u00f4me BRUNEL", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Jean-Paul CHIFFLET (Directeur G\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "Etablissement de cr\u00e9dit", 
+  "id": 66, 
+  "Objectif et mission": "Organe central du Groupe Cr\u00e9dit Agricole (art. L512-47 et s. du code mon\u00e9taire et financier), Cr\u00e9dit Agricole SA contr\u00f4le \u00e9galement les grandes filiales m\u00e9tiers du Groupe : Cr\u00e9dit Agricole Assurances, Amundi (gestion d'actifs), CA-CIB ( banque de financements et d'investissements), LCL (banque de d\u00e9tail), CA-CF (cr\u00e9dit \u00e0 la consommation), CACEIS (d\u00e9positaire-conservateur)...", 
+  "Acronyme": "CAsa", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 78000, 
+  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Raison sociale": "Cr\u00e9dit Agricole SA", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "F\u00e9d\u00e9ration Bancaire Fran\u00e7aise, F\u00e9d\u00e9ration Fran\u00e7aise des Soci\u00e9t\u00e9s d'Assurances, Association des Soci\u00e9t\u00e9s Financi\u00e8res, Association Fran\u00e7aise des March\u00e9s Financiers, Association Fran\u00e7aise des Professionnels des titres, Paris Europlace, etc.", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "12 place des Etats-Unis 92127 MONTROUGE CEDEX FRANCE", 
+   "(+33) 01 42 23 52 02"
+  ], 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
+  "Site internet": "http://credit-agricole.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 4, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Les activit\u00e9s de repr\u00e9sentation d'int\u00e9r\u00eat de Cr\u00e9dit Agricole SA en 2013 ont plus particuli\u00e8rement \u00e9t\u00e9 orient\u00e9es autour de l'adoption de la loi de s\u00e9paration et de r\u00e9gulation des activit\u00e9s bancaires du 26 juillet 2013 : rencontre avec les rapporteurs (\u00e0 notre initiative ou \u00e0 la leur) et auditions.", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 40000, 
+   "A l'\u00e9tranger": 38000
+  }
+ }, 
+ {
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/49", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Code de D\u00e9ontologie de l'Ordre des Avocats au Barreau de Paris", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agroalimentaire - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - B\u00e2timent, travaux publics - Banque, Assurance, finances - Commerce, distribution - Consommation et concurrence - D\u00e9fense, armement - Droit des soci\u00e9t\u00e9s - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Famille - Gouvernance - Handicap - Justice et affaires int\u00e9rieures - Politique r\u00e9gionale - Professions lib\u00e9rales - Sant\u00e9 - S\u00e9curit\u00e9 - Sport, loisirs, tourisme - Transports, logistique", 
@@ -822,6 +850,69 @@
    "Transports, logistique", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac"
   ]
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/69", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "eBay respecte des r\u00e8gles d\u00e9ontologiques et un code de conduite \u00e9dict\u00e9s au sein du groupe. Une charte \u00e9thique a \u00e9t\u00e9 fix\u00e9e pour les membres de l'association Base.", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame Emmanuelle Garault", 
+  "Dirigeant / personne juridiquement responsable": "Madame Catherine Brel (Repr\u00e9sentant legal / Directrice juridique)", 
+  "Statut l\u00e9gal": "Soci\u00e9t\u00e9 anonyme", 
+  "id": 69, 
+  "Objectif et mission": "Fond\u00e9e en 1995 \u00e0 San Jos\u00e9, ebay permet d'acheter et de vendre dans presque tous les pays du Monde. eBay inc. offre une plateforme de commerce mondial o\u00f9 des marchands de toute taille peuvent proposer leurs produits et un service de paiements gr\u00e2ce \u00e0 sa fili\u00e8re PayPal. PayPal permet une transaction financi\u00e8re en toute s\u00e9curit\u00e9. eBay INC. a une autre filiale en France, Shopping.fr.", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 30125, 
+  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Raison sociale": "eBay.fr", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "eBay/Paypal est membre - de la Fevad, f\u00e9d\u00e9ration du e-commerce et de la vente \u00e0 distance; - de l'ASIC, association des services internet communautaires, - et de l'ACSEL, association de l'\u00e9conomie num\u00e9rique. Emmanuelle Garault est \u00e9galement membre de l'association BASE, association r\u00e9unissant des responsables des affaires institutionnelles en France.", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "21 rue de la Banque 75002 Paris France Le si\u00e8ge du groupe est bas\u00e9 \u00e0 San Jos\u00e9, en Californie, aux Etats-Unis.", 
+   "(+33) 140200176"
+  ], 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://www.ebay.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
+   1, 
+   "Emmanuelle Garault repr\u00e9sente l'ensemble des activit\u00e9s du groupe pr\u00e9sentes en France: eBay.fr, PayPal et Shopping.fr"
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "R\u00e9union de travail avec les d\u00e9put\u00e9s -Participation \u00e0 des auditions", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 125, 
+   "A l'\u00e9tranger": 30000
+  }
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 200 000 et 250 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/64", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "\u00c9ducation, enseignement, formation", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Benjamin CHKROUN", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Benjamin CHKROUN (D\u00e9l\u00e9gu\u00e9 G\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "union de mutuelles \u00e9tudiantes", 
+  "id": 64, 
+  "Objectif et mission": "D\u00e9l\u00e9gation de service public, gestion de la s\u00e9curit\u00e9 sociale \u00e9tudiante, organisme de compl\u00e9mentaire sant\u00e9, acteur de pr\u00e9vention et de promotion de la sant\u00e9.", 
+  "Acronyme": "emeVia", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 3, 
+  "Budget global": "", 
+  "Raison sociale": "emeVia - R\u00e9seau national des mutuelles \u00e9tudiantes de proximit\u00e9", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 200 000 et 250 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "EmeVia regroupe les mutuelles \u00e9tudiantes de proximit\u00e9 suviantes : MEP, SMEREP, SMERRA, SMECO, SMEREB, SMENO, MGEL, VITTAVI, SMERAG, SEM et SMEBA", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "250 rue Saint Jacques 75005 PARIS France", 
+   144183787
+  ], 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
+  "Site internet": "http://emevia.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Pr\u00e9sentation d'une enqu\u00eate sur la sant\u00e9 des \u00e9tudiants notamment les probl\u00e9matiques li\u00e9es \u00e0 'lacc\u00e8s aux soins et aux conduites addictives.", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "", 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 3, 
+   "A l'\u00e9tranger": ""
+  }
  }, 
  {
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/13", 
@@ -1506,6 +1597,64 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "En 2012, l'Institut national de la Recherche agronomique a \u00e9t\u00e9 auditionn\u00e9 \u00e0 six reprises par l'Assembl\u00e9e nationale. Ces auditions se divisent en : - auditions ponctuelles, \u00e0 notre demande ou \u00e0 celle des d\u00e9put\u00e9s : M. Houllier a notamment \u00e9t\u00e9 auditionn\u00e9 par la Commission des Affaires \u00e9conomiques dans le cadre de sa d\u00e9signation comme Pr\u00e9sident de l'INRA (juillet 2012) ; l'INRA a \u00e9galement particip\u00e9 \u00e0 des journ\u00e9es parlementaires th\u00e9matiques (agriculture durable...) et rencontre r\u00e9guli\u00e8rement des groupes d'\u00e9tudes. Signalons enfin que Mme. Marion Guillou, ancienne pr\u00e9sidente de l'INRA, a particip\u00e9 \u00e0 plusieurs rendez-vous du m\u00eame type pendant la fin de son mandat (1er semestre 2012). - auditions r\u00e9currentes : rencontres avec les rapporteurs budg\u00e9taires, pour les programmes loi de finance qui nous concernent, dans le cadre de l'examen du projet de loi de finances. Commissions rencontr\u00e9es : Finances et Affaires \u00e9conomiques. Parall\u00e8lement, notre institut a veill\u00e9 \u00e0 informer les d\u00e9put\u00e9s sur les positions qu'il adoptait vis-\u00e0-vis des principaux textes de loi le concernant. Pour la pr\u00e9sente l\u00e9gislature, citons notamment la loi Enseignement sup\u00e9rieur et Recherche de juillet 2013 ou la loi d'avenir pour l'Agriculture, en cours de discussion."
  }, 
  {
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/63", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Charte de d\u00e9ontologie professionnelle de l'AFCL", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - B\u00e2timent, travaux publics - Banque, Assurance, finances - Budget et finances publiques - Commerce, distribution - Consommation et concurrence - Droit des soci\u00e9t\u00e9s - \u00c9ducation, enseignement, formation - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - H\u00f4tellerie, restauration - Immobilier, habitat, logement - Industrie - Professions lib\u00e9rales - Recherche et technologie - Sant\u00e9 - Sport, loisirs, tourisme - T\u00e9l\u00e9communications - Transports, logistique", 
+  "Cat\u00e9gorie": "Cabinets de consultants sp\u00e9cialis\u00e9s", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Madame Florence MAISEL", 
+   "Monsieur Aristide LUNEAU", 
+   "Monsieur Philippe BAUER", 
+   "Madame Aude CRUSSON", 
+   "Monsieur Aymeric AUDENIS"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Madame Florence MAISEL (Directrice G\u00e9n\u00e9rale)", 
+  "Statut l\u00e9gal": "SAS", 
+  "Objectif et mission": "Interel est un cabinet de conseil international, d\u2019ancrage europ\u00e9en, sp\u00e9cialis\u00e9 dans le lobbying, les affaires publiques et la communication strat\u00e9gique. Nous sommes pr\u00e9sents \u00e0 Paris depuis 1989 et avons des bureaux \u00e0 Bruxelles, Londres, Berlin et Washington. Pionnier dans son secteur \u00e0 Paris, Interel a contribu\u00e9 \u00e0 d\u00e9velopper un m\u00e9tier inspir\u00e9 du professionnalisme anglo-saxon, mais adapt\u00e9 \u00e0 la culture, \u00e0 la tradition politique et au fonctionnement institutionnel fran\u00e7ais. Notre expertise r\u00e9side dans : \u2022 notre connaissance approfondie du fonctionnement de chacune des parties prenantes potentiellement impliqu\u00e9es dans les d\u00e9cisions publiques: monde politique, administrations, entreprises, soci\u00e9t\u00e9 civile, media, opinion publique, etc; \u2022 notre capacit\u00e9 \u00e0 analyser la dynamique des relations entre acteurs ; \u2022 notre capacit\u00e9 \u00e0 d\u00e9velopper les strat\u00e9gies appropri\u00e9es, et \u00e0 mettre en \u0153uvre des plans d'actions concrets. De ce fait, nous permettons \u00e0 nos clients de positionner leurs probl\u00e9matiques de fa\u00e7on optimale, et ainsi de renforcer leurs chances de les voir favorablement prises en compte dans le processus d\u00e9cisionnel.", 
+  "id": 63, 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "Entre 250 000 et 300 000 \u20ac", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 7, 
+  "Budget global": "Entre 250 000 et 300 000 \u20ac", 
+  "Raison sociale": "INTEREL FRANCE", 
+  "Nom des clients": "Acies Consulting Group Blackberry Cresus Comit\u00e9 des Salines de France eCorp Expedia F\u00e9d\u00e9ration Fran\u00e7aise des Tuiles et des Briques GITEP IFP Energies Nouvelles Intel E.Leclerc Macopharma Promotoit Red Bull SCC Union des annonceurs Union des Syndicats des G\u00e9n\u00e9alogistes Professionnels", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 250 000 et 300 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Association Fran\u00e7aise des Conseils en Lobbying (AFCL) dont Florence Maisel est co-fondatrice (1991), et actuellement tr\u00e9sori\u00e8re, et Aristide Luneau, membre depuis 2010.", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "3 Rue de Penthi\u00e8vre 75008 PARIS FRANCE", 
+   145449535
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Participation \u00e0 des auditions aux c\u00f4t\u00e9s de nos clients, dans le cadre de projets de loi (ALUR, PLF, PLFSS, consommation\u2026), de rapports d\u2019informations (\u00e0 l\u2019OPECST sur l\u2019innovation dans le b\u00e2timent, sur les techniques alternatives \u00e0 la fracturation hydraulique\u2026), de groupes de travail (sur la r\u00e9forme du code minier \u00e0 la Commission du d\u00e9veloppement durable, sur le fichier positif \u00e0 la Commission des Affaires Economiques\u2026). Organisation de rendez-vous avec des parlementaires dans leurs bureaux de l\u2019Assembl\u00e9e Nationale ou en circonscription, de d\u00e9jeuners parlementaires et de visites de sites industriels. Envoi de courriers, de rapports, de notes argumentaires, etc.", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://www.interelgroup.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 7, 
+  "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
+   "Agroalimentaire", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "B\u00e2timent, travaux publics", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Banque, Assurance, finances", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Consommation et concurrence", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "\u00c9nergie, eau", 
+   "Entre 50 000 et 100 000 \u20ac", 
+   "Industrie", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Professions lib\u00e9rales", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Recherche et technologie", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Sant\u00e9", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Sport, loisirs, tourisme", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "T\u00e9l\u00e9communications", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac"
+  ]
+ }, 
+ {
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/7", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Jeantet est membre de l'Association des Avocats Lobbyistes et adh\u00e8re \u00e0 son r\u00e8glement interne (http://www.avocats-lobbying.com/Charte-de-deontologie_a28.html). Par ailleurs, les avocats du cabinet sont soumis \u00e0 la d\u00e9ontologie des avocats du Barreau de Paris.", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Agriculture, \u00e9levage, p\u00eache, bois - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Banque, Assurance, finances - Consommation et concurrence - Emploi - \u00c9nergie, eau - Fiscalit\u00e9 - Gouvernance - Presse, \u00e9dition - Professions lib\u00e9rales - Sport, loisirs, tourisme - T\u00e9l\u00e9communications", 
@@ -1686,6 +1835,40 @@
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 5000, 
    "A l'\u00e9tranger": 60000
+  }
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/65", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "MBDA A ELABORE UNE CHARTE ETHIQUE INTERNE DESTINEE A CHACUN DE SES SALARIES.", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "D\u00e9fense, armement", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame PATRICIA CHOLLET", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur ANTOINE BOUVIER (PRESIDENT)", 
+  "Statut l\u00e9gal": "SAS", 
+  "id": 65, 
+  "Objectif et mission": "MBDA EST LE LEADER EUROPEEN DES SYSTEMES DE MISSILES", 
+  "Acronyme": "MBDA", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 9700, 
+  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Raison sociale": "MBDA FRANCE", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "GIFAS - GICAT - GICAN - CIDEF", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "1 AVENUE REAUMUR 92358 LE PLESSIS ROBINSON FRANCE", 
+   "(+33) 1 71 54 10 00"
+  ], 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
+  "Site internet": "http://www.mbda-systems.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
+   1, 
+   "UNE SEULE PERSONNE PARTICIPE AUX ACTIVITES QUI RELEVENT DU CHAMP D'APPLICATION DU REGISTRE DES REPRESENTANTS D'INTERET POUR MBDA."
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "TRAVAUX D'INFORMATION A L'ATTENTION DES ELUS SUR LES PROBLEMATIQUES LIEES A L'INDUSTRIE TRAVAILLANT POUR LA DEFENSE NATIONALE.", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 4500, 
+   "A l'\u00e9tranger": 5200
   }
  }, 
  {
@@ -2377,6 +2560,95 @@
    "Les repr\u00e9sentants de Transparency International France, qui participent, au nom de l'association, \u00e0 des actions de lobbying aupr\u00e8s des d\u00e9put\u00e9s ne sont pas les m\u00eames en fonction du sujet trait\u00e9 (domaines d'expertise sp\u00e9cifiques)."
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Actions dans le cadre des d\u00e9bats parlementaires sur les projets de loi (veille l\u00e9gislative, r\u00e9daction d'argumentaires, auditions, communications): transparence de la vie publique, lutte contre la fraude fiscale et la grande d\u00e9linquance \u00e9conomique et financi\u00e8re, ind\u00e9pendance de l'expertise sanitaire et protection des lanceurs d'alerte, r\u00e9forme de la justice, encadrement du lobbying."
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/67", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Commerce, distribution - Consommation et concurrence - Environnement, \u00e9cologie, d\u00e9veloppement durable - Recherche et technologie", 
+  "Cat\u00e9gorie": "Syndicat", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 130, 
+   "Noms des personnes morales membres de l'organisme": "AGORA AGRIAL AGRI-OBTENTIONS AGRI-SEMENCES ASL LABORATOIRE ASL PRODUCTION ASTERASEEDS SAS BARENBRUG FRANCE BARENBRUG TOURNEUR RECHERCHES BAYER CROPSCIENCE BELLOY MARCEL ET CIE BENOIST SEM BETASEED BFC SEMENCES BOSC & IZARN SEMENCES C.A. CHARENTES ALLIANCE C.A.PRO.GA. LA MEUNIERE CABEP CADS CAPSERVAL CARNEAU FRERES CATROS GERAND CAUSSADE SEMENCES CAVAC CENTRESEM CEREPY CHAMPAGNE PICARDIE SEMENCES CLAUSE COOPAGRI-BRETAGNE / TRISKALIA Coop\u00e9rative Agricole AGRALYS Coop\u00e9rative Agricole ARTERRIS Coop\u00e9rative Agricole TERRENA Coop\u00e9rative DAUPHINOISE Coop\u00e9rative LUR BERRI DE SANGOSSE DELEPLANQUE DLF FRANCE DLF-TRIFOLIUM France DOW AGROSCIENCES DSV France DUCRETTET DURANCE HYBRIDES EMC2 SCA ENDINOR- GRAINES HOQUET ENZA ZADEN EPI DE GASCOGNE EPILOR EPIS SEM ERNEST TURC DISTRIBUTION EURALIS SEMENCES FERTIBERRY SEMENCES FLORIMOND DESPREZ Veuve & Fils FRASEM FRASEMA GAUTIER SEMENCES SAS GAZONS de FRANCE (Les) GEN SEEDS GEOSEM GIE BEJO GIE UNISIGMA GIRERD ET FILS GRAINES BAUMAUX GRAINES VOLTZ GROUPE PROVENCE SERVICES HADEN SEEDS INTERFACE CEREALES JOUFFRAY DRILLAUD JPN RECHERCHES SAS KWS France KWS MA\u00cfS FRANCE LECOUF MAILLET LEDUC & LUBOT LEMAIRE DEFFONTAINES LIMAGRAIN EUROPE LINEA SEMENCES DE LIN LORAS TRANSPAQUE LS PRODUCTION MAISADOUR SEMENCES MAISON FERNAND LEPEUPLE MAISON FLORIMOND DESPREZ MBL LECUREUR Semences MOMONT HENNETTE MONSANTO SAS NORIAP SEMAGRAIN NUNHEMS OBS PANAM FRANCE PIONEER SEMENCES PLAN JARDIN PLAN ORNEMENTAL PROGRAINES PUJOL RADIS ET CAPUCINE RAGT SEMENCES RIJK ZWAAN ROLLY RAOUL SA GRAINES BOCQUET SAATEN UNION France SAKATA VEGETABLE EUROPE SARL ADRIEN MOMONT ET FILS SARL BRARD GRAINES SARL BV International Seeds SCA CEREALIS SECOBRA RECHERCHES SEMENCES DE FRANCE SEMENCES DU SUD SEMENCES LEPEUPLE SEMENTAL SES VANDERHAVE SOUFFLET AGRICULTURE SUD CEREALES SYNGENTA FRANCE SAS TAKII FRANCE SA TECHNISEM TERRE ATLANTIQUE TERRE D'ALLIANCES TERRE DE LIN TETRASEM TOP GREEN / MDG TOP SEMENCE UNEAL UNION DE SEMENCES SELIANCE VALFRANCE VIKIMA FRANCE VILMORIN VILMORIN JARDIN VIVADOUR VIVESCIA", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "Entreprises semenci\u00e8res fran\u00e7aises"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Eric DEVRON", 
+   "Madame H\u00e9l\u00e8ne GUILLOT", 
+   "Madame Isabelle FERRIERE"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Eric DEVRON (Directeur g\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "Association loi 1901", 
+  "id": 67, 
+  "Objectif et mission": "L'UFS, Union Fran\u00e7aise des Semenciers, repr\u00e9sente les entreprises semenci\u00e8res qui op\u00e8rent en France. Elle r\u00e9unit 130 entreprises actives dans la recherche, la production et la commercialisation de semences pour l'agriculture, les jardins et le paysage. L\u2019UFS a pour missions : d'offrir un espace de dialogue pour les entreprises semenci\u00e8res ; d'accompagner les adh\u00e9rents dans les \u00e9volutions techniques, r\u00e8glementaires, environnementales, et ce dans leur diff\u00e9rents m\u00e9tiers ; de repr\u00e9senter les adh\u00e9rents \u00e0 l'\u00e9chelle nationale et internationale ; d'\u00eatre une force de propositions reconnue aupr\u00e8s des pouvoirs publics et des fili\u00e8res agricoles, permettant de faire savoir leurs positions sur les probl\u00e9matiques communes ; de d\u00e9velopper une image valorisante des activit\u00e9s de semenciers, par l'\u00e9ducation et le dialogue avec le public et les m\u00e9dias. L'UFS est riche de la diversit\u00e9 des entreprises, de leurs savoir-faire, de leurs dimensions, de leurs implantations dans toute la France et de leur rayonnement international.", 
+  "Acronyme": "U.F.S", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 12, 
+  "Autres sources": {
+   "Dons": "", 
+   "Cotisations des membres": 2200000, 
+   "Autres": "", 
+   "Commercialisation de produits, services": ""
+  }, 
+  "Budget global": 2200000, 
+  "Raison sociale": "Union Fran\u00e7aise des Semenciers", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "ESA: Association europ\u00e9enne des entreprises semenci\u00e8res ISF: Association internationale des entreprises semenci\u00e8res SAF: Soci\u00e9t\u00e9 des agriculteurs de France FARRE: Forum des Agriculteurs Responsables Respectueux de l'Environnement Club Demeter IBV: Institut des Biotechnologies V\u00e9g\u00e9tales", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "17 Rue du Louvre 75001 PARIS FRANCE", 
+   153009930
+  ], 
+  "Dont financement public": "", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "2012/2013", 
+  "Site internet": "http://www.ufs-semenciers.org/", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": "", 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rendez-vous avec divers d\u00e9put\u00e9s afin de les sensibiliser aux probl\u00e9matiques du secteur semence"
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/68", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - \u00c9ducation, enseignement, formation - Handicap - Professions lib\u00e9rales - Sant\u00e9", 
+  "Cat\u00e9gorie": "Association", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes physiques\"": 15000, 
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 4, 
+   "Noms des personnes morales membres de l'organisme": "Conf\u00e9d\u00e9ration Nationale des Syndicats Dentaires (CNSD) Union des Jeunes Chirurgiens-Dentistes (UJCD) Union Nationale des Etudiants en Chirurgie-Dentaire (UNECD) Groupement des Soci\u00e9t\u00e9s Scientifiques Odonto-Stomatologiques (GSSOS)", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes physiques Personnes morales", 
+    "Chirurgiens-dentistes"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Madame Sophie DARTEVELLE", 
+   "Monsieur Jacques WEMAERE"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Madame Sophie DARTEVELLE (Pr\u00e9sidente)", 
+  "Statut l\u00e9gal": "Association (loi 1901)", 
+  "id": 68, 
+  "Objectif et mission": "Objectif : Placer le chirurgien-dentiste au coeur du parcours sant\u00e9 de chaque Fran\u00e7ais et lui donner la capacit\u00e9 de jouer un r\u00f4le actif de pr\u00e9vention et de promotion de la sant\u00e9 orale et de la sant\u00e9 globale Mission : D\u00e9velopper, animer et coordonner la pr\u00e9vention et la promotion de la sant\u00e9 dans et en dehors du cabinet dentaire par des actions de terrain dans l'environnement des populations cibles et par la formation et l'accompagnement de l'\u00e9quipe dentaire", 
+  "Acronyme": "UFSBD", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 10, 
+  "Autres sources": {
+   "Dons": 1278787, 
+   "Cotisations des membres": 67454, 
+   "Autres": 831546, 
+   "Commercialisation de produits, services": 8500
+  }, 
+  "Budget global": 3332676, 
+  "Raison sociale": "Union Fran\u00e7aise pour la Sant\u00e9 Bucco-Dentaire", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "L'UFSBD est Centre Collaborateur de l'OMS L'UFSBD est membre associ\u00e9 de la plateforme Europ\u00e9enne \"for Better Oral Health in Europe\"", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "7 Mariotte 75017 Paris France", 
+   "(+33) 01 44 90 72 80"
+  ], 
+  "Dont financement public": 1146389, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
+  "Site internet": "http://www.ufsbd.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Pas d'activit\u00e9s"
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
