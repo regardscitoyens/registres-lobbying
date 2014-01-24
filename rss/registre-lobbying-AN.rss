@@ -4,8 +4,20 @@
   <title>RSS Registre des représentants d'intérêts Assemblée nationale</title>
   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_liste</link>
   <description>Les dernières modifications au registre des représentants d'intérêts de l'Assemblée nationale</description>
-  <pubDate>Wed, 22 Jan 2014 04:30:11 +0100</pubDate>
+  <pubDate>Fri, 24 Jan 2014 04:30:10 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/regardscitoyens/registre-lobbying-AN</generator>
+  <item>
+   <title>RTE Réseau de Transport d'Electricité (Entreprise, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/70</link>
+   <description><![CDATA[Nouvel inscrit au registre le 24 janv. 2014 : RTE Réseau de Transport d'Electricité (Entreprise)]]></description>
+   <pubDate>Fri, 24 Jan 2014 04:30:10 +0100</pubDate>
+  </item>
+  <item>
+   <title>SYNDICAT DES OPTICIENS ENTREPRENEURS (Organisation professionnelle, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/71</link>
+   <description><![CDATA[Nouvel inscrit au registre le 24 janv. 2014 : SYNDICAT DES OPTICIENS ENTREPRENEURS (Organisation professionnelle)]]></description>
+   <pubDate>Fri, 24 Jan 2014 04:30:10 +0100</pubDate>
+  </item>
   <item>
    <title>Association Nationale des Auditeurs Jeunes de l'IHEDN (Association, modifié)</title>
    <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/22</link>

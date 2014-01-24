@@ -2093,6 +2093,39 @@
   }
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 100 000 et 150 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/70", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "\u00c9nergie, eau - Industrie - T\u00e9l\u00e9communications", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur St\u00e9phane Coss\u00e9", 
+   "Madame G\u00e9raldine Higel"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Dominique Maillard (Pr\u00e9sident du Directoire)", 
+  "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
+  "id": 70, 
+  "Objectif et mission": "RTE est une entreprise de service. Notre mission fondamentale est d\u2019assurer \u00e0 tous nos clients l\u2019acc\u00e8s \u00e0 une alimentation \u00e9lectrique \u00e9conomique, s\u00fbre et propre. RTE connecte ses clients par une infrastructure adapt\u00e9e et leur fournit tous les outils et services qui leur permettent d\u2019en tirer parti pour r\u00e9pondre \u00e0 leurs besoins, dans un souci d\u2019efficacit\u00e9 \u00e9conomique, de respect de l\u2019environnement et de s\u00e9curit\u00e9 d\u2019approvisionnement en \u00e9nergie. A cet effet, RTE exploite, maintient et d\u00e9veloppe le r\u00e9seau haute et tr\u00e8s haute tension. Il est garant du bon fonctionnement et de la s\u00fbret\u00e9 du syst\u00e8me \u00e9lectrique. RTE achemine l\u2019\u00e9lectricit\u00e9 entre les fournisseurs d\u2019\u00e9lectricit\u00e9 (fran\u00e7ais et europ\u00e9ens) et les consommateurs, qu\u2019ils soient distributeurs d\u2019\u00e9lectricit\u00e9 ou industriels directement raccord\u00e9s au r\u00e9seau de transport. Avec 100 000 km de lignes comprises entre 63 000 et 400 000 volts et 46 lignes transfrontali\u00e8res, le r\u00e9seau g\u00e9r\u00e9 par RTE est le plus important d'Europe.", 
+  "Acronyme": "RTE", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 8415, 
+  "Budget global": 4529000000, 
+  "Raison sociale": "RTE R\u00e9seau de Transport d'Electricit\u00e9", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 100 000 et 150 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Membre de l'Union Fran\u00e7aise d'Electricit\u00e9 (UFE), de l'Association des Gestionnaires de R\u00e9seaux de Tranport d'\u00e9lectricit\u00e9 europ\u00e9ens (ENTSO-E), et de l'Association des grands Gestionnaires de R\u00e9seaux de Transport d'\u00e9lectricit\u00e9 mondiaux (Grid Operator-15).", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "1 Terrasse Bellini 92919 La D\u00e9fense Cedex France", 
+   "(+33) 1 79 24 80 00"
+  ], 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
+  "Site internet": "http://www.rte-france.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Projet de loi portant diverses dispositions d'adaptation au droit de l'Union europ\u00e9enne en mati\u00e8re de d\u00e9veloppement durable Projet de loi d\u2019habilitation du gouvernement \u00e0 simplifier et s\u00e9curiser la vie des entreprises Proposition de loi de Fran\u00e7ois Brottes de transition vers un syst\u00e8me \u00e9nerg\u00e9tique sobre, tarification de l\u2019eau et \u00e9oliennes", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": 4529000000, 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 8400, 
+   "A l'\u00e9tranger": 15
+  }
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/24", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Code bonne conduite de l'Assembl\u00e9e Nationale et du S\u00e9nat", 
@@ -2280,6 +2313,50 @@
   "Site internet": "http://www.asmep-eti.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rencontres entre parlementaires et chefs d'entreprises - Information des parlementaires et pistes de propositions - Participation \u00e0 des groupes de travail"
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 30 000 et 40 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/71", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Commerce, distribution - Sant\u00e9", 
+  "Cat\u00e9gorie": "Organisation professionnelle", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes physiques\"": 2720, 
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 5, 
+   "Noms des personnes morales membres de l'organisme": "ACUITIS SA ; KRYS GROUP ; GROUPE OPTIC 2000 ; OPTISSIMO ; OPTICIENS CONSEILS", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes physiques Personnes morales", 
+    "LES GROUPEMENTS D'OPTIQUE LUNETTERIE (ACUITIS, KRYS GROUP, GROUPE OPTIC 2000-LISSAC, OPTISSIMO, OPTICIENS CONSEILS) ; LES OPTICIENS GERANTS DE LEUR MAGASINS D'OPTIQUE"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur CHRISTIAN ROMEAS", 
+   "Madame ALEXANDRA DUVAUCHELLE"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur CHRISTIAN ROMEAS (PRESIDENT)", 
+  "Statut l\u00e9gal": "SYNDICAT PROFESSIONNEL LOI 1884", 
+  "id": 71, 
+  "Objectif et mission": "VALORISATION ET DEFENSE DE LA PROFESSION AUPRES DES POUVOIRS PUBLICS, NEGOCIATION CONVENTIONNELLE, FAVORISER L'EVOLUTION ET LES ECHANGES PROFESSIONNELS ETC ...", 
+  "Acronyme": "SYNOPE", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 2, 
+  "Autres sources": {
+   "Dons": "", 
+   "Cotisations des membres": 400000, 
+   "Autres": 50000, 
+   "Commercialisation de produits, services": 50000
+  }, 
+  "Budget global": 500000, 
+  "Raison sociale": "SYNDICAT DES OPTICIENS ENTREPRENEURS", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 30 000 et 40 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "le synope adh\u00e8re au CDCF (Conseil du commerce de France), au Medef, \u00e0 l'ASNAV (Association Nationale pour l'am\u00e9lioration de la vue), au CIO (Conseil interprofessionnel de l'optique).", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "10 RUE AUDUBON 75012 PARIS FRANCE", 
+   146280100
+  ], 
+  "Dont financement public": "", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
+  "Site internet": "http://www.synope.org", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "SOLLICITATION ET INTERPELLATION DES PARLEMENTAIRES SUR DES PROJETS OU PROPOSITIONS DE LOI POUR L'EVOLUTION DE LA PROFESSION D'OPTICIEN,, RENCONTRES MULTIPLES, COMMUNICATION SUR LE PROJET DU SYNOPE POUR L'EVOLUTION DE LA PROFESSION"
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
