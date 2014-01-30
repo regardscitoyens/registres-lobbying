@@ -4,8 +4,14 @@
   <title>RSS Registre des représentants d'intérêts Assemblée nationale</title>
   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_liste</link>
   <description>Les dernières modifications au registre des représentants d'intérêts de l'Assemblée nationale</description>
-  <pubDate>Sat, 25 Jan 2014 04:30:13 +0100</pubDate>
+  <pubDate>Thu, 30 Jan 2014 04:30:10 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/regardscitoyens/registre-lobbying-AN</generator>
+  <item>
+   <title>Société Nationale des Chemins de Fer Français (Entreprise, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/73</link>
+   <description><![CDATA[Nouvel inscrit au registre le 30 janv. 2014 : Société Nationale des Chemins de Fer Français (Entreprise)]]></description>
+   <pubDate>Thu, 30 Jan 2014 04:30:10 +0100</pubDate>
+  </item>
   <item>
    <title>Assemblée permanente des chambres d'agriculture (Organisme public, nouveau)</title>
    <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/72</link>
