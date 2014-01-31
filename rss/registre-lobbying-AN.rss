@@ -4,8 +4,20 @@
   <title>RSS Registre des représentants d'intérêts Assemblée nationale</title>
   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_liste</link>
   <description>Les dernières modifications au registre des représentants d'intérêts de l'Assemblée nationale</description>
-  <pubDate>Thu, 30 Jan 2014 04:30:10 +0100</pubDate>
+  <pubDate>Fri, 31 Jan 2014 04:30:11 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/regardscitoyens/registre-lobbying-AN</generator>
+  <item>
+   <title>SAFRAN SA (Entreprise, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/74</link>
+   <description><![CDATA[Nouvel inscrit au registre le 31 janv. 2014 : SAFRAN SA (Entreprise)]]></description>
+   <pubDate>Fri, 31 Jan 2014 04:30:11 +0100</pubDate>
+  </item>
+  <item>
+   <title>FEDERATION DU NEGOCE AGRICOLE (Syndicat, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/75</link>
+   <description><![CDATA[Nouvel inscrit au registre le 31 janv. 2014 : FEDERATION DU NEGOCE AGRICOLE (Syndicat)]]></description>
+   <pubDate>Fri, 31 Jan 2014 04:30:11 +0100</pubDate>
+  </item>
   <item>
    <title>Société Nationale des Chemins de Fer Français (Entreprise, nouveau)</title>
    <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/73</link>
