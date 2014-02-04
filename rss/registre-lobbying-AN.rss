@@ -4,8 +4,14 @@
   <title>RSS Registre des représentants d'intérêts Assemblée nationale</title>
   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_liste</link>
   <description>Les dernières modifications au registre des représentants d'intérêts de l'Assemblée nationale</description>
-  <pubDate>Fri, 31 Jan 2014 04:30:11 +0100</pubDate>
+  <pubDate>Tue, 04 Feb 2014 04:30:11 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/regardscitoyens/registre-lobbying-AN</generator>
+  <item>
+   <title>BNP PARIBAS (Entreprise, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/76</link>
+   <description><![CDATA[Nouvel inscrit au registre le 04 févr. 2014 : BNP PARIBAS (Entreprise)]]></description>
+   <pubDate>Tue, 04 Feb 2014 04:30:11 +0100</pubDate>
+  </item>
   <item>
    <title>SAFRAN SA (Entreprise, nouveau)</title>
    <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/74</link>
