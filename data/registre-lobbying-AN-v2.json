@@ -817,7 +817,10 @@
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Adh\u00e9rents \u00e0 l'ARPP qui a d\u00e9velopp\u00e9 et publi\u00e9 ses r\u00e8gles de d\u00e9ontologie.", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Agriculture, \u00e9levage, p\u00eache, bois - Artisanat - Banque, Assurance, finances - Budget et finances publiques - Commerce, distribution - Consommation et concurrence - Immobilier, habitat, logement", 
   "Cat\u00e9gorie": "Entreprise", 
-  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Philippe MORVAN", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Philippe MORVAN", 
+   "Monsieur G\u00e9rard LESEUL"
+  ], 
   "Dirigeant / personne juridiquement responsable": "Monsieur Alain FRADIN (Directeur G\u00e9n\u00e9ral)", 
   "Statut l\u00e9gal": "Association", 
   "id": 58, 
@@ -1222,7 +1225,10 @@
     "PME fran\u00e7aises du N\u00e9goce agricole assurant le conseil-distribution d'agrofourniture (phytosanitaire, fertilisant, semences, aliments du b\u00e9tail) et la premi\u00e8re commercialisation des grains"
    ]
   }, 
-  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur SEBASTIEN PICARDAT-POUPARDIN", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur SEBASTIEN PICARDAT-POUPARDIN", 
+   "Madame NATACHA ALAUX"
+  ], 
   "Dirigeant / personne juridiquement responsable": "Monsieur FREDERIC CARRE (PRESIDENT)", 
   "Statut l\u00e9gal": "Syndicat professionnel Loi 1884", 
   "id": 75, 
@@ -1764,6 +1770,47 @@
    "T\u00e9l\u00e9communications", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac"
   ]
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/78", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Engagement dans le cadre du Code de Conduite et des instructions du Bureau du S\u00e9nat des repr\u00e9sentants des groupes d'int\u00e9r\u00eats", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Budget et finances publiques - Collectivit\u00e9s locales - Coop\u00e9ration et D\u00e9veloppement - \u00c9ducation, enseignement, formation - Emploi - Gouvernance - Jeunesse - Politique r\u00e9gionale - Transports, logistique", 
+  "Cat\u00e9gorie": "Syndicat", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes physiques\"": 70, 
+   "Noms des personnes morales membres de l'organisme": "", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes physiques"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur CHRISTOPHE GERME", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur CHRISTOPHE GERME ( COORDINATEUR NATIONAL)", 
+  "Statut l\u00e9gal": "SYNDICAT", 
+  "id": 78, 
+  "Objectif et mission": "Promouvoir et d\u00e9fendre les int\u00e9r\u00eats des Outre-mer Conseiller les parlementaires sur les projets ou les propositions de loi au regard des statuts sp\u00e9cifiques des outre-mer notamment au regard du r\u00e9gime l\u00e9gislatif et r\u00e9glementaire applicable dans les collectivit\u00e9s d'outre-mer de l'article 73 de la Constitution. Apporter une assistance notamment au niveau du droit du travail, de l'emploi, de la formation professionnelle et de la mobilit\u00e9.", 
+  "Information financi\u00e8re compl\u00e9mentaire": "", 
+  "Acronyme": "LADOM", 
+  "Nombre de personnes employ\u00e9es par l'organisme": "", 
+  "Autres sources": {
+   "Dons": 2200, 
+   "Cotisations des membres": 800, 
+   "Autres": "", 
+   "Commercialisation de produits, services": ""
+  }, 
+  "Budget global": 3000, 
+  "Raison sociale": "INTERSYNDICALE LADOM", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "28 RUE PRINCIPALE 59470 BAMBECQUE FRANCE", 
+   "03.28.04.05.02"
+  ], 
+  "Dont financement public": "", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
+  "Site internet": "http://N\u00e9ant - en cours d'\u00e9laboration", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Repr\u00e9sentant de groupes d'int\u00e9r\u00eat au S\u00e9nat depuis 2011 - Interventions aupr\u00e8s de la D\u00e9l\u00e9gation de l'Assembl\u00e9e nationale aux outre-mer - Travail l\u00e9gistique dans le cadre des PLF depuis 2008 - Conseils sur les lois sp\u00e9cifiques des Outre-mer notamment la LODEOM (LOI n\u00b0 2009-594 du 27 mai 2009 pour le d\u00e9veloppement \u00e9conomique des outre-mer) - Interventions dans le cadre des lois de d\u00e9centralisation et sur la formation professionnelle - D\u00e9fense des int\u00e9r\u00eats de LADOM, de la Mobilit\u00e9 et des dispositifs li\u00e9s \u00e0 la jeunesse des Outre-mer. Rencontres des parlementaires."
  }, 
  {
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/7", 
@@ -2444,6 +2491,86 @@
    "En plus de la pr\u00e9sidente, les cinq personnes sont des b\u00e9n\u00e9voles de l'association qui se consacrent au suivi des activit\u00e9s de l'Assembl\u00e9e."
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rencontre avec des parlementaires, participation \u00e0 des auditions, envoi de contributions, pr\u00e9sence dans les tribunes du public."
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 40 000 et 50 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/79", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Code de conduite interne", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Collectivit\u00e9s locales - Consommation et concurrence - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Hugues d'Antin", 
+   "Monsieur Igor Semo", 
+   "Monsieur Didier Imbert", 
+   "Monsieur Philippe Trotin", 
+   "Monsieur Benjamin Ferniot"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Jean-Louis Chaussade (Directeur G\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
+  "id": 79, 
+  "Objectif et mission": "Gestion de l'eau de l'assainissement et des d\u00e9chets.", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 79549, 
+  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Raison sociale": "SUEZ ENVIRONNEMENT", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 40 000 et 50 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "SUEZ ENVIRONNEMENT membre du MEDEF et de l'AFEP , Lyonnaise des Eaux membre de la FP2E, SITA France membre de la FNADE, DEGREMONT membre de SYNTEAU, SAFEGE membre de SYNTEC Ing\u00e9nierie", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "Tour CB21 16 Place de l'Iris 92040 PARIS LA DEFENSE FRANCE", 
+   "(+33) 1 58 81 20 00"
+  ], 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
+  "Site internet": "http://www.suez-environnement.fr/", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 10, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Projet de loi de finances 2014, Projet de loi MAPAM, missions d'information diverses.", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 34776, 
+   "A l'\u00e9tranger": 44773
+  }
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/77", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Transports, logistique", 
+  "Cat\u00e9gorie": "Organisation professionnelle", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 10, 
+   "Noms des personnes morales membres de l'organisme": "AIR AUSTRAL ; AIGLE AZUR ; AIR CARAIBES ; AIR CORSICA ; AIR MEDITERRANEE ; AIR SAINT PIERRE ; ATLANTIQUE AIR ASSISTANCE ; CORSAIR ; EUROPE AIRPOST ; XL AIRWAYS.", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "Entreprises (compagnies a\u00e9riennes)"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Jean Pierre BES", 
+   "Monsieur Bertrand MOINE"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Jean Pierre BES (Secr\u00e9taire G\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "Association", 
+  "id": 77, 
+  "Objectif et mission": "Le SCARA repr\u00e9sente une dizaine de compagnies a\u00e9riennes fran\u00e7aises. Nous repr\u00e9sentons 7300 emplois et 2,8 milliards d'euros de chiffre d'affaires. Le SCARA est reconnu repr\u00e9sentatif au niveau national depuis 1995.", 
+  "Information financi\u00e8re compl\u00e9mentaire": "", 
+  "Acronyme": "SCARA", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 5, 
+  "Autres sources": {
+   "Dons": "", 
+   "Autres": "", 
+   "Commercialisation de produits, services": ""
+  }, 
+  "Budget global": 361762, 
+  "Raison sociale": "Syndicat des Compagnies A\u00e9riennes Autonomes", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "22 B\u00e9nard 75014 Paris France Aucun", 
+   666912575
+  ], 
+  "Dont financement public": "", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://www.scara.aero", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": ""
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
