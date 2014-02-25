@@ -1107,7 +1107,10 @@
     "Entreprises"
    ]
   }, 
-  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame S\u00e9verine de Compreignac", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Madame S\u00e9verine de Compreignac", 
+   "Madame Toullec-Marquot"
+  ], 
   "Dirigeant / personne juridiquement responsable": "Madame Marie-Anne Barbat-Layani (Directrice g\u00e9n\u00e9rale)", 
   "Statut l\u00e9gal": "Association", 
   "id": 80, 
