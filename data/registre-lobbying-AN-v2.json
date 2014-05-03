@@ -925,6 +925,39 @@
   ]
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/120", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Code \u00e9thique Groupe Auchan", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Agroalimentaire - Commerce, distribution - Consommation et concurrence - Emploi - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Transports, logistique", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Franck Geretzhuber", 
+   "Madame Anne-Virginie Dissard", 
+   "Monsieur Paul Hugo"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Arnaud Mulliez (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
+  "id": 120, 
+  "Objectif et mission": "Distribution alimentaire et non alimentaire e-commerce Urbanisme commercial Activit\u00e9 bancaire", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 354000, 
+  "Budget global": 16800000000, 
+  "Raison sociale": "Auchan France", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "FCD", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "40 Avenue de Flandre 59170 Croix France", 
+   "(+33) 320816800"
+  ], 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 52000, 
+   "A l'\u00e9tranger": 302000
+  }, 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rendez-vous institutionnels avec des D\u00e9put\u00e9s", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": 16800000000
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "155628", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/25", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "MMe BENSAID - COHEN est membre de l'ARPP (Association professionnelle des responsables avec les pouvoirs publics)", 
@@ -1562,6 +1595,139 @@
   }
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/125", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Finances sociales - Sant\u00e9", 
+  "Cat\u00e9gorie": "Organisation professionnelle", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes physiques\"": 74000, 
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 8500, 
+   "Noms des personnes morales membres de l'organisme": "soci\u00e9t\u00e9s exploitant des pharmacies et des laboratoires de biologie m\u00e9dicale", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes physiques Personnes morales", 
+    "pharmaciens et soci\u00e9t\u00e9s exploitant des pharmacies ou des laboratoires de biologie m\u00e9dicale"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Jean-Charles ROCHARD", 
+   "Madame H\u00e9l\u00e8ne LEBLANC"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Madame Isabelle ADENOT (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "organisme priv\u00e9 avec d\u00e9l\u00e9gation de missions de service public", 
+  "id": 125, 
+  "Objectif et mission": "L'Ordre national des pharmaciens est l'institution qui regroupe tous les pharmaciens exer\u00e7ant leur art en France. Il est charg\u00e9 par la loi de remplir des missions de service public (article L 4231-1 du code de la sant\u00e9 publique): assurer le respect des devoirs professionnels, assurer la d\u00e9fense de l\u2019honneur et de l\u2019ind\u00e9pendance de la profession, veiller \u00e0 la comp\u00e9tence des pharmaciens, contribuer \u00e0 promouvoir la sant\u00e9 publique et la qualit\u00e9 des soins, notamment la s\u00e9curit\u00e9 des actes professionnel.", 
+  "Acronyme": "CNOP", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 200, 
+  "Autres sources": {
+   "Dons": "", 
+   "Cotisations des membres": 33500000, 
+   "Autres": 600000, 
+   "Commercialisation de produits, services": 800000
+  }, 
+  "Budget global": 35000000, 
+  "Raison sociale": "Conseil National de l'Ordre des Pharmaciens", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Comit\u00e9 de liaison inter-ordres (association r\u00e9unissant 16 Ordres)", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "4 avenue Ruysda\u00ebl 75379 Paris cedex 08 France", 
+   156213434
+  ], 
+  "Dont financement public": "", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "2012-2013", 
+  "Site internet": "http://www.ordre.pharmacien.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "auditions dans le cadre de la pr\u00e9paration de textes l\u00e9gislatifs ou de missions d'information (loi de financement de la s\u00e9curit\u00e9 sociale, loi de finances, r\u00e9forme de la biologie m\u00e9dicale, mission d'information sur la permanence des soins)."
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/124", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Budget et finances publiques - Consommation et concurrence - Droit des soci\u00e9t\u00e9s - \u00c9ducation, enseignement, formation - Emploi - Environnement, \u00e9cologie, d\u00e9veloppement durable - Famille - Fiscalit\u00e9 - Justice et affaires int\u00e9rieures - Professions lib\u00e9rales", 
+  "Cat\u00e9gorie": "Organisation professionnelle", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes physiques\"": 60000, 
+   "Noms des personnes morales membres de l'organisme": "", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes physiques", 
+    "avocats"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Madame Fran\u00e7oise LOUIS-TREFOURET", 
+   "Monsieur Jacques-Edouard BRIAND"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Jean-Marie BURGUBURU (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "Etablissement d'Utilit\u00e9 Publique institu\u00e9 par la Loi n\u00b0901259 du 31/12/1990", 
+  "id": 124, 
+  "Objectif et mission": "Repr\u00e9sentation des int\u00e9r\u00eats de la profession d'avocat, notamment aupr\u00e8s des Pouvoirs Publics (art 21-1 de la loi du 31 d\u00e9cembre 1971 modifi\u00e9e)", 
+  "Acronyme": "CNB", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 55, 
+  "Autres sources": {
+   "Dons": "", 
+   "Cotisations des membres": 310, 
+   "Autres": "", 
+   "Commercialisation de produits, services": ""
+  }, 
+  "Budget global": 17, 
+  "Raison sociale": "CONSEIL NATIONAL DES BARREAUX", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "22 rue de Londres 75009 PARIS FRANCE", 
+   153308560
+  ], 
+  "Dont financement public": 2, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://www.cnb.avocat.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Auditions devant les Commissions"
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/121", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Agriculture, \u00e9levage, p\u00eache, bois - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable", 
+  "Cat\u00e9gorie": "Association", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes physiques\"": 350, 
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 96, 
+   "Noms des personnes morales membres de l'organisme": "R\u00e9gion Limousin D\u00e9partement de la Corr\u00e8ze D\u00e9partement de la Creuse 53 communes 13 communaut\u00e9s de communes 27 associations", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes physiques Personnes morales", 
+    "Personnes individuelles Associations Collectivit\u00e9s locales"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Madame Cathy PICARD", 
+   "Madame Annie-Claude RAYNAUD", 
+   "Monsieur Pierre SELIQUER"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Madame Annie-Claude RAYNAUD (Pr\u00e9sidente)", 
+  "Statut l\u00e9gal": "Association", 
+  "id": 121, 
+  "Objectif et mission": "Association r\u00e9gie par la loi de 1901, le CEN Limousin a pour mission de conna\u00eetre, g\u00e9rer, prot\u00e9ger et valoriser les espaces naturels et les paysages les plus remarquables du Limousin. Le CEN Limousin est g\u00e9r\u00e9 par un Conseil d'administration pluridisciplinaire qui s'appuie sur un Conseil scientifique compos\u00e9 d'une vingtaine de sp\u00e9cialistes r\u00e9gionaux des sciences de la terre. Il dispose \u00e9galement d'une \u00e9quipe salari\u00e9e de 31 personnes qui \u00e9tablit et met en pratique les plans de gestion des sites.", 
+  "Acronyme": "CEN Limousin", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 31, 
+  "Autres sources": {
+   "Dons": 1000, 
+   "Cotisations des membres": 14500, 
+   "Autres": 64830, 
+   "Commercialisation de produits, services": 48670
+  }, 
+  "Budget global": 2000000, 
+  "Raison sociale": "CONSERVATOIRE D'ESPACES NATURELS DU LIMOUSIN", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Le CEN Limousin est administrateur de la F\u00e9d\u00e9ration des Conservatoires d'espaces naturels (FCEN) , qui f\u00e9d\u00e8re 22 Conservatoires m\u00e9tropolitains et ultra marins. Il est \u00e9galement administrateur du Fonds de dotation cr\u00e9\u00e9 par la FCEN.", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "6 Ruelle du Theil 87510 SAINT-GENCE FRANCE", 
+   "(+33) 05 55 03 29 07"
+  ], 
+  "Dont financement public": 1871000, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
+  "Site internet": "http://www.conservatoirelimousin.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Contacts r\u00e9guliers avec les d\u00e9put\u00e9s du Limousin."
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/66", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Cr\u00e9dit Agricole SA est engag\u00e9 par sa charte de lobbying : http://credit-agricole.com/Etre-engage-et responsable/FIDES/Deontologie", 
@@ -1832,6 +1998,50 @@
   "Site internet": "http://www.fhp.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Entretiens et auditions parlementaires"
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "5000", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/123", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "code de d\u00e9ontologie du centre d'\u00e9tudes des dirigeants d'associations professionnelles (CEDAP)", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Commerce, distribution - Consommation et concurrence - Droit des soci\u00e9t\u00e9s - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Industrie - S\u00e9curit\u00e9 - Transports, logistique", 
+  "Cat\u00e9gorie": "Organisation professionnelle", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 11, 
+   "Noms des personnes morales membres de l'organisme": "Groupe Ludendo (La Grande R\u00e9cr\u00e9) ToysRus France Groupe King Jouet Groupement Jou\u00e9Club Micromania Disney Stores Oxybul Eveil et Jeux Groupement Partners Club Sajou B\u00e9b\u00e99 Luderix International (PICWIC) Railway SARL", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "Entreprises"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Jean-Michel Grunberg", 
+   "Monsieur Jean Kimpe"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Jean-Michel GRUNBERG (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "Association", 
+  "id": 123, 
+  "Objectif et mission": "La FCJPE est l'organisation professionnelle qui valorise et d\u00e9fend les commerces sp\u00e9cialistes du Jouet et de la pu\u00e9riculture. A ce titre, elle est l'interlocuteur privil\u00e9gi\u00e9e des pouvoirs publics sur les questions qui concernent sa fili\u00e8re, les relations industrie commerce, l'urbanisme commercial, la consommation, les probl\u00e8mes de qualit\u00e9, de normes, ainsi que les d\u00e9marches environnementales.", 
+  "Acronyme": "FCJPE", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 1, 
+  "Autres sources": {
+   "Dons": "", 
+   "Cotisations des membres": 76000, 
+   "Autres": 132000, 
+   "Commercialisation de produits, services": ""
+  }, 
+  "Budget global": 206000, 
+  "Raison sociale": "F\u00e9d\u00e9ration des commerces sp\u00e9cialistes des jouets et des produits de l'Enfant", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "5000", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "membre de conf\u00e9d\u00e9ration du commerce non-alimentaire (CDNA) membre de la conf\u00e9d\u00e9ration des commer\u00e7ants de France (CDF) membre du conseil du commerce de France (CDCF) Adh\u00e9rent CGPME Adh\u00e9rent au MEDEF via le CDCF", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "45 rue des petites Ecuries 75010 PARIS FRANCE", 
+   "(+33) 1 60 43 45 91"
+  ], 
+  "Dont financement public": "", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://fcjpe.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Suivi de: - projet de loi relatif \u00e0 l'artisanat, au commerce et aux tr\u00e8s petites entreprises - projet de loi relatif \u00e0 la formation professionnelle - projet de loi sur la consommation - proposition de loi relative aux risques des ondes \u00e9lectromagn\u00e9tiques."
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
@@ -3155,6 +3365,38 @@
   }
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "364900", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/122", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Code EFPIA http://www.leem.org/article/dispositions-deontologiques-professionnelles Code FIIM / IFPMA (International Federation of Pharmaceutical Manufacturers & Associations) http://www.leem.org/article/code-fiim-ifpma Code de d\u00e9ontologie de l\u2019Assembl\u00e9e nationale", 
+  "Cat\u00e9gorie": "Syndicat", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes physiques\"": "", 
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 270, 
+   "Noms des personnes morales membres de l'organisme": "", 
+   "Nature juridique des adh\u00e9rents": [
+    "Entreprises"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame CARROLL", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Philippe LAMOUREUX (Directeur g\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "Syndicat", 
+  "id": 122, 
+  "Objectif et mission": "Les Entreprises du M\u00e9dicament (Leem), organisation professionnelle f\u00e9d\u00e8rant les 270 entreprises du m\u00e9dicament pr\u00e9sentes en France, a pour mission de les repr\u00e9senter, d\u00e9fendre leurs int\u00e9r\u00eats et d'assurer leur promotion collective. Son r\u00f4le consiste \u00e9galement \u00e0 \u00e9laborer et faire respecter l'\u00e9thique de la profession, \u00e0 faciliter les \u00e9changes entre ses membres, \u00e0 \u00e9tablir et faire vivre les liens avec les autres acteurs du syst\u00e8me de sant\u00e9, \u00e0 promouvoir les d\u00e9marches collectives de progr\u00e8s, de qualit\u00e9 et de valorisation du secteur.", 
+  "Acronyme": "LEEM", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 76, 
+  "Budget global": 22756000, 
+  "Raison sociale": "Les Entreprises du M\u00e9dicament", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "364900", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "88 Rue de la Faisanderie 75782 PARIS CEDEX 16 France", 
+   "(+33) 01 45 03 88 88"
+  ], 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://www.leem.org", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Participation aux auditions r\u00e9alis\u00e9es par les commissions permanentes, les rapporteurs, les groupes politiques et les groupes d'\u00e9tudes. Organisation d'entretiens avec des d\u00e9put\u00e9s. Diffusion des prises de position du Leem."
+ }, 
+ {
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/118", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Depuis sa cr\u00e9ation en 2007, Lobbsonn est inscrit aux registres de transparence du S\u00e9nat, de la Commission europ\u00e9enne et du Parlement europ\u00e9en. A ce titre, l\u2019ensemble de son \u00e9quipe souscrit aux diff\u00e9rents codes de d\u00e9ontologie dont les grands principes sont ses engagements, au quotidien, tant aupr\u00e8s des pouvoirs publics que de ses clients ou encore des consommateurs : - appliquer le principe fondamental du respect de la plus enti\u00e8re confidentialit\u00e9 sur les informations \u00e9chang\u00e9es avec ses clients, - attacher une importance r\u00e9elle \u00e0 la relation de confiance qui l'unit \u00e0 ses clients, - d\u00e9fendre uniquement des secteurs d\u2019activit\u00e9s, des entreprises ou des organisations dont les int\u00e9r\u00eats ne sont pas contraires, - menons ses missions en totale transparence publique, - avoir pour seul objectif de contribuer \u00e0 \u00e9clairer la d\u00e9cision publique.", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Immobilier, habitat, logement - Justice et affaires int\u00e9rieures - Professions lib\u00e9rales", 
@@ -3702,6 +3944,37 @@
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 11180, 
    "A l'\u00e9tranger": 1820
+  }
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 100 000 et 150 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/119", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Les personnels de la Seita remplissant des fonctions de repr\u00e9sentation d'int\u00e9r\u00eats sont astreints au respect des dispositions du Code de conduite du Groupe Imperial Tobacco, et particuli\u00e8rement les dispositions renforc\u00e9es relatives aux relations avec les pouvoirs publics.", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Industrie", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Morgan CAUVIN", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Martin CARROLL (Directeur G\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "SAS", 
+  "id": 119, 
+  "Objectif et mission": "Seita fabrique et commercialise des produits du tabac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 37900, 
+  "Information financi\u00e8re compl\u00e9mentaire": "Salaires : 50 000 euros Cotisations annuelles aux associations dont Seita est membre : 22 000 euros Documentation : 15 000 euros Honoraires de conseil : 57 000 euros", 
+  "Raison sociale": "Seita", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 100 000 et 150 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Membre de l'Association des Fournisseurs de Tabacs \u00e0 Fumer (AFTF) Membre de l'Association des Fournisseurs de Cigares en France (AFCF)", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "143 boulevard Romain Rolland 75685 Paris cedex 14 France", 
+   "(+33) 0158356494"
+  ], 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "https://imperial-tobacco.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rendez-vous avec des d\u00e9put\u00e9s et/ou leurs assistants au sujet de la r\u00e9glementation relative au tabac. Auditions parlementaires : Rapport d'information sur la proposition de r\u00e9vision de la Directive europ\u00e9enne sur les produits du tabac ; Rapport d'information relatif \u00e0 la lutte contre le tabagisme ; Rapport d'information relatif aux cons\u00e9quences fiscales des ventes illicites de tabac. Envoi de documents d'information technique et de notes de position.", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 2900, 
+   "A l'\u00e9tranger": 35000
   }
  }, 
  {
