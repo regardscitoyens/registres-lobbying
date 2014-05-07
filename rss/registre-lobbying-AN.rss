@@ -4,8 +4,20 @@
   <title>RSS Registre des représentants d'intérêts Assemblée nationale</title>
   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_liste</link>
   <description>Les dernières modifications au registre des représentants d'intérêts de l'Assemblée nationale</description>
-  <pubDate>Sat, 03 May 2014 04:45:18 +0200</pubDate>
+  <pubDate>Wed, 07 May 2014 04:45:24 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/regardscitoyens/registre-lobbying-AN</generator>
+  <item>
+   <title>Association des Maires de France (Association, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/126</link>
+   <description><![CDATA[Nouvel inscrit au registre le 07 mai 2014 : Association des Maires de France (Association)]]></description>
+   <pubDate>Wed, 07 May 2014 04:45:24 +0200</pubDate>
+  </item>
+  <item>
+   <title>Conseil du Commerce de France (Organisation professionnelle, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/127</link>
+   <description><![CDATA[Nouvel inscrit au registre le 07 mai 2014 : Conseil du Commerce de France (Organisation professionnelle)]]></description>
+   <pubDate>Wed, 07 May 2014 04:45:24 +0200</pubDate>
+  </item>
   <item>
    <title>Seita (Entreprise, nouveau)</title>
    <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/119</link>

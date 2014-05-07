@@ -591,6 +591,46 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "L'Association a \u00e9t\u00e9 auditionn\u00e9e \u00e0 plusieurs reprises par des d\u00e9put\u00e9s sur des sujets relatifs au Cr\u00e9dit d'Imp\u00f4t Recherche et au Cr\u00e9dit d'Imp\u00f4t Innovation. Plusieurs notes ont \u00e9t\u00e9 adress\u00e9es \u00e0 des d\u00e9put\u00e9s sur ces m\u00eames sujets."
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/126", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Collectivit\u00e9s locales", 
+  "Cat\u00e9gorie": "Association", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes physiques\"": 35967, 
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 35967, 
+   "Noms des personnes morales membres de l'organisme": "Communes et EPCI", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes physiques Personnes morales", 
+    "Communes et EPCI (leurs repr\u00e9sentants \u00e0 savoir les maires et les pr\u00e9sidents)"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Alexandre TOUZET", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Jacques PELISSARD (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "Association reconnue d'utilit\u00e9 publique", 
+  "id": 126, 
+  "Objectif et mission": "Repr\u00e9sentation des int\u00e9r\u00eats des maires et pr\u00e9sidents de communaut\u00e9s Information des maires et pr\u00e9sidents de communaut\u00e9s", 
+  "Acronyme": "AMF", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 75, 
+  "Autres sources": {
+   "Dons": "", 
+   "Cotisations des membres": 8950000, 
+   "Autres": "", 
+   "Commercialisation de produits, services": 3210000
+  }, 
+  "Budget global": 11627099, 
+  "Raison sociale": "Association des Maires de France", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "41 Quai d'Orsay 75343 cedex 07 75343 Paris France", 
+   144181414
+  ], 
+  "Dont financement public": 8950000, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
+  "Site internet": "http://www.amf.asso.fr/", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 35, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "lois de finances, loi MAPAM, loi ALUR : auditions, amendements, ..."
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 30 000 et 40 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/30", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Cr\u00e9ation d'un comit\u00e9 des sages compos\u00e9 de personnalit\u00e9s ind\u00e9pendantes nomm\u00e9es en dehors des membres de l'Association. Il est sollicit\u00e9 sur tout sujet de d\u00e9ontologie ou de gouvernance de l'Association. Il peut constater l'existence de conflits d'int\u00e9r\u00eats et \u00eatre conduit \u00e0 appr\u00e9cier l'ind\u00e9pendance des administrateurs et fait rapport de ses travaux au Conseil d'administration.", 
@@ -1593,6 +1633,50 @@
    "En France": 73000, 
    "A l'\u00e9tranger": 7000
   }
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 20 000 et 30 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/127", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Commerce, distribution", 
+  "Cat\u00e9gorie": "Organisation professionnelle", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 32, 
+   "Noms des personnes morales membres de l'organisme": "UCV, CDNA, FCD, UBH, UNDP, FCA, FFPS, FMB, FNH, FEVAD, FEH, FENACEREM, FEC, UPECAD, FPS, CNPA, EBEN, SYNOPE, SYNDIGEL, CFP, FNOF, FFPI, FICIME, FH, UFIP, SYNAFEL, FNMJ, CNPA, CNCC, CFQ, FCGA,FEDEREC (voir libell\u00e9s sur liste en annexe).", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "F\u00e9d\u00e9rations professionnelles"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Madame Fanny FAVOREL PIGE", 
+   "Monsieur G\u00e9rard ATLAN", 
+   "Madame Sofy MULLE"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur G\u00e9rard ATLAN (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "Association (loi 1901)", 
+  "id": 127, 
+  "Objectif et mission": "Le CdCF est une organisation professionnelle fa\u00eeti\u00e8re regroupant 32 organisations professionnelles du commerce. Il a vocation \u00e0 promouvoir le Commerce et d\u00e9fendre les int\u00e9r\u00eats du secteur aupr\u00e8s des pouvoirs publics et de la soci\u00e9t\u00e9 civile.", 
+  "Acronyme": "CdCF", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 5, 
+  "Autres sources": {
+   "Dons": "", 
+   "Cotisations des membres": 778614, 
+   "Autres": 312500, 
+   "Commercialisation de produits, services": ""
+  }, 
+  "Budget global": 1091114, 
+  "Raison sociale": "Conseil du Commerce de France", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 20 000 et 30 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Medef et EUROCOMMERCE", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "40 boulevard Malesherbes 75008 PARIS FRANCE", 
+   140150303
+  ], 
+  "Dont financement public": "", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://www.cdcf.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Auditions sur des projets de loi int\u00e9ressant le commerce (PL sur la consommation, PL ALUR, PL ACTPE...), rencontres individuelles pour pr\u00e9senter le CdCF et ses travaux, notamment le Livre blanc \"Commerce, fiscalit\u00e9 et emploi\", envoi aux parlementaires d'une newsletter mensuelle sur le CdCF et le commerce, 2 d\u00eeners-d\u00e9bats du Groupe de liaison Parlement - Commerce."
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
