@@ -2108,24 +2108,20 @@
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/80", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Les personnes r\u00e9f\u00e9renc\u00e9es sont adh\u00e9rentes \u00e0 l'ARPP et signataires de la charte de d\u00e9ontologie de l'association.", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Banque, Assurance, finances", 
-  "Cat\u00e9gorie": "Association", 
+  "Cat\u00e9gorie": "Organisation professionnelle", 
   "Les adh\u00e9rents": {
    "Nombre total d'adh\u00e9rents \"personnes morales\"": 390, 
-   "Noms des personnes morales membres de l'organisme": "BNP-P BPCE SOCIETE GENERALE CASA La Banque Postale et toutes les autres banques install\u00e9es sur le territoire.", 
+   "Noms des personnes morales membres de l'organisme": "BNP Paribas Groupe BPCE Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Conf\u00e9d\u00e9ration nationale du Cr\u00e9dit mutuel-CIC Cr\u00e9dit Agricole SA La Banque Postale et toutes autres banques install\u00e9es sur le territoire.", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
     "Entreprises"
    ]
   }, 
-  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
-   "Madame S\u00e9verine de Compreignac", 
-   "Madame Toullec-Marquot"
-  ], 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame Estelle Toullec-Marquot", 
   "Dirigeant / personne juridiquement responsable": "Madame Marie-Anne Barbat-Layani (Directrice g\u00e9n\u00e9rale)", 
   "Statut l\u00e9gal": "Association", 
   "id": 80, 
-  "Objectif et mission": "La FBF repr\u00e9sente toutes les banques install\u00e9es en France. Elle promeut, dans l'int\u00e9r\u00eat de ses membres, l'activit\u00e9 bancaire et financi\u00e8re aux niveaux fran\u00e7ais et europ\u00e9en; d\u00e9finit les positions, propositions ou pr\u00e9occupations vis \u00e0 vis des pouvoirs publics et des autorit\u00e9s. Elle est l'interm\u00e9diaire entre la profession bancaire et tous les publics de la banque.", 
-  "Information financi\u00e8re compl\u00e9mentaire": "", 
+  "Objectif et mission": "La FBF repr\u00e9sente toutes les banques install\u00e9es en France. Elle promeut, dans l'int\u00e9r\u00eat de ses membres, l'activit\u00e9 bancaire et financi\u00e8re aux niveaux fran\u00e7ais et europ\u00e9en; d\u00e9finit les positions, propositions ou pr\u00e9occupations vis \u00e0 vis des pouvoirs publics, et des autorit\u00e9s. Elle est l'interm\u00e9diaire entre la profession bancaire et tous les publics de la banque.", 
   "Acronyme": "FBF", 
   "Nombre de personnes employ\u00e9es par l'organisme": 115, 
   "Autres sources": {
@@ -2135,18 +2131,18 @@
    "Commercialisation de produits, services": ""
   }, 
   "Budget global": 22000000, 
-  "Raison sociale": "F\u00e9d\u00e9ration bancaire fran\u00e7aise", 
+  "Raison sociale": "F\u00e9d\u00e9ration Bancaire Fran\u00e7aise", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 250 000 et 300 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "MEDEF AFECEI", 
   "Adresse et t\u00e9l\u00e9phone": [
-   "18 rue La Fayette 0 75440 Paris France 0", 
-   148005252
+   "18 rue La Fayette 0 75440 Paris cedex 09 France", 
+   "01.48.00.52.52"
   ], 
   "Dont financement public": "", 
-  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.fbf.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Auditions sur les projets de loi, missions, commissions d'enqu\u00eate, tables rondes; rencontres. Les dossiers l\u00e9gislatifs : loi bancaire, loi consommation, projets de loi de finances, ALUR, fraude fiscale..."
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Auditions, missions, commissions d'enqu\u00eate, tables rondes; rencontres. Les dossiers l\u00e9gislatifs (loi bancaire, loi consommation, projets de loi de finances, projet de loi de finances rectificative, projet de loi pour l'acc\u00e8s au logement et un urbanisme r\u00e9nov\u00e9 (ALUR), fraude fiscale)"
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
