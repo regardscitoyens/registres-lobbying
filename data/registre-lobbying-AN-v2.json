@@ -543,6 +543,51 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Auditions dans le cadre des projets de lois et propositions de lois examin\u00e9s par les d\u00e9put\u00e9s. Auditions dans le cadre de groupes de travail ou de commissions parlementaires (ex : mission de Monsieur Laurent Grandguillaume dans l'entreprise individuelle."
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/137", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Notre Code de conduite est le respect des droits de la famille Redonner dignit\u00e9 aux Grands Parents", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Budget et finances publiques - Collectivit\u00e9s locales - \u00c9ducation, enseignement, formation - Famille - Finances sociales - Handicap - Jeunesse - Justice et affaires int\u00e9rieures - Sant\u00e9 - S\u00e9curit\u00e9", 
+  "Cat\u00e9gorie": "Association", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes physiques\"": 100, 
+   "Noms des personnes morales membres de l'organisme": "", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes physiques", 
+    "Particuliers (Grands Parents Adh\u00e9rents)"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame Jany-Claude Rondeau", 
+  "Dirigeant / personne juridiquement responsable": "Madame Jany-Claude Rondeau (Pr\u00e9sidente)", 
+  "Statut l\u00e9gal": "Association loi 1901, but non lucratif, d\u00e9cret du 16 ao\u00fbt 1901", 
+  "id": 137, 
+  "Objectif et mission": "Restaurer des relations entre les parents et grands parents Intervenir aupr\u00e8s des responsables des Affaires Familiales pour que soit reconnu le droit des Grands Parents Agir pour que les Grands Parents ne soient pas \u00e9cart\u00e9s de la garde des petits enfants au profit des foyers et famille d'accueil Replacer les G.Parents dans le cercle familial Ecouter, Aider, Soutenir conseiller les grands parents priv\u00e9s de leurs petits enfants", 
+  "Information financi\u00e8re compl\u00e9mentaire": "Obtention de subventions par la r\u00e9gion Poitou Charentes pour nos conf\u00e9rences sur : La m\u00e9diation familiale, droits de la famille et bien \u00eatre avec Psychologue", 
+  "Acronyme": "A.C.S.G.P", 
+  "Nombre de personnes employ\u00e9es par l'organisme": "", 
+  "Autres sources": {
+   "Dons": 500, 
+   "Cotisations des membres": 1000, 
+   "Autres": "", 
+   "Commercialisation de produits, services": 400
+  }, 
+  "Budget global": 3700, 
+  "Raison sociale": "Association Charentaise, SOLIDARITE des GRANDS PARENTS", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Association \"Parents en D\u00e9tresses\" Nous travaillons dans le respect des droits de la famille Aupr\u00e8s des enfants plac\u00e9s afin que ceux ci soient accueillis dans leur famille par des Tiers ( Grands Parents, Oncles, Tantes)", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "100 route de boutiers 0 16100 Boutiers Saint Trojan France Le Si\u00e8ge conform\u00e9ment aux statuts est fix\u00e9 au domicile de la Pr\u00e9sidente", 
+   "(+33) 05.45.32.18.53 portable 06.40.21.42.44"
+  ], 
+  "Dont financement public": 1800, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
+  "Site internet": "http://www.solidarite-des-grands-parents.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
+   9, 
+   "Membres du bureau et du Conseil d'administration"
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Contacts avec nos D\u00e9put\u00e9es de la Charente et Charente maritime"
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/93", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Les membres s'engagent \u00e0 respecter la charte de d\u00e9ontologie de l'Association. Elle est disponible sur notre site internet : http://www.asso-conseils-innovation.org/files/statuts-reglement-interieur-et-charte-deontologie/Asso-Conseils-Innovation-charte_de_deontologie", 
@@ -1922,6 +1967,48 @@
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/140", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Collectivit\u00e9s locales - Commerce, distribution - Consommation et concurrence - Coop\u00e9ration et D\u00e9veloppement - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Gouvernance - Recherche et technologie - Transports, logistique", 
+  "Cat\u00e9gorie": "Organisation professionnelle", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 38, 
+   "Noms des personnes morales membres de l'organisme": "F\u00e9d\u00e9ration nationale des coop\u00e9ratives laiti\u00e8res, Conf\u00e9deration des coop\u00e9ratives vinicoles de France,F\u00e9deration des coop\u00e9ratives de collecte et de transformation de la betterave, F\u00e9d\u00e9ration des coop\u00e9ratives apicoles de France, F\u00e9deration de la coop\u00e9ration fruiti\u00e8re, l\u00e9gumi\u00e8re et horticole, F\u00e9deration du teillage agricole du lin, F\u00e9d\u00e9ration nationale des distilleries coop\u00e9ratives vinicoles, Federation nationale des plantes \u00e0 parfum, F\u00e9d\u00e9ration nationale des coop\u00e9ratives d'utilisation de materiel agricoles ( Cumas), F\u00e9d\u00e9ration nationale des SICA d'\u00e9lectricit\u00e9, Union de la coop\u00e9ration foresti\u00e8re fran\u00e7aise, Union des coop\u00e9ratives d'\u00e9levage et d'ins\u00e9mination animale, France Tabac. Coop de France Ouest, Coop de France Rh\u00f4ne-Alpes-Auvergne, Coop de France Nord - Est, Coop de France Nord-bassin Parisien, Coopame, Coop de France Sud-Ouest, Coop de France Centre-Atlantique-Limousin, Coop de France Bourgogne-Franche Comt\u00e9, F\u00e9d\u00e9ration r\u00e9gionale coop\u00e9rative Ile de la R\u00e9union. Agrial, Axereal, Cap Seine, CCPA, Cecab,Centre vinicole Champagne Nicolas Feuillatte, EM C2, Groupe Euralis, In Vivo, Limagrain, Ma\u00efsadour, Sodiaal, Terrena, Tereos, Triskalia, Vivescia.", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "F\u00e9d\u00e9rations nationales de coop\u00e9ratives ;F\u00e9d\u00e9rations r\u00e9gionales de coop\u00e9ratives; Entreprises coop\u00e9ratives ( voie directe)"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame Ir\u00e8ne de Bretteville", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Yves Le Morvan (Directeur G\u00e9n\u00e9ral D\u00e9l\u00e9gu\u00e9)", 
+  "Statut l\u00e9gal": "Association loi 1901", 
+  "id": 140, 
+  "Objectif et mission": "Coop de France, organisation unitaire de la Coop\u00e9ration agricole , est pr\u00e9sid\u00e9e par Philippe Mangin. Elle regroupe, via leurs f\u00e9d\u00e9rations, les 2 800 entreprises coop\u00e9ratives agricoles fran\u00e7aises dans tous les secteurs de production: lait , viande, c\u00e9r\u00e9ales, vin, fruits et l\u00e9gumes, ins\u00e9mination animale, etc Coop de France repr\u00e9sente les coop\u00e9ratives aupr\u00e8s des Institutions et des Pouvoirs Publics, s'emploie \u00e0 les d\u00e9fendre sur les plans: social, juridique, et \u00e0 faire conna\u00eetre les sp\u00e9cificit\u00e9s du statut coop\u00e9ratif.", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 60, 
+  "Autres sources": {
+   "Dons": "", 
+   "Cotisations des membres": 6251502, 
+   "Autres": 1970576, 
+   "Commercialisation de produits, services": ""
+  }, 
+  "Budget global": 9821513, 
+  "Raison sociale": "Coop de France", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Coop de France est membre de la CNMCCA, Conf\u00e9deration nationale de la Mutualit\u00e9, du Cr\u00e9dit et de la Coop\u00e9ration agricole. Coop de France fait partie de Coop.FR, l'organisme repr\u00e9sentatif du mouvement coop\u00e9ratif fran\u00e7ais.", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "43 rue Sedaine 75538 Paris Cedex France", 
+   "(+33) 0144175700"
+  ], 
+  "Dont financement public": 1599435, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
+  "Site internet": "http://www.coopdefrance.coop", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
+   1, 
+   "Coop de France informe r\u00e9guli\u00e8rement les parlementaires de l'\u00e9volution des coop\u00e9ratives agricoles et des grands enjeux qui les concernent : relations commerciales, innovation \u00e9conomique , cha\u00eene agricole et agroalimentaire, de l'amont \u00e0 l'aval; d\u00e9veloppement durable et transition \u00e9nerg\u00e9tique. Coop de France, dans le cadre d'une relation constructive et durable avec les parlementaires, se tient \u00e0 la disposition des \u00e9lus pour transmettre son expertise sur les questions agricoles , ou sur des questions de statut coop\u00e9ratif."
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Coop de France a \u00e9t\u00e9 auditionn\u00e9e sur les projets de loi d'orientation agricole , et sur le projet de loi d'avenir pour l'agriculture. Coop de France a r\u00e9cemment particip\u00e9 aux travaux pr\u00e9paratoires sur le projet de loi relatif \u00e0 l'Economie sociale et solidaire, a \u00e9t\u00e9 auditionn\u00e9e dans le cadre de la Mission d'information sur l'Ecotaxe etc"
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/66", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Cr\u00e9dit Agricole SA est engag\u00e9 par sa charte de lobbying : http://credit-agricole.com/Etre-engage-et responsable/FIDES/Deontologie", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Banque, Assurance, finances", 
@@ -1996,6 +2083,40 @@
    "Transports, logistique", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac"
   ]
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 40 000 et 50 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/139", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "D\u00e9marches Vigeo, ISO 26 000, Charte Ethique DCNS publi\u00e9e en 2014", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Budget et finances publiques - Collectivit\u00e9s locales - D\u00e9fense, armement - \u00c9nergie, eau - Industrie - Recherche et technologie", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame Rebecca PERES", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Patrick BOISSIER (Pr\u00e9sident Directeur G\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
+  "id": 139, 
+  "Objectif et mission": "Industrie de D\u00e9fense, Energie", 
+  "Budget global": 3300000000, 
+  "Nombre de personnes employ\u00e9es par l'organisme": 13018, 
+  "Information financi\u00e8re compl\u00e9mentaire": "", 
+  "Raison sociale": "DCNS", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 40 000 et 50 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Cluster Maritime, GICAN", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "40-42 rue du Docteur Finlay 0 75732 PARIS Cedex 15 FRANCE 0", 
+   "(+33) 01 40 59 50 00"
+  ], 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "1 janvier au 31 d\u00e9cembre 2013", 
+  "Site internet": "http://www.dcns.group.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
+   2, 
+   "Conseiller Affaires Europ\u00e9ennes d\u00e9clar\u00e9 au registre du Parlement Europ\u00e9en"
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": 3300000000, 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 12294, 
+   "A l'\u00e9tranger": 724
+  }
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
@@ -4162,27 +4283,27 @@
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Non.", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique", 
   "Cat\u00e9gorie": "Cabinets de consultants sp\u00e9cialis\u00e9s", 
-  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame Fabiola FLEX", 
-  "Dirigeant / personne juridiquement responsable": "Monsieur Jacques ARMESSEN (Directeur associ\u00e9)", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame Fabiola Flex", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Christian Giacomini (Fondateur)", 
   "Statut l\u00e9gal": "SARL", 
-  "Objectif et mission": "La mission de Rumeur Publique est de construire et de d\u00e9ployer des strat\u00e9gies d'influence globale pour ses clients. L'agence accompagne ces derniers de l'amont (strat\u00e9gie et production de contenu) \u00e0 l'aval (mise en oeuvre et suivi op\u00e9rationnel). En alliant veille et proactivit\u00e9, les \u00e9quipes m\u00e9dia, digital et affaires publiques de Rumeur permettent aux entreprises et organisations de s'adresser \u00e0 tous leurs publics, sur tous les canaux.", 
+  "Objectif et mission": "Agence de communication d'influence globale, Rumeur Publique porte les messages de ses clients aupr\u00e8s de l'ensemble de leurs parties prenantes", 
   "id": 95, 
-  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-  "Budget global": "inf\u00e9rieur \u00e0 50 000 \u20ac", 
-  "Nombre de personnes employ\u00e9es par l'organisme": "", 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "Entre 5 000 000 et 5 250 000 \u20ac", 
+  "Budget global": "Entre 5 000 000 et 5 250 000 \u20ac", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 1, 
   "Information financi\u00e8re compl\u00e9mentaire": "Rumeur Publique est, \u00e0 l'origine, une agence de relations presse (on-line et off-line). Afin d'offrir \u00e0 ses clients la possibilit\u00e9 de s'adresser \u00e0 l'ensemble de leurs parties prenantes, l'agence a d\u00e9cid\u00e9 de cr\u00e9er un d\u00e9partement Affaires publiques en juillet 2013.", 
   "Raison sociale": "Rumeur Publique", 
-  "Nom des clients": "Good Technology Blue Coat", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+  "Nom des clients": "Good Technology , Blue Coat, Taxis Bleus", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 5 000 000 et 5 250 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Sans objet pour Rumeur Publique", 
   "Adresse et t\u00e9l\u00e9phone": [
-   "9-11 rue Alphonse de Neuville 75017 Paris France", 
+   "9-11 Rue Alphonse de Neuville 75017 Paris France", 
    "(+33) 1 55 74 52 00"
   ], 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Aucune en 2013. Le d\u00e9partement Affaires publiques a \u00e9t\u00e9 cr\u00e9\u00e9 en juillet 2013. Il a fallu quelques mois pour qu'il commence \u00e0 \u00eatre r\u00e9ellement actif.", 
-  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "2013 (cl\u00f4ture des comptes en d\u00e9cembre)", 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "RDVs", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.rumeurpublique.fr", 
-  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": "", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
   "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
    "Affaires institutionnelles, vie publique", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
@@ -4425,6 +4546,40 @@
   }
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/135", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale est engag\u00e9e par son Code de conduite ainsi que par sa Charte pour une repr\u00e9sentation responsable aupr\u00e8s des pouvoirs publics et des institutions repr\u00e9sentatives, tous deux disponibles sur le site Soci\u00e9t\u00e9 G\u00e9n\u00e9rale.", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Banque, Assurance, finances", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Gilles Briatta", 
+   "Monsieur Laurent Lascols"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Fr\u00e9d\u00e9ric Oud\u00e9a (Pr\u00e9sident Directeur G\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
+  "id": 135, 
+  "Objectif et mission": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale est l\u2019un des tout premiers groupes europ\u00e9ens de services financiers. S\u2019appuyant sur un mod\u00e8le diversifi\u00e9 de banque universelle, le Groupe allie solidit\u00e9 financi\u00e8re et strat\u00e9gie de croissance durable avec l\u2019ambition d\u2019\u00eatre la banque relationnelle, r\u00e9f\u00e9rence sur ses march\u00e9s, proche de ses clients, choisie pour la qualit\u00e9 et l\u2019engagement de ses \u00e9quipes. Acteur de l\u2019\u00e9conomie r\u00e9elle depuis 150 ans, Soci\u00e9t\u00e9 G\u00e9n\u00e9rale emploie plus de 154 000 collaborateurs, pr\u00e9sents dans 76 pays, et accompagne au quotidien 32 millions de clients dans le monde entier en offrant une large palette de conseils et solutions financi\u00e8res sur mesure aux particuliers, entreprises et investisseurs institutionnels, qui s\u2019appuie sur trois p\u00f4les m\u00e9tiers compl\u00e9mentaires : \u2022 La banque de d\u00e9tail en France avec les enseignes Soci\u00e9t\u00e9 G\u00e9n\u00e9rale, Cr\u00e9dit du Nord et Boursorama qui offrent des gammes compl\u00e8tes de services financiers avec une offre multicanal \u00e0 la pointe de l\u2019innovation digitale. \u2022 La banque de d\u00e9tail \u00e0 l\u2019international, services financiers et assurances avec des r\u00e9seaux pr\u00e9sents dans les zones g\u00e9ographiques en d\u00e9veloppement et des m\u00e9tiers sp\u00e9cialis\u00e9s leaders dans leurs march\u00e9s. \u2022 La banque de financement et d\u2019investissement, banque priv\u00e9e, gestion d\u2019actifs et m\u00e9tier titres avec leurs expertises reconnues, positions internationales cl\u00e9s et solutions int\u00e9gr\u00e9es. Soci\u00e9t\u00e9 G\u00e9n\u00e9rale figure dans les principaux indices de d\u00e9veloppement durable.", 
+  "Acronyme": "SG", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 206800, 
+  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Raison sociale": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Association fran\u00e7aise de la gestion financi\u00e8re (AFG-ASSFI), Association fran\u00e7aise des entreprises priv\u00e9es (AFEP), Association fran\u00e7aise des march\u00e9s financiers (AMAFI), Association fran\u00e7aise des professionnels des titres (AFTI), Association fran\u00e7aise des soci\u00e9t\u00e9s financi\u00e8res (ASF), F\u00e9d\u00e9ration bancaire fran\u00e7aise (FBF), F\u00e9d\u00e9ration fran\u00e7aise des soci\u00e9t\u00e9s d'assurances (FFSA), Mouvement des entreprises de France (MEDEF), Paris Europlace, Entreprises pour l\u2019Environnement (EpE), Observatoire de la responsabilit\u00e9 soci\u00e9tale des entreprises (ORSE)", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "29 Boulevard Haussmann 75009 Paris France", 
+   "(+33) 1 42 13 04 01"
+  ], 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://www.societegenerale.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Au cours de l\u2019ann\u00e9e 2013, Soci\u00e9t\u00e9 G\u00e9n\u00e9rale a suivi les travaux parlementaires li\u00e9s \u00e0 la loi de s\u00e9paration et de r\u00e9gulation des activit\u00e9s bancaires, la loi consommation, les lois de finance\u2026 Des repr\u00e9sentants de Soci\u00e9t\u00e9 G\u00e9n\u00e9rale ont rencontr\u00e9 des rapporteurs et particip\u00e9 \u00e0 des auditions.", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 58400, 
+   "A l'\u00e9tranger": 148400
+  }
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/73", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Adh\u00e9sion \u00e0 l'ARPP (Association professionnelle des responsables des Relations avec les Pouvoirs Publics)", 
@@ -4571,6 +4726,33 @@
    "En plus de la pr\u00e9sidente, les cinq personnes sont des b\u00e9n\u00e9voles de l'association qui se consacrent au suivi des activit\u00e9s de l'Assembl\u00e9e."
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rencontre avec des parlementaires, participation \u00e0 des auditions, envoi de contributions, pr\u00e9sence dans les tribunes du public."
+ }, 
+ {
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/138", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "\u00c9ducation, enseignement, formation", 
+  "Cat\u00e9gorie": "Consultants agissant en qualit\u00e9 d'ind\u00e9pendants", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur St\u00e9phane Juvigny", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur St\u00e9phane Juvigny (Associ\u00e9-Unique, g\u00e9rant)", 
+  "Statut l\u00e9gal": "SARL", 
+  "id": 138, 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+  "Nombre de personnes employ\u00e9es par l'organisme": "", 
+  "Budget global": "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+  "Raison sociale": "St\u00e9phane Juvigny Conseil", 
+  "Nom des clients": "La chambre syndicale nationale de l'enseignement priv\u00e9 \u00e0 distance", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "21 Rue Cauchy 75015 PARIS FRANCE", 
+   "(+33) 0676839809"
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "D\u00e9but d'activit\u00e9", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "D\u00e9but d'activit\u00e9", 
+  "Objectif et mission": "Conseil, conseil en strat\u00e9gie et relations publiques", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": "", 
+  "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
+   "\u00c9ducation, enseignement, formation", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac"
+  ]
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 40 000 et 50 000 \u20ac", 
@@ -5274,6 +5456,38 @@
    "Il s'agit des 22 membres du Conseil d'administration mais l'UNAT Nationale est compos\u00e9e aussi de 8 salari\u00e9s et sa repr\u00e9sentation est de 56 membres nationaux (personnes morales) et 524 adh\u00e9rents locaux (personnes morales) r\u00e9partis dans 21 UNAT en r\u00e9gion. L'UNAT regroupe pr\u00e8s de 1 600 \u00e9tablissements proposant 230 000 lits, accueillant 4,5 millions de vacanciers et qui r\u00e9alisent un chiffre d'affaires de l'ordre de 1,6 milliard d'euros."
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Informations \u00e9crites et orales aux d\u00e9put\u00e9s sur les activit\u00e9s de notre secteur, proposition de questions \u00e9crites, auditions lors de commissions ou \u00e0 l'occasion de rapports (mission Guedj/Blein, rapport M\u00e9nard, rapport Campion ...), organisation d'un colloque sur le financement du patrimoine du secteur du tourisme social et solidaire en salle Chaban Delmas (demande via Bruno Le Roux) ..."
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/136", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "B\u00e2timent, travaux publics - Environnement, \u00e9cologie, d\u00e9veloppement durable - Immobilier, habitat, logement - Recherche et technologie - S\u00e9curit\u00e9", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Pierre BRUNIER", 
+   "Monsieur Richard MOULETTES"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Andr\u00e9a BIRTELE (Directeur G\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "SAS", 
+  "id": 136, 
+  "Objectif et mission": "Les proc\u00e9d\u00e9s Uretek sont employ\u00e9s de par le monde depuis une trentaine d\u2019ann\u00e9es; ils permettent de stabiliser tous types d\u2019ouvrage (habitation, industrie, g\u00e9nie civil, monument historique...) aux moyens de techniques sp\u00e9cifiques et exclusives d\u2019injection de sol. En France, plus d'une vingtaine d'agences r\u00e9gionales (riches de collaborateurs aux profils multiples et compl\u00e9mentaires : ing\u00e9nieur structure, architecte, g\u00e9otechnicien \u2026.) assure le suivi technique et commercial d\u2019environ 1500 chantier/an. Un mouvement de sol, survenu ou \u00e0 pr\u00e9venir, peut \u00eatre d\u2019origine anthropique (excavation, fuite de r\u00e9seaux\u2026) ou naturelle (s\u00e9isme, s\u00e9cheresse\u2026). D\u00e8s qu\u2019il induit la question de la tenue d\u2019un ouvrage l\u2019entreprise est susceptible d\u2019intervenir.", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 100, 
+  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Raison sociale": "URETEK FRANCE", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "F\u00e9d\u00e9ration Fran\u00e7aise du B\u00e2timent", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "15 boulevard Robert Thiboust CS20335 SERRIS 77706 MARNE LA VALLEE Cedex 4 FRANCE", 
+   "(+33) 160424242"
+  ], 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://www.uretek.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "X", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 100, 
+   "A l'\u00e9tranger": ""
+  }
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
