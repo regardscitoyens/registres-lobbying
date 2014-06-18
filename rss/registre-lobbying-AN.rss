@@ -4,8 +4,14 @@
   <title>RSS Registre des représentants d'intérêts Assemblée nationale</title>
   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_liste</link>
   <description>Les dernières modifications au registre des représentants d'intérêts de l'Assemblée nationale</description>
-  <pubDate>Tue, 17 Jun 2014 04:45:23 +0200</pubDate>
+  <pubDate>Wed, 18 Jun 2014 04:45:24 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/regardscitoyens/registre-lobbying-AN</generator>
+  <item>
+   <title>SEANCE PUBLIQUE (Cabinets de consultants spécialisés, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/145</link>
+   <description><![CDATA[Nouvel inscrit au registre le 18 juin 2014 : SEANCE PUBLIQUE (Cabinets de consultants spécialisés)]]></description>
+   <pubDate>Wed, 18 Jun 2014 04:45:24 +0200</pubDate>
+  </item>
   <item>
    <title>Association Française des Conseils en Lobbying et Affaires Publiques (Organisation professionnelle, nouveau)</title>
    <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/141</link>
