@@ -39,14 +39,15 @@ if git diff data/registre-lobbying-AN-v2.csv |
       id=$(echo $line           |
         sed 's/^\([0-9]\+\),.*$/\1/')
       nom=$(echo $line          |
-        sed 's/^[0-9]\+,"\(\([^"]\+\(""\)\?\)\+\)",.*$/\1/' |
+        sed 's/^[0-9]\+,"\+\(\([^"]\+\(""\)\?\)\+\)"\+,.*$/\1/' |
         sed 's/""/"/g'          |
+        sed 's/"\+$//'          |
         sed 's/\&/\&nbsp;/g')
       safenom=$(echo $nom       |
         sed 's/\&nbsp;/\\\&/g'  |
         sed 's/"/""/g')
       orgtype=$(echo $line      |
-        sed 's/^[0-9]\+,"'"$safenom"'",[^,]*,"\([^"]\+\)",.*$/\1/')
+        sed 's/^[0-9]\+,"\+'"$safenom"'"\+,[^,]*,"\([^"]\+\)",.*$/\1/')
       case "$action" in
         "+")
             desc="Nouvel inscrit a"
