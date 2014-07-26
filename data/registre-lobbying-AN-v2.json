@@ -563,7 +563,7 @@
   "Nombre de personnes employ\u00e9es par l'organisme": 3, 
   "Budget global": "", 
   "Raison sociale": "ARIEP", 
-  "Nom des clients": "FNCPC - F\u00e9d\u00e9ration Nationale des Chambres Professionnelles du Conseil", 
+  "Nom des clients": "CAPSAND - Chambre des Professions de la Sant\u00e9 Durable", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "Adresse et t\u00e9l\u00e9phone": [
    "2 Ter de l'Oise 78780 MAURECOURT FRANCE", 
@@ -2449,6 +2449,54 @@
   }
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/154", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Notre organisme est r\u00e9f\u00e9renc\u00e9 \u00e0 Bruxelles aupr\u00e8s de la Commission. Nos entreprises adh\u00e9rentes s'engagent \u00e0 respecter les principes de la Charte europ\u00e9enne de l'entreprise g\u00e9n\u00e9rale \u00e9dit\u00e9e par la FIEC ( f\u00e9d\u00e9ration europ\u00e9enne de la construction)", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - B\u00e2timent, travaux publics - Environnement, \u00e9cologie, d\u00e9veloppement durable - Immobilier, habitat, logement", 
+  "Cat\u00e9gorie": "Organisation professionnelle", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 1000, 
+   "Noms des personnes morales membres de l'organisme": "Les noms de nos adh\u00e9rents sont r\u00e9pertori\u00e9s dans l'annuaire figurant sur notre site Internet. Les 1000 adh\u00e9rents que nous avons comprennent les filiales et agences des groupes et des ETI membres.", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "Nos adh\u00e9rents sont des entreprises g\u00e9n\u00e9rales de BTP: grands groupes , ETI et PME r\u00e9gionales"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Christian Cucchiarini", 
+   "Madame Liliane Rozot"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Michel Gostoli (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "Organisation professionnelle", 
+  "id": 154, 
+  "Objectif et mission": "La d\u00e9fense et la promotion de l'entreprise g\u00e9n\u00e9rale et de l'approche globale de l'acte de construire dans le paysage \u00e9conomique fran\u00e7ais et europ\u00e9en . Cette mission comporte des prestations de lobbying et de conseil effectu\u00e9es par des salari\u00e9s permanents, comp\u00e9tents dans diff\u00e9rents domaines: juridique, \u00e9conomique, technique notamment. Notre organisme plus que centenaire a \u00e9t\u00e9 cr\u00e9\u00e9 \u00e0 l'origine par des ing\u00e9nieurs sp\u00e9cialistes du b\u00e9ton arm\u00e9.", 
+  "Information financi\u00e8re compl\u00e9mentaire": "Nous sommes financ\u00e9s uniquement par les cotisations de nos membres et des subventions des f\u00e9d\u00e9rations b\u00e2timent et travaux publics EGF BTP est d'autre part associ\u00e9 unique d'une EURL, BTP Services,qui a pour objet des prestations de formation professionnelle.", 
+  "Acronyme": "EGF BTP", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 9, 
+  "Autres sources": {
+   "Dons": "", 
+   "Cotisations des membres": 2160368, 
+   "Autres": 724974, 
+   "Commercialisation de produits, services": ""
+  }, 
+  "Budget global": 2885342, 
+  "Raison sociale": "Entreprises g\u00e9n\u00e9rales de France BTP", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "FFB, FNTP, Plan B\u00e2timent Durable, Medef au travers de la FFB, Agence Qualit\u00e9 Construction, Afnor Nous sommes adh\u00e9rents de la FFB et de la FNTP ou nous sommes repr\u00e9sent\u00e9s au Bureau et au Conseil d'Administration. Nous sommes au Bureau du Plan B\u00e2timent Durable qui suit et est force de proposition pour la transition \u00e9nerg\u00e9tique. A l'Afnor et \u00e0 l'AQC nous sommes adh\u00e9rents et suivons toutes les questions de r\u00e9glementation technique. Nous sommes pr\u00e9sents au Comit\u00e9 de la Commande publique du Medef et \u00e0 la Commission d\u00e9veloppement durable. Nous sommes membres de l'OEAP de Bercy.", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "9 Rue La P\u00e9rouse 75784 Paris Cedex 16 75016 Paris France Nous avons 14 d\u00e9l\u00e9gations r\u00e9gionales pr\u00e9sid\u00e9es par des repr\u00e9sentants de nos entreprises adh\u00e9rentes.", 
+   "(+33) 01 40 69 52 83"
+  ], 
+  "Dont financement public": "", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://www.egfbtp.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
+   5, 
+   "Notre activit\u00e9 s'exerce aupr\u00e8s des Minist\u00e8res,, des administrations r\u00e9gionales, de la Commission europ\u00e9enne et aupr\u00e8s de tout organisme qui concerne notre activit\u00e9. Nous sommes membres de diverses instances ( OEAP de Bercy, FNTP, FFB, Agence Qualit\u00e9 Construction, Plan B\u00e2timent Durable, Medef par l'interm\u00e9diaire de la FFB etc...) Nos membres sont de grandes entreprises, des ETI et des PME pratiquant le m\u00e9tier d'entrepreneur g\u00e9n\u00e9ral. Nous avons 14 d\u00e9l\u00e9gations r\u00e9gionales pr\u00e9sid\u00e9es par des professionnels d'entreprises qui repr\u00e9sentent nos int\u00e9r\u00eats en r\u00e9gions."
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Transition \u00e9nerg\u00e9tique et \u00e9cologique , march\u00e9s publics, partenariats public/priv\u00e9. Grenelle de l'environnement, formation professionnelle, LME, sous traitance etc.."
+ }, 
+ {
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/13", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Le cabinet est signataire de la charte d\u00e9ontologique de l'AFCL, ainsi que du code de conduite de l'EPACA et du Parlement europ\u00e9en.", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Banque, Assurance, finances - Budget et finances publiques - Droit des soci\u00e9t\u00e9s - \u00c9ducation, enseignement, formation - Emploi - Environnement, \u00e9cologie, d\u00e9veloppement durable - Famille - Fiscalit\u00e9 - Finances sociales - Gouvernance - Industrie - Professions lib\u00e9rales - Recherche et technologie - Sant\u00e9", 
@@ -3326,6 +3374,49 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Audition sur le contrat intermittent - Loi sur le dialogue social et continuit\u00e9 sur le service public - loi de modernisation de l'action publique et d'affirmation des m\u00e9tropoles"
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "60000", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/152", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Banque, Assurance, finances - Budget et finances publiques - Fiscalit\u00e9 - Finances sociales - Gouvernance - Sant\u00e9", 
+  "Cat\u00e9gorie": "Association", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 33, 
+   "Noms des personnes morales membres de l'organisme": "AMPLI, La Mutuelle Aigrefeuille, Just en Famille, GSMC, Sant\u00e9 Just, MFIF, MGD, Mutuelle Saint-Martin, Mutuelle du Rempart, Emoa Mutuelle du Var, Mutuelle sant\u00e9, Le Ralliement, Mutuelle du M\u00e9decin, Mutuelle de Bergerac, SMIP RA, MUTUALP, Mutuelle d'Argenson, MAGE, SMERR, SMEREB, SMECO, Mutuelle des patent\u00e9s et lib\u00e9raux de Nouvelle Cal\u00e9donie, AESM Miltis, UMS, MNA, MACD, MIPOS, Mutuelle de la Police Nationale, Mutuelle Bel Air, Les Mutuelles Lig\u00e9riennes, MOCF, UITSEM, UNIM.", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "Les adh\u00e9rents de la f\u00e9d\u00e9ration sont des mutuelles, principalement des organismes compl\u00e9mentaires d'assurance sant\u00e9 (OCAM)"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Philippe MIXE", 
+   "Madame Aim\u00e9e WEBER DEFRANCE"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Philippe MIXE (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "F\u00e9d\u00e9ration r\u00e9gie par le Code de la Mutualit\u00e9", 
+  "id": 152, 
+  "Objectif et mission": "Rassembler les mutuelles au premier rang les mutuelles de proximit\u00e9, en vue de les repr\u00e9senter, de d\u00e9fendre leurs int\u00e9r\u00eats et de promouvoir les valeurs mutualistes. Participer aux structures officielles concernant le monde la protection sociale, d'\u00eatre force de propositions dans ce m\u00eame domaine et de proposer aux mutuelles les formations et les outils indispensables \u00e0 l'exercice de leur activit\u00e9.", 
+  "Acronyme": "FNIM", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 3, 
+  "Autres sources": {
+   "Dons": "", 
+   "Cotisations des membres": 560000, 
+   "Autres": 210000, 
+   "Commercialisation de produits, services": 80000
+  }, 
+  "Budget global": 850000, 
+  "Raison sociale": "F\u00e9d\u00e9ration Nationale Ind\u00e9pendante des Mutuelles", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "60000", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "La FNIM est adh\u00e9rente de: - L'UNOCAM, Union Nationale des Organismes d'Assurance Maladie, - L'APAC, Association de Promotion de l'Assurance Collective, - Le Fonds CMU, - La Commission des Comptes de la Sant\u00e9, - Le Conseil de Surveillance de la CNAMTS", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "4 Avenue de l'Op\u00e9ra 75001 PARIS FRANCE", 
+   "(+33) 01 55 35 31 21"
+  ], 
+  "Dont financement public": "", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
+  "Site internet": "http://www.fnim.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Envoi de courriers aux d\u00e9put\u00e9s, Rencontres r\u00e9guli\u00e8res avec les membres de l'Assembl\u00e9e nationale, Auditions des responsables de la Fnim par les commissions, notamment la commission des Affaires sociales."
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/88", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Centre Fran\u00e7ais des Fonds et Fondations - Par nature, la Fondation RUP iFRAP compte un Commissaire du Gouvernement au sein de son Conseil d'administration", 
@@ -3507,6 +3598,38 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Contribution au d\u00e9bat national sur la transition \u00e9nerg\u00e9tique, r\u00e9daction d'un rapport sur les enjeux, b\u00e9n\u00e9fices et risques li\u00e9s \u00e0 l'exploitation du gaz de schiste, pr\u00e9paration et mobilisation de la soci\u00e9t\u00e9 civile en pr\u00e9paration de la 21\u00e8me conf\u00e9rence des parties sur le climat, appel sur la haute mer et travaux sur l'eau et l'oc\u00e9an..."
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/153", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Collectivit\u00e9s locales - Commerce, distribution - Consommation et concurrence - \u00c9ducation, enseignement, formation - Emploi - \u00c9nergie, eau - Politique r\u00e9gionale - Sant\u00e9", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Madame Nathalie NAMADE", 
+   "Monsieur Eric ADAM"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Madame Nathalie NAMADE (Directrice des Affaires publiques)", 
+  "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
+  "id": 153, 
+  "Objectif et mission": "Grande Distribution", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 469795, 
+  "Budget global": 74888000, 
+  "Raison sociale": "Groupe Carrefour", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "F\u00e9d\u00e9ration du commerce et de la distribution (FCD)", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "33 avenue Emile Zola x 92649 Boulogne Billancourt France", 
+   141042600
+  ], 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "30 D\u00e9cembre 2013", 
+  "Site internet": "http://www.carrefour.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 4, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rendez-vous d\u00e9put\u00e9s Auditions Colloques etc.", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": 74888000, 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 105000, 
+   "A l'\u00e9tranger": 364795
+  }
+ }, 
+ {
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/44", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "PARLEMENT EUROP\u00c9EN", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Banque, Assurance, finances - Collectivit\u00e9s locales - Commerce, distribution - Consommation et concurrence - Droit des soci\u00e9t\u00e9s - Famille - Gouvernance - Handicap - H\u00f4tellerie, restauration - Immobilier, habitat, logement - Jeunesse - Justice et affaires int\u00e9rieures - Politique r\u00e9gionale - Presse, \u00e9dition - Sant\u00e9 - T\u00e9l\u00e9communications", 
@@ -3531,6 +3654,37 @@
   "Site internet": "http://www.groupefgconsulting.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 7, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Pas encore d'intervention car inscription r\u00e9cente."
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 200 000 et 250 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/151", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "charte des repr\u00e9sentants d'int\u00e9r\u00eats du S\u00e9nat, du Parlement europ\u00e9en et de la Commission europ\u00e9enne", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Banque, Assurance, finances - Fiscalit\u00e9 - Finances sociales - Sant\u00e9", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Jean-Paul LEFEBVRE", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Bruno GABELLIERI ( directeur des relations ext\u00e9rieures et europ\u00e9ennes)", 
+  "Statut l\u00e9gal": "Institutions de retraite et de pr\u00e9voyance", 
+  "id": 151, 
+  "Objectif et mission": "retraite compl\u00e9mentaire ARRCO-AGIRC, pr\u00e9voyance collective des entreprises, mutuelles compl\u00e9mentaires, \u00e9pargne salariale", 
+  "Acronyme": "HUMANIS", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 6700, 
+  "Budget global": 15000000000, 
+  "Raison sociale": "Groupe HUMANIS", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 200 000 et 250 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "ARRCO-AGIRC, CTIP", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "139-141 rue Paul Vaillant Couturier 92240 MALAKOFF France", 
+   "(+33) 01 46 84 36 36"
+  ], 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://www.humanis.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 5, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "intervention aupr\u00e8s de d\u00e9put\u00e9s lors de l'examen de la loi de s\u00e9curisation professionnelle", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": 15000000000, 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 6700, 
+   "A l'\u00e9tranger": ""
+  }
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
@@ -4131,6 +4285,62 @@
    "Justice et affaires int\u00e9rieures", 
    "Entre 100 000 et 150 000 \u20ac", 
    "Professions lib\u00e9rales", 
+   "Entre 100 000 et 150 000 \u20ac"
+  ]
+ }, 
+ {
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/155", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Nous sommes signataires de la charte AFCL.", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Artisanat - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Arts et culture - B\u00e2timent, travaux publics - Banque, Assurance, finances - Budget et finances publiques - Collectivit\u00e9s locales - Commerce, distribution - Consommation et concurrence - D\u00e9fense, armement - Droit des soci\u00e9t\u00e9s - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Famille - Fiscalit\u00e9 - Finances sociales - Gouvernance - Immobilier, habitat, logement - Industrie - Jeunesse - Politique r\u00e9gionale - Professions lib\u00e9rales - Recherche et technologie - Sant\u00e9 - S\u00e9curit\u00e9 - Sport, loisirs, tourisme - T\u00e9l\u00e9communications - Transports, logistique", 
+  "Cat\u00e9gorie": "Cabinets de consultants sp\u00e9cialis\u00e9s", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Jean-Luc Archambault", 
+   "Monsieur Jean-Philippe Daniel", 
+   "Monsieur Fran\u00e7ois P\u00e9r\u00e8s", 
+   "Monsieur Pierre Bouchacourt", 
+   "Monsieur Alban de Louvencourt"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Jean-Luc Archambault (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "SAS", 
+  "Objectif et mission": "Cr\u00e9\u00e9 en 2003, Lysios est un cabinet de consultants offrant une gamme de services en affaires publiques (conseil strat\u00e9gique, lobbying, recherche de financements, veille politique et r\u00e9glementaire, formation) aupr\u00e8s de grandes entreprises fran\u00e7aises et \u00e9trang\u00e8res, organisations parapubliques et f\u00e9d\u00e9rations professionnelles.", 
+  "id": 155, 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "Entre 700 000 et 800 000 \u20ac", 
+  "Nombre de personnes employ\u00e9es par l'organisme": "", 
+  "Budget global": "Entre 700 000 et 800 000 \u20ac", 
+  "Raison sociale": "Lysios", 
+  "Nom des clients": "Action Logement - UESL (Union des Entreprises et des Salari\u00e9s pour le Logement) ; Arjowiggins ; Assystem ; LeCab ; Camene ; Le Cercle de l'Industrie ; Chauffeur priv\u00e9 ; CODIFAB (Comit\u00e9 professionnel de d\u00e9veloppement des industries fran\u00e7aises de l'ameublement et du bois) ; Comit\u00e9 Franc\u00e9clat (Comit\u00e9 professionnel de d\u00e9veloppement de l'horlogerie, de la bijouterie, de la joaillerie, de l'orf\u00e8vrerie et des arts de la table) ; CSCA (Chambre syndicale des courtiers d'assurances) ; D\u00e9fi (Comit\u00e9 de promotion et de d\u00e9veloppement de l'habillement) ; Domaine National de Chambord (Pro bono) ; Elephant & Cie ; Eutelsat SA ; Lagard\u00e8re Entertainment ; Medtronic France ; Microsoft France ; Moneo ; Norbert Dentressangle ; Oc\u00e9a ; Skyrock ; PayPal ; Federation Entertainment ; PMU ; PRODISS (Union nationale du spectacle musical et de vari\u00e9t\u00e9) ; SELL (Syndicat des Editeurs de Logiciels de Loisirs) ; Skyrock ; Snapcar ; Syndicat des r\u00e9gies Internet (SRI) ; TDF (T\u00e9l\u00e9Diffusion de France) ; TEAS (The European Azerbaijan Society) ; Technicolor ; Telfrance ; Thal\u00e8s ; UNFC (Union nationale des f\u00e9d\u00e9rations c\u00f4ti\u00e8res - Pro bono) ; UNIFA (Union Nationale des Industries Fran\u00e7aises de l'Ameublement) ; Uniclima ; Zodiak Media Central", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 700 000 et 800 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Nous sommes membres de l'AFCL.", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "260 Boulevard Saint-Germain 75007 Paris France Nous disposons \u00e9galement d'un bureau \u00e0 Bruxelles, dont les coordonn\u00e9es sont : Square de Mee\u00fbs 35 B - 1200 Bruxelles T\u00e9l\u00e9phone : +32 2 893 97 27", 
+   "(+33) 1 71 18 33 60"
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Organisation de rendez-vous, d'auditions ; \u00e9laboration de plans de contact ; veille ; r\u00e9daction de courriers et d'argumentaires.", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://www.lysios.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": "", 
+  "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
+   "Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique", 
+   "Entre 250 000 et 300 000 \u20ac", 
+   "Arts et culture", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Banque, Assurance, finances", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "\u00c9nergie, eau", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Environnement, \u00e9cologie, d\u00e9veloppement durable", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Immobilier, habitat, logement", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Industrie", 
+   "Entre 100 000 et 150 000 \u20ac", 
+   "Recherche et technologie", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Sant\u00e9", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Sport, loisirs, tourisme", 
+   "Entre 50 000 et 100 000 \u20ac", 
+   "T\u00e9l\u00e9communications", 
    "Entre 100 000 et 150 000 \u20ac"
   ]
  }, 
@@ -5163,6 +5373,49 @@
    "En France": 34776, 
    "A l'\u00e9tranger": 44773
   }
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/150", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "D'apr\u00e8s les statuts du syndicats, les membres doivent 'mettre en \u0153uvre tous les moyens n\u00e9cessaires permettant d\u2019assurer l\u2019ind\u00e9pendance \u00e9ditoriale des r\u00e9dactions dans le respect de la Charte de Munich des droits et des devoirs des journalistes'. Le syndicat a \u00e9galement publi\u00e9 un Guide de bonnes pratiques des \u00e9diteurs de presse en ligne (https://www.spiil.org/guide-bonnes-pratiques-editeurs-de-presse-ligne).", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Fiscalit\u00e9 - Presse, \u00e9dition", 
+  "Cat\u00e9gorie": "Syndicat", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes physiques\"": 2, 
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 84, 
+   "Noms des personnes morales membres de l'organisme": "Lgnet, Comimpe, Actusoins, Soci\u00e9t\u00e9 \u00c9ditrice De M\u00e9diapart, MagCentre, \u00c9ditions Laurent Charlier, APB M\u00e9dia, Contexte, Brain Damaged, B2, Association La Pile, Cergyvie, PC INpact, apostrophe45, Touteduc, Streetpress, AK Editions, Planet.fr, Le T\u00e9l\u00e9scope d'Amiens, La Br\u00e8che, Groupe France D\u00e9veloppement, Hcl Publications, Toute La Culture, Zoomdici, La Bourse Et La Vie Tv, Destination Sant\u00e9, MediaLab, Raj M\u00e9dias, Les Amis de la T\u00e9l\u00e9libre, Terra Eco, Presses Et Livres En Reseau, Seroni Interactive , Infomedia, \u00c9conomie Matin, Causeur.fr, SFN M\u00e9dia, Bellefeuille \u00c9dition Presse, Le Faubourg, Interactiva \u2013 Dfo-Sportiva, Observatoire Geopolitique Criminalit\u00e9 Presse, Martial Spirit, Le Courrier Des Balkans, Le Petit Journal.com, Vonews, Fr\u00e9quences, Ifestival, Loubiana, Celyan, Ecrit\u00e9o Agence De Presse, \u00c9ditions Factuel.Info, Indigo Publications, E2j2, Hospim\u00e9dia, Autoactu.com, TourMaG.com, Le Nouvel Europ\u00e9en, M\u00e9dias Pour Un Futur Durable, Cogiterra, Association Pour une Coop\u00e9rative de l\u2019Information en Essonne, Z\u00e9bulon, World Crunch, Aqui! Presse, Econostrum.info, Miroir Social, Rochard M\u00e9dia Web, Les Nouvelles News, Dixhuitinfo.com, Factory Eleven, Agence Minicircul, I&D Invest, Babel International, Altapresse, Diffusion Presse Entreprises, SREC diffusion, Actualitt\u00e9, Talmont M\u00e9dia, La Tribune De L'art, Green Univers, Dark Side M\u00e9dia, ./Rebuild.Sh, maCommune.Info, Association Alter-M\u00e9dias, Aerobuzz.fr, Revenu Agricole", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes physiques Personnes morales", 
+    "Entreprises, associations."
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Maurice Botbol", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Maurice Botbol (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "Association loi 1901", 
+  "id": 150, 
+  "Objectif et mission": "Le Syndicat de la presse ind\u00e9pendante d'information en ligne, qui repr\u00e9sente plus de 100 titres de presse, proc\u00e8de \u00e0 l'\u00e9tude, \u00e0 la repr\u00e9sentation et \u00e0 la d\u00e9fense des int\u00e9r\u00eats professionnels, \u00e9conomiques, d\u00e9ontologiques, mat\u00e9riels et moraux des \u00e9diteurs de presse en ligne ind\u00e9pendants, g\u00e9n\u00e9ralistes ou sp\u00e9cialis\u00e9s.", 
+  "Information financi\u00e8re compl\u00e9mentaire": "", 
+  "Acronyme": "SPIIL", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 1, 
+  "Autres sources": {
+   "Dons": "", 
+   "Cotisations des membres": 34000, 
+   "Autres": 10000, 
+   "Commercialisation de produits, services": ""
+  }, 
+  "Budget global": 44000, 
+  "Raison sociale": "Syndicat de la Presse Ind\u00e9pendante d'Information en Ligne", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "8 passage Brulon 75012 Paris France RAS", 
+   "(+33) 970261072"
+  ], 
+  "Dont financement public": "", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
+  "Site internet": "http://www.spiil.org", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 5, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Participation \u00e0 des auditions, entretiens avec des d\u00e9put\u00e9s, diffusion de prises de positions."
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
