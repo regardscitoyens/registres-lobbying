@@ -596,7 +596,7 @@
   "Nombre de personnes employ\u00e9es par l'organisme": 3, 
   "Budget global": "", 
   "Raison sociale": "ARIEP", 
-  "Nom des clients": "CAPSAND - Chambre des Professions de la Sant\u00e9 Durable", 
+  "Nom des clients": "CAPSAND - Chambre des Professions de la Sant\u00e9 Durable FNCPC - F\u00e9d\u00e9ration Nationale des Chambres Professionelles du Conseil", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "Adresse et t\u00e9l\u00e9phone": [
    "2 Ter de l'Oise 78780 MAURECOURT FRANCE", 
@@ -1953,6 +1953,78 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Octobre 2012 - Emplois d'avenir : contribution; pr\u00e9sentation des propositions au cours d'une r\u00e9union \u00e0 l'Assembl\u00e9e ; propositions d'amendements - PLF 2013 : contributions \u00e9crites ; auditions ; propositions d'amendements - Avril 2013 : r\u00e9union de travail sur la r\u00e9forme de l'IAE - PLF 2014 : contributions \u00e9crites ; auditions ; propositions d'amendements - Une dizaine de rencontres avec des d\u00e9put\u00e9s \u00e0 l'Assembl\u00e9e - Envoi \u00e0 tous les d\u00e9put\u00e9s d'une carte de voeux, d'un document d'information sur les entreprises d'insertion et des Chiffres cl\u00e9s de la f\u00e9d\u00e9ration - Envoi \u00e0 certains d\u00e9put\u00e9s de notes, de contributions et d'une lettre d'information"
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/168", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "le repr\u00e9sentant du CEA au parlement est membre de l'association ARPP -association professionnelle des repr\u00e9sentants aupr\u00e8s des pouvoirs publics-. L'ARPP applique une charte de d\u00e9ontologie depuis plus de 25 ans", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "D\u00e9fense, armement - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Industrie - Politique r\u00e9gionale - Recherche et technologie - Sant\u00e9 - S\u00e9curit\u00e9", 
+  "Cat\u00e9gorie": "Organisme public", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur JEAN-PIERRE VIGOUROUX", 
+   "Monsieur STEPHANE LAVEISSIERE", 
+   "Madame ANNE TRICAUD"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur BERNARD BIGOT (Administrateur g\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "Etablissement \u00e0 caract\u00e8re industriel et commercial", 
+  "id": 168, 
+  "Objectif et mission": "organisme de recherche technologique : activit\u00e9s de recherche dans les domaines de la d\u00e9fense et de la s\u00e9curit\u00e9 globale, des \u00e9nergies bas carbone, des technologies pour l'information et la sant\u00e9, des tr\u00e8s grands instruments de recherche 10 \u00e9tablissements en France, 4700 publications dans revues \u00e0 comit\u00e9 de lecture, 4200 familles de brevets actives, 150entreprises technologies cr\u00e9\u00e9es depuis 1984", 
+  "Acronyme": "CEA", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 16100, 
+  "Autres sources": {
+   "Dons": "", 
+   "Cotisations des membres": "", 
+   "Autres": 860000000, 
+   "Commercialisation de produits, services": ""
+  }, 
+  "Budget global": 4300000000, 
+  "Raison sociale": "Commissariat \u00e0 l'Energie atomique et aux Energies alternatives", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 \u20ac", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "b\u00e2timent Si\u00e8ge CEA-Saclay 91191 GIF-sur-Yvette France", 
+   "(+33) 0164501000"
+  ], 
+  "Dont financement public": 3440000000, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
+  "Site internet": "http://www.cea.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
+   1, 
+   "les 3 personnes du service des affaires publiques sont toutes \u00e0 temps partag\u00e9 sur les relations avec le Parlement, pour un total \u00e9quivalent \u00e0 une personne-an."
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "r\u00e9ponse aux sollicitations multiples des parlementaires : auditions, r\u00e9unions, visites de centres de recherche, contributions diverses..."
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/165", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Consommation et concurrence - \u00c9nergie, eau - Fiscalit\u00e9", 
+  "Cat\u00e9gorie": "Autorit\u00e9 administrative", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Madame France de Saint-Martin", 
+   "Madame Anne Monteil"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Philippe de Ladoucette (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "Autorit\u00e9 administrative ind\u00e9pendante", 
+  "id": 165, 
+  "Objectif et mission": "La CRE concourt au bon fonctionnement des march\u00e9s de l'\u00e9lectricit\u00e9 et du gaz naturel au b\u00e9n\u00e9fice des consommateurs finals et en coh\u00e9rence avec les objectifs de la politique \u00e9nerg\u00e9tique.", 
+  "Acronyme": "CRE", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 128, 
+  "Autres sources": {
+   "Dons": "", 
+   "Cotisations des membres": "", 
+   "Autres": "", 
+   "Commercialisation de produits, services": ""
+  }, 
+  "Budget global": 18939000, 
+  "Raison sociale": "Commission de r\u00e9gulation de l'\u00e9nergie", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "15 rue Pasquier 75008 Paris France", 
+   144504100
+  ], 
+  "Dont financement public": 18939000, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Auditions par les commissions comp\u00e9tentes, missions d'informations et commissions d'enqu\u00eates. Envoi du rapport annuel de la CRE et des autres publications de la CRE."
+ }, 
+ {
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/110", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Charte de d\u00e9ontologie de l'AFCL - www.afcl.net", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Banque, Assurance, finances - Budget et finances publiques - Collectivit\u00e9s locales - Commerce, distribution - Consommation et concurrence - Droit des soci\u00e9t\u00e9s - Emploi - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Finances sociales - Gouvernance - Immobilier, habitat, logement - Industrie - Politique r\u00e9gionale - Recherche et technologie - Sant\u00e9 - Sport, loisirs, tourisme - T\u00e9l\u00e9communications - Transports, logistique", 
@@ -2465,6 +2537,52 @@
   }
  }, 
  {
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/163", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Domaines Publics est signataire de la charte de d\u00e9ontologie de l'AFCL", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Banque, Assurance, finances - Commerce, distribution - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Immobilier, habitat, logement - Industrie - Presse, \u00e9dition - Transports, logistique", 
+  "Cat\u00e9gorie": "Cabinets de consultants sp\u00e9cialis\u00e9s", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Steven ZUNZ", 
+   "Monsieur Thomas BONNEL", 
+   "Madame Pauline LE BERTRE"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Steven ZUNZ ( Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "SAS", 
+  "Objectif et mission": "Avec plus de 12 ans d'exp\u00e9rience, notre cabinet est sp\u00e9cialis\u00e9 dans l\u2019accompagnement strat\u00e9gique, le d\u00e9veloppement et la d\u00e9fense des int\u00e9r\u00eats d\u2019acteurs priv\u00e9s \u2013 groupes industriels et de services, syndicats et f\u00e9d\u00e9rations professionnelles \u2013 aupr\u00e8s du monde public. Notre vocation : contribuer \u00e0 am\u00e9liorer l\u2019efficacit\u00e9 des relations de nos clients avec les pouvoirs publics europ\u00e9ens et nationaux, les collectivit\u00e9s locales et leurs regroupements. Nos expertises : informer, conseiller et agir aux c\u00f4t\u00e9s de nos clients pour d\u00e9crypter leur \u00e9cosyst\u00e8me, \u00e9clairer leurs d\u00e9cisions, d\u00e9fendre leurs int\u00e9r\u00eats, promouvoir leurs solutions, renforcer leur notori\u00e9t\u00e9 et contribuer \u00e0 leur d\u00e9veloppement.", 
+  "id": 163, 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "Entre 600 000 et 700 000 \u20ac", 
+  "Nombre de personnes employ\u00e9es par l'organisme": "", 
+  "Budget global": "Entre 600 000 et 700 000 \u20ac", 
+  "Raison sociale": "DOMAINES PUBLICS", 
+  "Nom des clients": "BNPP, Auchan, CNCC, FCD, GDF Suez, Eco-emballage, SNPI, A3FSP, Seita, SNEFCCA, Metronews, Afilog", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 600 000 et 700 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Domaines Publics est membre de l'Association Fran\u00e7aise des Conseils en Lobbying (AFCL)", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "4 avenue Victor Hugo 75016 Paris France", 
+   "(+33) 1 53 64 08 54"
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Organisation et dans certains cas participation \u00e0 des rendez vous, plan de contact, conception de notes argumentaires, r\u00e9daction de courriers et position papers.", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://www.domainespublics.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": "", 
+  "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
+   "Commerce, distribution", 
+   "Entre 100 000 et 150 000 \u20ac", 
+   "\u00c9nergie, eau", 
+   "Entre 200 000 et 250 000 \u20ac", 
+   "Fiscalit\u00e9", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Immobilier, habitat, logement", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Industrie", 
+   "Entre 150 000 et 200 000 \u20ac", 
+   "Presse, \u00e9dition", 
+   "Entre 50 000 et 100 000 \u20ac", 
+   "Transports, logistique", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac"
+  ]
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/69", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "eBay respecte des r\u00e8gles d\u00e9ontologiques et un code de conduite \u00e9dict\u00e9s au sein du groupe. Une charte \u00e9thique a \u00e9t\u00e9 fix\u00e9e pour les membres de l'association Base.", 
@@ -2647,6 +2765,51 @@
    "En France": 15, 
    "A l'\u00e9tranger": ""
   }
+ }, 
+ {
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/164", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Registre de Transparence de la Commission Europ\u00e9enne et du Parlement Europ\u00e9en. Les personnes requ\u00e9rant une accr\u00e9ditation \u00e0 l'Assembl\u00e9e Nationale sont \u00e9galement accr\u00e9diter au Parlement Europ\u00e9en.", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Artisanat - Collectivit\u00e9s locales - Coop\u00e9ration et D\u00e9veloppement - Industrie - Recherche et technologie", 
+  "Cat\u00e9gorie": "Cabinets de consultants sp\u00e9cialis\u00e9s", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Pierre Fruitier-Roth", 
+   "Monsieur Michel Orlando"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Pierre Fruitier-Roth (G\u00e9rant - Consultant Associ\u00e9)", 
+  "Statut l\u00e9gal": "SARL", 
+  "Objectif et mission": "Promouvoir l'\u00e9mergence de projets europ\u00e9ens port\u00e9s par des entreprises (PME principalement), des associations, des collectivit\u00e9s locales et territoriales. D\u00e9montrer l'int\u00e9r\u00eat que peuvent repr\u00e9senter les projets europ\u00e9ens mener par des entreprises, des associations et des collectivit\u00e9s. Conseiller et accompagner les PMEs, les collectivit\u00e9s et les associations dans un projet europ\u00e9en appelant des outils de financements europ\u00e9ens (programmes, fonds, ... - aides directes, aides indirectes, BEI, FEI, ...) Diffuser l'information aupr\u00e8s des organismes consulaires (chambres de commerces et d'industries, ...) sur les possibilit\u00e9s offertes \u00e0 leurs membres de s'engager dans des projets europ\u00e9ens et des projets appelant les outils de financement europ\u00e9ens. Cr\u00e9er avec d'autres cabinets partenaires des r\u00e9seaux europ\u00e9ens et voisins de l'UE (M\u00e9diterran\u00e9e et PTOM fran\u00e7ais) contribuant \u00e0 la promotion et \u00e0 l'\u00e9mergence de projets europ\u00e9ens et des b\u00e9n\u00e9fices apport\u00e9s par les outils de financement europ\u00e9ens. Contribuer de mani\u00e8res g\u00e9n\u00e9rales \u00e0 la construction europ\u00e9enne au travers notamment de l'initiative priv\u00e9. Utiliser les ressources du march\u00e9 unique. Participer \u00e0 des conf\u00e9rences et contributions publiques sur des th\u00e9matiques europ\u00e9ennes ou pour lesquelles une/des th\u00e9matique(s) europ\u00e9enne(s) pourraient faire avancer le d\u00e9bat et les solutions \u00e0 envisager.", 
+  "id": 164, 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+  "Budget global": "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+  "Acronyme": "ES", 
+  "Nombre de personnes employ\u00e9es par l'organisme": "Ces personnes adh\u00e8rent \u00e9galement au Code de Conduite des Repr\u00e9sentants d'Int\u00e9r\u00eats de la Commission Europ\u00e9enne et du Parlement Europ\u00e9en.", 
+  "Information financi\u00e8re compl\u00e9mentaire": "Entreprise nouvellement cr\u00e9\u00e9e. premi\u00e8res facturations : Dominique Dupraz : < 50 000 \u20ac URIOPSS de Lorraine : < 50 000 \u20ac Chambre de Commerce et d'Industrie des Vosges : < 50 000 \u20ac HandCraftLab : < 50 000\u20ac AAATOF : < 50 000\u20ac Universit\u00e9 de Tataouine : < 50 000 \u20ac Afrique Intelligence : < 50 000 \u20ac", 
+  "Raison sociale": "EuroSidus", 
+  "Nom des clients": "Dominique Dupraz (Compositeur) Association des Amis d'Ambroise Thomas et de l'Op\u00e9ra Fran\u00e7ais Union R\u00e9gional des Organismes Priv\u00e9s Sanitaires et Sociaux (Lorraine) Afrique Intelligence Chambre de Commerce et d'Industrie des Vosges HandCraftLab (Wallis et Futuna) Universit\u00e9 de Tataouine (Tunisie)", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "40 rue des Blancs Manteaux 75004 Paris France n\u00e9ant", 
+   "(+33) 184172631"
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "EuroSidus est une entreprise nouvellement cr\u00e9\u00e9e. Aucune activit\u00e9 l'ann\u00e9e pass\u00e9e. Depuis la cr\u00e9ation de la SARL EuroSidus, projets en cours : 1. Chambre de Commerce et d'Industrie des Vosges r\u00e9union d'information sur les outils de financement europ\u00e9ens \u00e0 destinations des entreprises du d\u00e9partements des Vosges 2. Dominique Dupraz et Op\u00e9ra-Th\u00e9\u00e2tre de Metz-M\u00e9tropole Compositeur. Co production d'une cr\u00e9ation lyrique (programme Europe Creative) 3. Universit\u00e9 de Tataouine (Tunisie) Cr\u00e9ation de liens avec des universit\u00e9s europ\u00e9ennes. Politique de voisinage de l'UE, Accord d'Association UE-Tunisie et Plan d'action de l'AA 2013-2017 4. HandCraftLab (Wallis et Futuna, PTOM Fran\u00e7ais) Cr\u00e9ation d'un handCraftLab \u00e0 Wallis. Fonds Europ\u00e9en de D\u00e9veloppement 5. Afrique Intelligence Diff\u00e9rents projets agro-alimentaires et agriculture dans les pays de l'Afrique Subsaharienne (FED et Instrument Coop\u00e9ration) 6. Association des Amis d'Ambroise Thomas et de l'Op\u00e9ra Fran\u00e7ais (AAATOF) Organisation d'un concours europ\u00e9en de chant lyrique fran\u00e7ais. Europe Cr\u00e9ative. 7. URIOPSS de Lorraine Formation sur les programmes d'aides directes de la Commission Europ\u00e9enne et en particulier EaSI et le micro-financement PROGRESS", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
+  "Site internet": "http://www.eurosidus.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": "Ces personnes adh\u00e8rent \u00e9galement au Code de Conduite des Repr\u00e9sentants d'Int\u00e9r\u00eats de la Commission Europ\u00e9enne et du Parlement Europ\u00e9en.", 
+  "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
+   "Artisanat", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Arts et culture", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Coop\u00e9ration et D\u00e9veloppement", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "\u00c9ducation, enseignement, formation", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Industrie", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Sant\u00e9", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac"
+  ]
  }, 
  {
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/13", 
@@ -3752,6 +3915,50 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "L'association s'est massivement mobilis\u00e9e l'an pass\u00e9 dans le cadre du d\u00e9bat sur la Transition Energ\u00e9tique, puis le projet de transposition de la Directive 2012/27/UE notamment, et a soutenu les initiatives des Mardis de l'Avenir. L'association a ainsi mis en place un \u00e9v\u00e8nement \"le Cleantech 2013\" pour rassembler les id\u00e9es et particularismes de chacun et ainsi construire une vision commune partag\u00e9e pour aider les PME et jeunes entreprises qui participent de la croissance verte et trouver des relais d'id\u00e9es et des forces pour construire des cadres de concertation qui puissent effectivement donner la voix \u00e0 ces entreprises et ensuite aider au d\u00e9veloppement de politiques publiques idoines \u00e0 leurs besoins."
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 100 000 et 150 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/166", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Le registre des repr\u00e9sentants d'int\u00e9r\u00eats de l'Union Europ\u00e9enne.", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Agriculture, \u00e9levage, p\u00eache, bois - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Transports, logistique", 
+  "Cat\u00e9gorie": "Association", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 3000, 
+   "Noms des personnes morales membres de l'organisme": "FNE f\u00e9d\u00e8re environ 3000 associations de protection de la nature et de l'environnement. Seules 50 f\u00e9d\u00e9rations r\u00e9gionales sont adh\u00e9rentes directes, ainsi que 14 associations nationales.", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "Associations"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame Morgane Piederriere", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Bruno Genty (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "Association", 
+  "id": 166, 
+  "Objectif et mission": "France Nature Environnement est la f\u00e9d\u00e9ration fran\u00e7aise des associations de protection de la nature et de l'environnement. C'est la porte-parole d'un mouvement de 3000 associations, regroup\u00e9es au sein d'une centaine d'organisations adh\u00e9rentes, pr\u00e9sentes sur tout le territoire fran\u00e7ais, en m\u00e9tropole et outre-mer.", 
+  "Acronyme": "FNE", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 39, 
+  "Autres sources": {
+   "Dons": 343317, 
+   "Cotisations des membres": 153568, 
+   "Autres": 223236, 
+   "Commercialisation de produits, services": 1270300
+  }, 
+  "Budget global": 3461268, 
+  "Raison sociale": "France Nature Environnement", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 100 000 et 150 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "FNE est membre des f\u00e9d\u00e9rations europ\u00e9ennes suivantes: le Bureau Europ\u00e9en de l'Environnement, Transports & Environment et Seas at risks.", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "81-83 Boulevard Port Royal 75013 Paris France", 
+   144086415
+  ], 
+  "Dont financement public": 1470847, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
+  "Site internet": "http://www.fne.asso.fr/", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
+   60, 
+   "Le nombre ci-dessous est approximatif (nombre de salari\u00e9s de FNE et des membres du Conseil d'administration). Les repr\u00e9sentations peuvent \u00e9galement \u00eatre effectu\u00e9es par des b\u00e9n\u00e9voles de FNE selon leurs sujets d'expertise."
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "FNE contacte les d\u00e9put\u00e9s pour leur faire part de ses positions et propositions dans le cadre d'examen de projets et propositions de loi, des missions parlementaires ou des commissions d'enqu\u00eate."
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/82", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Tous les membres de GCFT respectent la charte Green Cross International (consultable en ligne sur www.gci.ch)", 
@@ -4500,6 +4707,53 @@
   "Site internet": "http://www.leem.org", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Participation aux auditions r\u00e9alis\u00e9es par les commissions permanentes, les rapporteurs, les groupes politiques et les groupes d'\u00e9tudes. Organisation d'entretiens avec des d\u00e9put\u00e9s. Diffusion des prises de position du Leem."
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/167", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "En cours : Code de conduite applicable aux groupes d'int\u00e9r\u00eat au S\u00e9nat", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Emploi - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Finances sociales - Politique r\u00e9gionale - Sant\u00e9", 
+  "Cat\u00e9gorie": "Syndicat", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 100, 
+   "Noms des personnes morales membres de l'organisme": "FDSEA membres du r\u00e9seau de la FNSEA", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "FDSEA / FRSEA Syndicats mara\u00eechers"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Jacques ROUCHAUSSE", 
+   "Monsieur Bertrand RIVAL"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Jacques ROUCHAUSSE (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "Syndicat loi du 21/03/1884", 
+  "id": 167, 
+  "Objectif et mission": "La f\u00e9d\u00e9ration a pour objet de repr\u00e9senter les producteurs de l\u00e9gumes et de d\u00e9fendre leurs int\u00e9r\u00eats sur le plan national, europ\u00e9en et international, et ce, dans l'int\u00e9r\u00eat des consommateurs, par la valorisation des hommes et des entreprises dans le respect de leur diff\u00e9rence", 
+  "Information financi\u00e8re compl\u00e9mentaire": "", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 5, 
+  "Autres sources": {
+   "Dons": "", 
+   "Cotisations des membres": 173248, 
+   "Autres": 58553, 
+   "Commercialisation de produits, services": 397183
+  }, 
+  "Budget global": 628984, 
+  "Raison sociale": "Les Producteurs de L\u00e9gumes de France", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Adh\u00e9rent de la FNSEA Membre d'INTERFEL et du CTIFL", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "8 rue de la Baume 75008 PARIS France 2\u00e8me \u00e9tage", 
+   "(+33) 0153834808"
+  ], 
+  "Dont financement public": "", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://www.legumesdefrance.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
+   28, 
+   "Salari\u00e9s de la f\u00e9d\u00e9ration (5) et administrateurs (23)"
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Contacts divers avec les D\u00e9put\u00e9s, notamment dans le cadre de l'examen de la Loi d'Avenir pour l'Agriculture, l'Alimentation et la For\u00eat"
  }, 
  {
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/118", 
@@ -6425,6 +6679,50 @@
    "Il s'agit des 22 membres du Conseil d'administration mais l'UNAT Nationale est compos\u00e9e aussi de 8 salari\u00e9s et sa repr\u00e9sentation est de 56 membres nationaux (personnes morales) et 524 adh\u00e9rents locaux (personnes morales) r\u00e9partis dans 21 UNAT en r\u00e9gion. L'UNAT regroupe pr\u00e8s de 1 600 \u00e9tablissements proposant 230 000 lits, accueillant 4,5 millions de vacanciers et qui r\u00e9alisent un chiffre d'affaires de l'ordre de 1,6 milliard d'euros."
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Informations \u00e9crites et orales aux d\u00e9put\u00e9s sur les activit\u00e9s de notre secteur, proposition de questions \u00e9crites, auditions lors de commissions ou \u00e0 l'occasion de rapports (mission Guedj/Blein, rapport M\u00e9nard, rapport Campion ...), organisation d'un colloque sur le financement du patrimoine du secteur du tourisme social et solidaire en salle Chaban Delmas (demande via Bruno Le Roux) ..."
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/169", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "L'UNICEM et ses repr\u00e9sentants souscrivent au code de d\u00e9ontologie de l'Assembl\u00e9e nationale et du S\u00e9nat.", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - B\u00e2timent, travaux publics - Commerce, distribution - \u00c9ducation, enseignement, formation - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Immobilier, habitat, logement - Industrie - Transports, logistique", 
+  "Cat\u00e9gorie": "Organisation professionnelle", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 37, 
+   "Noms des personnes morales membres de l'organisme": "La liste des adh\u00e9rents est disponible sur le site www.unicem.fr.", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "L'UNICEM est constitu\u00e9e de: - syndicats professionnels nationaux repr\u00e9sentatifs des diverses industries des carri\u00e8res et mat\u00e9riaux de construction - syndicats professionnels r\u00e9gionaux, repr\u00e9sentatifs, dans leur secteur g\u00e9ographique, de ces m\u00eames industries. Ces syndicats repr\u00e9sentent 2 700 entreprises."
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Madame Maud TARNOT", 
+   "Monsieur Igor BILIMOFF"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Igor BILIMOFF (D\u00e9l\u00e9gu\u00e9 g\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "Syndycat professionnel", 
+  "id": 169, 
+  "Objectif et mission": "L'UNICEM r\u00e9unit la quasi-totalit\u00e9 des industries extractives de min\u00e9raux (granulats, pierre naturelle, min\u00e9raux industriels, craie...) et les fabricants de divers mat\u00e9raiux de construction (b\u00e9ton pr\u00eat \u00e0 l'emploi, mortier, pl\u00e2tre...). Les 2 700 entreprises qu'elle f\u00e9d\u00e8re emploient 38 000 salari\u00e9s et r\u00e9alisent un chiffre d'affaires de 10,5 milliards d'euros. Avec celles des autres activit\u00e9s qui composent la fili\u00e8re des mat\u00e9riaux min\u00e9raux de construction d(ciment, pr\u00e9fabrication b\u00e9ton, tuiles et briques), elles approvisionnent les entreprises et les artisans du b\u00e2timent et des travaux publics, secteur qui repr\u00e9sente plus d'1 million d'emplois et font travailler 25 \u00e0 30 000 travailleurs d\u00e9di\u00e9s. Fili\u00e8re 100 % locale, l\u2019activit\u00e9 extractive est largement implant\u00e9e en milieux rural et p\u00e9ri-urbain. Ses activit\u00e9s sont tr\u00e8s encadr\u00e9es et la profession a d\u00e9velopp\u00e9, depuis 1992, une Charte volontaire de bonnes pratiques environnementales.", 
+  "Acronyme": "UNICEM", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 108, 
+  "Autres sources": {
+   "Dons": "", 
+   "Cotisations des membres": 6700000, 
+   "Autres": "", 
+   "Commercialisation de produits, services": ""
+  }, 
+  "Budget global": 6700000, 
+  "Raison sociale": "Union nationale des industries de carri\u00e8res et mat\u00e9riaux de construction", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "L'UNICEM est membre du MEDEF. elle appartient \u00e9galement \u00e0 l'AIMCC (Association des industries des produits de construction). Ses syndicats adh\u00e9rents sont repr\u00e9sent\u00e9s au niveau europ\u00e9en par les organisations pertinentes (Union Europ\u00e9enne des Producteurs de Granulats, European Ready Mixed Concrete Organisation, Industrial Minerals Association, F\u00e9d\u00e9ration Europ\u00e9enne et Internationale des Industries de la Pierre Naturelle...).", 
+  "Adresse et t\u00e9l\u00e9phone": [
+   "3 rue Alfred Roll 75849 Paris cedex 17 France", 
+   "(+33) 1 44 07 47 01"
+  ], 
+  "Dont financement public": "", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://www.unicem.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Auditions aupr\u00e8s de groupes d'\u00e9tudes et rapporteurs. R\u00e9daction et diffusion de courriers, notes et argumentaires. Rendez-vous avec des parlementaires souhaitant \u00eatre inform\u00e9s des probl\u00e9matiques rencontr\u00e9es par le secteur. Suivi des projets de loi ALUR, consommation, formation, biodiversit\u00e9, agriculture, transport, simplification, finances..."
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
