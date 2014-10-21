@@ -42,7 +42,6 @@
    "0 Le BOURG 61600 Saint Patrice du D\u00e9sert France", 
    "(+33) 02 33 30 87 51 et portable 06 37 00 97 29"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Site internet": "http://associationaped.monsite-orange.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
@@ -110,7 +109,7 @@
   "id": 158, 
   "Objectif et mission": "Conseil op\u00e9rationnel sp\u00e9cialis\u00e9 en Recherche et Innovation", 
   "Nombre de personnes employ\u00e9es par l'organisme": 130, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "ACIES CONSULTING GROUP", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 30 000 et 40 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "MEDEF; ANRT", 
@@ -122,7 +121,7 @@
   "Site internet": "http://www.acies-cg.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Envoi de donn\u00e9es chiffr\u00e9es / information sur le Cr\u00e9dit imp\u00f4t recherche (CIR) \u00e0 des d\u00e9put\u00e9s; Diffusion de L'Observatoire du Cr\u00e9dit imp\u00f4t recherche \u00e0 tous les d\u00e9put\u00e9s; Rendez-vous avec des d\u00e9put\u00e9s; R\u00e9ponse \u00e0 des questionnaires sur le Cr\u00e9dit imp\u00f4t recherche / Auditions sur le CIR.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 130, 
    "A l'\u00e9tranger": ""
@@ -142,7 +141,7 @@
   "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
   "id": 101, 
   "Objectif et mission": "Exploitation des trois principaux a\u00e9roports franciliens ( Paris-Charles de Gaulle, Paris-Orly, Paris-La Bourget), de 10 plates-formes d'aviation g\u00e9n\u00e9rale, de l'h\u00e9liport d'Issy-les-Moulineaux -Construction et gestion d'a\u00e9roports \u00e0 l'international \u00e0 travers ses filiales ADPI et ADPM", 
-  "Budget global": 2754000000, 
+  "Budget global": "2.75 milliards d'\u20ac", 
   "Acronyme": "ADP", 
   "Nombre de personnes employ\u00e9es par l'organisme": 9305, 
   "Information financi\u00e8re compl\u00e9mentaire": "S'agissant des co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats exerc\u00e9es par ADP aupr\u00e8s du Parlement, la direction des affaires publiques a \u00e9t\u00e9 cr\u00e9\u00e9e fin 2013. Aussi \u00e0 ce stade, il n'est pas possible d'\u00e9valuer le co\u00fbt de ces activit\u00e9s.", 
@@ -157,7 +156,7 @@
   "Site internet": "http://aeroportsdeparis.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Des invitations sont ponctuellement adress\u00e9es \u00e0 des d\u00e9put\u00e9s (Salon international de l'a\u00e9ronautique et de l'espace du Bourget, visites de plates-formes a\u00e9roportuaires...). Des \u00e9changes ont lieu, \u00e0 notre demande et \u00e0 la demande des d\u00e9put\u00e9s, lors de la pr\u00e9paration et l'examen de textes sur l'aviation, d'auditions.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": 2754000000, 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "2.75 milliards d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 9035, 
    "A l'\u00e9tranger": 270
@@ -182,19 +181,16 @@
   "Acronyme": "AFTRP", 
   "Nombre de personnes employ\u00e9es par l'organisme": 150, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": "", 
-   "Autres": 18917869, 
-   "Commercialisation de produits, services": 66507907
+   "Autres": "18.92 millions d'\u20ac", 
+   "Commercialisation de produits, services": "66.51 millions d'\u20ac"
   }, 
-  "Budget global": 122843314, 
+  "Budget global": "122.84 millions d'\u20ac", 
   "Raison sociale": "Agence fonci\u00e8re et technique de la r\u00e9gion parisienne", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Adresse et t\u00e9l\u00e9phone": [
    "195 rue de Bercy 75582 Paris France", 
    143447672
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.aftrp.org", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 5, 
@@ -257,7 +253,7 @@
   "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
   "id": 28, 
   "Objectif et mission": "COMPAGNIE AERIENNE", 
-  "Budget global": 25000000000, 
+  "Budget global": "25.00 milliards d'\u20ac sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de personnes employ\u00e9es par l'organisme": 52474, 
   "Information financi\u00e8re compl\u00e9mentaire": "", 
   "Raison sociale": "AIR FRANCE", 
@@ -271,7 +267,7 @@
   "Site internet": "http://airfrance.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "AUDITIONS RENDEZ VOUS AVEC DES PARLEMENTAIRES VISITES INSTALLATIONS DE LA COMPAGNIE A ROISSY", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": 25000000000, 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "25.00 milliards d'\u20ac sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 48293, 
    "A l'\u00e9tranger": 4181
@@ -289,7 +285,7 @@
   "id": 26, 
   "Objectif et mission": "activit\u00e9s a\u00e9ronautiques : AIRBUS commercial; AIRBUS Helicopters; AIRBUS Defence & Space : D\u00e9fense ( dissuasions , drones, syst\u00e8mes de communications ), Espace ( fus\u00e9e Ariane et satellites ) avions militaires de mission, S\u00e9curit\u00e9 ( syst\u00e8mes de communications )", 
   "Nombre de personnes employ\u00e9es par l'organisme": 150700, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "AIRBUS Group France", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 250 000 et 300 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "GIFAS / groupement des industries a\u00e9ronautiques et spatiales GICAN / groupement des industries d'armement naval GICAT / groupement des industries d'armement terrestre", 
@@ -304,7 +300,7 @@
    "Annick PERRIMOND- du BREUIL + sa secr\u00e9taire"
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "pr\u00e9sentation de la nouvelle organisation et de la gouvernance d'EADS; auditions dans le cadre de la pr\u00e9paration de la loi de programmation militaire/LPM; auditions par les rapporteurs budg\u00e9taires des commissions D\u00e9fense et Finances / PLF 2014; MEC sur les programmes de d\u00e9fense en coop\u00e9ration;auditions des dirigeants du groupe par les commissions des Affaires \u00e9conomiques et de la d\u00e9fense; visites de sites industriels en Ile de France", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 52150, 
    "A l'\u00e9tranger": 98550
@@ -325,7 +321,7 @@
   "id": 57, 
   "Objectif et mission": "A\u00e9ronautique", 
   "Nombre de personnes employ\u00e9es par l'organisme": 73698, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "AIRBUS SAS", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "Adresse et t\u00e9l\u00e9phone": [
@@ -336,7 +332,7 @@
   "Site internet": "http://www.airbus.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 27366, 
    "A l'\u00e9tranger": 46332
@@ -365,9 +361,7 @@
   "Acronyme": "ALIAPUR", 
   "Nombre de personnes employ\u00e9es par l'organisme": 25, 
   "Autres sources": {
-   "Dons": "", 
    "Cotisations des membres": 60, 
-   "Autres": "", 
    "Commercialisation de produits, services": 5
   }, 
   "Budget global": 65, 
@@ -378,7 +372,6 @@
    "71 Cours Albert Thomas 69003 LYON FRANCE N\u00e9ant", 
    "(+33) 0437914325"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.aliapur.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
@@ -399,7 +392,7 @@
   "id": 114, 
   "Objectif et mission": "Le groupe Alpiq est le 1er \u00e9nerg\u00e9ticien suisse \u00e0 orientation europ\u00e9enne, actif dans la production, la vente et le n\u00e9goce d'\u00e9nergie ainsi que dans les services \u00e9nerg\u00e9tiques. Alpiq Energie France SAS, fournisseur d'\u00e9lectricit\u00e9 et de gaz naturel, est pr\u00e9sent en France depuis 2002. Il propose \u00e9galement des offres d'efficacit\u00e9 \u00e9nerg\u00e9tique et d'agr\u00e9gation de capacit\u00e9s d'effacement et de production. Alpiq est \u00e9galement un acteur de l'\u00e9quilibre \u00e9lectrique fran\u00e7ais avec un parc de production compos\u00e9 d'\u00e9olien, d'hydro\u00e9lectricit\u00e9, de nucl\u00e9aire et d'une centrale \u00e0 cycle combin\u00e9 gaz situ\u00e9e dans l'Allier (3CB SAS).", 
   "Nombre de personnes employ\u00e9es par l'organisme": 8066, 
-  "Budget global": 7683000000, 
+  "Budget global": "7.68 milliards d'\u20ac", 
   "Raison sociale": "Alpiq Energie France", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Membre de l'Association Ind\u00e9pendante Fran\u00e7aise de l'Electricit\u00e9 et du Gaz (AFIEG) - 3CB SAS est membre associ\u00e9 de l'Union Fran\u00e7aise de l'Electricit\u00e9 (UFE)", 
@@ -417,7 +410,7 @@
    "G\u00e9ry Lecerf repr\u00e9sente aupr\u00e8s de l'Assembl\u00e9e nationale les activit\u00e9s d'Alpiq en France."
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Suivi des travaux de la Commission des affaires \u00e9conomiques en mati\u00e8re d'\u00e9lectricit\u00e9 et de gaz - Suivi de la proposition de loi visant \u00e0 pr\u00e9parer la transition vers un syst\u00e8me \u00e9nerg\u00e9tique sobre, du PLF 2014 et du PLFR 2013, du projet de loi Consommation - Audition dans le cadre du rapport d'information sur l'hydro\u00e9lectricit\u00e9", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": 7683000000
+  "Chiffre d'affaire de l'entreprise ou du groupe": "7.68 milliards d'\u20ac"
  }, 
  {
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/52", 
@@ -557,9 +550,7 @@
   "Nombre de personnes employ\u00e9es par l'organisme": 3, 
   "Autres sources": {
    "Dons": 20000, 
-   "Cotisations des membres": 180000, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": 180000
   }, 
   "Budget global": 200000, 
   "Raison sociale": "April", 
@@ -569,7 +560,6 @@
    "2 place Sainte-Opportune 75001 Paris France", 
    "(+33) 178769280"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Site internet": "http://www.april.org", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 10, 
@@ -684,12 +674,9 @@
   "Acronyme": "ASF", 
   "Nombre de personnes employ\u00e9es par l'organisme": 32, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 5301518, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": "5.30 millions d'\u20ac"
   }, 
-  "Budget global": 5301853, 
+  "Budget global": "5.30 millions d'\u20ac", 
   "Raison sociale": "ASF Association fran\u00e7aise des soci\u00e9t\u00e9s financi\u00e8res", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 40 000 et 50 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "MEDEF, AFECEI Pour l'Europe : Eurofinas, Leaseurope, EU Federation", 
@@ -697,7 +684,6 @@
    "24 avenue de la Grande Arm\u00e9e Paris cedex 17 75854 PARIS FRANCE", 
    "(+33) 01.53.81.51.51"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.asf.france.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
@@ -716,19 +702,17 @@
   "Acronyme": "CCI France", 
   "Nombre de personnes employ\u00e9es par l'organisme": 179, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": "", 
-   "Autres": 1238180, 
-   "Commercialisation de produits, services": 5123344
+   "Autres": "1.24 millions d'\u20ac", 
+   "Commercialisation de produits, services": "5.12 millions d'\u20ac"
   }, 
-  "Budget global": 30669781, 
+  "Budget global": "30.67 millions d'\u20ac", 
   "Raison sociale": "Assembl\u00e9e des chambres fran\u00e7aises de commerce et d'industrie", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Adresse et t\u00e9l\u00e9phone": [
    "46 avenue de la Grande Arm\u00e9e 75017 Paris France", 
    "01.40.69.38.41"
   ], 
-  "Dont financement public": 24308257, 
+  "Dont financement public": "24.31 millions d'\u20ac", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
   "Site internet": "http://www.cci.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
@@ -748,7 +732,6 @@
   "Acronyme": "APCA", 
   "Nombre de personnes employ\u00e9es par l'organisme": 140, 
   "Autres sources": {
-   "Dons": "", 
    "Autres": 5
   }, 
   "Budget global": 27, 
@@ -784,19 +767,16 @@
   "Acronyme": "APCMA", 
   "Nombre de personnes employ\u00e9es par l'organisme": 120, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": "", 
-   "Autres": 2600000, 
-   "Commercialisation de produits, services": ""
+   "Autres": "2.60 millions d'\u20ac"
   }, 
-  "Budget global": 13000000, 
+  "Budget global": "13.00 millions d'\u20ac", 
   "Raison sociale": "Assembl\u00e9e Permanente des Chambres de M\u00e9tiers et de l'Artisanat", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
   "Adresse et t\u00e9l\u00e9phone": [
    "12 Avenue Marceau n\u00e9ant 75008 PARIS France", 
    144431000
   ], 
-  "Dont financement public": 10400000, 
+  "Dont financement public": "10.40 millions d'\u20ac", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
   "Site internet": "http://www.artisanat.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 4, 
@@ -827,7 +807,6 @@
   "Autres sources": {
    "Dons": 500, 
    "Cotisations des membres": 1000, 
-   "Autres": "", 
    "Commercialisation de produits, services": 400
   }, 
   "Budget global": 3700, 
@@ -876,10 +855,8 @@
   "Acronyme": "ACI", 
   "Nombre de personnes employ\u00e9es par l'organisme": 1, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 100725, 
    "Autres": 1502, 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": 100725
   }, 
   "Budget global": 102284, 
   "Raison sociale": "Association des Conseils en Innovation", 
@@ -889,7 +866,6 @@
    "8 Jean Goujon aucun 75008 PARIS FRANCE aucun", 
    "(+33) 0621243491"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Site internet": "http://www.asso-conseils-innovation.org", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 4, 
@@ -917,19 +893,17 @@
   "Acronyme": "AMF", 
   "Nombre de personnes employ\u00e9es par l'organisme": 75, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 8950000, 
-   "Autres": "", 
-   "Commercialisation de produits, services": 3210000
+   "Cotisations des membres": "8.95 millions d'\u20ac", 
+   "Commercialisation de produits, services": "3.21 millions d'\u20ac"
   }, 
-  "Budget global": 11627099, 
+  "Budget global": "11.63 millions d'\u20ac", 
   "Raison sociale": "Association des Maires de France", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
   "Adresse et t\u00e9l\u00e9phone": [
    "41 Quai d'Orsay 75343 cedex 07 75343 Paris France", 
    144181414
   ], 
-  "Dont financement public": 8950000, 
+  "Dont financement public": "8.95 millions d'\u20ac", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Site internet": "http://www.amf.asso.fr/", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 35, 
@@ -964,10 +938,9 @@
   "Autres sources": {
    "Dons": 335821, 
    "Cotisations des membres": 666224, 
-   "Autres": "", 
    "Commercialisation de produits, services": 89183
   }, 
-  "Budget global": 1146119, 
+  "Budget global": "1.15 millions d'\u20ac", 
   "Raison sociale": "Association des petites villes de France", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "300000", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "L'APVF anime le r\u00e9seau des petites villes fran\u00e7aises. L'APVF est membre de la maison europ\u00e9enne des pouvoirs locaux fran\u00e7ais (MEPLF). L'APVF est membre du r\u00e9seau europ\u00e9en des petites villes.", 
@@ -975,7 +948,6 @@
    "42 Boulevard Raspail 75007 Paris France", 
    145440083
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Site internet": "http://www.apvf.asso.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 5, 
@@ -1003,17 +975,13 @@
   "Objectif et mission": "L'AFER est une association d'\u00e9pargnants libre et ind\u00e9pendante, dont l'objectif est de paremettre \u00e0 ses 730.000 adh\u00e9rents de se constituer une \u00e9pargne dans le meilleur cadre fiscal et juridique possible et se procurer ainsi un outil patrimonial qui leur permet de se prot\u00e9ger des al\u00e9as de la vie et de leur assurer un compl\u00e9ment pour leur propre retraite.", 
   "Acronyme": "AFER", 
   "Nombre de personnes employ\u00e9es par l'organisme": 140, 
-  "Autres sources": {
-   "Dons": ""
-  }, 
-  "Budget global": 4000000, 
+  "Budget global": "4.00 millions d'\u20ac", 
   "Raison sociale": "Association fran\u00e7aise d'\u00e9pargne et de retraite", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 30 000 et 40 000 \u20ac", 
   "Adresse et t\u00e9l\u00e9phone": [
    "39 de Ch\u00e2teaudun 75009 Paris France", 
    "(+33) 1 40 82 24 24"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Site internet": "http://afer.asso.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
@@ -1047,10 +1015,7 @@
   "Acronyme": "AFCL", 
   "Nombre de personnes employ\u00e9es par l'organisme": "", 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 15200, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": 15200
   }, 
   "Budget global": 15200, 
   "Raison sociale": "Association Fran\u00e7aise des Conseils en Lobbying et Affaires Publiques", 
@@ -1059,7 +1024,6 @@
    "9 rue de Villersexel 75007 PARIS FRANCE L\u2019adresse du si\u00e8ge de l\u2019association est celle de la soci\u00e9t\u00e9 du Pr\u00e9sident en exercice. Elle change donc en fonction du Pr\u00e9sident.", 
    "(+33) 1 53 63 14 80"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.afcl.net", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 6, 
@@ -1094,12 +1058,9 @@
   "Acronyme": "AFEP", 
   "Nombre de personnes employ\u00e9es par l'organisme": 25, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 5992000, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": "5.99 millions d'\u20ac"
   }, 
-  "Budget global": 5992000, 
+  "Budget global": "5.99 millions d'\u20ac", 
   "Raison sociale": "Association Fran\u00e7aise des Entreprises Priv\u00e9es", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Membre de l'association europ\u00e9enne des soci\u00e9t\u00e9s c\u00f4t\u00e9es, EUROPEANISSUEURS (www.europeanissuers.eu)", 
@@ -1107,7 +1068,6 @@
    "11 Avenue Delcass\u00e9 75008 PARIS FRANCE", 
    143596535
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Site internet": "http://www.afep.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 12, 
@@ -1134,10 +1094,7 @@
   "Acronyme": "AFIEG", 
   "Nombre de personnes employ\u00e9es par l'organisme": "", 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 200000, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": 200000
   }, 
   "Budget global": 200000, 
   "Raison sociale": "Association fran\u00e7aise ind\u00e9pendante de l\u2019\u00e9lectricit\u00e9 et du gaz", 
@@ -1146,7 +1103,6 @@
    "151 boulevard Haussmann 75008 Paris France", 
    "(+33) 1 45 63 68 16"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.afieg.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
@@ -1177,7 +1133,6 @@
   "Autres sources": {
    "Dons": 2000, 
    "Cotisations des membres": 7256, 
-   "Autres": "", 
    "Commercialisation de produits, services": 5050
   }, 
   "Budget global": 14306, 
@@ -1185,7 +1140,6 @@
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "L'ANAJ-IHEDN est membres de l'UNION-IHEDN (F\u00e9d\u00e9ration des association de l'IHEDN)", 
   "Adresse et t\u00e9l\u00e9phone": "1 Place Joffre Case 41 75007 Paris France Ecole Militaire - Case 41 - 1 Place Joffre, Paris 7e", 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Site internet": "http://www.anaj-ihedn.org", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
@@ -1213,12 +1167,9 @@
   "Acronyme": "ANIA", 
   "Nombre de personnes employ\u00e9es par l'organisme": 21, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 4400000, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": "4.40 millions d'\u20ac"
   }, 
-  "Budget global": 4400000, 
+  "Budget global": "4.40 millions d'\u20ac", 
   "Raison sociale": "Association nationale des industries alimentaires", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "L'ANIA est membre du MEDEF et de la CGPME Au niveau europ\u00e9en, l'ANIA est membre de FoodDrinkEurope", 
@@ -1226,7 +1177,6 @@
    "21 rue Leblanc 75015 PARIS FRANCE", 
    "(+33) 01 53 83 86 00"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.ania.net", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
@@ -1254,10 +1204,7 @@
   "Acronyme": "ANOCR", 
   "Nombre de personnes employ\u00e9es par l'organisme": 3, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 97602, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": 97602
   }, 
   "Budget global": 255930, 
   "Raison sociale": "Association Nationale des officiers de Carri\u00e8re en Retraite", 
@@ -1267,7 +1214,6 @@
    "15 Cler 75007 Paris France aucune", 
    144189218
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Site internet": "http://www.anocr.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
@@ -1295,19 +1241,17 @@
   "Acronyme": "INTERBEV", 
   "Nombre de personnes employ\u00e9es par l'organisme": 44, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 34477000, 
-   "Autres": 5245870, 
-   "Commercialisation de produits, services": ""
+   "Autres": "5.25 millions d'\u20ac", 
+   "Cotisations des membres": "34.48 millions d'\u20ac"
   }, 
-  "Budget global": 41220197, 
+  "Budget global": "41.22 millions d'\u20ac", 
   "Raison sociale": "Association Nationale Interprofessionnelle du B\u00e9tail et des Viandes", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 100 000 et 150 000 \u20ac", 
   "Adresse et t\u00e9l\u00e9phone": [
    "207 de Bercy 75587 Paris France", 
    "(+33) 1 44 87 44 60"
   ], 
-  "Dont financement public": 1742327, 
+  "Dont financement public": "1.74 millions d'\u20ac", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.interbev.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
@@ -1387,10 +1331,7 @@
   "Acronyme": "Plurience", 
   "Nombre de personnes employ\u00e9es par l'organisme": "", 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 300000, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": 300000
   }, 
   "Budget global": 300000, 
   "Raison sociale": "Association Plurience", 
@@ -1400,7 +1341,6 @@
    "7-13 (cabinet Garraud Maillet-Oralia) rue Bucarest 75008 Paris France", 
    "(+33) 660572466"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 5, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Intervention dans le cadre du projet de loi Logement et Urbanisme : Rendez vous avec des membres de la commission \u00e9conomique, de la commission des lois, de la commission des finances et des rapporteurs."
@@ -1457,7 +1397,7 @@
   "id": 120, 
   "Objectif et mission": "Distribution alimentaire et non alimentaire e-commerce Urbanisme commercial Activit\u00e9 bancaire", 
   "Nombre de personnes employ\u00e9es par l'organisme": 354000, 
-  "Budget global": 16800000000, 
+  "Budget global": "16.80 milliards d'\u20ac", 
   "Raison sociale": "Auchan France", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "FCD", 
@@ -1472,7 +1412,7 @@
   }, 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rendez-vous institutionnels avec des D\u00e9put\u00e9s", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": 16800000000
+  "Chiffre d'affaire de l'entreprise ou du groupe": "16.80 milliards d'\u20ac"
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "155628", 
@@ -1489,19 +1429,15 @@
   "Acronyme": "ACPR", 
   "Nombre de personnes employ\u00e9es par l'organisme": 1042, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 187000000, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": "187.00 millions d'\u20ac"
   }, 
-  "Budget global": 187000000, 
+  "Budget global": "187.00 millions d'\u20ac", 
   "Raison sociale": "Autorit\u00e9 de Contr\u00f4le Prudentiel et de R\u00e9solution", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "155628", 
   "Adresse et t\u00e9l\u00e9phone": [
    "61 Taitbout 75346 Paris cedex 09 France", 
    "33 1 49.95.40.00"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
   "Site internet": "http://www.acpr.banque-france.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
@@ -1523,19 +1459,16 @@
   "Objectif et mission": "Banque Centrale Nationale membre du Syst\u00e8me Europ\u00e9en de Banque Centrale En charge de la r\u00e9glementation bancaire, de la gestion des fichiers des particuliers, du surrendettement des particuliers, de la cotation des entreprises, de la gestion de la monnaie fiduciaire, etc...", 
   "Nombre de personnes employ\u00e9es par l'organisme": 12408, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": "", 
-   "Autres": 1247000000, 
-   "Commercialisation de produits, services": 560000000
+   "Autres": "1.25 milliards d'\u20ac", 
+   "Commercialisation de produits, services": "560.00 millions d'\u20ac"
   }, 
-  "Budget global": 1807000000, 
+  "Budget global": "1.81 milliards d'\u20ac", 
   "Raison sociale": "Banque de France", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "155628", 
   "Adresse et t\u00e9l\u00e9phone": [
    "31 - 39 Croix des Petits Champs 75049 Paris cedex 01 France", 
    "33 1 42.92.42.92"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
   "Site internet": "http://www.banque-france.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
@@ -1728,13 +1661,7 @@
   "Objectif et mission": "La MSA est un organisme de protection sociale qui en couvrant tous les risques (maladie, famille, retraite, AT/MP) est l'interlocuteur unique de l'ensemble de la population agricole: salari\u00e9e et non-salari\u00e9e correspondant \u00e0 27,4 Md\u20ac de prestations vers\u00e9es en 2012.", 
   "Acronyme": "CCMSA", 
   "Nombre de personnes employ\u00e9es par l'organisme": 17000, 
-  "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": "", 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
-  }, 
-  "Budget global": 1350000000, 
+  "Budget global": "1.35 milliards d'\u20ac", 
   "Raison sociale": "Caisse Centrale de la Mutualit\u00e9 Sociale Agricole", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Notamment: UNCAM, HCAAM, CNS, CADES, CSPSA, CCSS, CESE, CAF, CNMCCA, HCF, Gip Info retraite, CNSA, UNIOPSS, FNHD, CNCPH, FNG, FCAATA, AISS, ...", 
@@ -1742,7 +1669,6 @@
    "40 (Les mercuriales) Jean Jaur\u00e8s 93547 BAGNOLET FRANCE", 
    141637777
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
   "Site internet": "http://www.msa.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
@@ -1766,7 +1692,7 @@
   "Objectif et mission": "Distribution \u00e0 dominante alimentaire - Vente \u00e0 distance - Distribution de carburant - Restauration collective - Cr\u00e9dit \u00e0 la consommation - Promotion immobili\u00e8re commerciale et fonci\u00e8re", 
   "Acronyme": "GROUPE CASINO", 
   "Nombre de personnes employ\u00e9es par l'organisme": 319700, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "CASINO GUICHARD PERRACHON", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "F\u00e9d\u00e9ration des entreprises du Commerce et de la Distribution (FCD) F\u00e9d\u00e9ration du commerce de proximit\u00e9 FEVAD F\u00e9d\u00e9ration Fran\u00e7aise de la Franchise (FFF) AFILOG", 
@@ -1778,7 +1704,7 @@
   "Site internet": "http://www.groupe-casino.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 4, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "En 2012 et 2013, le groupe Casino a sollicit\u00e9 des rendez-vous aupr\u00e8s de d\u00e9put\u00e9s sur les projets et propositions de lois concernant son activit\u00e9. Le directeur des relations ext\u00e9rieures a particip\u00e9 \u00e9galement a plusieurs auditions dont une organis\u00e9e par les rapporteurs de la Loi sur la consommation.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 79700, 
    "A l'\u00e9tranger": 240000
@@ -1797,13 +1723,7 @@
   "Objectif et mission": "La CCI Paris Ile-de-France regroupe les CCI des huit d\u00e9partement de la r\u00e9gion. Elle a pour fonction de repr\u00e9senter les int\u00e9r\u00eats de l'industrie, du commerce et des services des 800 000 entreprises de la r\u00e9gion dont l'activit\u00e9 contribue pour 25% du PIB national. Elle contribue au d\u00e9veloppement \u00e9conomique, \u00e0 l'attractivit\u00e9 et \u00e0 l'am\u00e9nagement du territoire. Elle g\u00e8re 25 \u00e9coles qui accueillent 32 400 jeunes et s'est dot\u00e9e d'une fili\u00e8re d'excellence dans le des congr\u00e8s et salons.", 
   "Acronyme": "CCI Paris Ile-de-France", 
   "Nombre de personnes employ\u00e9es par l'organisme": 5200, 
-  "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": "", 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
-  }, 
-  "Budget global": 731000000, 
+  "Budget global": "731.00 millions d'\u20ac", 
   "Raison sociale": "Chambre de commerce et d\u2019industrie de r\u00e9gion Paris Ile-de-France", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 250 000 et 300 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Conform\u00e9ment au code de commerce, la CCI Paris Ile-de-France est repr\u00e9sent\u00e9e au sein de CCI France, \u00e9tablissement public qui regroupe l'ensemble des \u00e9tablissements du r\u00e9seau consulaire fran\u00e7ais.", 
@@ -1811,7 +1731,7 @@
    "27 avenue de Friedland 75382 PARIS Cedex 08 FRANCE", 
    33820012112
   ], 
-  "Dont financement public": 365500000, 
+  "Dont financement public": "365.50 millions d'\u20ac", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.cci-paris-idf.fr/", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
@@ -1839,9 +1759,7 @@
   "Acronyme": "CSFL", 
   "Nombre de personnes employ\u00e9es par l'organisme": 4, 
   "Autres sources": {
-   "Dons": "", 
    "Cotisations des membres": 230520, 
-   "Autres": "", 
    "Commercialisation de produits, services": 5000
   }, 
   "Budget global": 235520, 
@@ -1852,7 +1770,6 @@
    "14 rue de Turbigo 75001 PARIS France E-mail g\u00e9n\u00e9ral : contact@chambresyndicalelevure.com", 
    "(+33) 0145085482"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
   "Site internet": "http://www.chambresyndicalelevure.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
@@ -1872,20 +1789,14 @@
   "id": 173, 
   "Objectif et mission": "Diffusion de concerts/conception d'expositions/d\u00e9veloppement d'une politique \u00e9ducative musicale", 
   "Nombre de personnes employ\u00e9es par l'organisme": 298, 
-  "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": "", 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
-  }, 
-  "Budget global": 39600000, 
+  "Budget global": "39.60 millions d'\u20ac", 
   "Raison sociale": "Cit\u00e9 de la musique/ Salle Pleyel", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Adresse et t\u00e9l\u00e9phone": [
    "221 avenue Jean Jaur\u00e8s 75019 Paris France", 
    144844780
   ], 
-  "Dont financement public": 25000000, 
+  "Dont financement public": "25.00 millions d'\u20ac", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.citedelamusique.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
@@ -1943,20 +1854,14 @@
   "Information financi\u00e8re compl\u00e9mentaire": "", 
   "Acronyme": "Centre National d'Etudes Spatiales", 
   "Nombre de personnes employ\u00e9es par l'organisme": 2400, 
-  "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": "", 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
-  }, 
-  "Budget global": 2000000000, 
+  "Budget global": "2.00 milliards d'\u20ac", 
   "Raison sociale": "CNES", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "200000", 
   "Adresse et t\u00e9l\u00e9phone": [
    "2 Place Maurice Quentin 75039 Paris cedex 01 France -", 
    "(+33) 144767500"
   ], 
-  "Dont financement public": 2000000000, 
+  "Dont financement public": "2.00 milliards d'\u20ac", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.cnes.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
@@ -2046,10 +1951,8 @@
   "Acronyme": "CSF", 
   "Nombre de personnes employ\u00e9es par l'organisme": 2, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 305000, 
    "Autres": 17373, 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": 305000
   }, 
   "Budget global": 322373, 
   "Raison sociale": "Comit\u00e9 des Salines de France", 
@@ -2059,7 +1962,6 @@
    "66 rue La Bo\u00e9tie 75008 Paris France", 
    "(+33) 01 47 66 52 90"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.salines.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
@@ -2092,12 +1994,11 @@
   "Acronyme": "CNEI", 
   "Nombre de personnes employ\u00e9es par l'organisme": 9, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 536000, 
    "Autres": 60000, 
+   "Cotisations des membres": 536000, 
    "Commercialisation de produits, services": 46000
   }, 
-  "Budget global": 1052000, 
+  "Budget global": "1.05 millions d'\u20ac", 
   "Raison sociale": "Comit\u00e9 National des Entreprises d'Insertion", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 30 000 et 40 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Adh\u00e9rent au MEDEF en tant que f\u00e9d\u00e9ration professionnelle Adh\u00e9rent au MOUVES (Mouvement des entrepreneurs sociaux) Adh\u00e9rent \u00e0 l'OBSAR (Observatoire des achats responsables) Adh\u00e9rent \u00e0 AMORCE (association nationale des collectivit\u00e9s, des associations et des entrperises pour la gestion des d\u00e9chets, de l'\u00e9nergie et des r\u00e9seaux de chaleur)", 
@@ -2132,19 +2033,16 @@
   "Acronyme": "CEA", 
   "Nombre de personnes employ\u00e9es par l'organisme": 16100, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": "", 
-   "Autres": 860000000, 
-   "Commercialisation de produits, services": ""
+   "Autres": "860.00 millions d'\u20ac"
   }, 
-  "Budget global": 4300000000, 
+  "Budget global": "4.30 milliards d'\u20ac", 
   "Raison sociale": "Commissariat \u00e0 l'Energie atomique et aux Energies alternatives", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 \u20ac", 
   "Adresse et t\u00e9l\u00e9phone": [
    "b\u00e2timent Si\u00e8ge CEA-Saclay 91191 GIF-sur-Yvette France", 
    "(+33) 0164501000"
   ], 
-  "Dont financement public": 3440000000, 
+  "Dont financement public": "3.44 milliards d'\u20ac", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
   "Site internet": "http://www.cea.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
@@ -2168,20 +2066,14 @@
   "Objectif et mission": "La CRE concourt au bon fonctionnement des march\u00e9s de l'\u00e9lectricit\u00e9 et du gaz naturel au b\u00e9n\u00e9fice des consommateurs finals et en coh\u00e9rence avec les objectifs de la politique \u00e9nerg\u00e9tique.", 
   "Acronyme": "CRE", 
   "Nombre de personnes employ\u00e9es par l'organisme": 128, 
-  "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": "", 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
-  }, 
-  "Budget global": 18939000, 
+  "Budget global": "18.94 millions d'\u20ac", 
   "Raison sociale": "Commission de r\u00e9gulation de l'\u00e9nergie", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "Adresse et t\u00e9l\u00e9phone": [
    "15 rue Pasquier 75008 Paris France", 
    144504100
   ], 
-  "Dont financement public": 18939000, 
+  "Dont financement public": "18.94 millions d'\u20ac", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Auditions par les commissions comp\u00e9tentes, missions d'informations et commissions d'enqu\u00eates. Envoi du rapport annuel de la CRE et des autres publications de la CRE."
@@ -2198,13 +2090,7 @@
   "Objectif et mission": "protection des donn\u00e9es personnelles conform\u00e9ment \u00e0 la loi n\u00b078-17 du 6 janvier 1978 modifi\u00e9e", 
   "Acronyme": "CNIL", 
   "Nombre de personnes employ\u00e9es par l'organisme": 178, 
-  "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": "", 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
-  }, 
-  "Budget global": 16926309, 
+  "Budget global": "16.93 millions d'\u20ac", 
   "Raison sociale": "Commission Nationale de l'Informatique et des Libert\u00e9s", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "G 29 (groupe des \"CNILs\" europ\u00e9ennes)", 
@@ -2212,7 +2098,7 @@
    "8 rue Vivienne CS 30 223 75083 Paris cedex 02 France", 
    153732222
   ], 
-  "Dont financement public": 16926309, 
+  "Dont financement public": "16.93 millions d'\u20ac", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.cnil.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
@@ -2295,12 +2181,10 @@
   "Acronyme": "CAPEB", 
   "Nombre de personnes employ\u00e9es par l'organisme": 90, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 7000000, 
-   "Autres": "", 
-   "Commercialisation de produits, services": 14000000
+   "Cotisations des membres": "7.00 millions d'\u20ac", 
+   "Commercialisation de produits, services": "14.00 millions d'\u20ac"
   }, 
-  "Budget global": 21000000, 
+  "Budget global": "21.00 millions d'\u20ac", 
   "Raison sociale": "Conf\u00e9d\u00e9ration de l'Artisanat et des Petites Entreprises du B\u00e2timent", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "UPA ( Union Professionnelle Artisanale)", 
@@ -2308,7 +2192,6 @@
    "2 rue B\u00e9ranger 75003 PARIS France", 
    153605031
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.capeb.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
@@ -2330,7 +2213,7 @@
   "Objectif et mission": "Une banque de d\u00e9tail de proximit\u00e9 Ses enseignes, Cr\u00e9dit Mutuel et CIC, constituent un r\u00e9seau de pr\u00e8s de 6 000 points de vente. Le groupe met son expertise dans tous les m\u00e9tiers de la finance au service de 30,1 millions de clients et 7,3 millions de soci\u00e9taires. Le groupe Cr\u00e9dit Mutuel d\u00e9tient en France 15 % du march\u00e9 des d\u00e9p\u00f4ts et 17 % du march\u00e9 des cr\u00e9dits distribu\u00e9s par les banques. - acteur majeur du financement de l\u2019habitat - 1er bancassureur en Iard - 3e en Europe pour le cr\u00e9dit \u00e0 la consommation - banquier d\u2019un professionnel sur trois - premi\u00e8re banque partenaire des associations - l\u2019autre banque de l\u2019agriculture\u2026", 
   "Acronyme": "CNCM", 
   "Nombre de personnes employ\u00e9es par l'organisme": 80000, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "Conf\u00e9d\u00e9ration nationale du Cr\u00e9dit Mutuel", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Principalement des F\u00e9d\u00e9rations sectorielles bancaires et coop\u00e9ratives. - GEBC (European association of cooperative banks) - FBF (F\u00e9d\u00e9ration bancaire fran\u00e7aise) - Coop FR", 
@@ -2345,7 +2228,7 @@
    "Les diff\u00e9rents dirigeants responsables du Groupe peuvent \u00eatre amen\u00e9s sur demande du Parlement \u00e0 participer \u00e0 des auditions."
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Suivi des travaux parlementaires li\u00e9s \u00e0 la loi bancaire, la loi consommation, la loi ESS, les lois de finances.... Participation \u00e0 des auditions.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 73000, 
    "A l'\u00e9tranger": 7000
@@ -2376,12 +2259,10 @@
   "Acronyme": "CdCF", 
   "Nombre de personnes employ\u00e9es par l'organisme": 5, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 778614, 
    "Autres": 312500, 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": 778614
   }, 
-  "Budget global": 1091114, 
+  "Budget global": "1.09 millions d'\u20ac", 
   "Raison sociale": "Conseil du Commerce de France", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 20 000 et 30 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Medef et EUROCOMMERCE", 
@@ -2389,7 +2270,6 @@
    "40 boulevard Malesherbes 75008 PARIS FRANCE", 
    140150303
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.cdcf.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
@@ -2420,12 +2300,11 @@
   "Acronyme": "CNOP", 
   "Nombre de personnes employ\u00e9es par l'organisme": 200, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 33500000, 
    "Autres": 600000, 
+   "Cotisations des membres": "33.50 millions d'\u20ac", 
    "Commercialisation de produits, services": 800000
   }, 
-  "Budget global": 35000000, 
+  "Budget global": "35.00 millions d'\u20ac", 
   "Raison sociale": "Conseil National de l'Ordre des Pharmaciens", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Comit\u00e9 de liaison inter-ordres (association r\u00e9unissant 16 Ordres)", 
@@ -2433,7 +2312,6 @@
    "4 avenue Ruysda\u00ebl 75379 Paris cedex 08 France", 
    156213434
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "2012-2013", 
   "Site internet": "http://www.ordre.pharmacien.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
@@ -2466,10 +2344,7 @@
   "Acronyme": "CNAFAL", 
   "Nombre de personnes employ\u00e9es par l'organisme": 5, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 30500, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": 30500
   }, 
   "Budget global": 330000, 
   "Raison sociale": "Conseil National des Associations Familiales La\u00efques", 
@@ -2513,10 +2388,7 @@
   "Acronyme": "CNB", 
   "Nombre de personnes employ\u00e9es par l'organisme": 55, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 310, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": 310
   }, 
   "Budget global": 17, 
   "Raison sociale": "CONSEIL NATIONAL DES BARREAUX", 
@@ -2563,7 +2435,7 @@
    "Autres": 64830, 
    "Commercialisation de produits, services": 48670
   }, 
-  "Budget global": 2000000, 
+  "Budget global": "2.00 millions d'\u20ac", 
   "Raison sociale": "CONSERVATOIRE D'ESPACES NATURELS DU LIMOUSIN", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Le CEN Limousin est administrateur de la F\u00e9d\u00e9ration des Conservatoires d'espaces naturels (FCEN) , qui f\u00e9d\u00e8re 22 Conservatoires m\u00e9tropolitains et ultra marins. Il est \u00e9galement administrateur du Fonds de dotation cr\u00e9\u00e9 par la FCEN.", 
@@ -2571,7 +2443,7 @@
    "6 Ruelle du Theil 87510 SAINT-GENCE FRANCE", 
    "(+33) 05 55 03 29 07"
   ], 
-  "Dont financement public": 1871000, 
+  "Dont financement public": "1.87 millions d'\u20ac", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Site internet": "http://www.conservatoirelimousin.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
@@ -2597,12 +2469,10 @@
   "Objectif et mission": "Coop de France, organisation unitaire de la Coop\u00e9ration agricole , est pr\u00e9sid\u00e9e par Philippe Mangin. Elle regroupe, via leurs f\u00e9d\u00e9rations, les 2 800 entreprises coop\u00e9ratives agricoles fran\u00e7aises dans tous les secteurs de production: lait , viande, c\u00e9r\u00e9ales, vin, fruits et l\u00e9gumes, ins\u00e9mination animale, etc Coop de France repr\u00e9sente les coop\u00e9ratives aupr\u00e8s des Institutions et des Pouvoirs Publics, s'emploie \u00e0 les d\u00e9fendre sur les plans: social, juridique, et \u00e0 faire conna\u00eetre les sp\u00e9cificit\u00e9s du statut coop\u00e9ratif.", 
   "Nombre de personnes employ\u00e9es par l'organisme": 60, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 6251502, 
-   "Autres": 1970576, 
-   "Commercialisation de produits, services": ""
+   "Autres": "1.97 millions d'\u20ac", 
+   "Cotisations des membres": "6.25 millions d'\u20ac"
   }, 
-  "Budget global": 9821513, 
+  "Budget global": "9.82 millions d'\u20ac", 
   "Raison sociale": "Coop de France", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Coop de France est membre de la CNMCCA, Conf\u00e9deration nationale de la Mutualit\u00e9, du Cr\u00e9dit et de la Coop\u00e9ration agricole. Coop de France fait partie de Coop.FR, l'organisme repr\u00e9sentatif du mouvement coop\u00e9ratif fran\u00e7ais.", 
@@ -2610,7 +2480,7 @@
    "43 rue Sedaine 75538 Paris Cedex France", 
    "(+33) 0144175700"
   ], 
-  "Dont financement public": 1599435, 
+  "Dont financement public": "1.60 millions d'\u20ac", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
   "Site internet": "http://www.coopdefrance.coop", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
@@ -2632,7 +2502,7 @@
   "Objectif et mission": "Organe central du Groupe Cr\u00e9dit Agricole (art. L512-47 et s. du code mon\u00e9taire et financier), Cr\u00e9dit Agricole SA contr\u00f4le \u00e9galement les grandes filiales m\u00e9tiers du Groupe : Cr\u00e9dit Agricole Assurances, Amundi (gestion d'actifs), CA-CIB ( banque de financements et d'investissements), LCL (banque de d\u00e9tail), CA-CF (cr\u00e9dit \u00e0 la consommation), CACEIS (d\u00e9positaire-conservateur)...", 
   "Acronyme": "CAsa", 
   "Nombre de personnes employ\u00e9es par l'organisme": 78000, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "Cr\u00e9dit Agricole SA", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "F\u00e9d\u00e9ration Bancaire Fran\u00e7aise, F\u00e9d\u00e9ration Fran\u00e7aise des Soci\u00e9t\u00e9s d'Assurances, Association des Soci\u00e9t\u00e9s Financi\u00e8res, Association Fran\u00e7aise des March\u00e9s Financiers, Association Fran\u00e7aise des Professionnels des titres, Paris Europlace, etc.", 
@@ -2644,7 +2514,7 @@
   "Site internet": "http://credit-agricole.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 4, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Les activit\u00e9s de repr\u00e9sentation d'int\u00e9r\u00eat de Cr\u00e9dit Agricole SA en 2013 ont plus particuli\u00e8rement \u00e9t\u00e9 orient\u00e9es autour de l'adoption de la loi de s\u00e9paration et de r\u00e9gulation des activit\u00e9s bancaires du 26 juillet 2013 : rencontre avec les rapporteurs (\u00e0 notre initiative ou \u00e0 la leur) et auditions.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 40000, 
    "A l'\u00e9tranger": 38000
@@ -2707,7 +2577,7 @@
   "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
   "id": 139, 
   "Objectif et mission": "Industrie de D\u00e9fense, Energie", 
-  "Budget global": 3300000000, 
+  "Budget global": "3.30 milliards d'\u20ac sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de personnes employ\u00e9es par l'organisme": 13018, 
   "Information financi\u00e8re compl\u00e9mentaire": "", 
   "Raison sociale": "DCNS", 
@@ -2724,7 +2594,7 @@
    "Conseiller Affaires Europ\u00e9ennes d\u00e9clar\u00e9 au registre du Parlement Europ\u00e9en"
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": 3300000000, 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "3.30 milliards d'\u20ac sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 12294, 
    "A l'\u00e9tranger": 724
@@ -2787,7 +2657,7 @@
   "id": 69, 
   "Objectif et mission": "Fond\u00e9e en 1995 \u00e0 San Jos\u00e9, ebay permet d'acheter et de vendre dans presque tous les pays du Monde. eBay inc. offre une plateforme de commerce mondial o\u00f9 des marchands de toute taille peuvent proposer leurs produits et un service de paiements gr\u00e2ce \u00e0 sa fili\u00e8re PayPal. PayPal permet une transaction financi\u00e8re en toute s\u00e9curit\u00e9. eBay INC. a une autre filiale en France, Shopping.fr.", 
   "Nombre de personnes employ\u00e9es par l'organisme": 30125, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "eBay.fr", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "eBay/Paypal est membre - de la Fevad, f\u00e9d\u00e9ration du e-commerce et de la vente \u00e0 distance; - de l'ASIC, association des services internet communautaires, - et de l'ACSEL, association de l'\u00e9conomie num\u00e9rique. Emmanuelle Garault est \u00e9galement membre de l'association BASE, association r\u00e9unissant des responsables des affaires institutionnelles en France.", 
@@ -2802,7 +2672,7 @@
    "Emmanuelle Garault repr\u00e9sente l'ensemble des activit\u00e9s du groupe pr\u00e9sentes en France: eBay.fr, PayPal et Shopping.fr"
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "R\u00e9union de travail avec les d\u00e9put\u00e9s -Participation \u00e0 des auditions", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 125, 
    "A l'\u00e9tranger": 30000
@@ -2824,7 +2694,7 @@
   "id": 149, 
   "Objectif et mission": "Filiale la Caisse des D\u00e9p\u00f4ts, Egis est un groupe de conseil et d\u2019ing\u00e9nierie dans les domaines des transports, de la ville, du b\u00e2timent, de l\u2019industrie, de l\u2019eau, de l\u2019environnement et de l\u2019\u00e9nergie.", 
   "Nombre de personnes employ\u00e9es par l'organisme": 11700, 
-  "Budget global": 881000000, 
+  "Budget global": "881.00 millions d'\u20ac sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "EGIS (groupe)", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "75000", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Egis est membre de plusieurs associations, notamment de SYNTEC Ing\u00e9nierie, o\u00f9 elle dispose de deux si\u00e8ges au Conseil d'Administration et est pr\u00e9sente dans les bureaux des Comit\u00e9s (infrastucture, b\u00e2timent, industrie et \u00e9nergie, g\u00e9otechnique, environnement et biodiversit\u00e9).", 
@@ -2839,7 +2709,7 @@
    "Le nombre de personnes est variable en fonction des sujets, et de leur expertise personnelle."
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Transports et logistique, b\u00e2timent, travaux publics, immobilier, habitat, logement, politique de la ville, industrie, budget et finances publiques, environnement, \u00e9cologie, d\u00e9veloppement durable, \u00e9nergie et eau.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": 881000000, 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "881.00 millions d'\u20ac sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 4600, 
    "A l'\u00e9tranger": 7100
@@ -2902,12 +2772,10 @@
   "Acronyme": "EGF BTP", 
   "Nombre de personnes employ\u00e9es par l'organisme": 9, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 2160368, 
    "Autres": 724974, 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": "2.16 millions d'\u20ac"
   }, 
-  "Budget global": 2885342, 
+  "Budget global": "2.89 millions d'\u20ac", 
   "Raison sociale": "Entreprises g\u00e9n\u00e9rales de France BTP", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "FFB, FNTP, Plan B\u00e2timent Durable, Medef au travers de la FFB, Agence Qualit\u00e9 Construction, Afnor Nous sommes adh\u00e9rents de la FFB et de la FNTP ou nous sommes repr\u00e9sent\u00e9s au Bureau et au Conseil d'Administration. Nous sommes au Bureau du Plan B\u00e2timent Durable qui suit et est force de proposition pour la transition \u00e9nerg\u00e9tique. A l'Afnor et \u00e0 l'AQC nous sommes adh\u00e9rents et suivons toutes les questions de r\u00e9glementation technique. Nous sommes pr\u00e9sents au Comit\u00e9 de la Commande publique du Medef et \u00e0 la Commission d\u00e9veloppement durable. Nous sommes membres de l'OEAP de Bercy.", 
@@ -2915,7 +2783,6 @@
    "9 Rue La P\u00e9rouse 75784 Paris Cedex 16 75016 Paris France Nous avons 14 d\u00e9l\u00e9gations r\u00e9gionales pr\u00e9sid\u00e9es par des repr\u00e9sentants de nos entreprises adh\u00e9rentes.", 
    "(+33) 01 40 69 52 83"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.egfbtp.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
@@ -3073,12 +2940,9 @@
   "Acronyme": "FBF", 
   "Nombre de personnes employ\u00e9es par l'organisme": 115, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 22000000, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": "22.00 millions d'\u20ac"
   }, 
-  "Budget global": 22000000, 
+  "Budget global": "22.00 millions d'\u20ac", 
   "Raison sociale": "F\u00e9d\u00e9ration Bancaire Fran\u00e7aise", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 250 000 et 300 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "MEDEF AFECEI", 
@@ -3086,7 +2950,6 @@
    "18 rue La Fayette 0 75440 Paris cedex 09 France", 
    "01.48.00.52.52"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.fbf.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
@@ -3117,12 +2980,11 @@
   "Acronyme": "FHP", 
   "Nombre de personnes employ\u00e9es par l'organisme": 27, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 3700000, 
    "Autres": 700000, 
+   "Cotisations des membres": "3.70 millions d'\u20ac", 
    "Commercialisation de produits, services": 600000
   }, 
-  "Budget global": 5000000, 
+  "Budget global": "5.00 millions d'\u20ac", 
   "Raison sociale": "FEDERATION DE L'HOSPITALISATION PRIVEE", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "MEDEF, CGPME, Union Europ\u00e9enne de l'Hospitalisation priv\u00e9e (UEHP)", 
@@ -3130,7 +2992,6 @@
    "81 Rue de Monceau 75008 PARIS FRANCE", 
    "(+33) 0153835656"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.fhp.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
@@ -3161,10 +3022,8 @@
   "Acronyme": "FCJPE", 
   "Nombre de personnes employ\u00e9es par l'organisme": 1, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 76000, 
    "Autres": 132000, 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": 76000
   }, 
   "Budget global": 206000, 
   "Raison sociale": "F\u00e9d\u00e9ration des commerces sp\u00e9cialistes des jouets et des produits de l'Enfant", 
@@ -3174,7 +3033,6 @@
    "45 rue des petites Ecuries 75010 PARIS FRANCE", 
    "(+33) 1 60 43 45 91"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://fcjpe.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
@@ -3204,11 +3062,6 @@
   "Objectif et mission": "La FEDOM s'int\u00e9resse \u00e0 toutes les dispositions \u00e9conomiques qui concernent l'Outre-mer. Elle s'implique dans l'\u00e9laboration des textes qui concernent le d\u00e9veloppement \u00e9conomique de l'Outre-mer. Elle est force de proposition aupr\u00e8s des pouvoirs publics pour am\u00e9liorer autant que possible les projets concernant l'Outre-mer.", 
   "Acronyme": "LA FEDOM", 
   "Nombre de personnes employ\u00e9es par l'organisme": 3, 
-  "Autres sources": {
-   "Dons": "", 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
-  }, 
   "Budget global": 398813, 
   "Raison sociale": "F\u00e9d\u00e9ration des Entreprises d'outre-mer", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
@@ -3217,7 +3070,6 @@
    "3 Rue de l'Arriv\u00e9e 196 75015 Paris France TOUR CIT - 7\u00e8me \u00e9tage - bureau 723", 
    "(+33) 0145672163"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.fedom.org", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
@@ -3251,12 +3103,10 @@
   "Acronyme": "FEDEREC", 
   "Nombre de personnes employ\u00e9es par l'organisme": 13, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 1910000, 
-   "Autres": "", 
+   "Cotisations des membres": "1.91 millions d'\u20ac", 
    "Commercialisation de produits, services": 40000
   }, 
-  "Budget global": 2100000, 
+  "Budget global": "2.10 millions d'\u20ac", 
   "Raison sociale": "F\u00e9d\u00e9ration des Entreprises du Recyclage", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "FEDEREC est membre actif de la CGPME, notamment dans le cadre de la Commission D\u00e9veloppement Durable", 
@@ -3295,10 +3145,8 @@
   "Acronyme": "FMB", 
   "Nombre de personnes employ\u00e9es par l'organisme": 3, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 537858, 
    "Autres": 51000, 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": 537858
   }, 
   "Budget global": 588858, 
   "Raison sociale": "F\u00e9d\u00e9ration des magasins de bricolage et de l'am\u00e9nagement de la maison", 
@@ -3308,7 +3156,6 @@
    "5 Rue de Maubeuge 75009 PARIS France", 
    "(+33) 0142821500"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
   "Site internet": "http://www.fmbricolage.org", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
@@ -3383,12 +3230,11 @@
   "Acronyme": "FNA", 
   "Nombre de personnes employ\u00e9es par l'organisme": 11, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 1400000, 
    "Autres": 100000, 
+   "Cotisations des membres": "1.40 millions d'\u20ac", 
    "Commercialisation de produits, services": 300000
   }, 
-  "Budget global": 1800000, 
+  "Budget global": "1.80 millions d'\u20ac", 
   "Raison sociale": "FEDERATION DU NEGOCE AGRICOLE", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 40 000 et 50 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "F\u00e9d\u00e9ration du Commerce Agricole et Agroalimentaire (FC2A): membre fondateur COCERAL : association europ\u00e9enne sectorielle Membre du coll\u00e8ge Commercialisation des interprofessions (Interc\u00e9r\u00e9ales, ONIDOL, UNIP, GNIS)", 
@@ -3396,7 +3242,6 @@
    "77 RUE RAMBUTEAU 75001 PARIS FRANCE", 
    "(+33) 1 44 76 90 40"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "cl\u00f4ture au 31/12/2013", 
   "Site internet": "http://www.negoce-village.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
@@ -3474,10 +3319,7 @@
   "Acronyme": "EAF", 
   "Nombre de personnes employ\u00e9es par l'organisme": 3, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 400000, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": 400000
   }, 
   "Budget global": 400000, 
   "Raison sociale": "F\u00e9d\u00e9ration Electricit\u00e9 Autonome Fran\u00e7aise", 
@@ -3487,7 +3329,6 @@
    "71 avenue Victor Hugo 75116 Paris France", 
    "(+33) 01 58 44 20 35"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
   "Site internet": "http://www.federation-eaf.org", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
@@ -3555,12 +3396,10 @@
   "Acronyme": "FFMKR", 
   "Nombre de personnes employ\u00e9es par l'organisme": 10, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 904985, 
    "Autres": 218107, 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": 904985
   }, 
-  "Budget global": 1150817, 
+  "Budget global": "1.15 millions d'\u20ac", 
   "Raison sociale": "F\u00e9d\u00e9ration fran\u00e7aise des masseurs-kin\u00e9sith\u00e9rapeutes r\u00e9\u00e9ducateurs", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "CNPS (Centre national des professions de sant\u00e9) UNPS (Union nationale des professionnels de sant\u00e9) CNS (conf\u00e9rence nationale de sant\u00e9) HAS (Haute Autorit\u00e9 de sant\u00e9) UNAPL (Union nationale des professionnels lib\u00e9raux) HCPP (Haut conseil des profession param\u00e9dicales) WCPT (World confederation for physical therapy)", 
@@ -3639,12 +3478,9 @@
   "Acronyme": "FFB", 
   "Nombre de personnes employ\u00e9es par l'organisme": 164, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 59151000, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": "59.15 millions d'\u20ac"
   }, 
-  "Budget global": 59151000, 
+  "Budget global": "59.15 millions d'\u20ac", 
   "Raison sociale": "FEDERATION FRANCAISE DU B\u00c2TIMENT", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 30 000 et 40 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "La FFB est adh\u00e9rentes \u00e0 la CGPME, au MEDEF et \u00e0 la FIEC (F\u00e9d\u00e9ration de l'industrie europ\u00e9enne de la construction).", 
@@ -3652,7 +3488,6 @@
    "33 avenue Kl\u00e9ber Cedex 16 75784 PARIS FRANCE", 
    140695100
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
   "Site internet": "http://www.ffbatiment.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 10, 
@@ -3732,12 +3567,11 @@
   "Acronyme": "FNADE", 
   "Nombre de personnes employ\u00e9es par l'organisme": 11, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 1998000, 
    "Autres": 96000, 
+   "Cotisations des membres": "2.00 millions d'\u20ac", 
    "Commercialisation de produits, services": 6000
   }, 
-  "Budget global": 2100000, 
+  "Budget global": "2.10 millions d'\u20ac", 
   "Raison sociale": "F\u00e9d\u00e9ration nationale des Activit\u00e9s de D\u00e9pollution et de l'Environnement", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "La FNADE est membre de la FEAD, du MEDEF, de l'AFNOR, d'AMORCE, du CNR, du GEIDE et de l'UNSPIC.", 
@@ -3745,7 +3579,6 @@
    "33 rue de Naples 75008 Paris France", 
    153043290
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.fnade.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
@@ -3855,9 +3688,8 @@
   "Acronyme": "FNSICAE", 
   "Nombre de personnes employ\u00e9es par l'organisme": 3, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 360000, 
    "Autres": 60000, 
+   "Cotisations des membres": 360000, 
    "Commercialisation de produits, services": 3000
   }, 
   "Budget global": 425000, 
@@ -3868,7 +3700,6 @@
    "129 Boulevard Saint Germain 75006 Paris France", 
    "(+33) 1 43 26 02 70"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
   "Site internet": "http://www.fnsicae.asso.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 6, 
@@ -3939,9 +3770,8 @@
   "Acronyme": "FNIM", 
   "Nombre de personnes employ\u00e9es par l'organisme": 3, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 560000, 
    "Autres": 210000, 
+   "Cotisations des membres": 560000, 
    "Commercialisation de produits, services": 80000
   }, 
   "Budget global": 850000, 
@@ -3952,7 +3782,6 @@
    "4 Avenue de l'Op\u00e9ra 75001 PARIS FRANCE", 
    "(+33) 01 55 35 31 21"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Site internet": "http://www.fnim.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
@@ -4039,7 +3868,6 @@
    "95 Boulevard Haussmann 75008 Paris France C/O GT \u00e9ditions 3 rue de l'arriv\u00e9e 75015 Paris", 
    "(+33) 662648944"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Site internet": "http://www.fondsdegouvernancemondiale.org", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
@@ -4112,9 +3940,9 @@
    "Dons": 343317, 
    "Cotisations des membres": 153568, 
    "Autres": 223236, 
-   "Commercialisation de produits, services": 1270300
+   "Commercialisation de produits, services": "1.27 millions d'\u20ac"
   }, 
-  "Budget global": 3461268, 
+  "Budget global": "3.46 millions d'\u20ac", 
   "Raison sociale": "France Nature Environnement", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 100 000 et 150 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "FNE est membre des f\u00e9d\u00e9rations europ\u00e9ennes suivantes: le Bureau Europ\u00e9en de l'Environnement, Transports & Environment et Seas at risks.", 
@@ -4122,7 +3950,7 @@
    "81-83 Boulevard Port Royal 75013 Paris France", 
    144086415
   ], 
-  "Dont financement public": 1470847, 
+  "Dont financement public": "1.47 millions d'\u20ac", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Site internet": "http://www.fne.asso.fr/", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
@@ -4188,7 +4016,7 @@
   "id": 153, 
   "Objectif et mission": "Grande Distribution", 
   "Nombre de personnes employ\u00e9es par l'organisme": 469795, 
-  "Budget global": 74888000, 
+  "Budget global": "74.89 millions d'\u20ac sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "Groupe Carrefour", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "F\u00e9d\u00e9ration du commerce et de la distribution (FCD)", 
@@ -4200,7 +4028,7 @@
   "Site internet": "http://www.carrefour.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 4, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rendez-vous d\u00e9put\u00e9s Auditions Colloques etc.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": 74888000, 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "74.89 millions d'\u20ac sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 105000, 
    "A l'\u00e9tranger": 364795
@@ -4245,7 +4073,7 @@
   "Objectif et mission": "retraite compl\u00e9mentaire ARRCO-AGIRC, pr\u00e9voyance collective des entreprises, mutuelles compl\u00e9mentaires, \u00e9pargne salariale", 
   "Acronyme": "HUMANIS", 
   "Nombre de personnes employ\u00e9es par l'organisme": 6700, 
-  "Budget global": 15000000000, 
+  "Budget global": "15.00 milliards d'\u20ac", 
   "Raison sociale": "Groupe HUMANIS", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 200 000 et 250 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "ARRCO-AGIRC, CTIP", 
@@ -4257,7 +4085,7 @@
   "Site internet": "http://www.humanis.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 5, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "intervention aupr\u00e8s de d\u00e9put\u00e9s lors de l'examen de la loi de s\u00e9curisation professionnelle", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": 15000000000, 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "15.00 milliards d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 6700, 
    "A l'\u00e9tranger": ""
@@ -4323,12 +4151,9 @@
   "Acronyme": "GEMA", 
   "Nombre de personnes employ\u00e9es par l'organisme": 25, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 6000000, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": "6.00 millions d'\u20ac"
   }, 
-  "Budget global": 6000000, 
+  "Budget global": "6.00 millions d'\u20ac", 
   "Raison sociale": "Groupement des entreprises mutuelles d'assurance", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Le GEMA est membre du Ceges, de l'Ifa, de l'Amice et de l'Icmif.", 
@@ -4336,7 +4161,6 @@
    "9 rue de Saint Petersbourg 75008 paris france", 
    153041600
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
   "Site internet": "http://www.gema.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 8, 
@@ -4412,10 +4236,10 @@
   "Autres sources": {
    "Dons": 671718, 
    "Cotisations des membres": 671719, 
-   "Autres": 1343437, 
-   "Commercialisation de produits, services": 8472431
+   "Autres": "1.34 millions d'\u20ac", 
+   "Commercialisation de produits, services": "8.47 millions d'\u20ac"
   }, 
-  "Budget global": 11159305, 
+  "Budget global": "11.16 millions d'\u20ac", 
   "Raison sociale": "Institut International Commerce d\u00e9veloppement", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "15000", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "L\u2019ICD Business School appartient au Groupe IGS. Elle est reconnue comme Grande \u00c9cole d\u00e9livrant le Grade Master.", 
@@ -4423,7 +4247,6 @@
    "12 rue Alexandre Parodi 75010 Paris France", 
    "(+33) 180976611"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Site internet": "http://www.icd-ecoles.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
@@ -4667,7 +4490,7 @@
   "id": 6, 
   "Objectif et mission": "Le Groupe Keolis d\u00e9veloppe des solutions de mobilit\u00e9 sur mesure, adapt\u00e9es \u00e0 chaque probl\u00e9matique locale. Leader en urbain en France, le Groupe Keolis est un acteur majeur du transport public de voyageurs en Europe et dans le monde. Pr\u00e9sent dans 14 pays, le Groupe r\u00e9alise un chiffre d'affaires de 5 milliards d'euros et emploie 53 000 personnes.", 
   "Nombre de personnes employ\u00e9es par l'organisme": 53000, 
-  "Budget global": "Entre 4 750 000 et 5 000 000 \u20ac", 
+  "Budget global": "Entre 4,75 et 5,00 millions d'\u20ac", 
   "Raison sociale": "Keolis", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 100 000 et 150 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Le Groupe Keolis est membre de l'Union des Transports Publics et Ferroviaires, syndicat professionnel.", 
@@ -4682,7 +4505,7 @@
    "Anne LIEURE, Directeur des Relations Institutionnelles participe aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants d'int\u00e9r\u00eat."
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "_ Suivi du PLF 2013 et quels rendez-vous bilat\u00e9raux avec des parlementaires.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "Entre 4 750 000 et 5 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "Entre 4,75 et 5,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 33000, 
    "A l'\u00e9tranger": 20000
@@ -4705,7 +4528,7 @@
   "Statut l\u00e9gal": "soci\u00e9t\u00e9 anonyme", 
   "id": 87, 
   "Objectif et mission": "Groupe appartenant \u00e0 l'industrie cosm\u00e9tique (produits grand public ; luxe ; produits professionnels ; dermo-cosm\u00e9tique)", 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de personnes employ\u00e9es par l'organisme": 77451, 
   "Information financi\u00e8re compl\u00e9mentaire": "Chiffre d'affaires annuel en montant absolu: 22,98 milliards d'euros", 
   "Raison sociale": "L'Or\u00e9al", 
@@ -4722,7 +4545,7 @@
    "Trois personnes rel\u00e8vent directement du champ d'application du registre des repr\u00e9sentants d'int\u00e9r\u00eats. A celles-ci peuvent s'ajouter ponctuellement les experts du Groupe L'Or\u00e9al ainsi que d'autres cadres dirigeants et hauts dirigeants appel\u00e9s \u00e0 entrer en contact avec des d\u00e9put\u00e9s sur des sujets en rapport avec les activit\u00e9s de notre industrie."
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Invitation envoy\u00e9e \u00e0 certains d\u00e9put\u00e9s des Yvelines \u00e0 participer \u00e0 l'inauguration de la chaufferie biomasse de notre usine de Rambouillet, le 9 d\u00e9cembre 2013.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 13172, 
    "A l'\u00e9tranger": 64279
@@ -4743,7 +4566,7 @@
   "id": 11, 
   "Objectif et mission": "Soci\u00e9t\u00e9 anonyme \u00e0 capitaux 100% publics, La Poste est un groupe multi-m\u00e9tiers organis\u00e9 autour de trois principales activit\u00e9s : le courrier, le colis express et les activit\u00e9s bancaires \u00e0 travers sa filiale La Banque Postale. Depuis mars 2011, le groupe a lanc\u00e9 une activit\u00e9 de t\u00e9l\u00e9phonie mobile sous la marque La Poste Mobile. La Poste assure 4 missions de service public dans le cadre de ses activit\u00e9s : l'am\u00e9nagement du territoire, le transport et la distribution de la presse, l'accessibilit\u00e9 bancaire et le service universel postal.", 
   "Nombre de personnes employ\u00e9es par l'organisme": 268000, 
-  "Budget global": 21658000000, 
+  "Budget global": "21.66 milliards d'\u20ac", 
   "Raison sociale": "LA POSTE", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 250 000 et 300 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Le groupe La Poste est membre de l'Association des op\u00e9rateurs postaux europ\u00e9ens (PostEurop), d'International Post Corporation (IPC), de la F\u00e9d\u00e9ration du Marketing Direct (FEDMA), de l'Union Fran\u00e7aise du Marketing Direct (UFMD), du Syndicat national de la communication directe (SNCD), de l'Association de l'\u00e9conomie num\u00e9rique (ACSEL), de la F\u00e9d\u00e9ration nationale des tiers de confiance (FNTC), de la F\u00e9d\u00e9ration des entreprises de transport et de logistique (TLF), de la FEVAD, de l'Institut de l'\u00e9conomie circulaire, de la F\u00e9d\u00e9ration bancaire fran\u00e7aise (FBF), de l'Association fran\u00e7aise des banques (AFB), de la f\u00e9d\u00e9ration fran\u00e7aise des soci\u00e9t\u00e9s d'assurance (FFSA), de l'Association fran\u00e7aise des soci\u00e9t\u00e9s financi\u00e8res (ASF), de Paris Europlace, de l'Office de coordination bancaire et financi\u00e8re (OCBF).", 
@@ -4755,7 +4578,7 @@
   "Site internet": "http://www.laposte.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Sur l'ann\u00e9e 2013, le groupe La Poste a suivi les textes suivants : - projet de loi de s\u00e9paration et de r\u00e9gulation des activit\u00e9s bancaires - projet de loi consommation - projet de loi de finances 2014 (audition par la rapporteure du budget Poste) - dispositif de financement des collectivit\u00e9s locales (audition par la Commission des Finances)", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": 21658000000, 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "21.66 milliards d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 249000, 
    "A l'\u00e9tranger": 19000
@@ -4776,7 +4599,7 @@
   "id": 14, 
   "Objectif et mission": "Lafarge France est pr\u00e9sent dans les activit\u00e9s de b\u00e9tons, ciments et granulats. Lafarge France fournit des mat\u00e9riaux de construction. 5000 salari\u00e9s et 450 sites en France CA du Groupe Lafarge 15 816 M\u20ac CA de Lafarge France 1,9 milliard \u20ac", 
   "Nombre de personnes employ\u00e9es par l'organisme": 65000, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "Lafarge France", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Les activit\u00e9s de Lafarge France adh\u00e8rent au Syndicat Fran\u00e7ais de l'Industrie Cimenti\u00e8re, \u00e0 l'Union des industries de carri\u00e8res et mat\u00e9riaux de construction dont Union nationale des producteurs de granulats et syndicat des b\u00e9tons pr\u00eats \u00e0 l'emploi.", 
@@ -4791,7 +4614,7 @@
    "Arnaud Colson - Directeur de l'Environnement et du D\u00e9veloppement Durable France"
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rencontres et organisation de visite de sites (industriels ou r\u00e9alisations) avec des d\u00e9put\u00e9s concern\u00e9s par les probl\u00e9matiques rencontr\u00e9es par les activit\u00e9s de Lafarge en France.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 5000, 
    "A l'\u00e9tranger": 60000
@@ -4857,7 +4680,7 @@
   "Objectif et mission": "Les Entreprises du M\u00e9dicament (Leem), organisation professionnelle f\u00e9d\u00e8rant les 270 entreprises du m\u00e9dicament pr\u00e9sentes en France, a pour mission de les repr\u00e9senter, d\u00e9fendre leurs int\u00e9r\u00eats et d'assurer leur promotion collective. Son r\u00f4le consiste \u00e9galement \u00e0 \u00e9laborer et faire respecter l'\u00e9thique de la profession, \u00e0 faciliter les \u00e9changes entre ses membres, \u00e0 \u00e9tablir et faire vivre les liens avec les autres acteurs du syst\u00e8me de sant\u00e9, \u00e0 promouvoir les d\u00e9marches collectives de progr\u00e8s, de qualit\u00e9 et de valorisation du secteur.", 
   "Acronyme": "LEEM", 
   "Nombre de personnes employ\u00e9es par l'organisme": 76, 
-  "Budget global": 22756000, 
+  "Budget global": "22.76 millions d'\u20ac", 
   "Raison sociale": "Les Entreprises du M\u00e9dicament", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "364900", 
   "Adresse et t\u00e9l\u00e9phone": [
@@ -5020,7 +4843,7 @@
   "Objectif et mission": "MBDA EST LE LEADER EUROPEEN DES SYSTEMES DE MISSILES", 
   "Acronyme": "MBDA", 
   "Nombre de personnes employ\u00e9es par l'organisme": 9700, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "MBDA FRANCE", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "GIFAS - GICAT - GICAN - CIDEF", 
@@ -5035,7 +4858,7 @@
    "UNE SEULE PERSONNE PARTICIPE AUX ACTIVITES QUI RELEVENT DU CHAMP D'APPLICATION DU REGISTRE DES REPRESENTANTS D'INTERET POUR MBDA."
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "TRAVAUX D'INFORMATION A L'ATTENTION DES ELUS SUR LES PROBLEMATIQUES LIEES A L'INDUSTRIE TRAVAILLANT POUR LA DEFENSE NATIONALE.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 4500, 
    "A l'\u00e9tranger": 5200
@@ -5094,7 +4917,7 @@
   "id": 97, 
   "Objectif et mission": "La Mutuelle Int\u00e9riale est une mutuelle r\u00e9gie par le livre II du code de la Mutualit\u00e9, elle assure les risques sant\u00e9 et la pr\u00e9voyance des fonctionnaires du Minist\u00e8re de l'Int\u00e9rieur et des collectivit\u00e9s territoriales. C'est une mutuelle professionnelle qui dispose d'une connaissance pr\u00e9cise des m\u00e9tiers, des fili\u00e8res et des risques professionnels des agents publics qu'elle prot\u00e8ge. Elle g\u00e8re \u00e9galement la d\u00e9l\u00e9gation de service public de la CNAMTS en mati\u00e8re d'assurance maladie des fonctionnaires du Minist\u00e8re de l'Int\u00e9rieur.", 
   "Nombre de personnes employ\u00e9es par l'organisme": 480, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "Mutuelle Interiale", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "La Mutuelle Int\u00e9riale est adh\u00e9rente \u00e0 la F\u00e9d\u00e9ration nationale de la Mutualit\u00e9 fran\u00e7aise (FNMF). Elle est adh\u00e9rente \u00e9galement \u00e0 Mutualit\u00e9 fonction publique (MFP).", 
@@ -5109,14 +4932,14 @@
    "Laurent Michel, directeur des relations ext\u00e9rieures de la Mutuelle Int\u00e9riale, charg\u00e9 des relations avec le Parlement, les minist\u00e8res et les partenaires institutionnels de la Mutuelle Int\u00e9riale."
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "audition devant les d\u00e9put\u00e9s en charge du suivi des projets de loi : -s\u00e9curisation de l'emploi -PLFSS -PLF", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 480, 
    "A l'\u00e9tranger": ""
   }
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 1 000 000 et 1 250 000 \u20ac", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 1,00 et 1,25 millions d'\u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/86", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "L'Ordre des Avocats de Paris ob\u00e9it aux r\u00e8gles de d\u00e9ontologie pr\u00e9vues par le R\u00e8glement Int\u00e9rieur National ( RIN de la profession d'avocat) ainsi que le R\u00e8glement Int\u00e9rieur du Barreau de Paris (RIBP)", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Banque, Assurance, finances - Budget et finances publiques - Consommation et concurrence - Droit des soci\u00e9t\u00e9s - Famille - Fiscalit\u00e9 - Gouvernance - Justice et affaires int\u00e9rieures - Professions lib\u00e9rales - S\u00e9curit\u00e9", 
@@ -5148,7 +4971,7 @@
   }, 
   "Budget global": "59.80 millions d'\u20ac", 
   "Raison sociale": "Ordre des Avocats de Paris", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 1 000 000 et 1 250 000 \u20ac", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 1,00 et 1,25 millions d'\u20ac", 
   "Adresse et t\u00e9l\u00e9phone": [
    "11 Place Dauphine 75001 Paris France", 
    "(+33) (0) 1 80 27 22 71"
@@ -5174,7 +4997,7 @@
   "Objectif et mission": "Soci\u00e9t\u00e9 de service en efficacit\u00e9 \u00e9nerg\u00e9tique conseil en \u00e9conomie d'\u00e9nergie", 
   "Acronyme": "GEO PLC", 
   "Nombre de personnes employ\u00e9es par l'organisme": 100, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "Partager la Croissance", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "membre de : Comit\u00e9 21 Association 4 D", 
@@ -5186,7 +5009,7 @@
   "Site internet": "http://www.geoplc.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "pas d'activit\u00e9s l'ann\u00e9e pr\u00e9c\u00e9dente", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 100, 
    "A l'\u00e9tranger": ""
@@ -5262,7 +5085,7 @@
    "Autres": 50, 
    "Commercialisation de produits, services": 150000
   }, 
-  "Budget global": 1500000, 
+  "Budget global": "1.50 millions d'\u20ac", 
   "Raison sociale": "Plan\u00e8t'AIRport", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "50000", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Plan\u00e8t'AIRport b\u00e9n\u00e9ficie du r\u00e9seau des A\u00e9roports de Paris et de tout le syst\u00e8me mis en place en faveur de l'insertion, de l'\u00e9galit\u00e9 des chances et oeuvre pour cela depuis 1996. Plan\u00e8t'AIRport contribue \u00e0 satisfaire l'obligation de service public statutairement fix\u00e9 \u00e0 ADP. Membre du r\u00e9seau des entreprises signataire de l'engagement de la charte entreprises et quartiers de l'Etat. Membre de C.F.F, I.M.S club RSE des entreprises responsables.", 
@@ -5508,13 +5331,13 @@
   "Statut l\u00e9gal": "SARL", 
   "Objectif et mission": "Agence de communication d'influence globale, Rumeur Publique porte les messages de ses clients aupr\u00e8s de l'ensemble de leurs parties prenantes", 
   "id": 95, 
-  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "Entre 5 000 000 et 5 250 000 \u20ac", 
-  "Budget global": "Entre 5 000 000 et 5 250 000 \u20ac", 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "Entre 5,00 et 5,25 millions d'\u20ac", 
+  "Budget global": "Entre 5,00 et 5,25 millions d'\u20ac", 
   "Nombre de personnes employ\u00e9es par l'organisme": 1, 
   "Information financi\u00e8re compl\u00e9mentaire": "Rumeur Publique est, \u00e0 l'origine, une agence de relations presse (on-line et off-line). Afin d'offrir \u00e0 ses clients la possibilit\u00e9 de s'adresser \u00e0 l'ensemble de leurs parties prenantes, l'agence a d\u00e9cid\u00e9 de cr\u00e9er un d\u00e9partement Affaires publiques en juillet 2013.", 
   "Raison sociale": "Rumeur Publique", 
   "Nom des clients": "Good Technology ; Blue Coat ; Taxis Bleus ; Pharmarket ; Ornikar", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 5 000 000 et 5 250 000 \u20ac", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 5,00 et 5,25 millions d'\u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Sans objet pour Rumeur Publique", 
   "Adresse et t\u00e9l\u00e9phone": [
    "9-11 Rue Alphonse de Neuville 75017 Paris France", 
@@ -5528,7 +5351,7 @@
    "Affaires institutionnelles, vie publique", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
    "Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique", 
-   "Entre 4 750 000 et 5 000 000 \u20ac"
+   "Entre 4,75 et 5,00 millions d'\u20ac"
   ]
  }, 
  {
@@ -5543,7 +5366,7 @@
   "id": 74, 
   "Objectif et mission": "Groupe de haute technologie dans les secteurs de l'a\u00e9ronautique, du spatial, de la d\u00e9fense et de la s\u00e9curit\u00e9", 
   "Nombre de personnes employ\u00e9es par l'organisme": 59500, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "SAFRAN SA", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Safran est membre : MEDEF, AFEP, GIFAS, CERCLE DE L'INDUSTRIE", 
@@ -5555,7 +5378,7 @@
   "Site internet": "http://www.safran-group.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 10, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Auditions devant diverses Commissions de l'AN", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 39500, 
    "A l'\u00e9tranger": 20000
@@ -5574,7 +5397,7 @@
   "Objectif et mission": "Eau, Assainissement, Propret\u00e9, Travaux, Ing\u00e9nierie, Loisirs & Soci\u00e9t\u00e9 (Golfs, Campings, Aires des gens du voyage)", 
   "Acronyme": "SAUR", 
   "Nombre de personnes employ\u00e9es par l'organisme": 13000, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "SAUR", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Membre de la F\u00e9d\u00e9ration Professionnelle des Entreprises de l'Eau, de l'Association Scientifique et Technique de l'Eau et l'Environnement, du Centre d'Information pour l'Eau", 
@@ -5586,7 +5409,7 @@
   "Site internet": "http://www.saur.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 13000, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Loi Brottes (aspect tarification sociale) - Rapports parlementaires (Martin, Lesage,...) - Fiscalit\u00e9 locale des Golfs - Mesures d'application du CICE - Conf\u00e9rence environnementale", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 11180, 
    "A l'\u00e9tranger": 1820
@@ -5668,7 +5491,7 @@
   "Statut l\u00e9gal": "SAS", 
   "id": 119, 
   "Objectif et mission": "Seita fabrique et commercialise des produits du tabac", 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de personnes employ\u00e9es par l'organisme": 37900, 
   "Information financi\u00e8re compl\u00e9mentaire": "Salaires : 50 000 euros Cotisations annuelles aux associations dont Seita est membre : 22 000 euros Documentation : 15 000 euros Honoraires de conseil : 57 000 euros", 
   "Raison sociale": "Seita", 
@@ -5682,7 +5505,7 @@
   "Site internet": "https://imperial-tobacco.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rendez-vous avec des d\u00e9put\u00e9s et/ou leurs assistants au sujet de la r\u00e9glementation relative au tabac. Auditions parlementaires : Rapport d'information sur la proposition de r\u00e9vision de la Directive europ\u00e9enne sur les produits du tabac ; Rapport d'information relatif \u00e0 la lutte contre le tabagisme ; Rapport d'information relatif aux cons\u00e9quences fiscales des ventes illicites de tabac. Envoi de documents d'information technique et de notes de position.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 2900, 
    "A l'\u00e9tranger": 35000
@@ -5812,7 +5635,7 @@
   "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
   "id": 98, 
   "Objectif et mission": "op\u00e9rateur de t\u00e9l\u00e9communications pr\u00e9sent dans la t\u00e9l\u00e9phonie mobile et dans les r\u00e9seaux fixe", 
-  "Budget global": "10.20 milliards d'\u20ac sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "10.20 milliards d'\u20ac sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Acronyme": "SFR", 
   "Nombre de personnes employ\u00e9es par l'organisme": 9000, 
   "Information financi\u00e8re compl\u00e9mentaire": "", 
@@ -5827,7 +5650,7 @@
   "Site internet": "http://www.sfr.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 4, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "rendez-vous avec des parlementaires - participation \u00e0 des auditions - colloques parlementaires", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "10.20 milliards d'\u20ac sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "10.20 milliards d'\u20ac sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 9000, 
    "A l'\u00e9tranger": ""
@@ -5849,7 +5672,7 @@
   "Objectif et mission": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale est l\u2019un des tout premiers groupes europ\u00e9ens de services financiers. S\u2019appuyant sur un mod\u00e8le diversifi\u00e9 de banque universelle, le Groupe allie solidit\u00e9 financi\u00e8re et strat\u00e9gie de croissance durable avec l\u2019ambition d\u2019\u00eatre la banque relationnelle, r\u00e9f\u00e9rence sur ses march\u00e9s, proche de ses clients, choisie pour la qualit\u00e9 et l\u2019engagement de ses \u00e9quipes. Acteur de l\u2019\u00e9conomie r\u00e9elle depuis 150 ans, Soci\u00e9t\u00e9 G\u00e9n\u00e9rale emploie plus de 154 000 collaborateurs, pr\u00e9sents dans 76 pays, et accompagne au quotidien 32 millions de clients dans le monde entier en offrant une large palette de conseils et solutions financi\u00e8res sur mesure aux particuliers, entreprises et investisseurs institutionnels, qui s\u2019appuie sur trois p\u00f4les m\u00e9tiers compl\u00e9mentaires : \u2022 La banque de d\u00e9tail en France avec les enseignes Soci\u00e9t\u00e9 G\u00e9n\u00e9rale, Cr\u00e9dit du Nord et Boursorama qui offrent des gammes compl\u00e8tes de services financiers avec une offre multicanal \u00e0 la pointe de l\u2019innovation digitale. \u2022 La banque de d\u00e9tail \u00e0 l\u2019international, services financiers et assurances avec des r\u00e9seaux pr\u00e9sents dans les zones g\u00e9ographiques en d\u00e9veloppement et des m\u00e9tiers sp\u00e9cialis\u00e9s leaders dans leurs march\u00e9s. \u2022 La banque de financement et d\u2019investissement, banque priv\u00e9e, gestion d\u2019actifs et m\u00e9tier titres avec leurs expertises reconnues, positions internationales cl\u00e9s et solutions int\u00e9gr\u00e9es. Soci\u00e9t\u00e9 G\u00e9n\u00e9rale figure dans les principaux indices de d\u00e9veloppement durable.", 
   "Acronyme": "SG", 
   "Nombre de personnes employ\u00e9es par l'organisme": 206800, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Association fran\u00e7aise de la gestion financi\u00e8re (AFG-ASSFI), Association fran\u00e7aise des entreprises priv\u00e9es (AFEP), Association fran\u00e7aise des march\u00e9s financiers (AMAFI), Association fran\u00e7aise des professionnels des titres (AFTI), Association fran\u00e7aise des soci\u00e9t\u00e9s financi\u00e8res (ASF), F\u00e9d\u00e9ration bancaire fran\u00e7aise (FBF), F\u00e9d\u00e9ration fran\u00e7aise des soci\u00e9t\u00e9s d'assurances (FFSA), Mouvement des entreprises de France (MEDEF), Paris Europlace, Entreprises pour l\u2019Environnement (EpE), Observatoire de la responsabilit\u00e9 soci\u00e9tale des entreprises (ORSE)", 
@@ -5861,7 +5684,7 @@
   "Site internet": "http://www.societegenerale.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Au cours de l\u2019ann\u00e9e 2013, Soci\u00e9t\u00e9 G\u00e9n\u00e9rale a suivi les travaux parlementaires li\u00e9s \u00e0 la loi de s\u00e9paration et de r\u00e9gulation des activit\u00e9s bancaires, la loi consommation, les lois de finance\u2026 Des repr\u00e9sentants de Soci\u00e9t\u00e9 G\u00e9n\u00e9rale ont rencontr\u00e9 des rapporteurs et particip\u00e9 \u00e0 des auditions.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 58400, 
    "A l'\u00e9tranger": 148400
@@ -5883,7 +5706,7 @@
   "Objectif et mission": "Groupe de mobilit\u00e9 et logistique, transport ferroviaire", 
   "Acronyme": "SNCF", 
   "Nombre de personnes employ\u00e9es par l'organisme": 250000, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "Soci\u00e9t\u00e9 Nationale des Chemins de Fer Fran\u00e7ais", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "SNCF est membre de l'Union des Transports Publics et ferroviaires (UTP)", 
@@ -5895,7 +5718,7 @@
   "Site internet": "http://www.sncf.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Travaux l\u00e9gislatifs 2013 : auditions dans le cadre du PJL DDOT, PLF 2014, PJL r\u00e9forme ferroviaire Missions d'informations 2013: auditions : gestion des mati\u00e8res et d\u00e9chets radioactifs ; application de la loi Grand Paris ; accessibilit\u00e9 des jeunes aux s\u00e9jours collectifs des mineurs ; mise en oeuvre de la loi portant cr\u00e9ation des emplois d'avenir Table ronde sur les transports en Ile de France", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 217000, 
    "A l'\u00e9tranger": 33000
@@ -5918,7 +5741,7 @@
   "id": 4, 
   "Objectif et mission": "3 m\u00e9tiers compl\u00e9mentaires: \u00e9diteurs de contenus et de services, m\u00e9dia local, conseil et r\u00e9gie publicitaire", 
   "Nombre de personnes employ\u00e9es par l'organisme": 4905, 
-  "Budget global": 1000700000, 
+  "Budget global": "1.00 milliards d'\u20ac", 
   "Raison sociale": "Solocal Group", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 40 000 et 50 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Association Fran\u00e7aise des Entreprises Priv\u00e9es (AFEP), Syndicat National des Editeurs d'Annuaires (SNA), Syndicat National de la Communication Directe (SNCD), Syndicat des R\u00e9gies Internet (SRI), Syntec num\u00e9rique", 
@@ -5933,7 +5756,7 @@
    "La Direction des relations institutionnelles de Solocal Group est en charge des relations du Groupe avec le Parlement"
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rendez-vous avec des d\u00e9put\u00e9s (une dizaine sur l'ann\u00e9e)", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": 1000700000, 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "1.00 milliards d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 4505, 
    "A l'\u00e9tranger": 400
@@ -5954,7 +5777,7 @@
   "id": 19, 
   "Objectif et mission": "Electronique Grand Public et Professionnelle", 
   "Nombre de personnes employ\u00e9es par l'organisme": 147202, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "Sony France", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Simavelec USPII (SNSII + SIPEC) Unicime HD Forum", 
@@ -5966,7 +5789,7 @@
   "Site internet": "http://www.sony.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rapport Lescure Lib\u00e9ration de la Bande des 700 MHz / Avenir de la TNT Projet de Loi Consommation Etc.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 902, 
    "A l'\u00e9tranger": 146300
@@ -6060,7 +5883,7 @@
   "id": 79, 
   "Objectif et mission": "Gestion de l'eau de l'assainissement et des d\u00e9chets.", 
   "Nombre de personnes employ\u00e9es par l'organisme": 79549, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "SUEZ ENVIRONNEMENT", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 40 000 et 50 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "SUEZ ENVIRONNEMENT membre du MEDEF et de l'AFEP , Lyonnaise des Eaux membre de la FP2E, SITA France membre de la FNADE, DEGREMONT membre de SYNTEAU, SAFEGE membre de SYNTEC Ing\u00e9nierie", 
@@ -6072,7 +5895,7 @@
   "Site internet": "http://www.suez-environnement.fr/", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 10, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Projet de loi de finances 2014, Projet de loi MAPAM, missions d'information diverses.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 34776, 
    "A l'\u00e9tranger": 44773
@@ -6102,10 +5925,8 @@
   "Acronyme": "SPIIL", 
   "Nombre de personnes employ\u00e9es par l'organisme": 1, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 34000, 
    "Autres": 10000, 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": 34000
   }, 
   "Budget global": 44000, 
   "Raison sociale": "Syndicat de la Presse Ind\u00e9pendante d'Information en Ligne", 
@@ -6115,7 +5936,6 @@
    "8 passage Brulon 75012 Paris France RAS", 
    "(+33) 970261072"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
   "Site internet": "http://www.spiil.org", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 5, 
@@ -6184,10 +6004,7 @@
   "Acronyme": "ASMEP-ETI", 
   "Nombre de personnes employ\u00e9es par l'organisme": 5, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 810000, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": 810000
   }, 
   "Budget global": 810000, 
   "Raison sociale": "Syndicat des entreprises de taille interm\u00e9diaire et des entreprises patrimoniales", 
@@ -6197,7 +6014,6 @@
    "18 rue Boissi\u00e8re 75116 Paris France RAS", 
    "(+33) 01.56.26.00.66"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.asmep-eti.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
@@ -6270,9 +6086,7 @@
   "Acronyme": "SFDO", 
   "Nombre de personnes employ\u00e9es par l'organisme": 5, 
   "Autres sources": {
-   "Dons": "", 
    "Cotisations des membres": 441390, 
-   "Autres": "", 
    "Commercialisation de produits, services": 63737
   }, 
   "Budget global": 505127, 
@@ -6283,7 +6097,6 @@
    "13 DULAC 75015 PARIS FRANCE secretariat@osteopathe-syndicat.fr", 
    "(+33) 09 81 81 24 49"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "2012/2013", 
   "Site internet": "http://www.osteopathe-syndicat.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
@@ -6363,10 +6176,7 @@
   "Acronyme": "S.N.A.I.I-C.G.T", 
   "Nombre de personnes employ\u00e9es par l'organisme": "", 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 800, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": 800
   }, 
   "Budget global": 800, 
   "Raison sociale": "Syndicat National des Auteurs d'Inventions Ind\u00e9pendants-cgt", 
@@ -6376,7 +6186,6 @@
    "12 de Chaligny aucune 75012 PARIS France Notre si\u00e8ge social est dans les locaux de l'Union locale de la CGT (adresse ci-dessus)", 
    "(+33) (0) 1 46 28 11 79"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.ipab-asscociations/SNAII-CGT", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
@@ -6450,19 +6259,15 @@
   "Acronyme": "SNMSF", 
   "Nombre de personnes employ\u00e9es par l'organisme": 1960, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 5000000, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": "5.00 millions d'\u20ac"
   }, 
-  "Budget global": 5000000, 
+  "Budget global": "5.00 millions d'\u20ac", 
   "Raison sociale": "SYNDICAT NATIONAL DES MONITEURS DU SKI FRANCAISSNMSF", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
   "Adresse et t\u00e9l\u00e9phone": [
    "6 All\u00e9e des Mitaill\u00e8res 38240 MEYLAN France", 
    "(+33) 04 76 90 67 36"
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "2012/2013", 
   "Site internet": "http://www.esf.net", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
@@ -6547,7 +6352,7 @@
   "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
   "id": 102, 
   "Objectif et mission": "Recherche Production d'hydrocarbures Raffinage et chimie Energies nouvelles", 
-  "Budget global": 200000000000, 
+  "Budget global": "200.00 milliards d'\u20ac sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Acronyme": "TOTAL", 
   "Nombre de personnes employ\u00e9es par l'organisme": 97300, 
   "Information financi\u00e8re compl\u00e9mentaire": "", 
@@ -6561,7 +6366,7 @@
   "Site internet": "http://www.total.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 35300, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Auditions sur les th\u00e8mes suivants : captage et stockage de CO2, Alg\u00e9rie, fiscalit\u00e9 \u00e9cologique, fracturation hydraulique, pays \u00e9mergents de l'Afrique anglophone, optimisation fiscale des entreprises, transition \u00e9nerg\u00e9tique, Fondation - PLF 2014, francophonie et action actuelle et \u00e9conomique, d\u00e9veloppement r\u00e9gional", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": 200000000000, 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "200.00 milliards d'\u20ac sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 35300, 
    "A l'\u00e9tranger": 62000
@@ -6582,7 +6387,7 @@
   "id": 48, 
   "Objectif et mission": "Transport public, Mobilit\u00e9 durable", 
   "Nombre de personnes employ\u00e9es par l'organisme": 95000, 
-  "Budget global": "Entre 7 750 000 et 8 000 000 \u20ac", 
+  "Budget global": "Entre 7,75 et 8,00 millions d'\u20ac", 
   "Raison sociale": "Transdev", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 200 000 et 250 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "UITP (union internationale des transports publics) UTP (union des transports publics et ferroviaires fran\u00e7ais) UNSPIC (union nationale des services publics industriels et commerciaux) Institut de la gestion d\u00e9l\u00e9gu\u00e9e Communaut\u00e9 europ\u00e9enne du rail FNTV (f\u00e9d\u00e9ration nationale des transports de voyageurs)", 
@@ -6594,7 +6399,7 @@
   "Site internet": "http://transdev.net", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "auditions \u00e0 la demande des commissions; rendez-vous avec les d\u00e9put\u00e9s et les administrateurs; suivi des travaux parlementaires (ferroviaire, d\u00e9centralisation, transports, fiscalit\u00e9 des entreprises, transposition de directive europ\u00e9enne).", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "Entre 7 750 000 et 8 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "Entre 7,75 et 8,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 35000, 
    "A l'\u00e9tranger": 60000
@@ -6710,12 +6515,9 @@
   "Acronyme": "U.F.S", 
   "Nombre de personnes employ\u00e9es par l'organisme": 12, 
   "Autres sources": {
-   "Dons": "", 
-   "Cotisations des membres": 2200000, 
-   "Autres": "", 
-   "Commercialisation de produits, services": ""
+   "Cotisations des membres": "2.20 millions d'\u20ac"
   }, 
-  "Budget global": 2200000, 
+  "Budget global": "2.20 millions d'\u20ac", 
   "Raison sociale": "Union Fran\u00e7aise des Semenciers", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "ESA: Association europ\u00e9enne des entreprises semenci\u00e8res ISF: Association internationale des entreprises semenci\u00e8res SAF: Soci\u00e9t\u00e9 des agriculteurs de France FARRE: Forum des Agriculteurs Responsables Respectueux de l'Environnement Club Demeter IBV: Institut des Biotechnologies V\u00e9g\u00e9tales", 
@@ -6723,7 +6525,6 @@
    "17 Rue du Louvre 75001 PARIS FRANCE", 
    153009930
   ], 
-  "Dont financement public": "", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "2012/2013", 
   "Site internet": "http://www.ufs-semenciers.org/", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": "", 
@@ -6755,12 +6556,12 @@
   "Acronyme": "UFSBD", 
   "Nombre de personnes employ\u00e9es par l'organisme": 10, 
   "Autres sources": {
-   "Dons": 1278787, 
+   "Dons": "1.28 millions d'\u20ac", 
    "Cotisations des membres": 67454, 
    "Autres": 831546, 
    "Commercialisation de produits, services": 8500
   }, 
-  "Budget global": 3332676, 
+  "Budget global": "3.33 millions d'\u20ac", 
   "Raison sociale": "Union Fran\u00e7aise pour la Sant\u00e9 Bucco-Dentaire", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "L'UFSBD est Centre Collaborateur de l'OMS L'UFSBD est membre associ\u00e9 de la plateforme Europ\u00e9enne \"for Better Oral Health in Europe\"", 
@@ -6768,7 +6569,7 @@
    "7 Mariotte 75017 Paris France", 
    "(+33) 01 44 90 72 80"
   ], 
-  "Dont financement public": 1146389, 
+  "Dont financement public": "1.15 millions d'\u20ac", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Site internet": "http://www.ufsbd.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
@@ -6918,7 +6719,7 @@
   "id": 136, 
   "Objectif et mission": "Les proc\u00e9d\u00e9s Uretek sont employ\u00e9s de par le monde depuis une trentaine d\u2019ann\u00e9es; ils permettent de stabiliser tous types d\u2019ouvrage (habitation, industrie, g\u00e9nie civil, monument historique...) aux moyens de techniques sp\u00e9cifiques et exclusives d\u2019injection de sol. En France, plus d'une vingtaine d'agences r\u00e9gionales (riches de collaborateurs aux profils multiples et compl\u00e9mentaires : ing\u00e9nieur structure, architecte, g\u00e9otechnicien \u2026.) assure le suivi technique et commercial d\u2019environ 1500 chantier/an. Un mouvement de sol, survenu ou \u00e0 pr\u00e9venir, peut \u00eatre d\u2019origine anthropique (excavation, fuite de r\u00e9seaux\u2026) ou naturelle (s\u00e9isme, s\u00e9cheresse\u2026). D\u00e8s qu\u2019il induit la question de la tenue d\u2019un ouvrage l\u2019entreprise est susceptible d\u2019intervenir.", 
   "Nombre de personnes employ\u00e9es par l'organisme": 100, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Raison sociale": "URETEK FRANCE", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "F\u00e9d\u00e9ration Fran\u00e7aise du B\u00e2timent", 
@@ -6930,7 +6731,7 @@
   "Site internet": "http://www.uretek.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "X", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10,00 millions d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 100, 
    "A l'\u00e9tranger": ""
@@ -6990,7 +6791,7 @@
   "id": 128, 
   "Objectif et mission": "Pr\u00e9sent sur les cinq continents avec plus de 200 000 salari\u00e9s, VEOLIA con\u00e7oit et d\u00e9ploie des solutions pour le traitement de l'eau et de l'assainissement, la gestion des d\u00e9chets et l'optimisation \u00e9nerg\u00e9tique. Le Groupe accompagne ainsi les industriels, les villes et leurs habitants, dans l'usage optimis\u00e9 des ressources, afin d'en augmenter l'efficacit\u00e9 \u00e9conomique, environnementale et sociale.", 
   "Nombre de personnes employ\u00e9es par l'organisme": 202800, 
-  "Budget global": 22300000000, 
+  "Budget global": "22.30 milliards d'\u20ac", 
   "Raison sociale": "VEOLIA", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Association Fran\u00e7aise des Entreprises Priv\u00e9es (AFEP), MEDEF, Union des services publics Industriels et commerciaux (UNSPIC), F\u00e9d\u00e9ration nationale des entreprises de l'Eau(FP2E), F\u00e9d\u00e9ration nationale des activit\u00e9s de la d\u00e9pollution et de l'environnement ( FNADE), F\u00e9d\u00e9ration des services \u00e9nergie environnement (FEDENE) ; Fondation d'entreprises : Institut de la gestion d\u00e9l\u00e9gu\u00e9e(IGD)", 
@@ -7002,7 +6803,7 @@
   "Site internet": "http://www.veolia.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Auditions du Pr\u00e9sident-Directeur g\u00e9n\u00e9ral par la Commission du d\u00e9veloppement durable le 9 juillet 2013 et dans le cadre des travaux l\u00e9gislatifs, de repr\u00e9sentants du Groupe sur les th\u00e8mes suivants: efficacit\u00e9 \u00e9nerg\u00e9tique, techniques alternatives \u00e0 la fracturation hydraulique pour l'exploration et l'exploitation des hydrocarbures non conventionnels, directive concessions et gestion des d\u00e9chets dans le cadre des fili\u00e8res REP. Sur ce dernier point , une visite de site ( usine de traitement et de recyclage des d\u00e9chets \u00e9lectroniques situ\u00e9e \u00e0 Angers) a \u00e9t\u00e9 organis\u00e9e \u00e0 la demande des 2 co-rapporteurs.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": 22300000000, 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "22.30 milliards d'\u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 65990, 
    "A l'\u00e9tranger": 136810
