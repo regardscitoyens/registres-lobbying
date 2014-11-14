@@ -17,6 +17,9 @@ rooturl = re.sub(r'^(https?://[^/]+).*$', r'\1', url, re.I)
 geturl = lambda t: re_href.sub(r'%s\1' % rooturl, t)
 filename = "registre-lobbying-AN-v2"
 
+re_clean_title = re.compile(r'<title>.*</title>')
+clean_nonutf_title = lambda x: re_clean_title.sub("", x)
+
 try:
     mkdir('cache')
 except:
@@ -31,6 +34,7 @@ def get_html(url, name):
     else:
         with open(cachefile, 'r') as f:
             h = f.read()
+    h = clean_nonutf_title(h)
     h = h.decode('utf-8')
     h = clean_html(h)
     return h
@@ -77,6 +81,7 @@ re_split_line = re.compile(r'</td> <td[^>]*>', re.I)
 # Télécharge la liste des représentnts et itère dessus
 data = []
 listpage = get_html(url, "liste")
+
 for line in listpage.split('\n'):
     res = {}
 
