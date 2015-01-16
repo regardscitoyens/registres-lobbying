@@ -4,8 +4,20 @@
   <title>RSS Registre des représentants d'intérêts Assemblée nationale</title>
   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_liste</link>
   <description>Les dernières modifications au registre des représentants d'intérêts de l'Assemblée nationale</description>
-  <pubDate>Thu, 15 Jan 2015 15:45:28 +0100</pubDate>
+  <pubDate>Fri, 16 Jan 2015 05:45:28 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/regardscitoyens/registre-lobbying-AN</generator>
+  <item>
+   <title>SAUR (Entreprise, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/187</link>
+   <description><![CDATA[Nouvel inscrit au registre le 16 janv. 2015 : SAUR (Entreprise)]]></description>
+   <pubDate>Fri, 16 Jan 2015 05:45:28 +0100</pubDate>
+  </item>
+  <item>
+   <title>SAUR (Entreprise, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/24</link>
+   <description><![CDATA[Retrait du registre le 16 janv. 2015 : SAUR (Entreprise)]]></description>
+   <pubDate>Fri, 16 Jan 2015 05:45:28 +0100</pubDate>
+  </item>
   <item>
    <title>SAUR (Entreprise, retiré)</title>
    <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/187</link>
