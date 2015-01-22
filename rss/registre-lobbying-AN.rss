@@ -4,8 +4,26 @@
   <title>RSS Registre des représentants d'intérêts Assemblée nationale</title>
   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_liste</link>
   <description>Les dernières modifications au registre des représentants d'intérêts de l'Assemblée nationale</description>
-  <pubDate>Wed, 21 Jan 2015 04:45:28 +0100</pubDate>
+  <pubDate>Thu, 22 Jan 2015 04:45:29 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/regardscitoyens/registre-lobbying-AN</generator>
+  <item>
+   <title>Seita (Entreprise, modifié)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/119</link>
+   <description><![CDATA[Modifications des informations du registre le 22 janv. 2015 : Seita (Entreprise)]]></description>
+   <pubDate>Thu, 22 Jan 2015 04:45:29 +0100</pubDate>
+  </item>
+  <item>
+   <title>SAUR (Entreprise, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/187</link>
+   <description><![CDATA[Retrait du registre le 22 janv. 2015 : SAUR (Entreprise)]]></description>
+   <pubDate>Thu, 22 Jan 2015 04:45:29 +0100</pubDate>
+  </item>
+  <item>
+   <title>SAUR (Entreprise, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/24</link>
+   <description><![CDATA[Nouvel inscrit au registre le 22 janv. 2015 : SAUR (Entreprise)]]></description>
+   <pubDate>Thu, 22 Jan 2015 04:45:29 +0100</pubDate>
+  </item>
   <item>
    <title>ANACOFI (Organisation professionnelle, nouveau)</title>
    <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/195</link>
