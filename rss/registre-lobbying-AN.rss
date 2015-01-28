@@ -4,8 +4,26 @@
   <title>RSS Registre des représentants d'intérêts Assemblée nationale</title>
   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_liste</link>
   <description>Les dernières modifications au registre des représentants d'intérêts de l'Assemblée nationale</description>
-  <pubDate>Tue, 27 Jan 2015 04:45:31 +0100</pubDate>
+  <pubDate>Wed, 28 Jan 2015 04:45:31 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/regardscitoyens/registre-lobbying-AN</generator>
+  <item>
+   <title>SAUR (Entreprise, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/187</link>
+   <description><![CDATA[Retrait du registre le 28 janv. 2015 : SAUR (Entreprise)]]></description>
+   <pubDate>Wed, 28 Jan 2015 04:45:31 +0100</pubDate>
+  </item>
+  <item>
+   <title>SAUR (Entreprise, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/24</link>
+   <description><![CDATA[Nouvel inscrit au registre le 28 janv. 2015 : SAUR (Entreprise)]]></description>
+   <pubDate>Wed, 28 Jan 2015 04:45:31 +0100</pubDate>
+  </item>
+  <item>
+   <title>AIR FRANCE (Entreprise, modifié)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/28</link>
+   <description><![CDATA[Modifications des informations du registre le 28 janv. 2015 : AIR FRANCE (Entreprise)]]></description>
+   <pubDate>Wed, 28 Jan 2015 04:45:31 +0100</pubDate>
+  </item>
   <item>
    <title>JEANTETASSOCIES AARPI (Cabinets d'avocats, modifié)</title>
    <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/7</link>
