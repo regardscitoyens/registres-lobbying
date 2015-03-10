@@ -48,6 +48,37 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": ""
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/206", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Oui dans la mesure o\u00f9 tous les collaborateurs 3M s'engagent \u00e0 adh\u00e9rer chaque ann\u00e9e au Code de Conduite 3M incluant le respect du FCPA, ainsi qu'aux principes d\u00e9ontologiques commerciaux qui y sont \u00e9nonc\u00e9s", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "D\u00e9fense, armement - Industrie - Sant\u00e9 - S\u00e9curit\u00e9 - T\u00e9l\u00e9communications - Transports, logistique", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Jean-Louis DESCAMPS", 
+   "Madame Adeline LENTZ", 
+   "Monsieur Bertrand De La Fouchardi\u00e8re"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Madame St\u00e9phanie BARREAU ( Pr\u00e9sident 3M France)", 
+  "Statut l\u00e9gal": "SAS", 
+  "id": 206, 
+  "Objectif et mission": "3M est organis\u00e9 en 5 grands march\u00e9s : Industrie ; S\u00e9curit\u00e9 et Signal\u00e9tique ; Energie et Electronique ; Sant\u00e9 ; Grand Public", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 91677, 
+  "Budget global": "1.10 milliards d'\u20ac", 
+  "Raison sociale": "3M France", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "3M participe aux principales f\u00e9d\u00e9rations professionnelles de ses grands march\u00e9s : AGRION,FIEV,URF,SNITEM,SYCABEL,SYNAMAP,SER,AFNOR,AMCHAM", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 1 30 31 80 91", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://www.3M.com/fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Aucune action en 2014", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "1.10 milliards d'\u20ac", 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 3000, 
+   "A l'\u00e9tranger": 88677
+  }
+ }, 
+ {
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/96", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Code de d\u00e9ontologie de l\u2019Association des Conseils en Lobbying et Affaires Publiques (AFCL)", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Artisanat - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Arts et culture - B\u00e2timent, travaux publics - Banque, Assurance, finances - Budget et finances publiques - Collectivit\u00e9s locales - Commerce, distribution - Consommation et concurrence - Coop\u00e9ration et D\u00e9veloppement - D\u00e9fense, armement - Droit des soci\u00e9t\u00e9s - \u00c9ducation, enseignement, formation - Emploi - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Famille - Fiscalit\u00e9 - Finances sociales - Gouvernance - Handicap - H\u00f4tellerie, restauration - Immobilier, habitat, logement - Industrie - Jeunesse - Justice et affaires int\u00e9rieures - Politique r\u00e9gionale - Presse, \u00e9dition - Professions lib\u00e9rales - Recherche et technologie - Sant\u00e9 - S\u00e9curit\u00e9 - Sport, loisirs, tourisme - T\u00e9l\u00e9communications - Transports, logistique", 
@@ -445,7 +476,7 @@
   "id": 202, 
   "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "Entre 200 000 et 250 000 \u20ac", 
   "Acronyme": "Alinea", 
-  "Nombre de personnes employ\u00e9es par l'organisme": "", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 4, 
   "Budget global": "Entre 200 000 et 250 000 \u20ac", 
   "Raison sociale": "Alinea, Avocats \u00e0 la Cour", 
   "Nom des clients": "Comit\u00e9 de liaison des interprofessions agricoles et agro-alimentaires INTERBEV INAPORC VALHOR INTERCEREALES APEF", 
@@ -455,7 +486,7 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Alinea, Avocats \u00e0 la Cour est l\u2019un des premiers cabinets d\u2019avocats inscrit sur le registre de transparence de la Commission europ\u00e9enne et du Parlement europ\u00e9en. Alinea, Avocats \u00e0 la Cour assiste ses clients, parmi lesquels figurent des interprofessions, des associations, des syndicats ou des op\u00e9rateurs \u00e9conomiques, afin de leur permettre d\u2019anticiper et d\u2019int\u00e9grer les \u00e9volutions l\u00e9gislatives et r\u00e8glementaires dans leur d\u00e9veloppement. Dans le cadre tr\u00e8s particulier des secteurs agricole et agroalimentaire, nous repr\u00e9sentons, conseillons et assistons nos clients dans toutes leurs interventions et leurs \u00e9changes avec les d\u00e9cideurs publics, le gouvernement, la Commission europ\u00e9enne, les Parlementaires fran\u00e7ais et europ\u00e9ens, l\u2019administration centrale et d\u00e9centralis\u00e9e. Nous conseillons nos clients dans la d\u00e9finition d\u2019une strat\u00e9gie institutionnelle et cr\u00e9ons avec eux les outils n\u00e9cessaires \u00e0 leur intervention.", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
   "Site internet": "http://www.alinea-avocats.com", 
-  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": "", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 4, 
   "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
    "Agriculture, \u00e9levage, p\u00eache, bois", 
    "Entre 50 000 et 100 000 \u20ac", 
@@ -1156,6 +1187,47 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "L'AFER est une force de proposition vis-\u00e0-vis des parlementaires et des pouvoirs publics. C'est ainsi que l'AFER a contribu\u00e9 \u00e0 apporter des arguments lors du rapport parlementaire Lefebvre/Berger en mati\u00e8re d'assurance-vie, de retraite et de pr\u00e9voyance. Dans le cadre des r\u00e9flexions sur les probl\u00e8mes de d\u00e9pendance, l'AFER a, \u00e0 plusieurs reprises, r\u00e9pondu aux demandes d'auditions diligent\u00e9es par les parlementaires ou dans le cadre de d\u00e9bats au sein des deux Assembl\u00e9es. L'AFER a \u00e9t\u00e9 souvent appel\u00e9e \u00e0 Bercy, soit au cabinet du ministre, soit dans les administrations pour des consultations."
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "40000", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/208", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Nos adh\u00e9rents sont astreints \u00e0 un r\u00e8glement de d\u00e9ontologie , que l afg \u00e9tabli et qui est valid\u00e9 par l'Autorit\u00e9 des March\u00e9s Financiers.", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Banque, Assurance, finances - Droit des soci\u00e9t\u00e9s - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Finances sociales - Gouvernance - Immobilier, habitat, logement", 
+  "Cat\u00e9gorie": "Organisation professionnelle", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 420, 
+   "Noms des personnes morales membres de l'organisme": "La liste de nos adh\u00e9rents est disponible dans notre rapport annuel, accessible sur notre site : www.afg.asso.fr", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "Entreprises : soci\u00e9t\u00e9s de gestion de portefeuille"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur PAUL-HENRI DE LA PORTE DU THEIL", 
+   "Monsieur PIERRE BOLLON", 
+   "Madame LAURE DELAHOUSSE", 
+   "Madame DELPHINE CHARLES-PERONNE"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur PIERRE BOLLON (DELEGUE GENERAL)", 
+  "Statut l\u00e9gal": "Association loi 1901", 
+  "id": 208, 
+  "Objectif et mission": "L'AFG repr\u00e9senteles professionnels de la gestion d'actifs. Cr\u00e9\u00e9e en 1961, l'association r\u00e9unit tous les acteurs du m\u00e9tier de la gestion de portefeuille pour compte de tiers qu'elle soit sous forme de mandat ou via des Organismes de Placement Collectifs (OPC).", 
+  "Acronyme": "AFG", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 33, 
+  "Autres sources": {
+   "Cotisations des membres": "7.00 millions d'\u20ac"
+  }, 
+  "Budget global": "7.00 millions d'\u20ac", 
+  "Raison sociale": "ASSOCIATION FRANCAISE DE LA GESTION FINANCIERE", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "40000", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 1 44 94 94 00", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
+  "Site internet": "http://www.afg.asso.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
+   4, 
+   "Pour une partie de leur activit\u00e9 seulement."
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rendez-vous avec des parlementaires"
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/141", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Tous les membres de l\u2019AFCL s\u2019engagent \u00e0 respecter la charte de l\u2019AFCL, laquelle int\u00e8gre notamment, par principe, le respect de tous les codes de conduite des institutions, dont celui de l\u2019Assembl\u00e9 nationale. La charte de l\u2019AFCL peut \u00eatre consult\u00e9e en suivant ce lien : http://afcl.net/deontologie/", 
@@ -1593,36 +1665,36 @@
   "Chiffre d'affaire de l'entreprise ou du groupe": "16.80 milliards d'\u20ac"
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "155628", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "178801", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/25", 
-  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "MMe BENSAID - COHEN est membre de l'ARPP (Association professionnelle des responsables avec les pouvoirs publics)", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "MME BENSAID-COHEN est membre de l'ARPP (Association professionnelle des responsables avec les pouvoirs publics)", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Banque, Assurance, finances", 
   "Cat\u00e9gorie": "Autorit\u00e9 administrative", 
-  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame V\u00e9ronique BENSAID - COHEN", 
-  "Dirigeant / personne juridiquement responsable": "Monsieur Christian NOYER (Pr\u00e9sident de l'ACPR et Gouverneur de la Banque de France)", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame V\u00e9ronique BENSAID-COHEN", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Christian NOYER (Gouverneur de la Banque de France)", 
   "Statut l\u00e9gal": "Autorit\u00e9 Administrative Ind\u00e9pendante", 
   "id": 25, 
-  "Objectif et mission": "En charge de la supervision bancaire et de l'assurance. Elle est charg\u00e9e de l'agr\u00e9ment et du contr\u00f4le des \u00e9tablissements bancaires et des organismes d'assurance. Elle veille \u00e0 la pr\u00e9servation de la stabilit\u00e9 financi\u00e8re et \u00e0 la protection des clients des banques, des assur\u00e9s et des b\u00e9n\u00e9ficiaires de contrats d'assurance. Autorit\u00e9 Ind\u00e9pendante elle est adoss\u00e9e \u00e0 la Banque de France", 
+  "Objectif et mission": "En charge de la supervision bancaire et de l'assurance. Elle est charg\u00e9e de l'agr\u00e9ment et du contr\u00f4le des \u00e9tablissements bancaires et des organismes d'assurance. Elle veille \u00e0 la pr\u00e9servation de la stabilit\u00e9 financi\u00e8re et \u00e0 la protection ,des clients des banque, des assur\u00e9s et des b\u00e9n\u00e9ficiaires de contrat d'assurance. Autorit\u00e9 Ind\u00e9pendante elle est adoss\u00e9e \u00e0 la Banque de France.", 
   "Information financi\u00e8re compl\u00e9mentaire": "Le salaire de Mme BENSAID - COHEN est celui transmis par la Banque de France", 
   "Acronyme": "ACPR", 
-  "Nombre de personnes employ\u00e9es par l'organisme": 1042, 
+  "Nombre de personnes employ\u00e9es par l'organisme": 1020, 
   "Autres sources": {
-   "Cotisations des membres": "187.00 millions d'\u20ac"
+   "Autres": "248.00 millions d'\u20ac"
   }, 
-  "Budget global": "187.00 millions d'\u20ac", 
-  "Raison sociale": "Autorit\u00e9 de Contr\u00f4le Prudentiel et de R\u00e9solution", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "155628", 
-  "Adresse et t\u00e9l\u00e9phone": "33 1 49.95.40.00", 
-  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
+  "Budget global": "248.00 millions d'\u20ac", 
+  "Raison sociale": "Autorit\u00e9 de Contr\u00f4le et de R\u00e9solution", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "178801", 
+  "Adresse et t\u00e9l\u00e9phone": "33 1 49.95.45.00", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
   "Site internet": "http://www.acpr.banque-france.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
    1, 
    "En poste depuis janvier 2001"
   ], 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Veille parlementaire sur tous les textes \u00e9conomiques et financiers. Analyse technique et juridique des modifications l\u00e9gislatives apport\u00e9es aux articles du code mon\u00e9taire et financier, et code de la consommation"
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Veille parlementaire sur tous les textes \u00e9conomiques et financiers. Analyse technique et juridique des modifications l\u00e9gislatives apport\u00e9es aux articles du code mon\u00e9taire et financier, et du code de la consommation."
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "155628", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "178801", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/21", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "MMe BENSAID - COHEN est membre de l'ARPP (Association professionnelle des responsables avec les pouvoirs publics)", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Banque, Assurance, finances", 
@@ -1632,16 +1704,15 @@
   "Statut l\u00e9gal": "Autorit\u00e9 Administrative Ind\u00e9pendante", 
   "id": 21, 
   "Objectif et mission": "Banque Centrale Nationale membre du Syst\u00e8me Europ\u00e9en de Banque Centrale En charge de la r\u00e9glementation bancaire, de la gestion des fichiers des particuliers, du surrendettement des particuliers, de la cotation des entreprises, de la gestion de la monnaie fiduciaire, etc...", 
-  "Nombre de personnes employ\u00e9es par l'organisme": 12408, 
+  "Nombre de personnes employ\u00e9es par l'organisme": 12538, 
   "Autres sources": {
-   "Autres": "1.25 milliards d'\u20ac", 
-   "Commercialisation de produits, services": "560.00 millions d'\u20ac"
+   "Autres": "1.85 milliards d'\u20ac"
   }, 
-  "Budget global": "1.81 milliards d'\u20ac", 
+  "Budget global": "1.85 milliards d'\u20ac", 
   "Raison sociale": "Banque de France", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "155628", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "178801", 
   "Adresse et t\u00e9l\u00e9phone": "33 1 42.92.42.92", 
-  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
   "Site internet": "http://www.banque-france.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
    1, 
@@ -4287,6 +4358,64 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "FNE contacte les d\u00e9put\u00e9s pour leur faire part de ses positions et propositions dans le cadre d'examen de projets et propositions de loi, des missions parlementaires ou des commissions d'enqu\u00eate."
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/130", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Artisanat - B\u00e2timent, travaux publics - Collectivit\u00e9s locales - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Immobilier, habitat, logement - Politique r\u00e9gionale", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Hugues Sartre", 
+   "Madame Roxane Perrault"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Christophe F\u00e9vrier (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "SARL unipersonelle", 
+  "id": 130, 
+  "Objectif et mission": "Soci\u00e9t\u00e9 de service en efficacit\u00e9 \u00e9nerg\u00e9tique op\u00e9rant dans le dispositif des Certificats d'Economies d'Energie", 
+  "Acronyme": "GEO PLC", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 11, 
+  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Raison sociale": "GEO France", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "GEO France est secr\u00e9taire g\u00e9n\u00e9ral du Groupement professionnel des certificats d'\u00e9conomies d'\u00e9nergie", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 0144560000", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
+  "Site internet": "http://www.geoplc.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Suivi du projet de loi transition \u00e9nerg\u00e9tique envoie d'un livret explicatif au sujet des certificat d'\u00e9conomies d'\u00e9nergie participation \u00e0 la commission d'enqu\u00eate sur les tarifs de l'\u00e9l\u00e9ctricit\u00e9", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 11, 
+   "A l'\u00e9tranger": ""
+  }
+ }, 
+ {
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/205", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Grayling France adh\u00e8re au code de conduite de l'Association Fran\u00e7aise des Conseils en Lobbying (AFCL).", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Agroalimentaire - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Emploi - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - H\u00f4tellerie, restauration - Sant\u00e9 - Sport, loisirs, tourisme", 
+  "Cat\u00e9gorie": "Cabinets de consultants sp\u00e9cialis\u00e9s", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Madame Doroth\u00e9e DAYRAUT JULLIAN", 
+   "Monsieur R\u00e9my DEBRANT", 
+   "Monsieur Arthur GACHET"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur R\u00e9my DEBRANT (Directeur G\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "SAS", 
+  "Objectif et mission": "Grayling est un cabinet international de conseil en affaires publiques et communication institutionnelle, pr\u00e9sent dans 26 pays. En France, nous accompagnons nos clients dans leurs d\u00e9marches vis-\u00e0-vis de leurs parties prenantes et des pouvoirs publics.", 
+  "id": 205, 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "Entre 300 000 et 350 000 \u20ac", 
+  "Acronyme": "GRAYLING", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 4, 
+  "Budget global": "Entre 300 000 et 350 000 \u20ac", 
+  "Raison sociale": "GRAYLING FRANCE", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 300 000 et 350 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Grayling France est repr\u00e9sent\u00e9 \u00e0 l'Association Fran\u00e7aise des Conseils en Lobbying (AFCL) par Doroth\u00e9e Dayraut Jullian.", 
+  "Adresse et t\u00e9l\u00e9phone": 155307070, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
+  "Site internet": "http://www.grayling.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 4, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "PJL ALUR - PJL SIMPLIFICATION - PLFR 2014 - PLF 2015 - PLFSS 2015"
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/82", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Tous les membres de GCFT respectent la charte Green Cross International (consultable en ligne sur www.gci.ch)", 
@@ -5353,37 +5482,6 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rien \u00e0 signaler"
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
-  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/130", 
-  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Aucune adh\u00e9sion", 
-  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Artisanat - B\u00e2timent, travaux publics - Collectivit\u00e9s locales - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Immobilier, habitat, logement - Politique r\u00e9gionale", 
-  "Cat\u00e9gorie": "Entreprise", 
-  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
-   "Madame Roxane Perrault", 
-   "Monsieur Hugues Sartre"
-  ], 
-  "Dirigeant / personne juridiquement responsable": "Monsieur christophe fevrier (pr\u00e9sident)", 
-  "Statut l\u00e9gal": "SAS", 
-  "id": 130, 
-  "Objectif et mission": "Soci\u00e9t\u00e9 de service en efficacit\u00e9 \u00e9nerg\u00e9tique conseil en \u00e9conomie d'\u00e9nergie", 
-  "Acronyme": "GEO PLC", 
-  "Nombre de personnes employ\u00e9es par l'organisme": 100, 
-  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
-  "Raison sociale": "Partager la Croissance", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
-  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "membre de : Comit\u00e9 21 Association 4 D", 
-  "Adresse et t\u00e9l\u00e9phone": "(+33) 146378861", 
-  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "1 er janvier 2013 au 31 d\u00e9cembre 2013", 
-  "Site internet": "http://www.geoplc.com", 
-  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "pas d'activit\u00e9s l'ann\u00e9e pr\u00e9c\u00e9dente", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
-  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
-   "En France": 100, 
-   "A l'\u00e9tranger": ""
-  }
- }, 
- {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 30 000 et 40 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/60", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Code de l'association professionnelle des responsables des relations avec les pouvoirs publics (ARPP) Lobbying guidelines Pernod Ricard", 
@@ -5846,17 +5944,17 @@
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 100 000 et 150 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/119", 
-  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Les personnels de Seita remplissant des fonctions de repr\u00e9sentants d'int\u00e9r\u00eats sont astreints au respect des dispositions du Code de conduite du Groupe Imperial Tobacco et particuli\u00e8rement les dispositions renforc\u00e9es aux relations avec les pouvoirs publics.", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Les personnels de la SEITA remplissant des fonctions de repr\u00e9sentants d'int\u00e9r\u00eats sont astreints au respect des dispositions du Code de conduite du Groupe Imperial Tobacco et particuli\u00e8rement les dispositions renforc\u00e9es aux relations avec les pouvoirs publics.", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Industrie", 
   "Cat\u00e9gorie": "Entreprise", 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame CLEMENCE ROUQUETTE", 
-  "Dirigeant / personne juridiquement responsable": "Monsieur MARTIN CARROLL (Pr\u00e9sident)", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur BART ALKEMADE (Pr\u00e9sident)", 
   "Statut l\u00e9gal": "SAS", 
   "id": 119, 
   "Objectif et mission": "SEITA fabrique et commercialise des produits du tabac", 
   "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
   "Nombre de personnes employ\u00e9es par l'organisme": 37600, 
-  "Information financi\u00e8re compl\u00e9mentaire": "Salaires: 50 000 euros Cotisations annuelles aux associations dont Seita est membre: 22 000 euros Documentation: 15 000 euros Honoraires de conseil: 57 000 euros", 
+  "Information financi\u00e8re compl\u00e9mentaire": "Salaires: 50 000 euros Cotisations annuelles aux associations dont SEITA est membre: 22 000 euros Documentation: 15 000 euros Honoraires de conseil: 57 000 euros", 
   "Raison sociale": "SEITA", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 100 000 et 150 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Membre de l'Association des Fournisseurs de Tabac (AFTF) Membre de l'Association des Fournisseurs de Cigares de France (AFCF)", 
@@ -5864,7 +5962,7 @@
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
   "Site internet": "http://imperial-tobacco.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rendez-vous avec des d\u00e9put\u00e9s et/ou leurs assistants au sujet de la r\u00e9glementation relative au tabac. Auditions: mission d'information sur la responsabilit\u00e9 sociale et les pratiques fiscales des multinationales du tabac. Envoi de documents d'information technique et de notes de position.", 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rendez-vous avec les d\u00e9put\u00e9s et / ou leurs assistants au sujet de la r\u00e9glementation relative au tabac. Auditions: mission d'information sur la responsabilit\u00e9 sociale et les pratiques fiscales des multinationales du tabac. Envoi de documents d'information technique et de notes de position.", 
   "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 2600, 
@@ -5927,7 +6025,7 @@
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Sifaris fait partie de : l'AFCDP : l'Association Fran\u00e7aise des Correspondants \u00e0 la protection des Donn\u00e9es \u00e0 Caract\u00e8re Personnel. Clusif : agit pour la s\u00e9curit\u00e9 de l'information et sensibilise tous les acteurs en int\u00e9grant une dimension transversale dans ses groupes de r\u00e9flexion.", 
   "Adresse et t\u00e9l\u00e9phone": "(+33) 1 58 07 03 03", 
-  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
   "Site internet": "http://www.sifaris.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "", 
