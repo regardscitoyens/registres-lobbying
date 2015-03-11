@@ -1156,9 +1156,9 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Organisation d'\u00e9v\u00e9nements (r\u00e9unions de travail, groupes de r\u00e9flexion, d\u00e9jeuners etc.) en pr\u00e9sence de d\u00e9put\u00e9s. - \u00c9laboration et diffusion de notes de positionnement, de propositions d'amendements"
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 30 000 et 40 000 \u20ac", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/30", 
-  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Cr\u00e9ation d'un comit\u00e9 des sages compos\u00e9 de personnalit\u00e9s ind\u00e9pendantes nomm\u00e9es en dehors des membres de l'Association. Il est sollicit\u00e9 sur tout sujet de d\u00e9ontologie ou de gouvernance de l'Association. Il peut constater l'existence de conflits d'int\u00e9r\u00eats et \u00eatre conduit \u00e0 appr\u00e9cier l'ind\u00e9pendance des administrateurs et fait rapport de ses travaux au Conseil d'administration.", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Cr\u00e9ation d'un comit\u00e9 des sages pouvant \u00eatre sollicit\u00e9 sur tous les sujets de d\u00e9ontologie ou de gouvernance de l'Association. Ses membres: M. J. Delmas-Marsalet, ancien membre du Coll\u00e8ge de l'AMF; M. Pierre Steinmetz, ancien membre d conseil constitutionnel, ancien DG de la Gendarmerie nationale; M. B. F Le Bris, pr\u00e9fet, ancien Directeur de l'ENA; M. M. Germain, agr\u00e9g\u00e9 des Facult\u00e9s de Droit, directeur de l'Institut de Droit des Affaires; M. G. Worms et G. Brac de la Perri\u00e8re, anciens pr\u00e9sidents de Banque.", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Banque, Assurance, finances - Budget et finances publiques - Fiscalit\u00e9", 
   "Cat\u00e9gorie": "Association", 
   "Les adh\u00e9rents": {
@@ -1174,17 +1174,24 @@
   "Dirigeant / personne juridiquement responsable": "Monsieur G\u00e9rard BEKERMAN (Pr\u00e9sident)", 
   "Statut l\u00e9gal": "Association loi 1901", 
   "id": 30, 
-  "Objectif et mission": "L'AFER est une association d'\u00e9pargnants libre et ind\u00e9pendante, dont l'objectif est de paremettre \u00e0 ses 730.000 adh\u00e9rents de se constituer une \u00e9pargne dans le meilleur cadre fiscal et juridique possible et se procurer ainsi un outil patrimonial qui leur permet de se prot\u00e9ger des al\u00e9as de la vie et de leur assurer un compl\u00e9ment pour leur propre retraite.", 
+  "Objectif et mission": "L'AFER compte pr\u00e8s de 750.000 adh\u00e9rents et est la premi\u00e8re association d'\u00e9pargnants en France. Elle doit donc se tenir de fa\u00e7on permanente informe des d\u00e9cisions gouvernementales et des projets de loi en discussion au parlement, qui peuvent avoir un impact dans les secteurs de l'\u00e9pargne et, donc, sur l'avenir des \u00e9pargnants.", 
   "Acronyme": "AFER", 
   "Nombre de personnes employ\u00e9es par l'organisme": 140, 
+  "Autres sources": {
+   "Autres": "3.75 millions d'\u20ac", 
+   "Cotisations des membres": 300000
+  }, 
   "Budget global": "4.00 millions d'\u20ac", 
   "Raison sociale": "Association fran\u00e7aise d'\u00e9pargne et de retraite", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 30 000 et 40 000 \u20ac", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Adresse et t\u00e9l\u00e9phone": "(+33) 1 40 82 24 24", 
-  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
-  "Site internet": "http://afer.asso.fr", 
-  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "L'AFER est une force de proposition vis-\u00e0-vis des parlementaires et des pouvoirs publics. C'est ainsi que l'AFER a contribu\u00e9 \u00e0 apporter des arguments lors du rapport parlementaire Lefebvre/Berger en mati\u00e8re d'assurance-vie, de retraite et de pr\u00e9voyance. Dans le cadre des r\u00e9flexions sur les probl\u00e8mes de d\u00e9pendance, l'AFER a, \u00e0 plusieurs reprises, r\u00e9pondu aux demandes d'auditions diligent\u00e9es par les parlementaires ou dans le cadre de d\u00e9bats au sein des deux Assembl\u00e9es. L'AFER a \u00e9t\u00e9 souvent appel\u00e9e \u00e0 Bercy, soit au cabinet du ministre, soit dans les administrations pour des consultations."
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
+  "Site internet": "http://www.afer.asso.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
+   1, 
+   "L'AFER est une association libre et ind\u00e9pendante. Ce n'est ni une banque, ni une compagnie d'assurance. Son objectif est de permettre \u00e0 ses adh\u00e9rents de se constituer une \u00e9pargne dans le meilleur cadre fiscal et juridique possible afin de se procurer un outil patrimonial qui permette de se prot\u00e9ger des al\u00e9as de la vie et de se constituer un compl\u00e9ment pour leur retraite."
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "L'AFER, fortre du nombre de ses adh\u00e9rents est une force de proposition vis-\u00e0-vis des parlementaires. Apr\u00e8s avoir contribu\u00e9 \u00e0 apporter des arguments lors du rapport parlementaire Lefebvre/Berger sur l'assurance-vie, elle est tr\u00e8s souvent sollicit\u00e9e par des parlementaires ou dans le cadre de d\u00e9bats sur l'\u00e9pargne-retraite ou l'assurance-vie. Elle a en outre organis\u00e9 en avril 2014 les Premi\u00e8res Assises de l'Epargne et de la Fiscalit\u00e9, en avril 2014, avec la participation de plusieurs d\u00e9put\u00e9s de la majorit\u00e9 et de l'opposition, du Sous-gouverneur de la Banque de France, de notaires et de responsables juridiques et politiques devant plus de 1.000 participants."
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "40000", 
