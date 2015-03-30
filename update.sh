@@ -2,6 +2,8 @@
 
 cd $(echo $0 | sed 's#/[^/]*$##')
 
+git pull > /dev/null 2>&1
+
 rooturl="http://www2.assemblee-nationale.fr/representant/representant_interet_"
 url="${rooturl}liste"
 ./scrap.py "$url" $1
