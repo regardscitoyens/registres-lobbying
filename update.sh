@@ -85,3 +85,18 @@ if git diff data/registre-lobbying-AN-v2.csv |
   
 fi
 
+
+# Check Sénat
+urlsenat=$(curl http://www.senat.fr/role/groupes_interet.html 2> /dev/null |
+  iconv -f iso-8859-15 -t utf-8 |
+  grep "Liste des groupes d'" |
+  sed 's|^.* href="\([^"]*\)".*$|http://www.senat.fr\1|')
+filename=$(echo $urlsenat | sed 's|^.*/\([^/]\+\)$|data/\1|')
+if ! test -f "$filename"; then
+  echo 
+  echo "---------------------------------------"
+  echo "DOWNLOADING NEW SENATE REGISTER VERSION"
+  echo "---------------------------------------"
+  wget "$urlsenat" -O "$filename"
+fi
+
