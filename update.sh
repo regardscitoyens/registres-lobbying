@@ -80,7 +80,7 @@ if git diff data/registre-lobbying-AN-v2.csv |
   echo " </channel>
 </rss>" >> rss/registre-lobbying-AN.rss
   ./divers/write_readme.sh
-  git commit rss/registre-lobbying-AN.rss data/registre-lobbying-AN-v2.* README.md -m "update registre"
+  git commit rss/registre-lobbying-AN.rss data/registre-lobbying-AN-v2.* README.md -m "update registre AN"
   git push
   
 fi
@@ -98,5 +98,12 @@ if ! test -f "$filename"; then
   echo "DOWNLOADING NEW SENATE REGISTER VERSION"
   echo "---------------------------------------"
   wget "$urlsenat" -O "$filename"
+  source /usr/local/bin/virtualenvwrapper.sh
+  workon registrelobbying
+  in2csv "$filename" > "$filename.csv"
+  ./clean_senat.py "$filename.csv" > data/registre-lobbying-Senat.csv
+  rm -f "$filename.csv"
+  git commit data/registre-lobbying-Senat.csv -m "update registre Sénat" 
+  git push
 fi
 
