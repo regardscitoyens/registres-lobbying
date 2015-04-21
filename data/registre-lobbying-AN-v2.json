@@ -2015,10 +2015,18 @@
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "inf\u00e9rieur \u00e0 50 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Code de transparence du Parlement Europ\u00e9en,", 
   "Adresse et t\u00e9l\u00e9phone": "(+33) 09 82 63 88 25", 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "1ERE ANNEES", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
   "Objectif et mission": "Notre Cabinet est sp\u00e9cialis\u00e9 dans le traitement des affaires publiques, politiques et r\u00e9glementaires au niveau Fran\u00e7ais et Europ\u00e9en. Notre Cabinet accompagne et conseille ses clients pour faire de l'Europe non plus un obstacle mais au contraire une chance et un levier pour leur d\u00e9veloppement. Notre Cabinet intervient aussi dans la lutte contre la contrefa\u00e7on aupr\u00e8s de grande marque et grand groupe.", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 5, 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "1ERE ANNEES"
+  "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
+   "Agriculture, \u00e9levage, p\u00eache, bois", 
+   10000, 
+   "Consommation et concurrence", 
+   20000, 
+   "Handicap", 
+   20000
+  ]
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
