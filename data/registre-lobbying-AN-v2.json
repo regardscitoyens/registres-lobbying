@@ -7462,8 +7462,8 @@
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Budget et finances publiques - Commerce, distribution - Consommation et concurrence - Emploi - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Industrie - Recherche et technologie - Sant\u00e9 - Transports, logistique", 
   "Cat\u00e9gorie": "Organisation professionnelle", 
   "Les adh\u00e9rents": {
-   "Nombre total d'adh\u00e9rents \"personnes morales\"": 39, 
-   "Noms des personnes morales membres de l'organisme": "19 Membres actifs : Antargaz, BP, BridgeOil, EGL, Eni, Esso, GDF Suez, Geopetrol, Hess, Lundin, Lyondellbasell, Petroineos, Petrorep, Primagaz, Shell, SPPE, TIGF, Total, Vermilion. 20 membres associ\u00e9s : Celtique Energie, Carl Bechem, Cofor, Concorde Energy, DPC, DPF, Egdon Ressources, Itag, Maurel et Prom, Moore Energy, Petromanas Energy France, Poros, RM, Sapetro, Sasca, SCDM Energie, SPSE, SRD, Statoil, Trapil.", 
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 38, 
+   "Noms des personnes morales membres de l'organisme": "18 membres actifs : BridgeOil, EGL, Esso, GDFSuez, Geopetrol, Lundin, Petrorep, Shell, SPPE, TIGF, Total, Vermilion, LyondellBasell, Petroineos, Antargaz, BP, ENI, Primagaz. 20 membres associ\u00e9s : Celtique \u00c9nergie, Cofor, Concorde Energy, Egdon Ressources, Itag, Maurel et Prom, Moore Energy, Petromanas Energy France, Poros, Sapetro, SCDM Energie, SRD, Carl Bechem, DPC, DPF, RM, Sasca, SPSE, Statoil et Trapil.", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
     "Entreprises"
@@ -7473,24 +7473,24 @@
    "Madame Isabelle MULLER", 
    "Monsieur Bruno AGEORGES"
   ], 
-  "Dirigeant / personne juridiquement responsable": "Monsieur Jean-Louis SCHILANSKY (Pr\u00e9sident)", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Francis DUSEUX (Pr\u00e9sident)", 
   "Statut l\u00e9gal": "Syndycat professionnel", 
   "id": 172, 
-  "Objectif et mission": "L\u2019UFIP est un syndicat professionnel qui rassemble les entreprises exer\u00e7ant en France une activit\u00e9 dans l\u2019un des trois grands secteurs de l\u2019industrie p\u00e9troli\u00e8re : exploration et production de p\u00e9trole et de gaz naturel, raffinage et distribution. Du \u00ab puits \u00e0 la pompe \u00bb, l\u2019UFIP repr\u00e9sente et exprime les points de vue professionnels et industriels de pr\u00e8s de quarante entreprises adh\u00e9rentes. La mission de l\u2019UFIP est de : \u2022 faire conna\u00eetre la situation p\u00e9troli\u00e8re nationale et internationale et les enjeux auxquels l\u2019industrie p\u00e9troli\u00e8re est confront\u00e9e ; \u2022 veiller au maintien de la comp\u00e9titivit\u00e9 de l\u2019industrie p\u00e9troli\u00e8re en France et \u00e0 l\u2019\u00e9galit\u00e9 de traitement entre pays, entre \u00e9nergies et entre op\u00e9rateurs ; \u2022 favoriser le dialogue social au sein de la branche \u00ab p\u00e9trole \u00bb, n\u00e9gocier les accords de branche avec les partenaires sociaux ; promouvoir des r\u00e8glementations techniques appropri\u00e9es et efficaces.", 
+  "Objectif et mission": "L\u2019Union Fran\u00e7aise des Industries P\u00e9troli\u00e8res est un syndicat professionnel qui rassemble les entreprises exer\u00e7ant en France une activit\u00e9 dans l\u2019un des trois grands secteurs de l\u2019industrie p\u00e9troli\u00e8re : exploration et production de p\u00e9trole et de gaz naturel, raffinage et distribution. Du \u00ab puits \u00e0 la pompe \u00bb, l\u2019UFIP repr\u00e9sente et exprime les points de vue professionnels et industriels de pr\u00e8s de quarante entreprises adh\u00e9rentes La mission de l\u2019UFIP est de : \u2022 faire conna\u00eetre la situation p\u00e9troli\u00e8re nationale et internationale et les enjeux auxquels l\u2019industrie p\u00e9troli\u00e8re est confront\u00e9e ; \u2022 veiller au maintien de la comp\u00e9titivit\u00e9 de l\u2019industrie p\u00e9troli\u00e8re en France et \u00e0 l\u2019\u00e9galit\u00e9 de traitement entre pays, entre \u00e9nergies et entre op\u00e9rateurs ; \u2022 favoriser le dialogue social au sein de la branche \u00ab p\u00e9trole \u00bb, n\u00e9gocier les accords de branche avec les partenaires sociaux ; \u2022 promouvoir des r\u00e8glementations techniques appropri\u00e9es et efficaces.", 
   "Acronyme": "UFIP", 
-  "Nombre de personnes employ\u00e9es par l'organisme": 13, 
+  "Nombre de personnes employ\u00e9es par l'organisme": 12, 
   "Autres sources": {
    "Cotisations des membres": "4.00 millions d'\u20ac"
   }, 
   "Budget global": "4.00 millions d'\u20ac", 
   "Raison sociale": "Union Fran\u00e7aise des Industries P\u00e9troli\u00e8res", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
-  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "MEDEF CDCF", 
-  "Adresse et t\u00e9l\u00e9phone": "(+33) (0) 1 40 53 70 00", 
-  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "MEDEF - CDCF", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) (0)140537000", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
   "Site internet": "http://www.ufip.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Participation \u00e0 des auditions organis\u00e9es : - au titre de la commission du d\u00e9veloppement durable (code minier, ...) - au titre de la commission des affaires \u00e9conomiques (impacts \u00e9conomiques du d\u00e9veloppement des hydrocarbures non conventionnels dans le monde) - au titre de l'OPECST (techniques alternatives \u00e0 la fracturation hydraulique) - au titre du groupe d'\u00e9tude sur le gaz de schiste"
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Participation \u00e0 des auditions organis\u00e9es : - au titre de la commission des affaires \u00e9trang\u00e8res (g\u00e9opolitique de l'\u00e9nergie) - au titre de l'OPECST (principe d'innovation) - au titre de la commission d'enqu\u00eate sur les tarifs de l'\u00e9lectricit\u00e9"
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
