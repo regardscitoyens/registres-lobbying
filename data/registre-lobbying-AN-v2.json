@@ -4172,7 +4172,7 @@
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/106", 
-  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Aucune adh\u00e9sion\u00e0 un code ou une charte \u00e9thique", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Code d'\u00e9thique", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Commerce, distribution - Consommation et concurrence - Fiscalit\u00e9 - Industrie", 
   "Cat\u00e9gorie": "Organisation professionnelle", 
   "Les adh\u00e9rents": {
@@ -4180,15 +4180,15 @@
    "Noms des personnes morales membres de l'organisme": "Liste des adh\u00e9rents disponible sur le site www. spiritueux.fr Adh\u00e9rents directs ou indirects via le : - SNFL (syndicat fran\u00e7ais des liqueurs) - FNEF (f\u00e9d\u00e9ration des eaux de vie de fruits) - SMC (syndicat des maisons de Cognac)", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
-    "Producteurs et distributeurs fran\u00e7ais de spiritueux adh\u00e9rant soit directement soit indirectement par l'interm\u00e9diaire d'une organisation professionnelle de m\u00e9tier"
+    "Entreprises"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
-   "Madame MYRIAM DECOEUR-MICHEL", 
+   "Monsieur Vincent MARTIN", 
    "Monsieur VINCENT MARTIN"
   ], 
-  "Dirigeant / personne juridiquement responsable": "Madame Sylvie HENON-BADOINOT (Pr\u00e9sidente)", 
-  "Statut l\u00e9gal": "Syndycat professionnel", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Vincent MARTIN (Directeur G\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "ORGANISATION PROFESSIONNELLE", 
   "id": 106, 
   "Objectif et mission": "LA FFS repr\u00e9sente les principaux acteurs du secteur des spiritueux. La f\u00e9d\u00e9ration a pour principale mission de traiter de toutes les questions d'int\u00e9r\u00eat g\u00e9n\u00e9ral se rapportant directement ou indirectement \u00e0 l'\u00e9laboration, \u00e0 l'importation et \u00e0 la commercialisation des boissons spiritueuses et des sp\u00e9cialit\u00e9s qui en d\u00e9rivent.", 
   "Acronyme": "FFS", 
@@ -4198,13 +4198,16 @@
    "Cotisations des membres": 950000
   }, 
   "Budget global": "1.00 millions d'\u20ac", 
-  "Raison sociale": "F\u00e9d\u00e9ration fran\u00e7aise des spiritueux", 
+  "Raison sociale": "FEDERATION FRANCAISE DES SPIRITUEUX", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Membre de l'ANIA: participation aux groupes de travail, contributions Membre de SpiritsEurope: participation aux groupes de travail, contributions", 
-  "Adresse et t\u00e9l\u00e9phone": "(+33) 01 53 04 30 30", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 0153043030", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.spiritueux.fr", 
-  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
+   2, 
+   "Madame DECOEUR-MICHEL a quitt\u00e9 la F\u00e9d\u00e9ration Fran\u00e7aise des Spiritueux le 1er mai 2015. Nous vous remercions de bien vouloir la supprimer de vos fichiers."
+  ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rendez-vous/Courriers"
  }, 
  {
@@ -7222,17 +7225,17 @@
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Thomas Legrain", 
   "Dirigeant / personne juridiquement responsable": "Monsieur Thomas Legrain (Associ\u00e9 g\u00e9rant)", 
   "Statut l\u00e9gal": "SARL", 
-  "Objectif et mission": "Depuis 2007, nous intervenons dans les domaines du conseil en strat\u00e9gie, du lobbying et de la communication d\u2019influence. Nous avons comme objectif d\u2019aider nos clients \u00e0 : Comprendre les mutations de leurs march\u00e9s Mettre en place des dispositifs de veille G\u00e9rer les relations avec les pouvoirs publics et les relais d'opinion D\u00e9fendre leurs int\u00e9r\u00eats G\u00e9rer les relations presse D\u00e9finir une strat\u00e9gie de communication Accro\u00eetre leur influence Exploiter de nouvelles opportunit\u00e9s de d\u00e9veloppement", 
+  "Objectif et mission": "Depuis 2007, nous intervenons dans les domaines du conseil en strat\u00e9gie, de la communication et du lobbying.", 
   "id": 9, 
   "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
   "Nombre de personnes employ\u00e9es par l'organisme": 1, 
   "Budget global": "Entre 50 000 et 100 000 \u20ac", 
   "Raison sociale": "Thomas Legrain Conseil", 
-  "Nom des clients": "Union Fran\u00e7aise de la Bijouterie, Joaillerie, Orf\u00e8vrerie, des Pierres & des Perles (UFBJOP) Association des Femmes Huissiers de Justice de France (AFHJF) Cercle d\u2019Etude et de Rapprochement de Dermatologie et Psychanalyse (CERDP) Jerlaure", 
+  "Nom des clients": "Association des Femmes Hussiers de Justice de France (AFHJF) Cercle d'\u00e9tude et de Rapprochement de Dermatologie et Psychanalyse (CERDP) Union Francilienne des Centres de Gestion et Associations Agr\u00e9\u00e9es (UFCA) F\u00e9d\u00e9ration des Centres de Gestion Agr\u00e9\u00e9s (FCGA) Fondation Greffe de Vie", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Membre de l'Association des Conseils en Lobbying et Affaires Publiques (AFCL)", 
   "Adresse et t\u00e9l\u00e9phone": 146807325, 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Organisation d'\u00e9v\u00e9nements r\u00e9unissant des parlementaires ou des attach\u00e9s parlementaires (petits-d\u00e9jeuners ou d\u00eeners d\u00e9bat) Rendez-vous avec des parlementaires pour le comptes de nos clients R\u00e9daction et diffusion de \"lettres aux parlementaires\" pour certains de nos clients", 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Organisation d'\u00e9v\u00e9nements r\u00e9unissant des parlementaires et des attach\u00e9s parlementaires (petits-d\u00e9jeuners et d\u00eeners d\u00e9bat). Rendez-vous avec des parlementaires pour le compte de nos clients. R\u00e9daction et diffusion de \"lettres aux parlementaires\" pour certains de nos clients. Conseil de nos clients dans le cadre de projets de loi, lorsqu'ils sont directement concern\u00e9s par ces derniers.", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "1er avril 2012 - 31 mars 2013", 
   "Site internet": "http://www.thomas-legrain-conseil.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
