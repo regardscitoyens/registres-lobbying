@@ -75,7 +75,9 @@ for line in xls:
     try:
         rep["Nom de famille"], rep["Prénom"] = re_splitname.search(get(line, "Nom et prénom du détenteur du titre")).groups()
     except:
-        print >> sys.stderr, "ERROR extracting surname:", get(line, "Nom et prénom du détenteur du titre")
+        rep["Nom de famille"] = get(line, "Nom et prénom du détenteur du titre")
+        rep["Prénom"] = ""
+        print >> sys.stderr, "WARNING: error extracting surname from family name:", rep["Nom de famille"]
     dat = date.fromtimestamp((float(get(line, "Date d'échéance du titre d'accès"))-25569)*86400)
     rep["Date d'échéance du titre d'accès"] = "%02d/%02d/%04d" % (dat.day, dat.month, dat.year)
     results.append(rep)
