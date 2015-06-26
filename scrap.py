@@ -20,6 +20,16 @@ filename = "registre-lobbying-AN-v2"
 re_clean_title = re.compile(r'<title>.*</title>')
 clean_nonutf_title = lambda x: re_clean_title.sub("", x)
 
+def download(url, attempts_left=3):
+    try:
+        return urlopen(url).read()
+    except urllib2.HTTPError as e:
+        if attempts_left:
+            time.sleep(5)
+            return download(url, attempts_left-1)
+        sys.stderr.write("ERROR downloading %s: %s" % (url, e))
+        sys.exit(1)
+
 try:
     mkdir('cache')
 except:
@@ -28,7 +38,7 @@ except:
 def get_html(url, name):
     cachefile = sep.join(["cache", "%s.html" % name])
     if not cache:
-        h = urlopen(url).read()
+        h = download(url)
         with open(cachefile, 'w') as f:
             f.write(h)
     else:
