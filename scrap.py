@@ -5,7 +5,7 @@ import re
 from sys import argv
 from os import mkdir
 from os.path import sep
-from urllib2 import urlopen
+from urllib2 import urlopen, HTTPError
 from utils import *
 
 # Deuxième argument optionnel active l'usage du cache pour le debug
@@ -23,7 +23,7 @@ clean_nonutf_title = lambda x: re_clean_title.sub("", x)
 def download(url, attempts_left=3):
     try:
         return urlopen(url).read()
-    except urllib2.HTTPError as e:
+    except HTTPError as e:
         if attempts_left:
             time.sleep(5)
             return download(url, attempts_left-1)
