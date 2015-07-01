@@ -3,6 +3,7 @@
 
 import re
 from sys import argv
+from time import sleep
 from os import mkdir
 from os.path import sep
 from urllib2 import urlopen, HTTPError
@@ -25,7 +26,7 @@ def download(url, attempts_left=3):
         return urlopen(url).read()
     except HTTPError as e:
         if attempts_left:
-            time.sleep(5)
+            sleep(5)
             return download(url, attempts_left-1)
         sys.stderr.write("ERROR downloading %s: %s" % (url, e))
         sys.exit(1)
