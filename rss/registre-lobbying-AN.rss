@@ -4,8 +4,20 @@
   <title>RSS Registre des représentants d'intérêts Assemblée nationale</title>
   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_liste</link>
   <description>Les dernières modifications au registre des représentants d'intérêts de l'Assemblée nationale</description>
-  <pubDate>Fri, 03 Jul 2015 00:45:32 +0200</pubDate>
+  <pubDate>Fri, 03 Jul 2015 01:45:30 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/regardscitoyens/registre-lobbying-AN</generator>
+  <item>
+   <title>SYNTEC CONSEIL EN RELATIONS PUBLICS (Syndicat, nouveau)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/191</link>
+   <description><![CDATA[Nouvel inscrit au registre le 03 juil. 2015 : SYNTEC CONSEIL EN RELATIONS PUBLICS (Syndicat)]]></description>
+   <pubDate>Fri, 03 Jul 2015 01:45:30 +0200</pubDate>
+  </item>
+  <item>
+   <title>SYNTEC CONSEIL EN RELATIONS PUBLICS (Syndicat, retiré)</title>
+   <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/217</link>
+   <description><![CDATA[Retrait du registre le 03 juil. 2015 : SYNTEC CONSEIL EN RELATIONS PUBLICS (Syndicat)]]></description>
+   <pubDate>Fri, 03 Jul 2015 01:45:30 +0200</pubDate>
+  </item>
   <item>
    <title>SYNTEC CONSEIL EN RELATIONS PUBLICS (Syndicat, retiré)</title>
    <link>http://www2.assemblee-nationale.fr/representant/representant_interet_detail/191</link>
