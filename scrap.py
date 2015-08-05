@@ -7,6 +7,7 @@ from time import sleep
 from os import mkdir
 from os.path import sep
 from urllib2 import urlopen, HTTPError, URLError
+from httplib import BadStatusLine
 from utils import *
 
 # Deuxième argument optionnel active l'usage du cache pour le debug
@@ -24,7 +25,7 @@ clean_nonutf_title = lambda x: re_clean_title.sub("", x)
 def download(url, attempts_left=3):
     try:
         return urlopen(url).read()
-    except (HTTPError, URLError) as e:
+    except (HTTPError, URLError, BadStatusLine) as e:
         if attempts_left:
             sleep(5)
             return download(url, attempts_left-1)
