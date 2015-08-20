@@ -4,6 +4,11 @@ cd $(echo $0 | sed 's#/[^/]*$##')
 
 git pull > /dev/null 2>&1
 
+DEBUG=true
+if [ -z "$1" ]; then
+  DEBUG=false
+fi
+
 rooturl="http://www2.assemblee-nationale.fr/representant/representant_interet_"
 url="${rooturl}liste"
 ./scrap.py "$url" $1
@@ -80,9 +85,10 @@ if git diff data/registre-lobbying-AN-v2.csv |
   echo " </channel>
 </rss>" >> rss/registre-lobbying-AN.rss
   ./divers/write_readme.sh
-  git commit rss/registre-lobbying-AN.rss data/registre-lobbying-AN-v2.* README.md -m "update registre AN"
-  git push
-  
+  if ! $DEBUG; then
+    git commit rss/registre-lobbying-AN.rss data/registre-lobbying-AN-v2.* README.md -m "update registre AN"
+    git push
+  fi
 fi
 
 
@@ -104,7 +110,9 @@ if ! test -f "$filename"; then
   in2csv "$filename" > "$filename.csv"
   ./clean_senat.py "$filename.csv" > data/registre-lobbying-Senat.csv
   rm -f "$filename.csv"
-  git commit data/registre-lobbying-Senat.csv -m "update registre Sénat" 
-  git push
+  if ! $DEBUG; then
+    git commit data/registre-lobbying-Senat.csv -m "update registre Sénat" 
+    git push
+  fi
 fi
 
