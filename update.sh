@@ -111,7 +111,7 @@ if ! test -f "$filename"; then
   ./clean_senat.py "$filename.csv" > data/registre-lobbying-Senat.csv
   rm -f "$filename.csv"
   if ! $DEBUG; then
-    git commit data/registre-lobbying-Senat.csv -m "update registre Sénat" 
+    git commit data/registre-lobbying-Senat.csv -m "update registre Sénat"
     git push
   fi
 fi

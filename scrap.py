@@ -5,7 +5,7 @@ import re
 from sys import argv
 from time import sleep
 from os import mkdir
-from os.path import sep
+from os.path import sep, exists as fileexists
 from urllib2 import urlopen, HTTPError, URLError
 from httplib import BadStatusLine
 from utils import *
@@ -50,6 +50,13 @@ def get_html(url, name):
     h = h.decode('utf-8')
     h = clean_html(h)
     return h
+
+ANdoublons = {}
+if fileexists('doublonsAN.json'):
+    with open('doublonsAN.json') as f:
+        ANdoublons = dict((int(k), v) for k, v in json.load(f).items())
+    with open('data/registre-lobbying-AN-v2.json') as f:
+        oldData = dict((dic[u'id'], dic) for dic in json.load(f))
 
 # Extrait les informations de la fiche détaillée d'un représentant
 def extract_data(text):
@@ -108,6 +115,9 @@ for line in listpage.split('\n'):
     res[u'Catégorie'] = cleancateg(res[u'Catégorie'])
     res[u'URL registre Assemblée'] = geturl(match[3])
     res[u'id'] = get_num(res[u'URL registre Assemblée'])
+    if res[u'id'] in ANdoublons:
+        data.append(oldData[ANdoublons[res[u'id']]])
+        continue
     name = re_cleanname.sub('_', res[u'Raison sociale'])
 
     # Télécharge et complète les infos tirées de la fiche détaillée du représentant
