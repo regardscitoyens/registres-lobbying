@@ -99,7 +99,7 @@ urlsenat=$(curl http://www.senat.fr/role/groupes_interet.html 2> /dev/null |
   head -n 1 |
   sed 's|^.* href="\([^"]*xlsx\?\)".*$|http://www.senat.fr\1|')
 filename=$(echo $urlsenat | sed 's|^.*/\([^/]\+\)$|data/\1|')
-if ! test -f "$filename"; then
+if ! [ -z "$filename" ] && ! test -f "$filename"; then
   echo 
   echo "---------------------------------------"
   echo "DOWNLOADING NEW SENATE REGISTER VERSION"
