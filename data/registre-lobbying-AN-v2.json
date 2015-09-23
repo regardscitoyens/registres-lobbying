@@ -2870,7 +2870,7 @@
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Consommation et concurrence - \u00c9nergie, eau - Fiscalit\u00e9", 
   "Cat\u00e9gorie": "Autorit\u00e9 administrative", 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
-   "Madame France de Saint-Martin", 
+   "Madame Olivia Fritzinger", 
    "Madame Anne Monteil"
   ], 
   "Dirigeant / personne juridiquement responsable": "Monsieur Philippe de Ladoucette (Pr\u00e9sident)", 
@@ -3725,6 +3725,35 @@
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/242", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "B\u00e2timent, travaux publics - Collectivit\u00e9s locales - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Industrie - Politique r\u00e9gionale", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Thibaut SAGUET", 
+   "Monsieur Johann MARGULIES"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Thibaut SAGUET (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "SAS", 
+  "id": 242, 
+  "Objectif et mission": "ENR'CERT est une soci\u00e9t\u00e9 de services en efficacit\u00e9 \u00e9nerg\u00e9tique, acteur du dispositif des Certificats d'\u00e9conomie d'\u00e9nergie.", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 30, 
+  "Budget global": "Entre 9 750 000 et 10 000 000 \u20ac", 
+  "Raison sociale": "ENR'CERT", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "ENR'CERT est membre du Groupement des Professionnels des Certifications d'Economie d'Energie", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 182839956", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
+  "Site internet": "http://www.enr-cert.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Projet de loi sur la transition \u00e9nerg\u00e9tique par la croissance verte", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "Entre 9 750 000 et 10 000 000 \u20ac", 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 30, 
+   "A l'\u00e9tranger": ""
+  }
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/154", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Notre organisme est r\u00e9f\u00e9renc\u00e9 \u00e0 Bruxelles aupr\u00e8s de la Commission. Nos entreprises adh\u00e9rentes s'engagent \u00e0 respecter les principes de la Charte europ\u00e9enne de l'entreprise g\u00e9n\u00e9rale \u00e9dit\u00e9e par la FIEC ( f\u00e9d\u00e9ration europ\u00e9enne de la construction)", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - B\u00e2timent, travaux publics - Environnement, \u00e9cologie, d\u00e9veloppement durable - Immobilier, habitat, logement", 
@@ -4082,23 +4111,23 @@
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/123", 
-  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Adh\u00e9rents du code de bonnes pratiques du centre d'\u00e9tudes des directeurs d'associations professionnelles (CEDAP)", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Adh\u00e9rent du code de bonnes pratiques du centre d'\u00e9tudes des directeurs d'associations professionnelles", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Commerce, distribution - Consommation et concurrence - Droit des soci\u00e9t\u00e9s - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Industrie - S\u00e9curit\u00e9 - Transports, logistique", 
   "Cat\u00e9gorie": "Organisation professionnelle", 
   "Les adh\u00e9rents": {
    "Nombre total d'adh\u00e9rents \"personnes morales\"": 8, 
-   "Noms des personnes morales membres de l'organisme": "Groupe Ludendo (La Grande R\u00e9cr\u00e9) ToysRus France Groupe King Jouet EPSE Jou\u00e9Club Micromania Disney Stores Luderix International (PICWIC) Railway SARL", 
+   "Noms des personnes morales membres de l'organisme": "EPSE Jou\u00e9club Groupe Ludendo - La grande R\u00e9cr\u00e9 ToysRus France Groupe King jouet Micromania Luderix International PICWIC Railway Disney Store", 
    "Nature juridique des adh\u00e9rents": [
     "Personnes morales", 
     "Entreprises"
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
-   "Monsieur Jean-Michel Grunberg", 
-   "Monsieur Jean Kimpe"
+   "Monsieur Jean Kimpe", 
+   "Monsieur Jean-Michel Grungerg"
   ], 
   "Dirigeant / personne juridiquement responsable": "Monsieur Jean-Michel Grunberg (Pr\u00e9sident)", 
-  "Statut l\u00e9gal": "F\u00e9d\u00e9ration professionnelle", 
+  "Statut l\u00e9gal": "f\u00e9d\u00e9ration professionnelle", 
   "id": 123, 
   "Objectif et mission": "Promotion et d\u00e9fense des int\u00e9r\u00eats des commerces sp\u00e9cialistes du Jouet", 
   "Acronyme": "FCJPE", 
@@ -4110,12 +4139,12 @@
   "Budget global": 220000, 
   "Raison sociale": "F\u00e9d\u00e9ration des commerces de jouet et produits de l'enfant", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
-  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "membre de conf\u00e9d\u00e9ration du commerce non-alimentaire (CDNA) membre de la conf\u00e9d\u00e9ration des commer\u00e7ants de France (CDF) membre du conseil du commerce de France (CDCF)", 
-  "Adresse et t\u00e9l\u00e9phone": "(+33) 1 60 43 45 686525307", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Conseil du commerce de France Conf\u00e9d\u00e9ration des commer\u00e7ants de France Conf\u00e9d\u00e9ration du commerce non alimentaire", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 686525307", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
-  "Site internet": "http://fcjpe.fr", 
+  "Site internet": "http://www.fcjpe.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Proposition de loi sur les ondes \u00e9lectromagn\u00e9tiques- contribution sur l'interdiction de publicit\u00e9 pour les objets connect\u00e9s destin\u00e9es aux moins de 14 ans Projet de loi sur la croissance- contribution sur la n\u00e9cessit\u00e9 de p\u00e9renniser des d\u00e9lais de paiement d\u00e9rogatoires pour le secteur du jouet"
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Proposition de loi sur les ondes \u00e9lectromagn\u00e9tiques - contribution sur l'interdiction de publicit\u00e9 pour les objets connect\u00e9s destin\u00e9s aux moins de 14 ans Projet de loi sur la croissance - contribution sur la n\u00e9cessit\u00e9 de p\u00e9renniser des d\u00e9lais de paiement d\u00e9rogatoires pour le secteur du Jouet"
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
@@ -5415,7 +5444,10 @@
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "La loi n\u00b02013-907 du 11 octobre 2013 relative \u00e0 la transparence de la vie publique et le r\u00e8glement g\u00e9n\u00e9ral de la Haute Autorit\u00e9 d\u00e9finissent les r\u00e8gles d\u00e9ontologiques auxquelles sont soumis ses membres et agents (cf. http://www.hatvp.fr/rg/)", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Collectivit\u00e9s locales - Gouvernance - Justice et affaires int\u00e9rieures", 
   "Cat\u00e9gorie": "Autorit\u00e9 administrative", 
-  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Yann ADUSEI", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Elodie CUERQ", 
+   "Yann ADUSEI"
+  ], 
   "Dirigeant / personne juridiquement responsable": "Monsieur Jean-Louis NADAL (Pr\u00e9sident)", 
   "Statut l\u00e9gal": "Autorit\u00e9 administrative ind\u00e9pendante", 
   "id": 241, 
@@ -5467,6 +5499,57 @@
    "En France": 4150, 
    "A l'\u00e9tranger": 86000
   }
+ }, 
+ {
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/243", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "AFCL", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Collectivit\u00e9s locales - Commerce, distribution - Consommation et concurrence - Emploi - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Industrie - Sant\u00e9 - S\u00e9curit\u00e9 - T\u00e9l\u00e9communications - Transports, logistique", 
+  "Cat\u00e9gorie": "Cabinets de consultants sp\u00e9cialis\u00e9s", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur EMMANUEL BEAUREPAIRE", 
+   "Madame CELINE MANDOUZE", 
+   "Madame ARIANE BAYAT", 
+   "Madame MATHILDE FROMAGEAU"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur CYRILLE SCHWARTZ (DIRECTEUR GENERAL ADJOINT)", 
+  "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
+  "Objectif et mission": "Communication d'influence / Conseil Strat\u00e9gique / Relations Institutionnelles / Ev\u00e9nementiel / Relations M\u00e9dias", 
+  "id": 243, 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 \u20ac", 
+  "Budget global": "Entre 150 000 et 200 000 \u20ac", 
+  "Nombre de personnes employ\u00e9es par l'organisme": "", 
+  "Information financi\u00e8re compl\u00e9mentaire": "", 
+  "Raison sociale": "HOPSCOTCH CORPORATE", 
+  "Nom des clients": "ZIPCAR, METAUX SPECIAUX, GROUPEMENT DES FLEXICONSOMMATEURS...", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "AFCL, AACC, SYNTHEC, ANAE", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 1 41 34 20 20", 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
+  "Site internet": "http://WWW.HOPSCOTCHGROUPE.COM", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": "", 
+  "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
+   "Affaires institutionnelles, vie publique", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Agriculture, \u00e9levage, p\u00eache, bois", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Commerce, distribution", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Emploi", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "\u00c9nergie, eau", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Environnement, \u00e9cologie, d\u00e9veloppement durable", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Industrie", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Justice et affaires int\u00e9rieures", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "T\u00e9l\u00e9communications", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Transports, logistique", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac"
+  ]
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "15000", 
@@ -7640,25 +7723,9 @@
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/217", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "LES AGENCES ADHERENTES DE SYNTEC CONSEIL EN RELATIONS PUBLICS S'ENGAGENT A RESPECTER ET PROMOUVOIR LES PRINCIPES DE DEONTOLOGIE ET DE PRATIQUE ETHIQUE QUI REGISSENT LA PROFESSION EN FRANCE ET A L'ETRANGER : LE CODE DE DEONTOLOGIE DE SYNTEC CONSEIL EN RELATIONS PUBLICS, LA CHARTE ETHIQUE DU PROFESSIONNEL DE LA COMMUNICATION DE CRISE DE SYNTEC CONSEIL EN RELATIONS PUBLICS, LE CODE DE CONDUITE DE L'INTERNATIONAL PUBLICS RELATIONS ASSOCIATION, LA CHARTE DE STOCKHOLM DE L'INTERNATIONAL COMMUNICATION CONSULTANCY ASSOCIATION, LA CHARTE RELATIVE A L'EXERCICE DE LA PROFESSION DE CONSEIL EN LOBBYING DE L'ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES, LE CODE DE LISBONNE DE LA CONFEDERATION EUROPEENNE DES RELATIONS PUBLICS, LE CODE D'ATHENES DE L'INTERNATIONAL PUBLIC RELATIONS ASSOCIATION.", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Artisanat - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Banque, Assurance, finances - Commerce, distribution - D\u00e9fense, armement - Droit des soci\u00e9t\u00e9s - \u00c9ducation, enseignement, formation - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Gouvernance - Presse, \u00e9dition - Sant\u00e9 - Sport, loisirs, tourisme - T\u00e9l\u00e9communications", 
   "Cat\u00e9gorie": "Syndicat", 
-  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
-   "Monsieur Romain Benz", 
-   "Monsieur Jean-Fran\u00e7ois Pascal", 
-   "Monsieur Patrick Bonin", 
-   "Madame Virginie Thomas"
-  ], 
-  "Dirigeant / personne juridiquement responsable": "Monsieur THIERRY WELLHOFF (PRESIDENT)", 
-  "id": 217, 
-  "Autres sources": {
-   "Cotisations des membres": 214581, 
-   "Commercialisation de produits, services": 31446
-  }, 
-  "Budget global": 246027, 
-  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
-  "Site internet": "http://WWW.SYNTEC-RP.COM", 
-  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "LES AGENCES ADHERENTES DE SYNTEC CONSEIL EN RELATIONS PUBLICS S'ENGAGENT A RESPECTER ET PROMOUVOIR LES PRINCIPES DE DEONTOLOGIE ET DE PRATIQUE ETHIQUE QUI REGISSENT LA PROFESSION EN FRANCE ET A L'ETRANGER : LE CODE DE DEONTOLOGIE DE SYNTEC CONSEIL EN RELATIONS PUBLICS, LA CHARTE ETHIQUE DU PROFESSIONNEL DE LA COMMUNICATION DE CRISE DE SYNTEC CONSEIL EN RELATIONS PUBLICS, LE CODE DE CONDUITE DE L'INTERNATIONAL PUBLICS RELATIONS ASSOCIATION, LA CHARTE DE STOCKHOLM DE L'INTERNATIONAL COMMUNICATION CONSULTANCY ASSOCIATION, LA CHARTE RELATIVE A L'EXERCICE DE LA PROFESSION DE CONSEIL EN LOBBYING DE L'ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES, LE CODE DE LISBONNE DE LA CONFEDERATION EUROPEENNE DES RELATIONS PUBLICS, LE CODE D'ATHENES DE L'INTERNATIONAL PUBLIC RELATIONS ASSOCIATION.", 
-  "Nombre de personnes employ\u00e9es par l'organisme": 1, 
   "Les adh\u00e9rents": {
    "Nombre total d'adh\u00e9rents \"personnes morales\"": 47, 
    "Noms des personnes morales membres de l'organisme": "ADOCOM, ALBINE&CO, ALTERIS ENVIRONNEMENT, AMALTHEA, AROMATES, AUVRAY & ASSOCI\u00c9S, BABEL, BORACAY, BURSON-MARSTELLER I&E, CAP & CIME PR, CAPITAL IMAGE, COHN & WOLFE, COMCORP, EDELMAN, FHCOM, FLEISHMAN-HILLARD, FLORENCE GILLIER & ASSOCI\u00c9S, FP&A, GOLIN, GOOTENBERG, H+K STRAT\u00c9GIES, IDENIUM, INFLUELSE, KABLE COMMUNICATION, KALAAPA, KETCHUM, KINGCOM, LE PUBLIC SYST\u00c8ME, LES ATELIERS CORPORATE, LEWIS PR, MAARC, MONET + ASSOCI\u00c9S,OGILVY PUBLIC RELATIONS, PEPPER MENTHE COMMUNICATION, PROFILE PR, PUBLICIS CONSULTANTS FRANCE, SELF IMAGE, TBWA CORPORATE, THOMAS MARKO & ASSOCI\u00c9S, VFC RELATIONS PUBLICS, VP STRAT & COM, WE AGENCY, WEBER SHANDWICK, WELLCOM, YUCATAN, ZMIROV COMMUNICATION", 
@@ -7667,12 +7734,28 @@
     "Entreprises"
    ]
   }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Romain Benz", 
+   "Monsieur Jean-Fran\u00e7ois Pascal", 
+   "Monsieur Patrick Bonin", 
+   "Madame Virginie Thomas"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur THIERRY WELLHOFF (PRESIDENT)", 
   "Statut l\u00e9gal": "Syndycat professionnel", 
+  "id": 217, 
   "Objectif et mission": "CREE EN 1988, SYNTEC CONSEIL EN RELATIONS PUBLICS REPRESENTE LES ENTREPRISES SPECIALISEES EN CONSEIL EN RELATIONS PUBLICS AU SEIN DE LA FEDERATION SYNTEC ET DU MEDEF. LE SYNDICAT COMPTE UNE QUARANTAINE D'AGENCES REPRESENTANT PRES DE 1400 COLLABORATEURS QUI PARTAGENT LA MEME DEONTOLOGIE DANS LA PRATIQUE DE LEURS METIERS. LE SYNDICAT A POUR MISSION LA PROMOTION DES RELATIONS PUBLICS EN FRANCE ET A L'ETRANGER, LA DEFENSE DES INTERETS DE LA PROFESSION, LA CONTRIBUTION AU DEVELOPPEMENT DE LA PROFESSION (DEONTOLOGIE, FORMATION, QUALITE) ET LA REPRESENTATION DE LA PROFESSION AUPRES DES POUVOIRS PUBLICS ET DES ORGANISATIONS REPRESENTATIVES DE LA COMMUNICATION.", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 1, 
+  "Autres sources": {
+   "Cotisations des membres": 214581, 
+   "Commercialisation de produits, services": 31446
+  }, 
+  "Budget global": 246027, 
   "Raison sociale": "SYNTEC CONSEIL EN RELATIONS PUBLICS", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "SYNTEC CONSEIL EN RELATIONS PUBLICS EST MEMBRE DE : LA FEDERATION SYNTEC, LE MEDEF, LE GPS (GROUPEMENT DES PROFESSIONNELS DES SERVICES, DE L'ICCO (INTERNATIONAL COMMUNICATION CONSULTANCY ORGANIZATION)", 
   "Adresse et t\u00e9l\u00e9phone": "(+33) 0144304900", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://WWW.SYNTEC-RP.COM", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
    4, 
    "LA COMMISSION \"AFFAIRES PUBLIQUES\" DE SYNTEC CONSEIL EN RELATIONS PUBLICS RASSEMBLES LES PROFESSIONNELS DE LA REPRESENTATION D'INTERETS DES ENTREPRISES ADHERENTES A SYNTEC CONSEIL EN RELATIONS PUBLICS. CES ENTREPRISES SONT MULTI-ACTIVITES (CERTAINES SONT MAJORITAIREMENT PRESTATAIRES DE COMMUNICATION CORPORATE, D'AUTRES DE COMMUNICATION EVENEMENTIELLE OU ENCORE DIGITALE) ; LA REPRESENTATION D'INTERETS CONSTITUE UN DEPARTEMENT SPECIALISE AU SEIN DE CES ENTREPRISES. LES QUATRE PERSONNES INDIQUEES COMME \"BENEFICIAIRES DE LA CARTE DE REPRESENTANTS D'INTERETS\" SONT LES RESPONSABLES DE LA COMMISSION \"AFFAIRES PUBLIQUES\" DE SYNTEC CONSEIL EN RELATIONS PUBLICS."
