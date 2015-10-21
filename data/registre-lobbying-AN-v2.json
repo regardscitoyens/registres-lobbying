@@ -776,7 +776,7 @@
   "Nombre de personnes employ\u00e9es par l'organisme": 6, 
   "Budget global": "Entre 500 000 et 600 000 \u20ac", 
   "Raison sociale": "Anthenor Public Affairs", 
-  "Nom des clients": "Association pour la Promotion de l'Innovation des Dispositifs M\u00e9dicaux ; Association Fran\u00e7aise de l'Industrie des Fontaines \u00e0 Eau ; Republic Technologies ; Syndicat de l'Industrie du Diagnostic in Vitro ; Vin et Soci\u00e9t\u00e9 ; Association Nationale des Op\u00e9rateurs D\u00e9taillants en Energie ; Groupement National de la Restauration ; Union des entreprises de V\u00e9hicules de Loisirs ; France Hydro Electricit\u00e9 ; Syndicat des N\u00e9gociants Ind\u00e9pendants en M\u00e9taux Pr\u00e9cieux ; Burger King ; F\u00e9d\u00e9ration de Karat\u00e9 Traditionnel en France ; Degueldre gestion ; Syndicat National des Changeurs et des Auxiliaires Financiers ; Yprema ; Eparco ; Club parlementaire de l'Avenir de l'Audiovisuel et des M\u00e9dias ; Club parlementaire Sport ; Club parlementaire de la Protection Sociale", 
+  "Nom des clients": "Association pour la Promotion de l'Innovation des Dispositifs M\u00e9dicaux ; Association Fran\u00e7aise de l'Industrie des Fontaines \u00e0 Eau ; Republic Technologies ; Syndicat de l'Industrie du Diagnostic in Vitro ; Vin et Soci\u00e9t\u00e9 ; Association Nationale des Op\u00e9rateurs D\u00e9taillants en Energie ; Groupement National de la Restauration ; Union des entreprises de V\u00e9hicules de Loisirs ; France Hydro Electricit\u00e9 ; Syndicat des N\u00e9gociants Ind\u00e9pendants en M\u00e9taux Pr\u00e9cieux ; Burger King ; F\u00e9d\u00e9ration de Karat\u00e9 Traditionnel en France ; Degueldre gestion ; Syndicat National des Changeurs et des Auxiliaires Financiers ; Yprema ; Eparco ; Club parlementaire de l'Avenir de l'Audiovisuel et des M\u00e9dias ; Club parlementaire Sport ; Club parlementaire de la Protection Sociale ; Club parlementaire Automobile et Mobilit\u00e9 ; Club parlementaire de la Troisi\u00e8me R\u00e9volution Industrielle", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 500 000 et 600 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Association Fran\u00e7aise des Conseils en Lobbying ; Society of European Affairs Professionals", 
   "Adresse et t\u00e9l\u00e9phone": 142275337, 
@@ -2961,15 +2961,15 @@
  }, 
  {
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/110", 
-  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Charte de d\u00e9ontologie de l'AFCL - www.afcl.net", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Charte de d\u00e9ontologie de l'Association Fran\u00e7aise des Conseils en Lobbying et Affaires Publiques (AFCL), dont Olivier Le Picard est membre fondateur et pr\u00e9sident d'honneur et Fabrice Alexandre Pr\u00e9sident", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Banque, Assurance, finances - Budget et finances publiques - Collectivit\u00e9s locales - Commerce, distribution - Consommation et concurrence - Droit des soci\u00e9t\u00e9s - Emploi - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Finances sociales - Gouvernance - Immobilier, habitat, logement - Industrie - Politique r\u00e9gionale - Recherche et technologie - Sant\u00e9 - Sport, loisirs, tourisme - T\u00e9l\u00e9communications - Transports, logistique", 
   "Cat\u00e9gorie": "Cabinets de consultants sp\u00e9cialis\u00e9s", 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
    "Monsieur Fabrice Alexandre", 
    "Monsieur Ga\u00ebtan de Royer", 
-   "Monsieur Vincent Gagneur", 
    "Monsieur Gabriel Daubech", 
-   "Monsieur Arthur Bonh\u00eame"
+   "Monsieur Arthur Bonh\u00eame", 
+   "Madame Marie Pelouse"
   ], 
   "Dirigeant / personne juridiquement responsable": "Monsieur Olivier Le Picard (Pr\u00e9sident)", 
   "Statut l\u00e9gal": "SAS", 
@@ -2980,9 +2980,9 @@
   "Nombre de personnes employ\u00e9es par l'organisme": 7, 
   "Budget global": "Entre 200 000 et 250 000 \u20ac", 
   "Raison sociale": "Communication & Institutions", 
-  "Nom des clients": "Arkema - Mastercard, Exeltium, F\u00e9d\u00e9ration Fran\u00e7aise de Tennis - FFT, Limagrain, F\u00e9d\u00e9ration de la Plasturgie, PlasticsEurope, Procos - F\u00e9d\u00e9ration pour l'Urbanisme et le d\u00e9veloppement du commerce sp\u00e9cialis\u00e9, Syntec Etudes, Syndicat National des Pilotes de Ligne - SNPL, SAP, Union des Industries Utilisatrices d'Energie \u2013 UNIDEN, F\u00e9d\u00e9ration Fran\u00e7aise des Combustibles, Carburants et Chauffage \u2013 FF3C, UNIBAL - Union Nationale des Industriels du Bricolage, du jardinage et de l'am\u00e9nagement du Logement - Syntec Management", 
+  "Nom des clients": "Arkema - Exeltium - F\u00e9d\u00e9ration Fran\u00e7aise de Tennis - Limagrain - F\u00e9d\u00e9ration de la Plasturgie - PlasticsEurope - Procos F\u00e9d\u00e9ration pour l'Urbanisme et le d\u00e9veloppement du commerce sp\u00e9cialis\u00e9 - Syntec Etudes - Syntec Management - Syndicat National des Pilotes de Ligne - SAP - Union des Industries Utilisatrices d'Energie (UNIDEN) - F\u00e9d\u00e9ration Fran\u00e7aise des Combustibles, Carburants et Chauffage (FF3C) - Syndicat des M\u00e9decins Lib\u00e9raux", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 200 000 et 250 000 \u20ac", 
-  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "AFCL - Association Fran\u00e7aise des Conseil en Lobbying, dont Olivier Le Picard est membre fondateur et Pr\u00e9sident d'Honneur et Fabrice Alexandre Secr\u00e9taire G\u00e9n\u00e9ral", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Association Fran\u00e7aise des Conseils en Lobbying et Affaires Publiques (AFCL), dont Olivier Le Picard est membre fondateur et pr\u00e9sident d'honneur et Fabrice Alexandre Pr\u00e9sident", 
   "Adresse et t\u00e9l\u00e9phone": "(+33) 01 47 42 53 00", 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Pr\u00e9paration de dossiers et participation, avec nos clients, \u00e0 des RV et auditions sur : - PLF 2015 et PLFR 2014, PLFSS 2015, PJL \u00e9galit\u00e9 femmes-hommes, consommation, transition \u00e9nerg\u00e9tique, nouvelle organisation territoriale de la R\u00e9publique, croissance et activit\u00e9, simplification de la vie des entreprises, biodiversit\u00e9, TPE - commerce et artisanat, r\u00e9forme ferroviaire - commission d'enqu\u00eate sur les tarifs de l'\u00e9lectricit\u00e9 - mission d'information sur l\u2019impact \u00e9conomique de l\u2019exploitation du gaz de schiste Contacts d'information g\u00e9n\u00e9raux : RV et auditions commissions et groupes d'\u00e9tudes.", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
@@ -3813,6 +3813,37 @@
   }
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 450 000 et 500 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/250", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Respect de la charte \u00e9thique et du guide des pratiques de l'\u00e9thique du groupe ENGIE - Respect de la charte de d\u00e9ontologie de l'Association Professionnelle des Responsables des Relations avec les Pouvoirs Publics (ARPP)", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Budget et finances publiques - Collectivit\u00e9s locales - Consommation et concurrence - Emploi - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Gouvernance - Recherche et technologie", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Madame Val\u00e9rie ALAIN", 
+   "Monsieur Etienne GIRON", 
+   "Madame Merc\u00e9d\u00e8s FAUVEL-BANTOS"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur G\u00e9rard MESTRALLET (Pr\u00e9sident Directeur G\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
+  "id": 250, 
+  "Objectif et mission": "ENGIE inscrit la croissance responsable au coeur de ses m\u00e9tiers (\u00e9lectricit\u00e9, gaz naturel, services \u00e0 l'\u00e9nergie) pour relever les grands enjeux de la transition \u00e9nerg\u00e9tique vers une \u00e9conomie sobre en carbone : l'acc\u00e8s \u00e0 une \u00e9nergie durable, l'adaptation au changement climatique et l'utilisation raisonn\u00e9e des ressources. Le groupe d\u00e9veloppe des solutions performantes et innovantes pour les particuliers, les villes et les entreprises en s'appuyant notamment sur son expertise .", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 152900, 
+  "Budget global": "74.70 millions d'\u20ac", 
+  "Raison sociale": "ENGIE", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 450 000 et 500 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Engie participe aux travaux du MEDEF via les organisations professionnelles auxquelles elle adh\u00e9re. ENGIE est membre de l'AFEP, du Cercle de l'Industrie, de l'Union Fran\u00e7aise de l'Electricit\u00e9 (UFE), de l'Association Fran\u00e7aise du Gaz (AFG). ENGIE est membre de l'Association Professionnelle des responsables des Relations avec les Pouvoirs Publics (ARPP)", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 1 44 22 00 00", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
+  "Site internet": "http://engie.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Suivi des textes de loi : projet de loi transition \u00e9nerg\u00e9tique, projet de loi de finances, projet de loi NoTRE, proposition de loi \u00e9conomie r\u00e9elle, proposition ed loi SEM \u00e0 op\u00e9ration unique... Suivi/ contributions aux missions d'information/commission d'enqu\u00eate : commission d'enqu\u00eate sur les tarifs d'\u00e9lectricit\u00e9, mission sur la g\u00e9opolitique de l'\u00e9nergie, mission sur les pays \u00e9mergents d'Asie du sud est....", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "74.70 millions d'\u20ac", 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 74150, 
+   "A l'\u00e9tranger": 78750
+  }
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/242", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "B\u00e2timent, travaux publics - Collectivit\u00e9s locales - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Industrie - Politique r\u00e9gionale", 
@@ -4579,6 +4610,49 @@
   "Site internet": "http://www.ff3c.org", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Entretiens avec des parlementaires - travail avec des repr\u00e9sentants des commissions - pr\u00e9sentation de dossiers - propositions l\u00e9gislatives"
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/248", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Monsieur Martin Lippmann, Attach\u00e9 au D\u00e9l\u00e9gu\u00e9 G\u00e9n\u00e9ral de la FFM, adh\u00e8re \u00e0 titre personel \u00e0 la charte \u00e9thique du \"r\u00e9seau BASE\", un club de professionnels des affaires publiques & lobbying.", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Artisanat - Industrie", 
+  "Cat\u00e9gorie": "Organisation professionnelle", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 50, 
+   "Noms des personnes morales membres de l'organisme": "La FFM repr\u00e9sente 459 entreprises fran\u00e7aises de fabrication en maroquinerie et environ 1300 artisans. Elle regroupe ainsi des petites, moyennes et grandes entreprises r\u00e9parties sur l'ensemble du territoire national. Exemples d'entreprises repr\u00e9sent\u00e9es : ATELIER SAINT LOUP ; CHANEL; DAGUET; LANCEL; LONGCHAMP; DARDEL; ZILLI", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "ENTREPRISES"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur ARNAUD HAEFELIN", 
+   "Monsieur EDGARD SCHAFFHAUSER", 
+   "Monsieur MARTIN LIPPMANN"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur EDGARD SCHAFFHAUSER (DELEGUE GENERAL)", 
+  "Statut l\u00e9gal": "Organisation professionnelle", 
+  "id": 248, 
+  "Objectif et mission": "La FFM, fond\u00e9e en 1937, est le syndicat patronal des entreprises fran\u00e7aises de fabrication en maroquinerie. Elle repr\u00e9sente 459 entreprises et pr\u00e8s de 20 000 salari\u00e9s. La FFM remplit trois principales missions : apporter des services aux adh\u00e9rents ; n\u00e9gocier les accords de branche ; repr\u00e9senter le secteur aupr\u00e8s des pouvoirs publics.", 
+  "Information financi\u00e8re compl\u00e9mentaire": "\"N\u00e9ant\"", 
+  "Acronyme": "FFM", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 3, 
+  "Autres sources": {
+   "Autres": 50000, 
+   "Cotisations des membres": 390000
+  }, 
+  "Budget global": 440000, 
+  "Raison sociale": "F\u00e9d\u00e9ration Fran\u00e7aise de la Maroquinerie", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "La FFM repr\u00e9sente les int\u00e9r\u00eats des entreprises fran\u00e7aises de fabrication en maroquinerie aupr\u00e8s des organismes suivants : Conseil National du Cuir ; Comit\u00e9 Professionnel de D\u00e9veloppement Cuir ; Institut National des M\u00e9tiers d'Art ; Conf\u00e9d\u00e9ration Fran\u00e7aise des M\u00e9tiers d'Art ; CGPME ; OPCALIA/OCTALIA", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 01 42 46 13 68", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
+  "Site internet": "http://www.maroquineriefrancaise.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
+   3, 
+   "\"n\u00e9ant\""
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "2014-2015 : dans le cadre du Projet de Loi \"Transition \u00e9nerg\u00e9tique pour la croissance verte\", la FFM a \u00e9t\u00e9 auditionn\u00e9e par la commission du d\u00e9veloppement durable au S\u00e9nat et a rencontr\u00e9 une dizaine de parlementaires. 3 juin 2014 : la FFM a particip\u00e9 \u00e0 la Table ronde sur l'industrie du luxe organis\u00e9e par la commission des affaires \u00e9conomiques de l'Assembl\u00e9e nationale."
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
@@ -5486,6 +5560,46 @@
   "Site internet": "http://www.gican.asso.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Participation \u00e0 des auditions, \u00e0 l'invitation des rapporteurs ou des Commissions, invitation et accompagnement de parlementaires sur des salons de d\u00e9fense fran\u00e7ais, envoi de l'annuaire du groupement, reponse \u00e0 des questions des parlementaires touchant le secteur..."
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/249", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Le Gim\u00e9lec est inscrit depuis mai 2011 au Registre de transparence de l\u2019Union europ\u00e9enne et est signataire de son code de conduite. Le Gim\u00e9lec est adh\u00e9rent du Pacte Mondial depuis 2010 et a engag\u00e9 des discussions avec Transparency International en vue de signer sa D\u00e9claration commune sur le lobbying.", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - B\u00e2timent, travaux publics - Collectivit\u00e9s locales - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Immobilier, habitat, logement - Industrie - Recherche et technologie", 
+  "Cat\u00e9gorie": "Organisation professionnelle", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 187, 
+   "Noms des personnes morales membres de l'organisme": "2H ENERGY, A PUISSANCE 3, ABB France, ACC, ACTIA SODIELEC, ADEE ELECTRONIC, A.E.E.N., AEG POWER SOLUTIONS, AFELEC, ALPES TECHNOLOGIES, ALSTOM GRID, ALSTOM POWER, ALSTOM TRANSPORT, APS, ASTREE SOFTWARE, ATX SA, AUGIER SAS, AUTODESK France, BALLUFF SAS, BAUMER SAS, BECKHOFF AUTOMATION SARL, BENNING CONVERSION D'ENERGIE, BEROMET, BES, BH TECHNOLOGIES, BIHL + WIEDEMANN, BOSCH REXROTH SAS, CATU, CEGERS, CEGERS TOOLS, CELDUC TRANSFO SA, CEPA SAS, C.I.E. PARATONNERRES POUYET, CITEL - 2CP, COFELY INEO, COMECA EBT, CONNECTION PROTECTION, CONTRINEX France SAS, COOPER CAPRI SAS, CROUZET AUTOMATISMES, CUBE TECHNOLOGIES, DANFOSS SARL, DATALOGIC AUTOMATION SRL, DELAUNAY D. SAS, DELTA DORE, DELTA ENERGY SYSTEMS (France) SA, DEPAGNE, DERANCOURT, DERVASIL, DERVAUX DISTRIBUTION, DERVAUX SA, DERVIEUX, DISTECH CONTROLS SAS, DURAG France SARL, DUVAL MESSIEN SAS, EATON INDUSTRIES (France) SAS, ECOFIT, EFD INDUCTION SA, E.G.I.C., EMERSON NETWORK POWER INDUSTRIAL SYSTEMS, EMERSON NETWORK POWER SAS, EMERSON PROCESS MANAGEMENT SAS, ENDRESS+HAUSER, ENERDIS, ENERIA, ENERTIME, ENSTO NOVEXIA SAS, EPSYS, ERICO France SARL, FAUCHE ENERGIE, FESTO, France PARATONNERRES, France TRANSFO, FRANKLIN France - 2F, FUJI ELECTRIC France SAS, GA-MM, GARDY, GE - INDUSTRIAL SOLUTIONS, GE ENERGY POWER CONVERSION France SAS, GEFRAN France SA, GENITEC, GMT, GROUPE AURELA, GUERIN SAS, HACH LANGE France SAS, HAGER ELECTRO SAS, HARTING France, HAZEMEYER, HEIDENHAIN France SARL, HELIOCLIM, I.C.E. (INDUSTRIELLE DE CONTR\u00d4LE ET D'EQUIPEMENT), IFM ELECTRONIC, INDELEC, INEO ENGINEERING & SYSTEMS, INEO POSTES ET CENTRALES, ITEC PRODUCTION, ITRON France, JEUMONT ELECTRIC, JOHNSON CONTROLS France, JST TRANSFORMATEURS, KEB, KRAUS & NAIMER SAS, KRENDEL, KROHNE SAS, LANDIS+GYR SAS, LANGLADE & PICARD, LEBAS SYSTEM, LEGRAND, LENZE SAS, LEUZE ELECTRONIC SARL, MAEC, MAFELEC, MARECHAL ELECTRIC, MECALECTRO, MECATRACTION, MERSEN France SB SAS, MGP INSTRUMENTS, MICHAUD SA, MICROENER, MOTEURS JM SAS, MOTEURS LEROY-SOMER, MULTI-CONTACT France SAS, NEXANS France, NEXANS POWER ACCESSORIES France, NIDEC ASI, NILED SA, OMRON ELECTRONICS SAS, ORDINAL SOFTWARE, ORMAZABAL France SAS, PARKER HANNIFIN France SAS, PEINTA, PEPPERL+FUCHS EURL, PHOENIX CONTACT SAS, PILZ France ELECTRONIC, PIOCH SAS, POMMIER, PREFATEC France, PRO-FACE France SAS, RECTIPHASE, REYES CONSTRUCTIONS, RIELLO ONDULEURS SARL, RITTAL SAS, ROCKWELL AUTOMATION, SAFT, SAGEMCOM ENERGY & TELECOM, SAUTER REGULATION SAS, SCHMERSAL France SAS, SCHNEIDER ELECTRIC, SCHNEIDER ELECTRIC IT France, SCLE SFE, SDCEM SAS, SDMO INDUSTRIES, SDS (SYSTEMS DEVELOPMENT & SOLUTIONS), SEA, SEDIVER, SEIFEL, SEW-USOCOME SAS, SIB, SIBILLE FAMECA ELECTRIC, S.I.C.A.M.E., SICK France, SIEMENS France, SIPREL, SIREM, SM-CI, SOCIETE ELECTRIQUE DU RHONE, SOCOMEC, SOMFY SAS, SOREEL SAS, SOURIAU, SPIE OIL & GAS SERVICES, SPIE OPERATIONS, TDK-LAMBDA France SAS, TECUMSEH BARENTIN, TRANSFIX, TRANSFORMATEURS SAS, TRANSRAIL BV, TURCK BANNER SAS, TYCO ELECTRONICS SIMEL SAS, VEGA TECHNIQUE SAS, VINCI ENERGIES, WAGO CONTACT SAS, WEG France SAS, WEIDMULLER SARL, WIELAND ELECTRIC SARL, WIKA INSTRUMENTS, YOKOGAWA France SAS.", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "Entreprises"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Antoine de Fleurieu", 
+   "Monsieur Hugues V\u00e9rit\u00e9", 
+   "Madame Val\u00e9rie Petat"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Antoine de Fleurieu (D\u00e9l\u00e9gu\u00e9 G\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "Syndycat professionnel", 
+  "id": 249, 
+  "Objectif et mission": "Le Gim\u00e9lec f\u00e9d\u00e8re 200 entreprises qui fournissent des solutions \u00e9lectriques et d'automatismes sur les march\u00e9s de l\u2019\u00e9nergie, du b\u00e2timent, de l\u2019industrie, des data centers et des infrastructures. Les entreprises du Gim\u00e9lec emploient 68 000 personnes en France o\u00f9 elles g\u00e9n\u00e8rent un chiffre d\u2019affaires de 12 milliards d\u2019euros dont 60% \u00e0 l\u2019export. En r\u00e9ponse aux objectifs ambitieux de la France et de l\u2019Europe en mati\u00e8re d\u2019\u00e9conomies d\u2019\u00e9nergie et de r\u00e9duction des \u00e9missions de CO2, les entreprises membres du Gim\u00e9lec s\u2019inscrivent dans une politique \u00e9co-industrielle durable en proposant des produits, \u00e9quipements, syst\u00e8mes et solutions pour : - la gestion de la performance \u00e9nerg\u00e9tique des b\u00e2timents neufs et existants, y compris les data centers, - le pilotage s\u00e9curis\u00e9 et \u00e9nerg\u00e9tiquement efficace des proc\u00e9d\u00e9s industriels, - le d\u00e9veloppement de r\u00e9seaux s\u00e9curis\u00e9s et intelligents (smart grids) facilitant la ma\u00eetrise de la production et de la demande d\u2019\u00e9nergie ainsi que la diffusion de nouveaux usages, - le d\u00e9ploiement du v\u00e9hicule \u00e9lectrique, - le raccordement au r\u00e9seau \u00e9lectrique et la gestion des nouvelles sources d\u2019\u00e9nergie d\u00e9carbon\u00e9es.", 
+  "Information financi\u00e8re compl\u00e9mentaire": "Les sources de financement autres que les cotisations des membres (388 312 euros) sont des produits financiers.", 
+  "Acronyme": "Gim\u00e9lec", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 23, 
+  "Autres sources": {
+   "Autres": 388312, 
+   "Cotisations des membres": "3.34 millions d'\u20ac"
+  }, 
+  "Budget global": "3.72 millions d'\u20ac", 
+  "Raison sociale": "Groupement des industries de l'\u00e9quipement \u00e9lectrique, du contr\u00f4le-commande et des services associ\u00e9s", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Le Gim\u00e9lec est membre des organisations suivantes : En France : \u2022 Association Alliance pour l'Industrie du Futur \u2022 Association Fran\u00e7aise de l\u2019Eclairage (AFE) : www.afe-eclairage.fr \u2022 Association Profil Environnemental des Produits (PEP) : www.pep-ecopassport.org/fr \u2022 Association R\u00e9seaux Electriques Intelligents - Smartgrids France \u2022 Association Technique Energie Environnement (ATEE) : www.atee.fr \u2022 Coalition France pour l\u2019Efficacit\u00e9 Energ\u00e9tique (CFEE) : www.coalition-energie.org \u2022 Construction21 France : www.construction21.org/france \u2022 F\u00e9d\u00e9ration des industries \u00e9lectriques, \u00e9lectroniques et de communication (FIEEC) : www.fieec.fr Au niveau europ\u00e9en : \u2022 Comit\u00e9 de coordination des associations de constructeurs d'appareillage \u00e9lectrique industriel de l'Union Europ\u00e9enne (CAPIEL) : www.capiel.eu \u2022 Comit\u00e9 europ\u00e9en de constructeurs de machines \u00e9lectriques et d'\u00e9lectronique de puissance (CEMEP) : www.cemep.org \u2022 The European Association of the Electricity Transmission and Distribution Equipment and Services Industry (T&D Europe) : www.tdeurope.eu Au niveau international : \u2022 The Green Grid : www.thegreengrid.org \u2022 Conseil International des Grands R\u00e9seaux \u00c9lectriques (CIGRE) : www.cigre.org", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) (0)1 45 05 71 55", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
+  "Site internet": "http://www.gimelec.fr/", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Projet de loi de finances 2015 ; Projet de loi sur la transition \u00e9nerg\u00e9tique pour la croissance verte. Participation \u00e0 des auditions organis\u00e9es par l'OPECST dans le cadre de la pr\u00e9paration du rapport : \"Les freins r\u00e8glementaires \u00e0 l'innovation en mati\u00e8re d'\u00e9conomies d'\u00e9nergie dans le b\u00e2timent : le besoin d'une th\u00e9rapie de choc\"."
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
@@ -7857,25 +7971,9 @@
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/217", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "LES AGENCES ADHERENTES DE SYNTEC CONSEIL EN RELATIONS PUBLICS S'ENGAGENT A RESPECTER ET PROMOUVOIR LES PRINCIPES DE DEONTOLOGIE ET DE PRATIQUE ETHIQUE QUI REGISSENT LA PROFESSION EN FRANCE ET A L'ETRANGER : LE CODE DE DEONTOLOGIE DE SYNTEC CONSEIL EN RELATIONS PUBLICS, LA CHARTE ETHIQUE DU PROFESSIONNEL DE LA COMMUNICATION DE CRISE DE SYNTEC CONSEIL EN RELATIONS PUBLICS, LE CODE DE CONDUITE DE L'INTERNATIONAL PUBLICS RELATIONS ASSOCIATION, LA CHARTE DE STOCKHOLM DE L'INTERNATIONAL COMMUNICATION CONSULTANCY ASSOCIATION, LA CHARTE RELATIVE A L'EXERCICE DE LA PROFESSION DE CONSEIL EN LOBBYING DE L'ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES, LE CODE DE LISBONNE DE LA CONFEDERATION EUROPEENNE DES RELATIONS PUBLICS, LE CODE D'ATHENES DE L'INTERNATIONAL PUBLIC RELATIONS ASSOCIATION.", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Artisanat - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Banque, Assurance, finances - Commerce, distribution - D\u00e9fense, armement - Droit des soci\u00e9t\u00e9s - \u00c9ducation, enseignement, formation - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Gouvernance - Presse, \u00e9dition - Sant\u00e9 - Sport, loisirs, tourisme - T\u00e9l\u00e9communications", 
   "Cat\u00e9gorie": "Syndicat", 
-  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
-   "Monsieur Romain Benz", 
-   "Monsieur Jean-Fran\u00e7ois Pascal", 
-   "Monsieur Patrick Bonin", 
-   "Madame Virginie Thomas"
-  ], 
-  "Dirigeant / personne juridiquement responsable": "Monsieur THIERRY WELLHOFF (PRESIDENT)", 
-  "id": 217, 
-  "Autres sources": {
-   "Cotisations des membres": 214581, 
-   "Commercialisation de produits, services": 31446
-  }, 
-  "Budget global": 246027, 
-  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
-  "Site internet": "http://WWW.SYNTEC-RP.COM", 
-  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "LES AGENCES ADHERENTES DE SYNTEC CONSEIL EN RELATIONS PUBLICS S'ENGAGENT A RESPECTER ET PROMOUVOIR LES PRINCIPES DE DEONTOLOGIE ET DE PRATIQUE ETHIQUE QUI REGISSENT LA PROFESSION EN FRANCE ET A L'ETRANGER : LE CODE DE DEONTOLOGIE DE SYNTEC CONSEIL EN RELATIONS PUBLICS, LA CHARTE ETHIQUE DU PROFESSIONNEL DE LA COMMUNICATION DE CRISE DE SYNTEC CONSEIL EN RELATIONS PUBLICS, LE CODE DE CONDUITE DE L'INTERNATIONAL PUBLICS RELATIONS ASSOCIATION, LA CHARTE DE STOCKHOLM DE L'INTERNATIONAL COMMUNICATION CONSULTANCY ASSOCIATION, LA CHARTE RELATIVE A L'EXERCICE DE LA PROFESSION DE CONSEIL EN LOBBYING DE L'ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES, LE CODE DE LISBONNE DE LA CONFEDERATION EUROPEENNE DES RELATIONS PUBLICS, LE CODE D'ATHENES DE L'INTERNATIONAL PUBLIC RELATIONS ASSOCIATION.", 
-  "Nombre de personnes employ\u00e9es par l'organisme": 1, 
   "Les adh\u00e9rents": {
    "Nombre total d'adh\u00e9rents \"personnes morales\"": 47, 
    "Noms des personnes morales membres de l'organisme": "ADOCOM, ALBINE&CO, ALTERIS ENVIRONNEMENT, AMALTHEA, AROMATES, AUVRAY & ASSOCI\u00c9S, BABEL, BORACAY, BURSON-MARSTELLER I&E, CAP & CIME PR, CAPITAL IMAGE, COHN & WOLFE, COMCORP, EDELMAN, FHCOM, FLEISHMAN-HILLARD, FLORENCE GILLIER & ASSOCI\u00c9S, FP&A, GOLIN, GOOTENBERG, H+K STRAT\u00c9GIES, IDENIUM, INFLUELSE, KABLE COMMUNICATION, KALAAPA, KETCHUM, KINGCOM, LE PUBLIC SYST\u00c8ME, LES ATELIERS CORPORATE, LEWIS PR, MAARC, MONET + ASSOCI\u00c9S,OGILVY PUBLIC RELATIONS, PEPPER MENTHE COMMUNICATION, PROFILE PR, PUBLICIS CONSULTANTS FRANCE, SELF IMAGE, TBWA CORPORATE, THOMAS MARKO & ASSOCI\u00c9S, VFC RELATIONS PUBLICS, VP STRAT & COM, WE AGENCY, WEBER SHANDWICK, WELLCOM, YUCATAN, ZMIROV COMMUNICATION", 
@@ -7884,12 +7982,28 @@
     "Entreprises"
    ]
   }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Romain Benz", 
+   "Monsieur Jean-Fran\u00e7ois Pascal", 
+   "Monsieur Patrick Bonin", 
+   "Madame Virginie Thomas"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur THIERRY WELLHOFF (PRESIDENT)", 
   "Statut l\u00e9gal": "Syndycat professionnel", 
+  "id": 217, 
   "Objectif et mission": "CREE EN 1988, SYNTEC CONSEIL EN RELATIONS PUBLICS REPRESENTE LES ENTREPRISES SPECIALISEES EN CONSEIL EN RELATIONS PUBLICS AU SEIN DE LA FEDERATION SYNTEC ET DU MEDEF. LE SYNDICAT COMPTE UNE QUARANTAINE D'AGENCES REPRESENTANT PRES DE 1400 COLLABORATEURS QUI PARTAGENT LA MEME DEONTOLOGIE DANS LA PRATIQUE DE LEURS METIERS. LE SYNDICAT A POUR MISSION LA PROMOTION DES RELATIONS PUBLICS EN FRANCE ET A L'ETRANGER, LA DEFENSE DES INTERETS DE LA PROFESSION, LA CONTRIBUTION AU DEVELOPPEMENT DE LA PROFESSION (DEONTOLOGIE, FORMATION, QUALITE) ET LA REPRESENTATION DE LA PROFESSION AUPRES DES POUVOIRS PUBLICS ET DES ORGANISATIONS REPRESENTATIVES DE LA COMMUNICATION.", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 1, 
+  "Autres sources": {
+   "Cotisations des membres": 214581, 
+   "Commercialisation de produits, services": 31446
+  }, 
+  "Budget global": 246027, 
   "Raison sociale": "SYNTEC CONSEIL EN RELATIONS PUBLICS", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "SYNTEC CONSEIL EN RELATIONS PUBLICS EST MEMBRE DE : LA FEDERATION SYNTEC, LE MEDEF, LE GPS (GROUPEMENT DES PROFESSIONNELS DES SERVICES, DE L'ICCO (INTERNATIONAL COMMUNICATION CONSULTANCY ORGANIZATION)", 
   "Adresse et t\u00e9l\u00e9phone": "(+33) 0144304900", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://WWW.SYNTEC-RP.COM", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
    4, 
    "LA COMMISSION \"AFFAIRES PUBLIQUES\" DE SYNTEC CONSEIL EN RELATIONS PUBLICS RASSEMBLES LES PROFESSIONNELS DE LA REPRESENTATION D'INTERETS DES ENTREPRISES ADHERENTES A SYNTEC CONSEIL EN RELATIONS PUBLICS. CES ENTREPRISES SONT MULTI-ACTIVITES (CERTAINES SONT MAJORITAIREMENT PRESTATAIRES DE COMMUNICATION CORPORATE, D'AUTRES DE COMMUNICATION EVENEMENTIELLE OU ENCORE DIGITALE) ; LA REPRESENTATION D'INTERETS CONSTITUE UN DEPARTEMENT SPECIALISE AU SEIN DE CES ENTREPRISES. LES QUATRE PERSONNES INDIQUEES COMME \"BENEFICIAIRES DE LA CARTE DE REPRESENTANTS D'INTERETS\" SONT LES RESPONSABLES DE LA COMMISSION \"AFFAIRES PUBLIQUES\" DE SYNTEC CONSEIL EN RELATIONS PUBLICS."
