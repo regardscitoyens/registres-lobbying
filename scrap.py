@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import re
-from sys import argv
+from sys import argv, stderr, exit
 from time import sleep
 from os import mkdir
 from os.path import sep, exists as fileexists
