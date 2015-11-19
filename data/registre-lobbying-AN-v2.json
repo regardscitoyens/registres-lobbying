@@ -5136,7 +5136,8 @@
    "Monsieur Sylvain DARGERY", 
    "Monsieur Samir ABDELFATAH", 
    "Madame Anne-Marie GIRE", 
-   "Monsieur Pierre-Jean GIRE"
+   "Monsieur Pierre-Jean GIRE", 
+   "Monsieur Hamissi MLINDASSE"
   ], 
   "Dirigeant / personne juridiquement responsable": "Monsieur Pierre-Jean GIRE (Pr\u00e9sident)", 
   "Statut l\u00e9gal": "Fonds de dotation", 
@@ -6045,6 +6046,47 @@
   }
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "50", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/251", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Registre europ\u00e9en de la transparence", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Artisanat - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Arts et culture - Banque, Assurance, finances - Budget et finances publiques - Collectivit\u00e9s locales - Commerce, distribution - Consommation et concurrence - Coop\u00e9ration et D\u00e9veloppement - D\u00e9fense, armement - Droit des soci\u00e9t\u00e9s - \u00c9ducation, enseignement, formation - Emploi - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Famille - Fiscalit\u00e9 - Finances sociales - Gouvernance - Handicap - Immobilier, habitat, logement - Industrie - Jeunesse - Justice et affaires int\u00e9rieures - Politique r\u00e9gionale - Presse, \u00e9dition - Professions lib\u00e9rales - Recherche et technologie - Sant\u00e9 - S\u00e9curit\u00e9 - Sport, loisirs, tourisme - T\u00e9l\u00e9communications - Transports, logistique", 
+  "Cat\u00e9gorie": "Groupe de r\u00e9flexion", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes physiques\"": 50, 
+   "Noms des personnes morales membres de l'organisme": "", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes physiques", 
+    "Personnes physiques de plus de 16 ans"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Marc BERNIER-CREPIN", 
+   "Monsieur Vincent ANTOINE", 
+   "Monsieur Pierre JUSTON", 
+   "Monsieur Franck PERRIGAULT", 
+   "Monsieur C\u00e9dric TARTAUD-GINESTE"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Marc BERNIER-CREPIN (Copr\u00e9sident)", 
+  "Statut l\u00e9gal": "Association loi 1901", 
+  "id": 251, 
+  "Objectif et mission": "Laboratoire d'id\u00e9es ind\u00e9pendant de toute formation politique, copr\u00e9sid\u00e9 paritairement \u00e0 Bruxelles et Paris. Compos\u00e9 de jeunes de sensibilit\u00e9s politiques et philosophiques diff\u00e9rentes de France, d'Union Europ\u00e9enne, pr\u00e9sent sur 3 continents. Notre but est de faire \u00e9merger des propositions issues de nos travaux et r\u00e9flexions afin de les communiquer \u00e0 la repr\u00e9sentation nationale, europ\u00e9enne et \u00e0 la soci\u00e9t\u00e9.", 
+  "Information financi\u00e8re compl\u00e9mentaire": "Autofinancement pour conserver une totale ind\u00e9pendance", 
+  "Nombre de personnes employ\u00e9es par l'organisme": "", 
+  "Autres sources": {
+   "Cotisations des membres": 50
+  }, 
+  "Budget global": 50, 
+  "Raison sociale": "L'Agora Jeunes en Europe", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "50", 
+  "Adresse et t\u00e9l\u00e9phone": 637269852, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "2015 ( ann\u00e9e de cr\u00e9ation)", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
+   50, 
+   "Jeunes de diff\u00e9rentes opinions partageant nos valeurs de progressisme et europhilie."
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Caf\u00e9s-d\u00e9bats, auditions d'\u00e9lus de la majorit\u00e9 comme de l'opposition."
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/87", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Code de conduite du Registre de transparence du Parlement europ\u00e9en et de la Commission europ\u00e9enne - Charte \u00e9thique L'Or\u00e9al, diffus\u00e9e \u00e0 l'ensemble des collaborateurs du Groupe", 
@@ -6259,7 +6301,7 @@
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/167", 
-  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "En cours : Code de conduite applicable aux groupes d'int\u00e9r\u00eat au S\u00e9nat", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Code de conduite applicable aux groupes d'int\u00e9r\u00eat au S\u00e9nat", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Emploi - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Finances sociales - Politique r\u00e9gionale - Sant\u00e9", 
   "Cat\u00e9gorie": "Syndicat", 
   "Les adh\u00e9rents": {
@@ -6281,16 +6323,16 @@
   "Information financi\u00e8re compl\u00e9mentaire": "", 
   "Nombre de personnes employ\u00e9es par l'organisme": 5, 
   "Autres sources": {
-   "Autres": 58553, 
-   "Cotisations des membres": 173248, 
-   "Commercialisation de produits, services": 397183
+   "Autres": 63941, 
+   "Cotisations des membres": 218481, 
+   "Commercialisation de produits, services": 618020
   }, 
-  "Budget global": 628984, 
+  "Budget global": 900442, 
   "Raison sociale": "Les Producteurs de L\u00e9gumes de France", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Adh\u00e9rent de la FNSEA Membre d'INTERFEL et du CTIFL", 
   "Adresse et t\u00e9l\u00e9phone": "(+33) 0153834808", 
-  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
   "Site internet": "http://www.legumesdefrance.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
    28, 
@@ -7098,8 +7140,8 @@
    "Madame Capucine FANDRE", 
    "Madame Guillemette de DURFORT", 
    "Madame Murielle JULLIEN", 
-   "Monsieur Jean-Andr\u00e9 MARTINI", 
-   "Monsieur Gilles GARROUSTE"
+   "Monsieur", 
+   "Monsieur"
   ], 
   "Dirigeant / personne juridiquement responsable": "Madame Capucine FANDRE (Pr\u00e9sidente)", 
   "Statut l\u00e9gal": "SAS", 
