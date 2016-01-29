@@ -456,25 +456,28 @@
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "ARPP", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Industrie - Transports, logistique", 
   "Cat\u00e9gorie": "Entreprise", 
-  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame PATRICIA MANENT", 
-  "Dirigeant / personne juridiquement responsable": "Monsieur ALAIN BASSIL (DIRECTEUR GENERAL DELEGUE OPERATIONS)", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Madame PATRICIA MANENT", 
+   "Monsieur PIERRE-OLIVIER BANDET"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur ERIC SCHRAMM (DIRECTEUR GENERAL ADJOINT OPERATIONS)", 
   "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
   "id": 28, 
   "Objectif et mission": "COMPAGNIE AERIENNE", 
   "Budget global": "25.00 milliards d'\u20ac sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
-  "Nombre de personnes employ\u00e9es par l'organisme": 59881, 
+  "Nombre de personnes employ\u00e9es par l'organisme": 68136, 
   "Information financi\u00e8re compl\u00e9mentaire": "", 
   "Raison sociale": "AIR FRANCE", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 100 000 et 150 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "FNAM (FEDERATION NATIONALE DE L'AVIATION MARCHANDE) AVENIR TRANSPORTS", 
   "Adresse et t\u00e9l\u00e9phone": "(+33) 0141565806", 
-  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
   "Site internet": "http://airfrance.fr", 
-  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "AUDITIONS RENDEZ VOUS AVEC DES PARLEMENTAIRES VISITES INSTALLATIONS DE LA COMPAGNIE A ROISSY", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "AUDITIONS RENDEZ-VOUS AVEC DES PARLEMENTAIRES VISITES INSTALLATIONS DE LA COMPAGNIE A ROISSY", 
   "Chiffre d'affaire de l'entreprise ou du groupe": "25.00 milliards d'\u20ac sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
-   "En France": 55700, 
+   "En France": 63955, 
    "A l'\u00e9tranger": 4181
   }
  }, 
@@ -1269,37 +1272,40 @@
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/126", 
-  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Collectivit\u00e9s locales", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Collectivit\u00e9s locales", 
   "Cat\u00e9gorie": "Association", 
   "Les adh\u00e9rents": {
-   "Nombre total d'adh\u00e9rents \"personnes physiques\"": 35967, 
-   "Nombre total d'adh\u00e9rents \"personnes morales\"": 35967, 
-   "Noms des personnes morales membres de l'organisme": "Communes et EPCI", 
+   "Nombre total d'adh\u00e9rents \"personnes physiques\"": 36000, 
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 3596, 
+   "Noms des personnes morales membres de l'organisme": "", 
    "Nature juridique des adh\u00e9rents": [
-    "Personnes physiques Personnes morales", 
-    "Communes et EPCI (leurs repr\u00e9sentants \u00e0 savoir les maires et les pr\u00e9sidents)"
+    "Personnes physiques", 
+    "Maires et pr\u00e9sidents d'EPCI en tant que repr\u00e9sentant de leur collectivit\u00e9 ou \u00e9tablissement respectif"
    ]
   }, 
-  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Alexandre TOUZET", 
-  "Dirigeant / personne juridiquement responsable": "Monsieur Jacques PELISSARD (Pr\u00e9sident)", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Madame Caroline GIRARD", 
+   "Monsieur Benjamin PASQUIER"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Rollon MOUCHEL BLAISOT (Directeur-g\u00e9n\u00e9ral)", 
   "Statut l\u00e9gal": "Association reconnue d'utilit\u00e9 publique", 
   "id": 126, 
-  "Objectif et mission": "Repr\u00e9sentation des int\u00e9r\u00eats des maires et pr\u00e9sidents de communaut\u00e9s Information des maires et pr\u00e9sidents de communaut\u00e9s", 
+  "Objectif et mission": "Assurer la repr\u00e9sentation des maires et pr\u00e9sidents d'intercommunalit\u00e9s de France, exercer des missions de conseils et d'expertise aupr\u00e8s de 36.000 adh\u00e9rents", 
   "Acronyme": "AMF", 
-  "Nombre de personnes employ\u00e9es par l'organisme": 75, 
+  "Nombre de personnes employ\u00e9es par l'organisme": 76, 
   "Autres sources": {
-   "Cotisations des membres": "8.95 millions d'\u20ac", 
-   "Commercialisation de produits, services": "3.21 millions d'\u20ac"
+   "Autres": "1.03 millions d'\u20ac", 
+   "Cotisations des membres": "8.15 millions d'\u20ac", 
+   "Commercialisation de produits, services": "2.10 millions d'\u20ac"
   }, 
-  "Budget global": "11.63 millions d'\u20ac", 
-  "Raison sociale": "Association des Maires de France", 
+  "Budget global": "12.39 millions d'\u20ac", 
+  "Raison sociale": "Association des Maires de France et des pr\u00e9sidents d'intercommunalit\u00e9s", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
   "Adresse et t\u00e9l\u00e9phone": 144181414, 
-  "Dont financement public": "8.95 millions d'\u20ac", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Site internet": "http://www.amf.asso.fr/", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 35, 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "lois de finances, loi MAPAM, loi ALUR : auditions, amendements, ..."
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Participation \u00e0 des auditions parlementaires; propositions d'amendements"
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "300000", 
@@ -4193,7 +4199,7 @@
    ]
   }, 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
-   "Monsieur Aur\u00e9lien DEBEYER", 
+   "Monsieur Laurent BAUP", 
    "Monsieur Didier BEVILLON", 
    "Monsieur Laurent COUSIN"
   ], 
@@ -5270,6 +5276,44 @@
    "Le nombre ci-dessous est approximatif (nombre de salari\u00e9s de FNE et des membres du Conseil d'administration). Les repr\u00e9sentations peuvent \u00e9galement \u00eatre effectu\u00e9es par des b\u00e9n\u00e9voles de FNE selon leurs sujets d'expertise."
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "FNE contacte les d\u00e9put\u00e9s pour leur faire part de ses positions et propositions dans le cadre d'examen de projets et propositions de loi, des missions parlementaires ou des commissions d'enqu\u00eate."
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "400", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/253", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Code de conduite de l'Union Europ\u00e9enne pour les repr\u00e9sentants de groupes d'int\u00e9r\u00eats", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Arts et culture - \u00c9ducation, enseignement, formation - Jeunesse", 
+  "Cat\u00e9gorie": "Association", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes physiques\"": 68, 
+   "Noms des personnes morales membres de l'organisme": "", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes physiques", 
+    "uniquement des personnes physiques"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Alexandre ROUSSET", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Ren\u00e9 JACOBS (pr\u00e9sident)", 
+  "Statut l\u00e9gal": "Association d\u00e9clar\u00e9e", 
+  "id": 253, 
+  "Objectif et mission": "Notre association promeut les applications du latin moderne, version am\u00e9lior\u00e9e de l'interlingua, publi\u00e9 en 1951 par un groupe de linguistes universitaires (dont Andr\u00e9 MARTINET). Cet instrument linguistique et son potentiel sont encore trop peu connus, donc restent \u00e0 faire conna\u00eetre.", 
+  "Information financi\u00e8re compl\u00e9mentaire": "Vu comme une \"langue\", le latin moderne ne peut recevoir aucune subvention de l'\u00c9tat, qui les r\u00e9serve au fran\u00e7ais (et un petit peu \u00e0 ses langues r\u00e9gionales) ; d'o\u00f9 l'importance de sa reconnaissance comme \"instrument linguistique\" au service des Fran\u00e7ais, des francophones et de tous les locuteurs des la famille latine (espagnol, italien, portugais, catalan, etc.), puisque tous (parmi ces presque un milliard de personnes) le comprennent en quasi-totalit\u00e9 sans l'avoir \u00e9tudi\u00e9.", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 2, 
+  "Autres sources": {
+   "Dons": 1000, 
+   "Cotisations des membres": 2000
+  }, 
+  "Budget global": 3000, 
+  "Raison sociale": "G\u00c9N\u00c9RATION INTERLAND", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "400", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 01 48 49 67 95", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
+  "Site internet": "http://interland.skyrock.com", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
+   1, 
+   "... mais des dizaines de nos adh\u00e9rents sont int\u00e9ress\u00e9s par la reconnaissance juridique en France du latin moderne comme instrument linguistique utile dans divers secteurs de la communication internationale."
+  ], 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "La pr\u00e9sentation de propositions de lois visant \u00e0 : * introduire une br\u00e8ve initiation au latin moderne dans le programme des coll\u00e8ges, * introduire de brefs programmes en latin moderne dans l'audiovisuel public, * conf\u00e9rer aux associations promouvant le latin moderne comme instrument linguistique l'agr\u00e9ment des associations d'\u00e9ducation populaire."
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
@@ -8056,9 +8100,25 @@
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/217", 
-  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "LES AGENCES ADHERENTES DE SYNTEC CONSEIL EN RELATIONS PUBLICS S'ENGAGENT A RESPECTER ET PROMOUVOIR LES PRINCIPES DE DEONTOLOGIE ET DE PRATIQUE ETHIQUE QUI REGISSENT LA PROFESSION EN FRANCE ET A L'ETRANGER : LE CODE DE DEONTOLOGIE DE SYNTEC CONSEIL EN RELATIONS PUBLICS, LA CHARTE ETHIQUE DU PROFESSIONNEL DE LA COMMUNICATION DE CRISE DE SYNTEC CONSEIL EN RELATIONS PUBLICS, LE CODE DE CONDUITE DE L'INTERNATIONAL PUBLICS RELATIONS ASSOCIATION, LA CHARTE DE STOCKHOLM DE L'INTERNATIONAL COMMUNICATION CONSULTANCY ASSOCIATION, LA CHARTE RELATIVE A L'EXERCICE DE LA PROFESSION DE CONSEIL EN LOBBYING DE L'ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES, LE CODE DE LISBONNE DE LA CONFEDERATION EUROPEENNE DES RELATIONS PUBLICS, LE CODE D'ATHENES DE L'INTERNATIONAL PUBLIC RELATIONS ASSOCIATION.", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Artisanat - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Banque, Assurance, finances - Commerce, distribution - D\u00e9fense, armement - Droit des soci\u00e9t\u00e9s - \u00c9ducation, enseignement, formation - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Gouvernance - Presse, \u00e9dition - Sant\u00e9 - Sport, loisirs, tourisme - T\u00e9l\u00e9communications", 
   "Cat\u00e9gorie": "Syndicat", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Romain Benz", 
+   "Monsieur Jean-Fran\u00e7ois Pascal", 
+   "Monsieur Patrick Bonin", 
+   "Madame Virginie Thomas"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur THIERRY WELLHOFF (PRESIDENT)", 
+  "id": 217, 
+  "Autres sources": {
+   "Cotisations des membres": 214581, 
+   "Commercialisation de produits, services": 31446
+  }, 
+  "Budget global": 246027, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Site internet": "http://WWW.SYNTEC-RP.COM", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "LES AGENCES ADHERENTES DE SYNTEC CONSEIL EN RELATIONS PUBLICS S'ENGAGENT A RESPECTER ET PROMOUVOIR LES PRINCIPES DE DEONTOLOGIE ET DE PRATIQUE ETHIQUE QUI REGISSENT LA PROFESSION EN FRANCE ET A L'ETRANGER : LE CODE DE DEONTOLOGIE DE SYNTEC CONSEIL EN RELATIONS PUBLICS, LA CHARTE ETHIQUE DU PROFESSIONNEL DE LA COMMUNICATION DE CRISE DE SYNTEC CONSEIL EN RELATIONS PUBLICS, LE CODE DE CONDUITE DE L'INTERNATIONAL PUBLICS RELATIONS ASSOCIATION, LA CHARTE DE STOCKHOLM DE L'INTERNATIONAL COMMUNICATION CONSULTANCY ASSOCIATION, LA CHARTE RELATIVE A L'EXERCICE DE LA PROFESSION DE CONSEIL EN LOBBYING DE L'ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES, LE CODE DE LISBONNE DE LA CONFEDERATION EUROPEENNE DES RELATIONS PUBLICS, LE CODE D'ATHENES DE L'INTERNATIONAL PUBLIC RELATIONS ASSOCIATION.", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 1, 
   "Les adh\u00e9rents": {
    "Nombre total d'adh\u00e9rents \"personnes morales\"": 47, 
    "Noms des personnes morales membres de l'organisme": "ADOCOM, ALBINE&CO, ALTERIS ENVIRONNEMENT, AMALTHEA, AROMATES, AUVRAY & ASSOCI\u00c9S, BABEL, BORACAY, BURSON-MARSTELLER I&E, CAP & CIME PR, CAPITAL IMAGE, COHN & WOLFE, COMCORP, EDELMAN, FHCOM, FLEISHMAN-HILLARD, FLORENCE GILLIER & ASSOCI\u00c9S, FP&A, GOLIN, GOOTENBERG, H+K STRAT\u00c9GIES, IDENIUM, INFLUELSE, KABLE COMMUNICATION, KALAAPA, KETCHUM, KINGCOM, LE PUBLIC SYST\u00c8ME, LES ATELIERS CORPORATE, LEWIS PR, MAARC, MONET + ASSOCI\u00c9S,OGILVY PUBLIC RELATIONS, PEPPER MENTHE COMMUNICATION, PROFILE PR, PUBLICIS CONSULTANTS FRANCE, SELF IMAGE, TBWA CORPORATE, THOMAS MARKO & ASSOCI\u00c9S, VFC RELATIONS PUBLICS, VP STRAT & COM, WE AGENCY, WEBER SHANDWICK, WELLCOM, YUCATAN, ZMIROV COMMUNICATION", 
@@ -8067,28 +8127,12 @@
     "Entreprises"
    ]
   }, 
-  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
-   "Monsieur Romain Benz", 
-   "Monsieur Jean-Fran\u00e7ois Pascal", 
-   "Monsieur Patrick Bonin", 
-   "Madame Virginie Thomas"
-  ], 
-  "Dirigeant / personne juridiquement responsable": "Monsieur THIERRY WELLHOFF (PRESIDENT)", 
   "Statut l\u00e9gal": "Syndycat professionnel", 
-  "id": 217, 
   "Objectif et mission": "CREE EN 1988, SYNTEC CONSEIL EN RELATIONS PUBLICS REPRESENTE LES ENTREPRISES SPECIALISEES EN CONSEIL EN RELATIONS PUBLICS AU SEIN DE LA FEDERATION SYNTEC ET DU MEDEF. LE SYNDICAT COMPTE UNE QUARANTAINE D'AGENCES REPRESENTANT PRES DE 1400 COLLABORATEURS QUI PARTAGENT LA MEME DEONTOLOGIE DANS LA PRATIQUE DE LEURS METIERS. LE SYNDICAT A POUR MISSION LA PROMOTION DES RELATIONS PUBLICS EN FRANCE ET A L'ETRANGER, LA DEFENSE DES INTERETS DE LA PROFESSION, LA CONTRIBUTION AU DEVELOPPEMENT DE LA PROFESSION (DEONTOLOGIE, FORMATION, QUALITE) ET LA REPRESENTATION DE LA PROFESSION AUPRES DES POUVOIRS PUBLICS ET DES ORGANISATIONS REPRESENTATIVES DE LA COMMUNICATION.", 
-  "Nombre de personnes employ\u00e9es par l'organisme": 1, 
-  "Autres sources": {
-   "Cotisations des membres": 214581, 
-   "Commercialisation de produits, services": 31446
-  }, 
-  "Budget global": 246027, 
   "Raison sociale": "SYNTEC CONSEIL EN RELATIONS PUBLICS", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "SYNTEC CONSEIL EN RELATIONS PUBLICS EST MEMBRE DE : LA FEDERATION SYNTEC, LE MEDEF, LE GPS (GROUPEMENT DES PROFESSIONNELS DES SERVICES, DE L'ICCO (INTERNATIONAL COMMUNICATION CONSULTANCY ORGANIZATION)", 
   "Adresse et t\u00e9l\u00e9phone": "(+33) 0144304900", 
-  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
-  "Site internet": "http://WWW.SYNTEC-RP.COM", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
    4, 
    "LA COMMISSION \"AFFAIRES PUBLIQUES\" DE SYNTEC CONSEIL EN RELATIONS PUBLICS RASSEMBLES LES PROFESSIONNELS DE LA REPRESENTATION D'INTERETS DES ENTREPRISES ADHERENTES A SYNTEC CONSEIL EN RELATIONS PUBLICS. CES ENTREPRISES SONT MULTI-ACTIVITES (CERTAINES SONT MAJORITAIREMENT PRESTATAIRES DE COMMUNICATION CORPORATE, D'AUTRES DE COMMUNICATION EVENEMENTIELLE OU ENCORE DIGITALE) ; LA REPRESENTATION D'INTERETS CONSTITUE UN DEPARTEMENT SPECIALISE AU SEIN DE CES ENTREPRISES. LES QUATRE PERSONNES INDIQUEES COMME \"BENEFICIAIRES DE LA CARTE DE REPRESENTANTS D'INTERETS\" SONT LES RESPONSABLES DE LA COMMISSION \"AFFAIRES PUBLIQUES\" DE SYNTEC CONSEIL EN RELATIONS PUBLICS."
