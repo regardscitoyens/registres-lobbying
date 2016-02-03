@@ -1057,7 +1057,10 @@
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Adh\u00e9rent au code de bonne conduite pr\u00e9c\u00e9demment en vigueur \u00e0 l'Assembl\u00e9e nationale et au S\u00e9nat", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Budget et finances publiques - Collectivit\u00e9s locales - Commerce, distribution - Consommation et concurrence - Coop\u00e9ration et D\u00e9veloppement - Droit des soci\u00e9t\u00e9s - \u00c9ducation, enseignement, formation - Emploi - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Politique r\u00e9gionale - Recherche et technologie", 
   "Cat\u00e9gorie": "Organisme public", 
-  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Guillaume Baugin", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Guillaume Baugin", 
+   "Madame Aline Muzard"
+  ], 
   "Dirigeant / personne juridiquement responsable": "Monsieur Guy Vasseur (Pr\u00e9sident)", 
   "Statut l\u00e9gal": "Etablissement public", 
   "id": 72, 
