@@ -7,6 +7,7 @@ from datetime import date
 handtypos = [
   ("FP2E,Fédération professionnelle,MATHIEU,Tristan,", "FP2E,Fédération professionnelle,MATHIEU Tristan,,"),
   ("Afrique Inelligence", "Afrique Intelligence"),
+  ("Gontard Jean Henri", "GONTARD Jean Henri"),
   ("A31:F31Secours catholique", "Secours catholique"),
   (",Assocation,", ",Association,"),
 ]
