@@ -264,13 +264,47 @@
   }
  }, 
  {
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/273", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Le cabinet respecte un cadre d\u00e9ontologique strict en ad\u00e9quation avec les r\u00e8gles en vigueur dans la profession. Il se conforme notamment aux termes de la charte de l'AFCL (Association Fran\u00e7aise des Conseils en Lobbying et Affaires Publiques), sans toutefois pouvoir signer cette derni\u00e8re - l'adh\u00e9sion \u00e0 l'AFCL et \u00e0 sa charte requ\u00e9rant un exercice de la profession d'au moins trois ans.", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Consommation et concurrence - Gouvernance - Presse, \u00e9dition - T\u00e9l\u00e9communications", 
+  "Cat\u00e9gorie": "Cabinets de consultants sp\u00e9cialis\u00e9s", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Arnaud Decker", 
+   "Monsieur Matis Pellerin"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Arnaud Decker (Directeur Associ\u00e9)", 
+  "Statut l\u00e9gal": "SAS", 
+  "Objectif et mission": "adValorem Affaires Publiques est un cabinet sp\u00e9cialis\u00e9 dans les relations institutionnelles cr\u00e9\u00e9 en 2014 qui accompagne ses clients (entreprises, collectivit\u00e9s, associations professionnelles) dans la r\u00e9flexion, la conception et le d\u00e9ploiement de leur strat\u00e9gie institutionnelle.", 
+  "id": 273, 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "Entre 100 000 et 150 000 \u20ac", 
+  "Acronyme": "adValorem Affaires Publiques", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 2, 
+  "Budget global": "Entre 100 000 et 150 000 \u20ac", 
+  "Raison sociale": "adValorem Affaires Publiques - Arnaud Decker Conseil", 
+  "Nom des clients": "beIN SPORTS, Portland Communications, Microsoft", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 100 000 et 150 000 \u20ac", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 1 84 02 11 18", 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Prise de contacts, r\u00e9daction d'argumentaires, de notes et de projets de courriers pour le compte des clients, pr\u00e9paration d'auditions.", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2015, 
+  "Site internet": "http://www.adValoremAffairesPubliques.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
+   "Affaires institutionnelles, vie publique", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique", 
+   "Entre 50 000 et 100 000 \u20ac", 
+   "Presse, \u00e9dition", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac"
+  ]
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/101", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Charte \u00e9thique du Groupe A\u00e9roports de Paris", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Transports, logistique", 
   "Cat\u00e9gorie": "Entreprise", 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
-   "Madame Gis\u00e8le ROSSAT-MIGNO", 
+   "Madame Gis\u00e8le ROSSAT-MIGNOD", 
    "Monsieur Khaled KLAA"
   ], 
   "Dirigeant / personne juridiquement responsable": "Monsieur Augustin de ROMANET (Pr\u00e9sident - Directeur g\u00e9n\u00e9ral)", 
@@ -1085,10 +1119,12 @@
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Budget et finances publiques - Collectivit\u00e9s locales - Commerce, distribution - Consommation et concurrence - Coop\u00e9ration et D\u00e9veloppement - Droit des soci\u00e9t\u00e9s - \u00c9ducation, enseignement, formation - Emploi - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Politique r\u00e9gionale - Recherche et technologie", 
   "Cat\u00e9gorie": "Organisme public", 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
-   "Monsieur Guillaume Baugin", 
-   "Madame Aline Muzard"
+   "Madame Myriam DECOEUR-MICHEL", 
+   "Madame Aline MUZARD", 
+   "Monsieur Justin LALLOUET", 
+   "Monsieur Guillaume BAUGIN"
   ], 
-  "Dirigeant / personne juridiquement responsable": "Monsieur Guy Vasseur (Pr\u00e9sident)", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Guy VASSEUR (Pr\u00e9sident)", 
   "Statut l\u00e9gal": "Etablissement public", 
   "id": 72, 
   "Objectif et mission": "R\u00f4le de conseil aupr\u00e8s des Pouvoirs publics sur toutes les politiques consacr\u00e9es \u00e0 l'agriculture et \u00e0 la ruralit\u00e9.", 
@@ -1116,7 +1152,7 @@
   "Cat\u00e9gorie": "Organisme public", 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
    "Monsieur Fran\u00e7ois MOUTOT", 
-   "Madame B\u00e9atrice SAILLARD", 
+   "Madame Val\u00e9rie CHAUMANET", 
    "Madame V\u00e9ronique MATTEOLI", 
    "Monsieur Jean-Charles ROSIER"
   ], 
@@ -2308,27 +2344,26 @@
   "Cat\u00e9gorie": "Entreprise", 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
    "Monsieur Thierry Marquez", 
-   "Monsieur Bruno Domingo", 
-   "Monsieur Renaud Ramillon Deffarges"
+   "Monsieur Renaud Ramillon Deffarges", 
+   "Monsieur"
   ], 
   "Dirigeant / personne juridiquement responsable": "Monsieur Thierry Marquez (Pr\u00e9sident)", 
   "Statut l\u00e9gal": "Soci\u00e9t\u00e9 par action simplifi\u00e9e \u00e0 associ\u00e9 unique", 
   "id": 232, 
-  "Objectif et mission": "Le cabinet d'expertise strat\u00e9gique (CES) accompagne et s\u00e9curise les projets strat\u00e9giques, apporte son savoir faire en gestion des risques de toute nature et accompagne ses clients dans leur strat\u00e9gie de d\u00e9veloppement. CES accompagne, par la mise en place de strat\u00e9gies innovantes de communication qui favorisent le d\u00e9veloppement : des normes, des lois, de la notori\u00e9t\u00e9, de la pr\u00e9sence sur internet, de l'\u00e9thique, des valeurs et de l'identit\u00e9 d'une organisation.", 
+  "Objectif et mission": "Le cabinet d'expertise strat\u00e9gique (CES) accompagne et s\u00e9curise les projets strat\u00e9giques, apporte son savoir faire en gestion des risques de toute nature et accompagne ses clients dans leur strat\u00e9gie de d\u00e9veloppement.", 
   "Acronyme": "CES", 
-  "Nombre de personnes employ\u00e9es par l'organisme": 3, 
+  "Nombre de personnes employ\u00e9es par l'organisme": 1, 
   "Budget global": "Entre 150 000 et 200 000 \u20ac", 
   "Raison sociale": "Cabinet d'expertise strat\u00e9gique", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 30 000 et 40 000 \u20ac", 
-  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "SFEN, Soci\u00e9t\u00e9 Fran\u00e7aise d'\u00c9nergie Nucl\u00e9aire,", 
   "Adresse et t\u00e9l\u00e9phone": 553878604, 
-  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2015, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2016, 
   "Site internet": "http://www.expertise-strategique.com", 
-  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Projet de loi relatif au renseignement Projet de loi portant nouvelle organisation territoriale de la R\u00e9publique Projet de loi relatif \u00e0 la d\u00e9limitation des r\u00e9gions, aux \u00e9lections r\u00e9gionales et d\u00e9partementales et modifiant le calendrier \u00e9lectoral Projet de loi relatif \u00e0 l'individualisation des peines et \u00e0 la pr\u00e9vention de la r\u00e9cidive Projet de loi relatif aux activit\u00e9s priv\u00e9es de protection des navires Projet de loi de programmation pour la ville et la coh\u00e9sion urbaine", 
   "Chiffre d'affaire de l'entreprise ou du groupe": "Entre 150 000 et 200 000 \u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
-   "En France": 3, 
+   "En France": 1, 
    "A l'\u00e9tranger": ""
   }
  }, 
@@ -2782,36 +2817,36 @@
  }, 
  {
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/109", 
-  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Com'Publics est membre de l'AFCL, respecte la d\u00e9ontologie et a sign\u00e9 la charte d\u00e9ontologique de l'AFCL.", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Comp'publics est membre de l'AFCL, respecte la d\u00e9ontologie et a sign\u00e9 la charte d\u00e9ontologique de l'AFCL", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Artisanat - Banque, Assurance, finances - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Handicap - H\u00f4tellerie, restauration - Immobilier, habitat, logement - Recherche et technologie - Sant\u00e9 - Sport, loisirs, tourisme - Transports, logistique", 
   "Cat\u00e9gorie": "Cabinets de consultants sp\u00e9cialis\u00e9s", 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
    "Monsieur Marc Teyssier d'Orfeuil", 
    "Monsieur Mathieu la Fay", 
-   "Madame Angeline Charbonnier", 
    "Monsieur Thibaut Moura", 
+   "Madame Angeline Charbonnier", 
    "Madame Marine Durand-Ruel"
   ], 
   "Dirigeant / personne juridiquement responsable": "Monsieur Marc Teyssier d'Orfeuil (Directeur g\u00e9n\u00e9ral)", 
   "Statut l\u00e9gal": "SARL", 
-  "Objectif et mission": "Depuis vingt ans, Com\u2019Publics met au service de ses clients son exp\u00e9rience aupr\u00e8s des pouvoirs publics et des \u00e9lus : gouvernement, parlement, collectivit\u00e9s locales, institutions... De la r\u00e9flexion strat\u00e9gique \u00e0 l\u2019\u00e9laboration de documents en passant par la cr\u00e9ation et la gestion d\u2019\u00e9v\u00e9nements, de la sensibilisation des parlementaires aux entretiens dans les minist\u00e8res, l\u2019agence mobilise l\u2019ensemble de ses comp\u00e9tences pour atteindre les objectifs de lobbying ou de communication de ses clients. \u2022 Conseil en communication institutionnelle s\u2019appuyant sur une connaissance pr\u00e9cise du milieu politique, institutionnel et territorial. \u2022 Lobbying actif (suivi l\u00e9gislatif, organisation de rencontres et de rendez-vous cibl\u00e9s, tables rondes, veille). \u2022 Cr\u00e9ation de supports (journaux, newsletters, chartes graphiques, logos, cartes de v\u0153ux\u2026). Com\u2019Publics est particuli\u00e8rement reconnue pour son animation de clubs th\u00e9matiques et think tank.", 
+  "Objectif et mission": "Depuis vingt ans, Com\u2019Publics met au service de ses clients son exp\u00e9rience aupr\u00e8s des pouvoirs publics et des \u00e9lus : gouvernement, parlement, collectivit\u00e9s locales, institutions... De la r\u00e9flexion strat\u00e9gique \u00e0 l\u2019\u00e9laboration de documents en passant par la cr\u00e9ation et la gestion d\u2019\u00e9v\u00e9nements, de la sensibilisation des parlementaires aux entretiens dans les minist\u00e8res, l\u2019agence mobilise l\u2019ensemble de ses comp\u00e9tences pour atteindre les objectifs de lobbying ou de communication de ses clients. La diversit\u00e9 des th\u00e9matiques sur lesquelles travaille l\u2019agence la conduit \u00e0 se montrer toujours plus cr\u00e9ative et inventive dans la conception des actions qu\u2019elle propose. \u2022 Conseil en communication institutionnelle s\u2019appuyant sur une connaissance pr\u00e9cise du milieu politique, institutionnel et territorial. \u2022 Lobbying actif (suivi l\u00e9gislatif, organisation de rencontres et de rendez-vous cibl\u00e9s, tables rondes, veille). \u2022 Cr\u00e9ation de supports (journaux, newsletters, chartes graphiques, logos, cartes de v\u0153ux\u2026). \u2022 Exp\u00e9rience reconnue dans les relations publiques et la conduite d\u2019\u00e9v\u00e9nements conviviaux. \u2022 Elaboration d\u2019\u00e9tudes qualitatives (impact, perception) et quantitatives aupr\u00e8s de publics cibl\u00e9s. L\u2019agence Com\u2019Publics est particuli\u00e8rement reconnue pour son expertise sur la cr\u00e9ation de clubs th\u00e9matiques, qui peuvent s\u2019apparenter \u00e0 des think tank, soutenus par des \u00e9lus de toutes tendances politiques.", 
   "id": 109, 
-  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "Entre 600 000 et 700 000 \u20ac", 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "Entre 700 000 et 800 000 \u20ac", 
   "Nombre de personnes employ\u00e9es par l'organisme": 15, 
-  "Budget global": "Entre 600 000 et 700 000 \u20ac", 
-  "Raison sociale": "Com'Publics", 
-  "Nom des clients": "ACTA, CIFOG, CNPO, INAPORC, CSEM, SCC, CNETH, CLIP Club Autonomie &d\u00e9pendance - bien vieillir ensemble, Club de l'accession \u00e0 la propri\u00e9t\u00e9, Club bois & for\u00eats, Club du dernier kilom\u00e8tre de livraison, Club de l'emballage l\u00e9ger en aluminium et en acier, Club France Terre de tourisme, Club Mer & Oc\u00e9an, Club des PPP, Club Produire en France, Club de la Table Fran\u00e7aise, Club des voitures \u00e9cologiques, Club mieux vivre en ville, Club du deux-roues motoris\u00e9", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 600 000 et 700 000 \u20ac", 
-  "Adresse et t\u00e9l\u00e9phone": "(+33) 144181450", 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Envoi de journaux, invitations, petits-d\u00e9j\u00e9uners, d\u00e9jeuners ou d\u00eeners-d\u00e9bat, prises de RDV.", 
-  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
+  "Budget global": "Entre 700 000 et 800 000 \u20ac", 
+  "Raison sociale": "Com'publics", 
+  "Nom des clients": "ACTA.CIFOG.CNPO.INAPORC.CSEM.SCC.CNETH.UNIJUS.UNEA.CSIAM.RAISINOR FRANCE Club Autonomie & D\u00e9pendance, bien vieillir ensemble Club de l\u2019accession \u00e0 la propri\u00e9t\u00e9 Club bois & for\u00eat Club du Dernier Kilom\u00e8tre de Livraison Club du 2 Roues Motoris\u00e9 Club de l\u2019Emballage L\u00e9ger en Aluminium et en Acier Club France Terre de Tourisme Club de l\u2019Investissement Public Club Mer & Oc\u00e9an Club des Partenariats Public-Priv\u00e9 Club Produire en France Club des Voitures Ecologiques Club de l'Economie collaborative Club de la Table fran\u00e7aise", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 700 000 et 800 000 \u20ac", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 144181455", 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Envoi de correspondances, de journaux, d'invitations. Petits d\u00e9jeuners, diners debat Prises de rendez-vous", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2015, 
   "Site internet": "http://www.compublics.com", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 15, 
   "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
    "Agriculture, \u00e9levage, p\u00eache, bois", 
    "Entre 100 000 et 150 000 \u20ac", 
    "Agroalimentaire", 
-   "Entre 50 000 et 100 000 \u20ac", 
+   "Entre 100 000 et 150 000 \u20ac", 
    "Artisanat", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
    "Banque, Assurance, finances", 
@@ -2829,13 +2864,13 @@
    "Recherche et technologie", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
    "Sant\u00e9", 
-   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Entre 50 000 et 100 000 \u20ac", 
    "S\u00e9curit\u00e9", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
    "Sport, loisirs, tourisme", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac", 
    "Transports, logistique", 
-   "Entre 50 000 et 100 000 \u20ac"
+   "Entre 100 000 et 150 000 \u20ac"
   ]
  }, 
  {
@@ -3437,6 +3472,42 @@
   "Site internet": "http://www.cnb.avocat.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Auditions devant les Commissions"
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/271", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Le r\u00e8glement int\u00e9rieur du CNCMA", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Banque, Assurance, finances - Budget et finances publiques - Collectivit\u00e9s locales - Commerce, distribution - Industrie - Justice et affaires int\u00e9rieures - Professions lib\u00e9rales - Transports, logistique", 
+  "Cat\u00e9gorie": "Autre organisation professionnelle", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes physiques\"": 185, 
+   "Noms des personnes morales membres de l'organisme": "", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes physiques", 
+    "Entreprises de taille variable de 1 ou plusieurs salari\u00e9s r\u00e9partis sur tout le territoire national."
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Eric AYAIDIA", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Claude FREYERMUTH (Pr\u00e9sident du CNCMA)", 
+  "Statut l\u00e9gal": "Etablissement Public", 
+  "id": 271, 
+  "Objectif et mission": "Le Conseil National des Courtiers de Marchandises Asserment\u00e9s est charg\u00e9 de la promotion et de la sauvegarde de la profession de Courtier de Marchandises Asserment\u00e9s au niveau national. Le CNCMA organise chaque ann\u00e9e l'examen d'aptitude \u00e0 la profession en lien avec ses minist\u00e8res de tutelle (Justice et Commerce). Il \u00e9tablit chaque ann\u00e9e les listes de CMA inscrits pr\u00e8s les Cours d'Appel.", 
+  "Acronyme": "CNCMA", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 1, 
+  "Autres sources": {
+   "Autres": 20000, 
+   "Cotisations des membres": 70000, 
+   "Commercialisation de produits, services": 30000
+  }, 
+  "Budget global": 120000, 
+  "Raison sociale": "CONSEIL NATIONAL DES COURTIERS DE MARCHANDISES ASSERMENT\u00c9S", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Conseil National des Compagnies d'Experts de Justice, Agro Paris Bourse, Chambre Arbitrale Internationale de Paris, Conseil des Ventes Volontaires de meubles, Syndicat de Paris", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 1 42 33 16 81", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2015, 
+  "Site internet": "http://www.courtiers-assermentes.org", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rencontres avec les minist\u00e8res de tutelle et notamment des conseillers du Ministre Emmanuel Macron."
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "5000", 
@@ -4401,6 +4472,40 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Travail r\u00e9gulier avec les parlementaires (essentiellement d'Outre-mer) sur les textes qui concernent le d\u00e9veloppement \u00e9conomique de l'Outre-mer : loi sur la qualit\u00e9 de l'offre alimentaire outre-mer, PLF 2014, loi d'avenir sur l'agriculture. Auditions dans le cadre de la r\u00e9forme de la d\u00e9fiscalisation, sur l'octroi de mer, sur le rapport Lebreton. Rencontres r\u00e9guli\u00e8res avec les parlementaires outre-mer et les d\u00e9put\u00e9s de la Commission des finances."
  }, 
  {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/270", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Les membres de la f\u00e9d\u00e9ration sont tenus de respecter la Charte du portage salarial", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Artisanat - B\u00e2timent, travaux publics - Droit des soci\u00e9t\u00e9s - \u00c9ducation, enseignement, formation - Emploi - Fiscalit\u00e9 - Immobilier, habitat, logement - Professions lib\u00e9rales", 
+  "Cat\u00e9gorie": "Organisation professionnelle", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 73, 
+   "Noms des personnes morales membres de l'organisme": "Acced Performances, Accord Web, ADPI Portage, ADPS, AEGID, Alienor Portage, APSAL, ARCOM, Assurportage, Autonomia Portage, AVS Portage, AVS & Co, Axe Portage, AZKAN, Batifrance Services 44, Batifrance Services Alsace,-Lorraine, Batifrance Services Atlantic, Batifrance Services Auvergne-Limousin, Batifrance Services Bretagne, Batifrance Services Est, Batifrance Services Ile de France, Batifrance Services Languedoc-Roussillon, Batifrance Services Midi-Pyr\u00e9n\u00e9es, Batifrance Services Nord, Batifrance Services Nord-Pas-de-Calais, Batifrance Services PACA, Batifrance Services Pays de la Loire, Batifrance Services Rh\u00f4nes-Alpes, BNPSI, BTPORTAGE, Chiron Portage, Crea Business, Didaxis, Didaxis Consultant, Didaxis Developpement, Didaxis Etudes Conseil, Didaxis Formation, Didaxis Ingenierie, Didaxis Management, Didaxis Services, Dorhel Portage, Elite portage, Partialis, Euronixa, Frilans Finans, Inoa Management, La Manufacture, MITC Consulting, Monceau Associ\u00e9s, Neopol, Novea Technologies, Omni Plus, P\u00e9dagogie Plus Ecole, Portage Group, Possible, Proportage, PSIO, reactif, Transversal Consulting, Umalis Group, Umalis Consultants, Umalis International, Umalis Research, Umalis Expert, UMAPP, Ventoris Consulting, Ventoris Services, Ventoris Learning, Ventoris, IT, Wellington Partners", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "Entreprises et f\u00e9d\u00e9rations"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Guillaume Cairou", 
+   "Monsieur Paul Vielajus"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Guillaume Cairou (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "Association de loi 1901", 
+  "id": 270, 
+  "Objectif et mission": "Cr\u00e9\u00e9e \u00e0 l'initiative des principaux acteurs du march\u00e9, la FEPS a pour vocation de repr\u00e9senter l'ensemble des acteurs du secteur du portage salarial, dans sa plus grande diversit\u00e9, et au sens le plus large, quels que soient les modes d'exercice, les m\u00e9tiers repr\u00e9sent\u00e9s, les tailles de soci\u00e9t\u00e9s et la couverture g\u00e9ographique.", 
+  "Acronyme": "FEPS", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 1, 
+  "Budget global": "", 
+  "Raison sociale": "f\u00e9d\u00e9ration des entreprises de portage salarial", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "La FEPS est membre de la F\u00e9d\u00e9ration europ\u00e9enne du portage salarial et du r\u00e9seau European Labor Law Network (ELLN)", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 185732515", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2015, 
+  "Site internet": "http://www.syndicatportagesalarial.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 2, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Aucune, association cr\u00e9\u00e9e fin 2015."
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/54", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Nora Megder est membre de l'association BASE et respecte \u00e0 ce titre la Charte \u00e9thique de l'association.", 
@@ -4513,6 +4618,47 @@
    "Le Pr\u00e9sident de la FMB et sa D\u00e9l\u00e9gu\u00e9e G\u00e9n\u00e9rale"
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": ""
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 20 000 et 30 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/264", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Code de conduite du registre du Parlement Europ\u00e9en", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "B\u00e2timent, travaux publics - Emploi - Immobilier, habitat, logement - Industrie - Recherche et technologie", 
+  "Cat\u00e9gorie": "Organisation professionnelle", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 40, 
+   "Noms des personnes morales membres de l'organisme": "Imerys TC, Terreal, Wienerberger France, Monier France, Bouyer Leroux, Briqueterie du Nord, Rairies Montrieux, Fran\u00e7aise des Tuiles et briques, Terre Cuite de Bourgogne, Briqueterie Chimot, Tuilerie Blache, Tuilerie Lambert, Briqueterie Bouisset, Saget TC, Tuilerie de Chardat, Josse, Saverdun TC, TC du Saves, briqueterie d'Allonne, Fauvel, Barthe, Hermouet, briqueterie lagrive, briquetrie capelle, Thibault, Briqueterie de Tr\u00e9mont, Tulerie Fillon, briquetrie Nagen; tuilerie Aupeix, TC St jean d'Angle, Strme Pruvost, Tuilerie Joyat, Tuilerie de la breteche, Tc Cailleau, Corbet TC, Briqueterie Ste marcelle, Terre de Prony, Tuilerie lanter, =", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "Entreprises uniquement"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Herv\u00e9 PETARD", 
+   "Madame Isabelle DORGERET", 
+   "Monsieur Thierry VOLAND"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Pierre JONNARD (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "Syndicat professionnel (titre 1er du livre IV du code du travail)", 
+  "id": 264, 
+  "Objectif et mission": "La mission de la FFTB est la d\u00e9fense et le promotion des fabricants de Tuiles et Briques et des mat\u00e9riaux de construction en terre cuite.", 
+  "Acronyme": "FFTB", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 8, 
+  "Autres sources": {
+   "Autres": 103750, 
+   "Cotisations des membres": "1.14 millions d'\u20ac", 
+   "Commercialisation de produits, services": 244149
+  }, 
+  "Budget global": "1.50 millions d'\u20ac", 
+  "Raison sociale": "F\u00e9d\u00e9ration des Tuiles et Briques", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 20 000 et 30 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "la FFTB est membre du MEDEF et d'une association Europ\u00e9enne (C\u00e9rame Unie)", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 1 44 37 07 22", 
+  "Dont financement public": 9199, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
+  "Site internet": "http://ww.fftb.org", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Suivi de diff\u00e9rents projets de loi (Transition Energ\u00e9tique et Croissance verte, tous sujets relatifs \u00e0 la construction, lois de finances)"
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
@@ -4824,6 +4970,41 @@
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/268", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Charte de concurrence de la FFMI", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - B\u00e2timent, travaux publics - Banque, Assurance, finances - Budget et finances publiques - Collectivit\u00e9s locales - Consommation et concurrence - \u00c9ducation, enseignement, formation - Environnement, \u00e9cologie, d\u00e9veloppement durable - Immobilier, habitat, logement - Industrie - S\u00e9curit\u00e9", 
+  "Cat\u00e9gorie": "Organisation professionnelle", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 13, 
+   "Noms des personnes morales membres de l'organisme": "Association fran\u00e7aise des professionnels de l'\u00e9quipement d'incendie et d'intervention Chambre syndicale des Constructeurs de Mat\u00e9riels Motoris\u00e9s d\u2019Incendie F\u00e9d\u00e9ration Fran\u00e7aise des Associations de Coordination de Syst\u00e8me de s\u00e9curit\u00e9 Incendie Groupement des Entreprises de la Formation-Pr\u00e9vention au risque Incendie Groupement des Entreprises d\u2019\u00c9tudes en S\u00e9curit\u00e9 et Pr\u00e9vention contre les risques d'Incendie Groupement Fran\u00e7ais des Industries Electroniques de S\u00e9curit\u00e9 Incendie Groupement des fabricants installateurs de mat\u00e9riels coupe-feu et d'\u00e9vacuation des fum\u00e9es Groupement des fabricants installateurs de syst\u00e8mes d'extinction automatiques fixes Syndicat de la S\u00e9curit\u00e9 Domestique Groupement fran\u00e7ais des installateurs de sprinkleurs Syndicat Fran\u00e7ais des Professionnels de la Signal\u00e9tique de S\u00e9curit\u00e9 Syndicat fran\u00e7ais des fabricants d\u2019extincteurs fixes et mobiles Syndicat des professionnels de la s\u00e9curit\u00e9 incendie", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "Organisations professionnelles"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Romain Canler", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur R\u00e9gis Cousin (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "Organisation professionnelle", 
+  "id": 268, 
+  "Objectif et mission": "La FFMI a pour but de repr\u00e9senter les int\u00e9r\u00eats des entreprises de la fili\u00e8re S\u00e9curit\u00e9 Incendie. Elle diffuse de l'information p\u00e9dagogique concernant la s\u00e9curit\u00e9 incendie. Elle participe aux travaux d'\u00e9laboration des normes et de la r\u00e9glementation.", 
+  "Acronyme": "FFMI", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 6, 
+  "Autres sources": {
+   "Cotisations des membres": 811000, 
+   "Commercialisation de produits, services": 20000
+  }, 
+  "Budget global": 831000, 
+  "Raison sociale": "F\u00e9d\u00e9ration Fran\u00e7aise des M\u00e9tiers de l'Incendie", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "F\u00e9d\u00e9ration des Industries M\u00e9caniques", 
+  "Adresse et t\u00e9l\u00e9phone": 147176303, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2015, 
+  "Site internet": "http://www.ffmi.asso.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 4, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rencontres avec des parlementaires concernant des actions de sensibilisation sur la s\u00e9curit\u00e9 domestique. Organisation de tables-rondes sur la s\u00e9curit\u00e9 civile. Actions de communication avec des \u00e9lus pour la promotion de la s\u00e9curit\u00e9 des personnes et des biens."
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/106", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Code d'\u00e9thique", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Commerce, distribution - Consommation et concurrence - Fiscalit\u00e9 - Industrie", 
@@ -5023,6 +5204,39 @@
   "Site internet": "http://www.fncds.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 4, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Travail sur la repr\u00e9sentativit\u00e9 des cadres dirigeants et sup\u00e9rieurs dans le cadre de la loi du 20 ao\u00fbt 2008 sur la d\u00e9mocratie sociale. Rencontres avec des d\u00e9put\u00e9s et/ou s\u00e9nateurs pour d\u00e9p\u00f4t d'amendements Travail en cours sur des propositions de la FNCDS sur l'\u00e9volution attendue du Code du Travail"
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 40 000 et 50 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/274", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Banque, Assurance, finances", 
+  "Cat\u00e9gorie": "Association", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 17, 
+   "Noms des personnes morales membres de l'organisme": "Caisse d'Epargne Alsace ; CE Aquitaine Poitou-Charentes ; CE Auvergne et Limousin, ; CE Bourgogne Franche-Comt\u00e9 ; CE Bretagne Pays de Loire ; CE C\u00f4te d'Azur ; CE Ile-de-France ; CE Languedoc Roussillon ; CE Loire Centre ; CE Loire Dr\u00f4me Ard\u00e8che ; CE Lorraine Champagne-Ardenne ; CE Midi-Pyr\u00e9n\u00e9es ; CE Nord France Europe ; CE Normandie ; CE Picardie ; CE Provence-Alpes-Corse ; CE Rh\u00f4ne Alpes", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "Entreprises"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame S\u00e9verine de COMPREIGNAC", 
+  "Dirigeant / personne juridiquement responsable": "Madame Florence RAINEIX (Directeur g\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "Association loi 1901", 
+  "id": 274, 
+  "Objectif et mission": "participer \u00e0 la d\u00e9finition des orientations strat\u00e9giques du r\u00e9seau Caisses d'Epargne - accompagner et former les repr\u00e9sentants de soci\u00e9taires - d\u00e9finir, coordonner et promouvoir les actions de Responsabilit\u00e9 sociale des Caisses d'Epargne", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 39, 
+  "Autres sources": {
+   "Cotisations des membres": "8.00 millions d'\u20ac"
+  }, 
+  "Budget global": "8.00 millions d'\u20ac", 
+  "Raison sociale": "FEDERATION NATIONALE DES CAISSES D'EPARGNE", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 40 000 et 50 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Coop Fr", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 144385050", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
+  "Site internet": "http://www.federation.caisse-epargne.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rendez-vous parlementaires Auditions"
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "35000", 
@@ -6001,6 +6215,45 @@
   ]
  }, 
  {
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/267", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Toutes nos missions douvent r\u00e9pondre aux exigeances d\u00e9ontologiques suivantes : 1- Respect des Lois, D\u00e9cr\u00e9ts et R\u00e8glements de la r\u00e9publique Fran\u00e7aises. 2- Respect des dipositions de la Communaut\u00e9 Europ\u00e9enne. 3- Respect de la D\u00e9claration Universelle des Droits de l'Homme et du Citoyen. 4- Respect de l'Environnement et du Principe de D\u00e9veloppemnt Durable et de Responsabilit\u00e9 Environnementale.", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Artisanat - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - B\u00e2timent, travaux publics - Collectivit\u00e9s locales - Commerce, distribution - Coop\u00e9ration et D\u00e9veloppement - \u00c9ducation, enseignement, formation - Emploi - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - H\u00f4tellerie, restauration - Politique r\u00e9gionale - Presse, \u00e9dition - Recherche et technologie - Sant\u00e9 - Sport, loisirs, tourisme - T\u00e9l\u00e9communications - Transports, logistique", 
+  "Cat\u00e9gorie": "Cabinets de consultants sp\u00e9cialis\u00e9s", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Vincent DOR", 
+   "Monsieur Jos\u00e9-Maria Pujol de Salas", 
+   "Monsieur Antonio Fiori"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Vincent DOR (G\u00e9rant)", 
+  "Statut l\u00e9gal": "SARL Capital 8000 \u20ac", 
+  "Objectif et mission": "1- Aider les entreprises et les institutions Fran\u00e7aises et europ\u00e9ennes dans la promotion de leur image, de leur savoir faire et de leurs partis pris en france et \u00e0 l'Etarnger. 2- D\u00e9velopper les partenariats Publique/Priv\u00e9 ainsi que la communication entre les Elus de la R\u00e9publique et les Acteurs Priv\u00e9s. 3- Apporter conseil et formation \u00e0 nos clients dans le stricte cadre de notre code de d\u00e9ontologie.", 
+  "id": 267, 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 \u20ac", 
+  "Acronyme": "HV_DC", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 3, 
+  "Budget global": "Entre 150 000 et 200 000 \u20ac", 
+  "Raison sociale": "Human Value Development Consulting", 
+  "Nom des clients": "LUMINANCE France, Municipio de Mayag\u00fbez (Puerto Rico), Cruceros To Go, Groupe Bollor\u00e9, Iguana.", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Nous sommes adh\u00e9rents de la Charte du Syntec", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 0140893997", 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Promotion de partenariats avec des pays hors UE. Prise d'informations afin de bien orienter la strat\u00e9gie de nos clients en mati\u00e8re de d\u00e9veloppement et de cr\u00e9ation de valeur.", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "01/01/2015 au 31/12/2015", 
+  "Site internet": "http://www.mediasource.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": [
+   3, 
+   "Tous nos consultants sont des professionnels du domaine priv\u00e9 et:ou public, ayant exerc\u00e9 durant plusieurs ann\u00e9es \u00e0 des poste de direction en entreprise et au sein de l'administration."
+  ], 
+  "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
+   "Industrie", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Presse, \u00e9dition", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Recherche et technologie", 
+   "Entre 50 000 et 100 000 \u20ac"
+  ]
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "15000", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/157", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Charte de l\u2019Union des grandes \u00e9coles ind\u00e9pendantes", 
@@ -6772,6 +7025,36 @@
   }
  }, 
  {
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/266", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Agroalimentaire - Industrie", 
+  "Cat\u00e9gorie": "Cabinets de consultants sp\u00e9cialis\u00e9s", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Th\u00e9o Fats\u00e9as", 
+   "Monsieur Charles Mintz"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Rapha\u00ebl Haddad (Directeur)", 
+  "Statut l\u00e9gal": "SARL", 
+  "Objectif et mission": "Mots-Cl\u00e9s accompagne ses clients en mati\u00e8re d'affaires publiques, de relations presse, d'expression publique, de communication digitale et de communication de crise. A ce jour, le cabinet a deux missions : Faire valoir l'excellence op\u00e9rationelle comme levier pour le redressement comp\u00e9titif de l'industrie fran\u00e7aise. Promouvoir le bien manger comme meilleure r\u00e9ponse au d\u00e9veloppement de la malbouffe en France.", 
+  "id": 266, 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "163241", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 3, 
+  "Budget global": "163241", 
+  "Raison sociale": "Mots-Cl\u00e9s", 
+  "Nom des clients": "OPEO conseil - festival Gastronomades", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "163241", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 1 40 23 99 00", 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Prise de contact avec des d\u00e9put\u00e9s membre de groupes d'\u00e9tudes industriels. - Pr\u00e9sentation de l'\u00e9xcellence op\u00e9rationnalle devant le groupe d'\u00e9tudes industrie m\u00e9canique ((19/11/2014) - Organisation d'une remise de prix sur la th\u00e9matique du bien manger au S\u00e9nat (10/11/2015)", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
+  "Site internet": "http://www.motscles.net", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
+  "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
+   "Agroalimentaire", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+   "Industrie", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac"
+  ]
+ }, 
+ {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/258", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Agriculture, \u00e9levage, p\u00eache, bois - Agroalimentaire - Commerce, distribution - Consommation et concurrence - Emploi - Environnement, \u00e9cologie, d\u00e9veloppement durable - Fiscalit\u00e9 - Gouvernance", 
@@ -6944,6 +7227,39 @@
    "En France": 480, 
    "A l'\u00e9tranger": ""
   }
+ }, 
+ {
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/269", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Au code de conduite contractuel sign\u00e9 avec RAZEL-BEC rappelant la r\u00e9glementation en vigueur.", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Arts et culture - B\u00e2timent, travaux publics - Budget et finances publiques - Collectivit\u00e9s locales - D\u00e9fense, armement - \u00c9nergie, eau - Environnement, \u00e9cologie, d\u00e9veloppement durable - Immobilier, habitat, logement - Politique r\u00e9gionale - Transports, logistique", 
+  "Cat\u00e9gorie": "Cabinets de consultants sp\u00e9cialis\u00e9s", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Jean-Henri GONTARD", 
+   "Monsieur Bernard BOULEIGE", 
+   "Madame Anne GOYER"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Jean-Henri GONTARD (G\u00e9rant - associ\u00e9)", 
+  "Statut l\u00e9gal": "SARL - Siret : 792 514 432 00014", 
+  "Objectif et mission": "Accompagnement institutionnel. Strat\u00e9gie de communication pour les entit\u00e9s publiques et entreprises. Analyses et prospectives en politique publiques, accompagnement \u00e0 la mise en \u0153uvre des r\u00e9formes r\u00e9glementaires. Analyse de march\u00e9. \u00c9valuation des politiques publiques. Analyse des processus budg\u00e9taires. Veille r\u00e9glementaire. Intelligence \u00e9conomique et strat\u00e9gique. M\u00e9c\u00e9nat artistique et sportif.", 
+  "id": 269, 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+  "Budget global": "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+  "Acronyme": "OGMIOS Consulting", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 3, 
+  "Information financi\u00e8re compl\u00e9mentaire": "", 
+  "Raison sociale": "OGMIOS Consulting SARL", 
+  "Nom des clients": "RAZEL-BEC TRAVAUX PUBLICS Siret : 56213603600810 1111, Avenue Justin Bec 34 680 St Georges d'Orques", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "inf\u00e9rieur \u00e0 50 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "", 
+  "Adresse et t\u00e9l\u00e9phone": "33(0) 4 86 40 84 99", 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Accompagnement de notre client, l'entreprise Razel-Bec Travaux Publics, aupr\u00e8s de plusieurs parlementaires, \u00e9lus, et repr\u00e9sentant d'Entreprises Publiques Locales ; ceci pour \u00e9changer autour de la loi SEMOP, ses objectifs, les besoins de la puissance publique, et les champs d'application de la loi.", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
+  "Site internet": "http://", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
+  "R\u00e9partition du chiffre d'affaire pour chaque domaine d'activit\u00e9": [
+   "B\u00e2timent, travaux publics", 
+   "inf\u00e9rieur \u00e0 50 000 \u20ac"
+  ]
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 1 000 000 et 1 250 000 \u20ac", 
@@ -7299,28 +7615,30 @@
   }
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 20 000 et 30 000 \u20ac", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 40 000 et 50 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/220", 
-  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Code de conduite de BASE, association de lobbying en France D\u00e9cret n\u00b02012-694 du 7 mai 2012 portant sur le code de d\u00e9ontologie m\u00e9dicale", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Code de conduite de BASE, association de lobbying en France D\u00e9cret n\u00b02012-694 du 7 mai 2012 portant sur le code de d\u00e9ontologie m\u00e9dicale D\u00e9claration commune de Transparency France Charte interne Roche de bonnes pratiques du lobbying", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Budget et finances publiques - Consommation et concurrence - Droit des soci\u00e9t\u00e9s - Finances sociales - Industrie - Sant\u00e9", 
   "Cat\u00e9gorie": "Entreprise", 
-  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame Emmanuelle Garault", 
-  "Dirigeant / personne juridiquement responsable": "Madame Corinne Le Goff (Pr\u00e9sident)", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Madame Emmanuelle Garault", 
+   "Madame Claire Lh\u00e9riteau-Calm\u00e9"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Madame Padraic Ward (Pr\u00e9sident)", 
   "Statut l\u00e9gal": "SAS", 
   "id": 220, 
   "Objectif et mission": "Notre activit\u00e9 pharmaceutique, conduite en France par Roche pharma, vise \u00e0 soigner et gu\u00e9rir, en d\u00e9veloppant et en commercialisant de nouveaux traitements pour des pathologies o\u00f9 les besoins m\u00e9dicaux ne sont pas encore satisfaits: en oncologie, en h\u00e9matologie, en virologie, ou encore en an\u00e9mie-transplantation.", 
   "Acronyme": "Roche pharma", 
   "Nombre de personnes employ\u00e9es par l'organisme": 88509, 
-  "Budget global": "1.73 milliards d'\u20ac sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Budget global": "1.31 milliards d'\u20ac sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
   "Raison sociale": "Roche SAS", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 20 000 et 30 000 \u20ac", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 40 000 et 50 000 \u20ac", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Leem (Les entreprises du m\u00e9dicament) LIR (Association des laboratoires internationaux de recherche)", 
   "Adresse et t\u00e9l\u00e9phone": "(+33) 0147614000", 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
   "Site internet": "http://www.roche.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": "", 
-  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Cr\u00e9ation du poste de directeur des affaires publiques et gouvernementales en mars 2015.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "1.73 milliards d'\u20ac sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "1.31 milliards d'\u20ac sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
    "En France": 1110, 
    "A l'\u00e9tranger": 87399
@@ -7595,28 +7913,28 @@
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/89", 
-  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Le pr\u00e9sident de l'entreprise fait d\u00e9j\u00e0 partie du registre de transparence de l'Union Europ\u00e9enne.", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "oui -Charte de la diversit\u00e9", 
   "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Banque, Assurance, finances - D\u00e9fense, armement - Politique r\u00e9gionale - Recherche et technologie - S\u00e9curit\u00e9 - T\u00e9l\u00e9communications", 
   "Cat\u00e9gorie": "Entreprise", 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Jean-Fran\u00e7ois Beuze", 
   "Dirigeant / personne juridiquement responsable": "Monsieur Jean-Fran\u00e7ois Beuze (Pr\u00e9sident)", 
   "Statut l\u00e9gal": "SAS", 
   "id": 89, 
-  "Objectif et mission": "Sifaris est une entreprise fran\u00e7aise poss\u00e9dfant une expertise dans les aspects de conseil de Cybers\u00e9curit\u00e9, cybercriminalit\u00e9, analyse de risques, solution de s\u00e9curit\u00e9 et de performance appliqu\u00e9e au syst\u00e8me d'information, notamment pour les banques, \u00e9tablissements financiers et auters secteurs d'activit\u00e9s", 
-  "Nombre de personnes employ\u00e9es par l'organisme": 12, 
+  "Objectif et mission": "Sifaris est une soci\u00e9t\u00e9 de conseil sp\u00e9cialiste dans le domaine des NTIC, dans l'analyse et la gestion des risques IT et les infrastructures s\u00e9curis\u00e9es.", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 11, 
   "Budget global": "", 
   "Raison sociale": "sifaris", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
-  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Sifaris fait partie de : l'AFCDP : l'Association Fran\u00e7aise des Correspondants \u00e0 la protection des Donn\u00e9es \u00e0 Caract\u00e8re Personnel. Clusif : agit pour la s\u00e9curit\u00e9 de l'information et sensibilise tous les acteurs en int\u00e9grant une dimension transversale dans ses groupes de r\u00e9flexion.", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Sifaris fait partie de : l'AFCDP : l'Association Fran\u00e7aise des Correspondants \u00e0 la protection des Donn\u00e9es \u00e0 Caract\u00e8re Personnel. Club de la s\u00e9curit\u00e9 des syst\u00e8mes d'information (CLUSIF) CK2", 
   "Adresse et t\u00e9l\u00e9phone": "(+33) 1 58 07 03 03", 
-  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2015, 
   "Site internet": "http://www.sifaris.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "", 
   "Chiffre d'affaire de l'entreprise ou du groupe": "", 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
-   "En France": 12, 
-   "A l'\u00e9tranger": ""
+   "En France": 10, 
+   "A l'\u00e9tranger": 1
   }
  }, 
  {
@@ -7652,6 +7970,70 @@
    "Recherche et technologie", 
    "inf\u00e9rieur \u00e0 50 000 \u20ac"
   ]
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "11000", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/263", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Oui, charte de conduite de l'association", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Collectivit\u00e9s locales - \u00c9ducation, enseignement, formation - Environnement, \u00e9cologie, d\u00e9veloppement durable - Gouvernance - Recherche et technologie - T\u00e9l\u00e9communications - Transports, logistique", 
+  "Cat\u00e9gorie": "Association", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes physiques\"": 12, 
+   "Noms des personnes morales membres de l'organisme": "", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes physiques", 
+    "Personnes physiques (\u00e9tudiants, entrepreneurs, chercheurs...)"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Daniel Vanetti", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Daniel Vanetti (Pr\u00e9sident)", 
+  "Statut l\u00e9gal": "Association", 
+  "id": 263, 
+  "Objectif et mission": "L'association doit permettre \u00e0 ses membres de d\u00e9velopper et r\u00e9pandre des solutions locales de valorisation et r\u00e9emploi des rebuts et d\u00e9chets urbains. Elle contribue \u00e0 la propret\u00e9 des villes par le d\u00e9veloppement de solutions innovantes et collaboratives et permet l'optimisation de la collecte des d\u00e9chets. L'association doit aider par tous les moyens la concr\u00e9tisation technique des solutions invent\u00e9es telles que le Recyclage Participatif, la formation des parties prenantes, la mise en relation entre les experts et citoyens et la sensibilisation autour des dites probl\u00e9matiques.", 
+  "Information financi\u00e8re compl\u00e9mentaire": "Les principales charges financi\u00e8res d\u00e9di\u00e9es \u00e0 cette activit\u00e9 en 2015 f\u00fbrent les frais de d\u00e9veloppement partenarial tels que les d\u00e9placements et h\u00e9bergements afin de rencontrer les repr\u00e9sentant et \u00e9lus des mairies et collectivit\u00e9s afin d'envisager des partenariats. Courant 2016 ces frais augmenteront avec l'intensification des d\u00e9marches et de nouveaux frais en termes de conseil notamment juridique.", 
+  "Nombre de personnes employ\u00e9es par l'organisme": "", 
+  "Autres sources": {
+   "Dons": 37890, 
+   "Cotisations des membres": 110
+  }, 
+  "Budget global": 38000, 
+  "Raison sociale": "SMART CYCLE", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "11000", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "La Social Factory : incubateur de projets de l'\u00e9conomie sociale et solidaire", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 695061550", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
+  "Site internet": "http://www.smartcycle.org", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 12, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "L'association est entr\u00e9 en contact avec les institutions en charge de la collecte et du traitement des d\u00e9chets telles que certaines mairies, communaut\u00e9s de communes et m\u00e9tropoles (Aix-en-provence, Marseille, Nice, Sophia, Toulouse...) dans le but d'\u00e9tablir des partenariats et de faire \u00e9voluer les pratiques et r\u00e8gles locales en mati\u00e8re de r\u00e9cup\u00e9ration et r\u00e9emploi d'objets, notamment de rejets sauvages sur la voie publique."
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 100 000 et 150 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/272", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Membre du registre de transparence du S\u00e9nat et des institutions europ\u00e9ennes; Membre de l'ARPP, Association professionnelle des responsables des Relations avec les Pouvoirs Publics", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Affaires institutionnelles, vie publique - Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Arts et culture", 
+  "Cat\u00e9gorie": "Entreprise", 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Blaise MISTLER", 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Jean-No\u00ebl TRONC (Directeur g\u00e9n\u00e9ral-G\u00e9rant)", 
+  "Statut l\u00e9gal": "Soci\u00e9t\u00e9 priv\u00e9e \u00e0 but non lucratif", 
+  "id": 272, 
+  "Objectif et mission": "Soci\u00e9t\u00e9 des Auteurs, Compositeurs et Editeurs de Musique, soci\u00e9t\u00e9 civile \u00e0 but non lucratif d\u00e9tenue et g\u00e9r\u00e9e par ses membres dont la mission principale consiste \u00e0 collecter les droits d'auteur en France et de les redistribuer aux cr\u00e9ateurs fran\u00e7ais et du monde entier", 
+  "Budget global": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Acronyme": "Sacem", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 1347, 
+  "Information financi\u00e8re compl\u00e9mentaire": "Le montant indiqu\u00e9 en page 6 est celui des droits collect\u00e9s, la Sacem \u00e9tant une soci\u00e9t\u00e9 civile \u00e0 but non lucratif", 
+  "Raison sociale": "Soci\u00e9t\u00e9 des Auteurs, Compositeurs et Editeurs de Musique", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 100 000 et 150 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Membre du Groupement Europ\u00e9en des Soci\u00e9t\u00e9s d'Auteurs et Compositeurs (Gesac) ; Membre de la Conf\u00e9d\u00e9ration Internationale des Soci\u00e9t\u00e9s d'Auteurs et Compositeurs (Cisac)", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 147154715", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2015, 
+  "Site internet": "http://www.sacem.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Participation \u00e0 des auditions parlementaires en commission et aupr\u00e8s de missions d'information et d'\u00e9valuation, rencontres individuelles aupr\u00e8s des parlementaires.", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": "sup\u00e9rieur \u00e0 10 000 000 \u20ac", 
+  "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": {
+   "En France": 1347, 
+   "A l'\u00e9tranger": ""
+  }
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 250 000 et 300 000 \u20ac", 
@@ -8420,6 +8802,44 @@
    "LA COMMISSION \"AFFAIRES PUBLIQUES\" DE SYNTEC CONSEIL EN RELATIONS PUBLICS RASSEMBLES LES PROFESSIONNELS DE LA REPRESENTATION D'INTERETS DES ENTREPRISES ADHERENTES A SYNTEC CONSEIL EN RELATIONS PUBLICS. CES ENTREPRISES SONT MULTI-ACTIVITES (CERTAINES SONT MAJORITAIREMENT PRESTATAIRES DE COMMUNICATION CORPORATE, D'AUTRES DE COMMUNICATION EVENEMENTIELLE OU ENCORE DIGITALE) ; LA REPRESENTATION D'INTERETS CONSTITUE UN DEPARTEMENT SPECIALISE AU SEIN DE CES ENTREPRISES. LES QUATRE PERSONNES INDIQUEES COMME \"BENEFICIAIRES DE LA CARTE DE REPRESENTANTS D'INTERETS\" SONT LES RESPONSABLES DE LA COMMISSION \"AFFAIRES PUBLIQUES\" DE SYNTEC CONSEIL EN RELATIONS PUBLICS."
   ], 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "INITIATIVE 1 / DEPOT D'AMENDEMENTS AU PLF AFIN D'ATTIRER L'ATTENTION DU GOUVERNEMENT SUR UNE FAILLE DU CADRE FISCAL DE REFERENCE POUR LES ENTREPRENEURS DU SPACE INITIATIVE 2 / RENDEZ-VOUS PARLEMENTAIRES ET SUIVI DES SEANCES PUBLIQUES POUR INFORMER LES ELUS DES CONSEQUENCES D'AMENDEMENTS CONCERNANT UN SYNDICAT D'UNE FILIERE PROFESSIONNELLE"
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/265", 
+  "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - \u00c9ducation, enseignement, formation - Handicap - Industrie - Recherche et technologie - T\u00e9l\u00e9communications", 
+  "Cat\u00e9gorie": "Syndicat", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 1500, 
+   "Noms des personnes morales membres de l'organisme": "La liste compl\u00e8te des adh\u00e9rents de Syntec Num\u00e9rique peut \u00eatre consult\u00e9e sur notre site sous l'onglet \"Annuaire\" http://www.syntec-numerique.fr/annuaire-des-adherents", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes morales", 
+    "Entreprises, p\u00f4les de comp\u00e9titivit\u00e9, associations en r\u00e9gion, IRT"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Monsieur Laurent Baudart", 
+   "Monsieur R\u00e9mi Ferrand", 
+   "Madame Charlotte Baylac"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Monsieur Laurent BAUDART (D\u00e9l\u00e9gu\u00e9 g\u00e9n\u00e9ral)", 
+  "Statut l\u00e9gal": "Syndycat professionnel", 
+  "id": 265, 
+  "Objectif et mission": "Syntec Num\u00e9rique est le syndicat professionnel des Entreprises de services du num\u00e9rique (ESN), des \u00e9diteurs de logiciels et des soci\u00e9t\u00e9s de Conseil en Technologies. Syntec Num\u00e9rique contribue \u00e0 la promotion et \u00e0 la croissance du secteur des Technologies de l\u2019Information et de la Communication (TIC) \u00e0 travers le d\u00e9veloppement de l\u2019\u00e9conomie num\u00e9rique et de ses usages, l\u2019accompagnement de l\u2019essor de nouveaux march\u00e9s, le social, l'emploi et la d\u00e9fense des int\u00e9r\u00eats de la profession.", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 18, 
+  "Autres sources": {
+   "Dons": 200000, 
+   "Cotisations des membres": "4.30 millions d'\u20ac"
+  }, 
+  "Budget global": "4.50 millions d'\u20ac", 
+  "Raison sociale": "Syntec Num\u00e9rique", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 \u20ac", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Syntec Num\u00e9rique est membre de Digital Europe, f\u00e9d\u00e9ration europ\u00e9enne des entreprises et des syndicats du num\u00e9rique Syntec Num\u00e9rique est \u00e9galement membre de la F\u00e9d\u00e9ration Syntec et, via cette adh\u00e9sion, participe aux travaux du MEDEF", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 01 44 30 49 00", 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
+  "Site internet": "http://www.syntec-numerique.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 3, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Auditions dans le cadre de diff\u00e9rents rapports et projets de loi touchant au num\u00e9rique"
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 100 000 et 150 000 \u20ac", 
@@ -9297,5 +9717,47 @@
   "Site internet": "http://www.vnf.fr", 
   "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 1, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Auditions dans le cadre du projet de loi de Finances 2014. Auditions par la commission \"Mobilit\u00e9 21\"."
+ }, 
+ {
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "38800", 
+  "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/representant_interet_detail/275", 
+  "Domaines d'activit\u00e9 et centres d'int\u00e9r\u00eat": "Audiovisuel et m\u00e9dias, \u00e9conomie num\u00e9rique - Arts et culture - \u00c9ducation, enseignement, formation", 
+  "Cat\u00e9gorie": "Association", 
+  "Les adh\u00e9rents": {
+   "Nombre total d'adh\u00e9rents \"personnes physiques\"": 306, 
+   "Nombre total d'adh\u00e9rents \"personnes morales\"": 9, 
+   "Noms des personnes morales membres de l'organisme": "Biblioth\u00e8que nationale et universitaire de Strasbourg, Co-construire de nouveaux savoirs, Domedia, G\u00e9n\u00e9rations solutions, ITdistri, Mother production, Ordimatic, Salon Bruno Delinotte, CENA16", 
+   "Nature juridique des adh\u00e9rents": [
+    "Personnes physiques Personnes morales", 
+    "Entreprises, associations, collectivit\u00e9s locales"
+   ]
+  }, 
+  "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
+   "Madame Nathalie Martin", 
+   "Madame Myriam Berard", 
+   "Monsieur Cyrille Bertin", 
+   "Monsieur Christophe Henner", 
+   "Monsieur Emeric Vallespi"
+  ], 
+  "Dirigeant / personne juridiquement responsable": "Madame Nathalie Martin (Directrice ex\u00e9cutive)", 
+  "Statut l\u00e9gal": "Association", 
+  "id": 275, 
+  "Objectif et mission": "Soutenir en France la diffusion livre de la connaissance et les projets (comme Wikipedia) h\u00e9berg\u00e9s par la Wikimedia Foundation. Elle regroupe les utilisateurs et des participants des projets Wikimedia. Nous intervenons \u00e9galement aupr\u00e8s des m\u00e9dias fran\u00e7ais et du public.", 
+  "Nombre de personnes employ\u00e9es par l'organisme": 16, 
+  "Autres sources": {
+   "Dons": 409275, 
+   "Cotisations des membres": 10976, 
+   "Commercialisation de produits, services": 94
+  }, 
+  "Budget global": "1.17 millions d'\u20ac", 
+  "Raison sociale": "Wikim\u00e9dia France", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "38800", 
+  "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Notre association est reconnue comme une association locale par la Wikimedia Foundation. Il s'agit cependant d'une entit\u00e9 ind\u00e9pendante financi\u00e8rement et juridiquement, ob\u00e9issant \u00e0 des r\u00e8gles et \u00e0 une direction distinctes.", 
+  "Adresse et t\u00e9l\u00e9phone": "(+33) 1 42 36 97 72", 
+  "Dont financement public": 5000, 
+  "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
+  "Site internet": "http://wikimedia.fr", 
+  "Nombre de personnes participant aux activit\u00e9s qui rel\u00e8vent du champ d'application du registre des repr\u00e9sentants": 5, 
+  "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rencontres de d\u00e9put\u00e9s et auditions pour le projet de loi \"pour une R\u00e9publique num\u00e9rique\" pour y introduire une notion sur les communs de la connaissance et la libert\u00e9 de panorama."
  }
 ]
