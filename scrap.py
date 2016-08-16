@@ -29,8 +29,8 @@ def download(url, attempts_left=3):
         if attempts_left:
             sleep(5)
             return download(url, attempts_left-1)
-        sys.stderr.write("ERROR downloading %s: %s" % (url, e))
-        sys.exit(1)
+        stderr.write("ERROR downloading %s: %s" % (url, e))
+        exit(1)
 
 try:
     mkdir('cache')
