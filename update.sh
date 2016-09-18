@@ -9,8 +9,8 @@ if [ -z "$1" ]; then
   DEBUG=false
 fi
 
-rooturl="http://www2.assemblee-nationale.fr/representant/representant_interet_"
-url="${rooturl}liste"
+rooturl="http://www2.assemblee-nationale.fr/representant/"
+url="${rooturl}liste_representant_interet"
 ./scrap.py "$url" $1
 
 if git diff data/registre-lobbying-AN-v2.csv |
@@ -52,6 +52,7 @@ if git diff data/registre-lobbying-AN-v2.csv |
         sed 's/\&/\&nbsp;/g')
       safenom=$(echo $nom       |
         sed 's/\&nbsp;/\\\&/g'  |
+        sed 's|/|\\/|g'         |
         sed 's/"/""/g')
       orgtype=$(echo $line      |
         sed 's/^[0-9]\+,"\+'"$safenom"'"\+,[^,]*,"\([^"]\+\)",.*$/\1/')
@@ -71,7 +72,7 @@ if git diff data/registre-lobbying-AN-v2.csv |
       fi
       echo "  <item>
    <title>$nom ($orgtype, $statut)</title>
-   <link>${rooturl}detail/$id</link>
+   <link>${rooturl}detail_representant_interet/$id</link>
    <description><![CDATA[${desc}u registre le $dat : $nom ($orgtype)]]></description>
    <pubDate>$now</pubDate>
   </item>" > /tmp/registreitem.tmp

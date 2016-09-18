@@ -47,7 +47,7 @@ def get_html(url, name):
         with open(cachefile, 'r') as f:
             h = f.read()
     h = clean_nonutf_title(h)
-    h = h.decode('utf-8')
+    h = h.decode('utf-8', 'replace')
     h = clean_html(h)
     return h
 
@@ -77,6 +77,7 @@ def extract_data(text):
                 if spefield == u"Site internet" and not res[spefield].startswith('http'):
                     res[spefield] = u"http://%s" % res[spefield]
         elif line.startswith('<span'):
+            sublevel = False
             cont = clean_text(line)
             if 'class="nom-champ"' in line:
                 if sublevel:
@@ -93,7 +94,6 @@ def extract_data(text):
                     val[field] = [val[field], cont]
                 else:
                     val[field] = cont
-            sublevel = False
     return res
 
 re_split_line = re.compile(r'</td> <td[^>]*>', re.I)
@@ -127,7 +127,7 @@ for line in listpage.split('\n'):
     # Transforme en liste certains champs
     if u"Domaines d'activité et centres d'intérêt" in res:
         split_val(res[u"Domaines d'activité et centres d'intérêt"])
-    if u"Les adhérents" in res:
+    if u"Les adhérents" in res and res[u"Les adhérents"]:
         split_val(res[u"Les adhérents"][u"Noms des personnes morales membres de l'organisme"])
         if not isinstance(res[u"Les adhérents"][u"Nature juridique des adhérents"], list):
             res[u"Les adhérents"][u"Nature juridique des adhérents"] = [a.strip() for a in res[u"Les adhérents"][u"Nature juridique des adhérents"].split(' - ') if not re_cleanwords.match(a.strip('. '))]
@@ -147,7 +147,7 @@ for line in listpage.split('\n'):
     # - Nombre d'employés et salariés combinés
     if u"Nombre de personnes employées par l'organisme" not in res:
         field = u"Nombre de personnes participant aux activités qui relèvent du champ d'application du registre des représentants"
-        if u"Nombre de salariés dans l'entreprise ou dans le groupe" in res:
+        if u"Nombre de salariés dans l'entreprise ou dans le groupe" in res and res[u"Nombre de salariés dans l'entreprise ou dans le groupe"]:
             res[u"Nombre de personnes employées par l'organisme"] = safeint(res[u"Nombre de salariés dans l'entreprise ou dans le groupe"][u"En France"]) + safeint(res[u"Nombre de salariés dans l'entreprise ou dans le groupe"][u"A l'étranger"])
         elif field in res:
             if isinstance(res[field], list):
