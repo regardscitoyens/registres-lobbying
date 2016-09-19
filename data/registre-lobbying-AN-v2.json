@@ -1,6 +1,6 @@
 [
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "200000", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/1988", 
   "Cat\u00e9gorie": "Organisme public", 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": [
@@ -17,7 +17,7 @@
   "Autres sources": "", 
   "Budget global": 2000000000, 
   "Raison sociale": "CNES", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "200000", 
   "Adresse et t\u00e9l\u00e9phone": 33144767500, 
   "Dont financement public": 2000000000, 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
@@ -65,13 +65,13 @@
   "Statut l\u00e9gal": "AARPI (Association d'avocats \u00e0 responsabilit\u00e9 professionnelle individuelle)", 
   "Objectif et mission": "Jeantet est un cabinet d'avocats d'affaires en charge de dossiers strat\u00e9giques pour une client\u00e8le fran\u00e7aise et internationale. Son d\u00e9partement Affaires Publiques appuie les strat\u00e9gies de lobbying de ses clients, en France et devant les instituions europ\u00e9ennes.", 
   "id": 1993, 
-  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "[u'Array', u'Commerce, distribution', u'Entre 50 000 et 100 000 \\u20ac']", 
-  "Budget global": "[u'Array', u'Commerce, distribution', u'Entre 50 000 et 100 000 \\u20ac']", 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "[u'Commerce, distribution', u'Entre 50 000 et 100 000 \\u20ac']", 
+  "Budget global": "[u'Commerce, distribution', u'Entre 50 000 et 100 000 \\u20ac']", 
   "Acronyme": "JEANTET", 
   "Nombre de personnes employ\u00e9es par l'organisme": 5, 
   "Information financi\u00e8re compl\u00e9mentaire": "Nouveau client pour lequel nous exer\u00e7ons des activit\u00e9s de lobbying: LES GALERIES LAFAYETTE 27, rue de la Chauss\u00e9e d'Antin 75009 Paris", 
   "Raison sociale": "JEANTETASSOCIES AARPI", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "[u'Array', u'Commerce, distribution', u'Entre 50 000 et 100 000 \\u20ac']", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "[u'Commerce, distribution', u'Entre 50 000 et 100 000 \\u20ac']", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "AAL (Association des Avocats Lobbyistes)", 
   "Adresse et t\u00e9l\u00e9phone": 145058109, 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2012, 
@@ -133,11 +133,11 @@
   "Statut l\u00e9gal": "SARL", 
   "Objectif et mission": "Depuis 2007, nous intervenons dans les domaines du conseil en strat\u00e9gie, de la communication et du lobbying.", 
   "id": 1995, 
-  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "[u'Array', u'Gouvernance', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Industrie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Professions lib\\xe9rales', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Sant\\xe9', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "[u'Gouvernance', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Industrie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Professions lib\\xe9rales', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Sant\\xe9', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
   "Nombre de personnes employ\u00e9es par l'organisme": 1, 
-  "Budget global": "[u'Array', u'Gouvernance', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Industrie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Professions lib\\xe9rales', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Sant\\xe9', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
+  "Budget global": "[u'Gouvernance', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Industrie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Professions lib\\xe9rales', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Sant\\xe9', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
   "Raison sociale": "Thomas Legrain Conseil", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "[u'Array', u'Gouvernance', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Industrie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Professions lib\\xe9rales', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Sant\\xe9', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "[u'Gouvernance', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Industrie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Professions lib\\xe9rales', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Sant\\xe9', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Membre de l'Association des Conseils en Lobbying et Affaires Publiques (AFCL)", 
   "Adresse et t\u00e9l\u00e9phone": 146807325, 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "1er avril 2015 - 31 mars 2015", 
@@ -149,7 +149,7 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Organisation d'\u00e9v\u00e9nements r\u00e9unissant des parlementaires et des attach\u00e9s parlementaires (petits-d\u00e9jeuners et d\u00eeners d\u00e9bat). Rendez-vous avec des parlementaires pour le compte de nos clients. R\u00e9daction et diffusion de \"lettres aux parlementaires\" pour certains de nos clients. Conseil de nos clients dans le cadre de projets de loi, lorsqu'ils sont directement concern\u00e9s par ces derniers."
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "9000", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/1998", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Les b\u00e9n\u00e9voles signent un contrat de b\u00e9n\u00e9volat dans lequel la d\u00e9ontologie est sp\u00e9cifi\u00e9e.", 
   "Cotisations des membres": 24500, 
@@ -163,7 +163,7 @@
    "Monsieur Fr\u00e9d\u00e9ric GAL"
   ], 
   "Nature juridique des adh\u00e9rents": "Personnes physiques", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "9000", 
   "Dirigeant / personne juridiquement responsable": "Monsieur Nicolas NOGUIER (Pr\u00e9sident)", 
   "Noms des personnes morales membres de l'organisme": "", 
   "Statut l\u00e9gal": "ASSOCIATION RECONNUE D'UTILITE PUBLIQUE", 
@@ -244,7 +244,7 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Veille parlementaire sur tous les textes \u00e9conomiques et financiers. Analyse technique et juridique des modifications l\u00e9gislatives apport\u00e9es aux articles du code mon\u00e9taire et financier, et code de la consommation"
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/2008", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "R\u00e9glement int\u00e9rieur de l'association", 
   "Cotisations des membres": 7256, 
@@ -252,7 +252,7 @@
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Les adh\u00e9rents": "", 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Francois MATTENS", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "Dirigeant / personne juridiquement responsable": "Monsieur Francois MATTENS (Pr\u00e9sident)", 
   "Noms des personnes morales membres de l'organisme": "", 
   "Statut l\u00e9gal": "Association", 
@@ -494,7 +494,7 @@
   "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "[u'Inf\\xe9rieur \\xe0 50 000 Euros', u'Professions lib\\xe9rales', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']"
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/2027", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "", 
   "Cotisations des membres": 80000, 
@@ -502,7 +502,7 @@
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Les adh\u00e9rents": "", 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Jean-Paul Ameilhaud", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "Dirigeant / personne juridiquement responsable": "Monsieur Michel Olhagaray (pr\u00e9sident de l'association)", 
   "Noms des personnes morales membres de l'organisme": "", 
   "Statut l\u00e9gal": "Association loi 1901", 
@@ -897,7 +897,7 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Plan\u00e8t'AIRport, de par son ancrage sur le terrain sp\u00e9cifique a \u00e9t\u00e9 soulign\u00e9 comme \"initiative exemplaire par le Global Compact ONU\" D'autre par le Fonds de dotation A.D.I.F.E membre de Plan\u00e8t'AIRport a \u00e9t\u00e9 cit\u00e9 comme Fondation territoriale exemplaire de par son activit\u00e9 son positionnement relevant de la politique de la ville et sa gouvernance incluant les \u00e9lus."
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 40 000 et 50 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "49000", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/2072", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "L'ensemble des administrateurs se conforme \u00e0 la charte du S\u00e9nat (groupe d\u2019int\u00e9r\u00eat) au registre transparence de la CEE, de celle des Nations-Unies puisque un de ses r\u00f4les est d\u2019\u00eatre la courroie de transmission de ces valeurs avec respect, le fonds respectera l'\u00e9thique de l'Assembl\u00e9e Nationale.", 
   "Cotisations des membres": 75000, 
@@ -911,7 +911,7 @@
    "Monsieur Pierre-Jean GIRE", 
    "Monsieur Hamissi MLINDASSE"
   ], 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 40 000 et 50 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "49000", 
   "Dirigeant / personne juridiquement responsable": "Monsieur Pierre-Jean GIRE (Pr\u00e9sident)", 
   "Noms des personnes morales membres de l'organisme": "UNITAR (organisme de formation des Nations-Unies) Mr Rabih Haddad OCHA (intervenant) ONU Mr BARKAT (m\u00e9diateur responsable de la formation humanitaire) ECOSOC (conseil \u00e9conomique et sociale ONU) Mme Mezoui Consortium de 10 Universit\u00e9s : Londres, Vienne, Oslo, Berlin, Florence, Strasbourg, Nanterre, Nice.,Sarajevo,Casablanca. FIUC (f\u00e9d\u00e9ration internationale des Universit\u00e9s catholiques) BANQUE MONDIALE (Marseille Mr Lavinal) Conseil de l'Europe attente en cours du statut ONG participatif. UNESCO Mr Haddad ancien Pr\u00e9sident de la Sorbonne Ambassades (Institut relations internationales de Pekin) Conseil Pontifical pour la culture Rome Mgr Poupard", 
   "Statut l\u00e9gal": "Fonds de dotation", 
@@ -1317,13 +1317,13 @@
   "Statut l\u00e9gal": "SARL", 
   "Objectif et mission": "CD", 
   "id": 2098, 
-  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "Array", 
-  "Budget global": "Array", 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "", 
+  "Budget global": "", 
   "Acronyme": "CD", 
   "Nombre de personnes employ\u00e9es par l'organisme": 1, 
   "Information financi\u00e8re compl\u00e9mentaire": "Les montants d\u00e9clar\u00e9s sont nuls. En effet nous visons pour le dit client des activit\u00e9s de veille l\u00e9gislative et r\u00e9glementaire dans les domaines r\u00e9f\u00e9renc\u00e9s ci dessus.", 
   "Raison sociale": "Cabinet CD & Associ\u00e9s", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Array", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "", 
   "Adresse et t\u00e9l\u00e9phone": 330620174041, 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
@@ -1363,7 +1363,7 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "projets de loi de finances et de financement de la s\u00e9curit\u00e9 sociale, projets et propositions de loi relative \u00e0 la justice civile, au logement, \u00e0 la consommation et \u00e0 la simplification administrative."
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/2102", 
   "Cotisations des membres": 14500, 
   "Cat\u00e9gorie": "Association", 
@@ -1375,7 +1375,7 @@
    "Monsieur Pierre SELIQUER"
   ], 
   "Nature juridique des adh\u00e9rents": "Personnes physiques , Personnes morales,", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "Dirigeant / personne juridiquement responsable": "Madame Annie-Claude RAYNAUD (Pr\u00e9sidente)", 
   "Noms des personnes morales membres de l'organisme": "R\u00e9gion Limousin D\u00e9partement de la Corr\u00e8ze D\u00e9partement de la Creuse 53 communes 13 communaut\u00e9s de communes 27 associations", 
   "Statut l\u00e9gal": "Association", 
@@ -1651,13 +1651,13 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rencontres et dialogue avec des parlementaires dans le cadre de d\u00e9bats parlementaires: PLF 2014, PJ consommation, PJ ALUR, PJ retraites, PPL SEM Contrat, PJ s\u00e9curisation de l'emploi, PLFSS 2014, PJ ESS. - Auditions pour les clients : Mission PPP, groupe de travail code minier, OPESCT - Rendez-vous, \u00e9changes t\u00e9l\u00e9phoniques, envois d\u2019informations, - Interventions l\u00e9gislatives - Organisation de rencontres de travail et de visites de sites r\u00e9unissant parlementaires et membres de cabinets minist\u00e9riels sur divers enjeux et notamment: agriculture, agro-alimentaire, d\u00e9pendance, d\u00e9veloppement \u00e9conomique local, \u00e9nergie, \u00e9cologie, emploi, industrie, logement, recherche, transport, travail, urbanisme,"
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "5000", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/2127", 
   "Cotisations des membres": 25000, 
   "Cat\u00e9gorie": "Association", 
   "Les adh\u00e9rents": "", 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame Alice Jubeau", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "5000", 
   "Dirigeant / personne juridiquement responsable": "Monsieur Fr\u00e9d\u00e9ric Utzmann (Pr\u00e9sident)", 
   "Noms des personnes morales membres de l'organisme": "Entreprises priv\u00e9es du cleantech (services et ecotechnologies) comme ENERTIME (smart grids), Canibal (biomasse) Liste compl\u00e8te fournie par papier et \u00e0 disposition au besoin", 
   "Statut l\u00e9gal": "association", 
@@ -1744,7 +1744,7 @@
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": ""
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "60000", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/2132", 
   "Cotisations des membres": 589000, 
   "Cat\u00e9gorie": "Association", 
@@ -1753,7 +1753,7 @@
    "Monsieur Philippe MIXE", 
    "Madame Aim\u00e9e WEBER DEFRANCE"
   ], 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "60000", 
   "Dirigeant / personne juridiquement responsable": "Monsieur Philippe MIXE (Pr\u00e9sident)", 
   "Noms des personnes morales membres de l'organisme": "AMPLI, Mutuelle Aigrefeuille, JUST, GSMC, Sant\u00e9 Just, MFIF, Mutuelle Saint Martin, Mutuelle du Rempart, Emoa Mutuelle du Var, Mutuelle Sant\u00e9, Le Ralliement, Mutuelle du M\u00e9decin, Mutuelle de Bergerac, SMIP RA, Mutualp, Mutuelle d'Argenson, MAGE, SMERR, SMEREB, SMECO, Mutuelle des patent\u00e9s et des lib\u00e9raux de Nouvelle Cal\u00e9donie, MILTIS, UMS, MNA, MACD, MIPOS, Mutuelle de la Police Nationale, Bel air, Les Mutuelles Lig\u00e9riennes, MOCF, UITSEM, UNIM, MUTRALYON, SO'LYON, CNM Sant\u00e9 Pr\u00e9voyance, Mutuelle Victor Hugo", 
   "Statut l\u00e9gal": "F\u00e9d\u00e9ration r\u00e9gie par le Code de la Mutualit\u00e9", 
@@ -2103,12 +2103,12 @@
   "Noms des clients": "Association fran\u00e7aise des exploitants de discoth\u00e8ques et dancings (AFEDD), Chambre syndicale des cabarets artistiques et discoth\u00e8ques (CSAD)", 
   "Statut l\u00e9gal": "avocats au barreau de Paris", 
   "id": 2155, 
-  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "Array", 
-  "Budget global": "Array", 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "", 
+  "Budget global": "", 
   "Nombre de personnes employ\u00e9es par l'organisme": "Array", 
   "Information financi\u00e8re compl\u00e9mentaire": "L'activit\u00e9 de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement \u00e9tant nouvelle, aucune donn\u00e9e chiffr\u00e9e n'est pour le moment disponible.", 
   "Raison sociale": "Varaut, avocats", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Array", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Code de d\u00e9ontologie des avocats au barreau de Paris", 
   "Adresse et t\u00e9l\u00e9phone": 153103140, 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
@@ -2267,13 +2267,13 @@
   "Statut l\u00e9gal": "S.A.S. (Soci\u00e9t\u00e9 par Actions Simplifi\u00e9es)", 
   "Objectif et mission": "En France m\u00e9tropolitaine, mais aussi Outre-Mer (Sp\u00e9cificit\u00e9 de l'Outre-Mer) - Transition \u00e9nerg\u00e9tique : faciliter la transition \u00e9nerg\u00e9tique dans le respect de l'environnement (Solaire, m\u00e9thanisation, g\u00e9othermie, biomasse, \u00e9olien) - Formation qualifiante par simulateurs \u00e9lectroniques : id\u00e9al pour jeunes d\u00e9soeuvr\u00e9s des quartiers d\u00e9favoris\u00e9s. Conduite de grues et engins de chantier. - Pr\u00e9vention de la d\u00e9linquance. Nouveaux outils C.L.S. in\u00e9dits et participation de tous les services publics \u00e0 la proposition et au management des C.L.S. de leur ressort. - S\u00e9curit\u00e9 informatique et t\u00e9l\u00e9phonique : efficacit\u00e9/protection/technique/respect du droit. - Aide et accompagnement \u00e0 la mise aux normes (ICPE ou non)", 
   "id": 2164, 
-  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "[u'Entre 150 000 et 200 000 Euros', u'Affaires institutionnelles, vie publique', u'Entre 50 000 et 100 000 \\u20ac', u'\\xc9ducation, enseignement, formation', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'\\xc9nergie, eau', u'Entre 50 000 et 100 000 \\u20ac', u'S\\xe9curit\\xe9', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
-  "Budget global": "[u'Entre 150 000 et 200 000 Euros', u'Affaires institutionnelles, vie publique', u'Entre 50 000 et 100 000 \\u20ac', u'\\xc9ducation, enseignement, formation', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'\\xc9nergie, eau', u'Entre 50 000 et 100 000 \\u20ac', u'S\\xe9curit\\xe9', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "[160000, u'Affaires institutionnelles, vie publique', u'Entre 50 000 et 100 000 \\u20ac', u'\\xc9ducation, enseignement, formation', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'\\xc9nergie, eau', u'Entre 50 000 et 100 000 \\u20ac', u'S\\xe9curit\\xe9', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
+  "Budget global": "[160000, u'Affaires institutionnelles, vie publique', u'Entre 50 000 et 100 000 \\u20ac', u'\\xc9ducation, enseignement, formation', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'\\xc9nergie, eau', u'Entre 50 000 et 100 000 \\u20ac', u'S\\xe9curit\\xe9', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
   "Acronyme": "DF2CE (Daniel F\u00e9rey Conseil Collectivit\u00e9s - Entreprises)", 
   "Nombre de personnes employ\u00e9es par l'organisme": "Array", 
   "Information financi\u00e8re compl\u00e9mentaire": "Le Cabinet accompagne seulement les activit\u00e9s qui lui paraissent \u00eatre d'int\u00e9r\u00eat g\u00e9n\u00e9ral au dela de leur aspect commercial. Nature des activit\u00e9s accompagn\u00e9es : Transition \u00e9nerg\u00e9tique, Formation adapt\u00e9e pour jeunes en difficult\u00e9 avec s\u00e9lection \u00e0 base de maniement d'outils issus des \"serious games\" (s\u00e9lection d\u00e9termin\u00e9e par l'habilet\u00e9 dans le maniement du joystick), Pr\u00e9vention de la d\u00e9linquance, S\u00e9curit\u00e9, Mises aux normes et adaptation de celles-ci.", 
   "Raison sociale": "DF Consultant", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "[u'Entre 150 000 et 200 000 Euros', u'Affaires institutionnelles, vie publique', u'Entre 50 000 et 100 000 \\u20ac', u'\\xc9ducation, enseignement, formation', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'\\xc9nergie, eau', u'Entre 50 000 et 100 000 \\u20ac', u'S\\xe9curit\\xe9', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "[160000, u'Affaires institutionnelles, vie publique', u'Entre 50 000 et 100 000 \\u20ac', u'\\xc9ducation, enseignement, formation', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'\\xc9nergie, eau', u'Entre 50 000 et 100 000 \\u20ac', u'S\\xe9curit\\xe9', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
   "Adresse et t\u00e9l\u00e9phone": 33185082880, 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2013, 
   "Site internet": "http://www.df2ce.fr", 
@@ -2579,10 +2579,10 @@
  }, 
  {
   "Nombre de personnes employ\u00e9es par l'organisme": 1, 
-  "Budget global": "[u'Array', u'Agriculture, \\xe9levage, p\\xeache, bois', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Audiovisuel et m\\xe9dias, \\xe9conomie num\\xe9rique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Commerce, distribution', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Industrie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Recherche et technologie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Sports', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
+  "Budget global": "[u'Agriculture, \\xe9levage, p\\xeache, bois', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Audiovisuel et m\\xe9dias, \\xe9conomie num\\xe9rique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Commerce, distribution', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Industrie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Recherche et technologie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Sports', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/2208", 
   "Raison sociale": "Val\u00e9rie JARRY", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "[u'Array', u'Agriculture, \\xe9levage, p\\xeache, bois', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Audiovisuel et m\\xe9dias, \\xe9conomie num\\xe9rique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Commerce, distribution', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Industrie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Recherche et technologie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Sports', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "[u'Agriculture, \\xe9levage, p\\xeache, bois', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Audiovisuel et m\\xe9dias, \\xe9conomie num\\xe9rique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Commerce, distribution', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Industrie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Recherche et technologie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Sports', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
   "Adresse et t\u00e9l\u00e9phone": 33664818441, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Veille parlementaire, organisation d'auditions et de r\u00e9unions avec des parlementaires, accompagnement des clients, r\u00e9daction de courriers, courriels et d'argumentaires dans le cadre de projets ou de propositions de lois, de missions parlementaires et de travaux de groupes d'\u00e9tudes.", 
   "Cat\u00e9gorie": "Consultants agissant en qualit\u00e9 d'ind\u00e9pendants", 
@@ -2597,7 +2597,7 @@
   "Noms des clients": "EURALIA, soci\u00e9t\u00e9 de conseil sp\u00e9cialis\u00e9e dans les affaires publiques fran\u00e7aises et europ\u00e9ennes. ELAN EDELMAN, soci\u00e9t\u00e9 de conseil en communication et en affaires publiques fran\u00e7aises.", 
   "Statut l\u00e9gal": "Consultante ind\u00e9pendante", 
   "id": 2208, 
-  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "[u'Array', u'Agriculture, \\xe9levage, p\\xeache, bois', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Audiovisuel et m\\xe9dias, \\xe9conomie num\\xe9rique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Commerce, distribution', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Industrie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Recherche et technologie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Sports', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']"
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "[u'Agriculture, \\xe9levage, p\\xeache, bois', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Audiovisuel et m\\xe9dias, \\xe9conomie num\\xe9rique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Commerce, distribution', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Industrie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Recherche et technologie', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Sports', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']"
  }, 
  {
   "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 Euros", 
@@ -2739,11 +2739,11 @@
   "Statut l\u00e9gal": "SAS", 
   "Objectif et mission": "Conseil en affaires publiques, relations institutionnelles et communication.", 
   "id": 2296, 
-  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "[u'Array', u'Affaires institutionnelles, vie publique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Audiovisuel et m\\xe9dias, \\xe9conomie num\\xe9rique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'\\xc9ducation, enseignement, formation', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Professions lib\\xe9rales', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
+  "Chiffre d'affaire li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats effectu\u00e9s pour le compte de client aupr\u00e8s du Parlement": "[u'Affaires institutionnelles, vie publique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Audiovisuel et m\\xe9dias, \\xe9conomie num\\xe9rique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'\\xc9ducation, enseignement, formation', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Professions lib\\xe9rales', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
   "Nombre de personnes employ\u00e9es par l'organisme": 1, 
-  "Budget global": "[u'Array', u'Affaires institutionnelles, vie publique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Audiovisuel et m\\xe9dias, \\xe9conomie num\\xe9rique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'\\xc9ducation, enseignement, formation', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Professions lib\\xe9rales', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
+  "Budget global": "[u'Affaires institutionnelles, vie publique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Audiovisuel et m\\xe9dias, \\xe9conomie num\\xe9rique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'\\xc9ducation, enseignement, formation', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Professions lib\\xe9rales', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
   "Raison sociale": "AleVia Conseil", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "[u'Array', u'Affaires institutionnelles, vie publique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Audiovisuel et m\\xe9dias, \\xe9conomie num\\xe9rique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'\\xc9ducation, enseignement, formation', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Professions lib\\xe9rales', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "[u'Affaires institutionnelles, vie publique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Audiovisuel et m\\xe9dias, \\xe9conomie num\\xe9rique', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'\\xc9ducation, enseignement, formation', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac', u'Professions lib\\xe9rales', u'Inf\\xe9rieur \\xe0 50 000 \\u20ac']", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "R\u00e9seau BASE", 
   "Adresse et t\u00e9l\u00e9phone": 33174307164, 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "d\u00e9but d'activit\u00e9 ao\u00fbt 2014", 
@@ -2826,7 +2826,7 @@
   "Objectif et mission": "Gestionnaire d'infrastructure ferroviaire", 
   "Acronyme": "RFF", 
   "Nombre de personnes employ\u00e9es par l'organisme": 10, 
-  "Budget global": "Entre 5 500 000 et 5 750 000 Euros", 
+  "Budget global": 5555, 
   "Raison sociale": "RESEAU FERRE DE FRANCE", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 Euros", 
   "En France": 1300, 
@@ -2840,7 +2840,7 @@
   ], 
   "A l'\u00e9tranger": "", 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Table-ronde sur le ferroviaire en Ile-de-France, Audition loi de finances 2013 cr\u00e9dits transport, subvention \u00e0 RFF Audition en commission du d\u00e9veloppement durable et commission des finances sur le projet de r\u00e9forme du ferroviaire. Audition groupe de suivi du Grand Paris Audition commission mobilit\u00e9 21.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "Entre 5 500 000 et 5 750 000 Euros", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": 5555, 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": ""
  }, 
  {
@@ -3529,14 +3529,14 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Entretiens avec des parlementaires - travail avec des repr\u00e9sentants des commissions - pr\u00e9sentation de dossiers - propositions l\u00e9gislatives"
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "600000", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/2040", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Le MEDEF adh\u00e8re: Au Code de gouvernance d'entreprise AFEP-MEDEF A la Charte r\u00e9seaux sociaux, vie priv\u00e9e, internet et recrutement (A comp\u00e9tence \u00e9gale) A la Charte du m\u00e9c\u00e9nat d'entreprise (ADMICAL) A la Charte de la Diversit\u00e9 A la Charte de la Parentalit\u00e9 Au Registre de transparence de l'Union europ\u00e9enne Au Code de d\u00e9ontologie de l'Assembl\u00e9e nationale", 
   "Cotisations des membres": 24000000, 
   "Cat\u00e9gorie": "Organisation professionnelle", 
   "Les adh\u00e9rents": "", 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Guillaume RESSOT", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "600000", 
   "Dirigeant / personne juridiquement responsable": "Monsieur Michel GUILBAUD (Directeur g\u00e9n\u00e9ral)", 
   "Autres sources": "", 
   "Statut l\u00e9gal": "Association loi 1901", 
@@ -3847,7 +3847,7 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rencontre avec plusieurs d\u00e9put\u00e9s dans le cadre du d\u00e9bat sur la loi de Refondation de l'Ecole. Audition par plusieurs groupes parlementaires."
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 30 000 et 40 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "35000", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/2065", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Oui, dans le cadre d\u00e9ontologique propre \u00e0 notre association professionnelle", 
   "Cotisations des membres": 940000, 
@@ -3859,7 +3859,7 @@
    "Monsieur Herv\u00e9 REBOLLO", 
    "Monsieur Philippe GENET"
   ], 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 30 000 et 40 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "35000", 
   "Dirigeant / personne juridiquement responsable": "Madame Sonia DUB\u00c8S (Pr\u00e9sidente)", 
   "Autres sources": "", 
   "Statut l\u00e9gal": "association type lois de 1884 et 1920, sur les syndicats professionnels", 
@@ -4521,7 +4521,7 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Transition \u00e9nerg\u00e9tique et \u00e9cologique , march\u00e9s publics, partenariats public/priv\u00e9. Grenelle de l'environnement, formation professionnelle, LME, sous traitance etc.."
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 4 750 000 et 5 000 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "800000", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/316117", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "ALIAPUR a initi\u00e9 une d\u00e9marche visant la mise en oeuvre d'une charte \u00e9thique.", 
   "Cotisations des membres": 50000000, 
@@ -4539,7 +4539,7 @@
   "Noms des personnes morales membres de l'organisme": "", 
   "Budget global": 55000000, 
   "Raison sociale": "ALIAPUR", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 4 750 000 et 5 000 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "800000", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "ALIAPUR est membre de l'AFNOR, et assure la pr\u00e9sidence de la direction des normalisation pour les d\u00e9chets pneumatiques. - ALIAPUR est membre de l'ETRMA, f\u00e9d\u00e9ration europ\u00e9enne des fili\u00e8res nationales de recyclage des pneumatiques usag\u00e9s. - ALIAPUR est membre du BIR (Bureau of International Recycling) qui regroupe 40 f\u00e9d\u00e9rations mondiales affili\u00e9es et 850 groupes industriels internationaux.", 
   "Adresse et t\u00e9l\u00e9phone": 330437914325, 
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2015, 
@@ -5015,7 +5015,7 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Organisation et participation \u00e0 des rendez-vous, envoi de courriers et de courriels, de notes argumentaires, dans le cadre du suivi du projet de loi d'avenir pour l'agriculture, l'alimentation et la for\u00eat, des projets de loi de finances, du projet de loi consommation, de la proposition de loi visant \u00e0 mieux encadrer l'utilisation des produits phytosanitaires sur le territoire national et de la proposition de loi renfor\u00e7ant la lutte contre la contrefa\u00e7on."
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "5000", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/2178", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Le Conseil Sup\u00e9rieur est un ordre professionnel qui est soumis au respect d'un certain nombre de r\u00e8gles dont un code de d\u00e9ontologie publi\u00e9 par d\u00e9cret du 30 mars 2012.", 
   "Cotisations des membres": 24497000, 
@@ -5023,7 +5023,7 @@
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": 2014, 
   "Les adh\u00e9rents": "", 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Madame GAELLE PATETTA", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "5000", 
   "Dirigeant / personne juridiquement responsable": "Monsieur Joseph ZORGNIOTTI (Pr\u00e9sident)", 
   "Noms des personnes morales membres de l'organisme": "NA", 
   "Statut l\u00e9gal": "Personne morale de droit priv\u00e9 charg\u00e9e d'une mission de service public", 
@@ -5184,7 +5184,7 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "aucune en 2014"
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "12000", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/2189", 
   "Cotisations des membres": 240000, 
   "Cat\u00e9gorie": "Association", 
@@ -5194,7 +5194,7 @@
    "Monsieur Emmanuel Verny"
   ], 
   "Nature juridique des adh\u00e9rents": "Personnes morales,", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "12000", 
   "Dirigeant / personne juridiquement responsable": "Monsieur Roger BELOT (Pr\u00e9sident)", 
   "Noms des personnes morales membres de l'organisme": "Francis CHARHON, Jean-Philippe POULNOT, Jean-Louis CABRESPINES, Marie-Martine LIPS, Jean-Claude DETILLEUX, Patrick LENANCKER, Denis VERDIER, Etienne CANIART, Roland BERTHILIER, Marie-Th\u00e9r\u00e8se BERDER, Roger BELOT, Philippe DA COSTA, Patrick JACQUOT, Andr\u00e9 DUPON, Jacques DASNOY, Nadia BELLAOUI, Sylvain CRAPEZ, Fran\u00e7ois SOULAGE, Dominique THYS, Hugues VIDOR", 
   "Statut l\u00e9gal": "Association Loi 901", 
@@ -5628,7 +5628,7 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rendez-vous avec des d\u00e9put\u00e9s et des s\u00e9nateurs, dans le cadre du budget 2015, sur les questions d'aide au d\u00e9veloppement. Audition par Madame Gaymard et Monsieur Mancel, rapporteurs de la mission Aide Publique au D\u00e9veloppement."
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "5000", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/2220", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "L'Ordre des v\u00e9t\u00e9rinaires fait respecter le code de d\u00e9ontologie v\u00e9t\u00e9rinaire et les \u00e9lus de l'Ordre se doivent donc \u00e9galement de le respecter.", 
   "Cotisations des membres": 5630962, 
@@ -5641,7 +5641,7 @@
    "Madame Sophie KASBI", 
    "Monsieur Marc VEILLY"
   ], 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 0 et 10 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "5000", 
   "Dirigeant / personne juridiquement responsable": "Monsieur Michel BAUSSIER (Pr\u00e9sident)", 
   "Autres sources": "", 
   "Statut l\u00e9gal": "Ordre professionnel", 
@@ -5802,7 +5802,7 @@
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": ""
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "400", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/2228", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Code de conduite de l'Union Europ\u00e9enne pour les repr\u00e9sentants de groupes d'int\u00e9r\u00eats", 
   "Cotisations des membres": 2000, 
@@ -5810,7 +5810,7 @@
   "Ann\u00e9e ou p\u00e9riode du dernier exercice comptable": "", 
   "Les adh\u00e9rents": "", 
   "Personnes b\u00e9n\u00e9ficiaires de la carte de repr\u00e9sentant": "Monsieur Alexandre ROUSSET", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "400", 
   "Dirigeant / personne juridiquement responsable": "Monsieur Ren\u00e9 JACOBS (pr\u00e9sident)", 
   "Noms des personnes morales membres de l'organisme": "", 
   "Statut l\u00e9gal": "Association d\u00e9clar\u00e9e", 
@@ -6152,7 +6152,7 @@
   "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
   "id": 2013, 
   "Objectif et mission": "COMPAGNIE AERIENNE", 
-  "Budget global": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Budget global": 25000000000, 
   "Nombre de personnes employ\u00e9es par l'organisme": 2, 
   "Information financi\u00e8re compl\u00e9mentaire": "", 
   "Raison sociale": "AIR FRANCE", 
@@ -6168,7 +6168,7 @@
   ], 
   "A l'\u00e9tranger": 4181, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "AUDITIONS RENDEZ-VOUS AVEC DES PARLEMENTAIRES VISITES INSTALLATIONS DE LA COMPAGNIE A ROISSY", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": 25000000000, 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": ""
  }, 
  {
@@ -6733,7 +6733,7 @@
   "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
   "id": 2082, 
   "Objectif et mission": "Exploitation des trois principaux a\u00e9roports franciliens ( Paris-Charles de Gaulle, Paris-Orly, Paris-La Bourget), de 10 plates-formes d'aviation g\u00e9n\u00e9rale, de l'h\u00e9liport d'Issy-les-Moulineaux -Construction et gestion d'a\u00e9roports \u00e0 l'international \u00e0 travers ses filiales ADPI et ADPM", 
-  "Budget global": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Budget global": 2791000000, 
   "Acronyme": "ADP", 
   "Nombre de personnes employ\u00e9es par l'organisme": 2, 
   "Information financi\u00e8re compl\u00e9mentaire": "S'agissant des co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats exerc\u00e9es par ADP aupr\u00e8s du Parlement, la direction des affaires publiques a \u00e9t\u00e9 cr\u00e9\u00e9e fin 2013. Aussi \u00e0 ce stade, il n'est pas possible d'\u00e9valuer le co\u00fbt de ces activit\u00e9s.", 
@@ -6750,7 +6750,7 @@
   ], 
   "A l'\u00e9tranger": 211, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rencontres avec les d\u00e9put\u00e9s et leurs conseillers, les administrateurs des commissions comp\u00e9tentes", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": 2791000000, 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": ""
  }, 
  {
@@ -7003,7 +7003,7 @@
   "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
   "id": 2120, 
   "Objectif et mission": "Industrie de D\u00e9fense, Energie", 
-  "Budget global": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Budget global": 3300000000, 
   "Nombre de personnes employ\u00e9es par l'organisme": 2, 
   "Information financi\u00e8re compl\u00e9mentaire": "", 
   "Raison sociale": "DCNS", 
@@ -7019,7 +7019,7 @@
   ], 
   "A l'\u00e9tranger": 724, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": 3300000000, 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": ""
  }, 
  {
@@ -7070,7 +7070,7 @@
   "id": 2133, 
   "Objectif et mission": "Grande Distribution", 
   "Nombre de personnes employ\u00e9es par l'organisme": 4, 
-  "Budget global": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Budget global": 74888000, 
   "Raison sociale": "Groupe Carrefour", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 150 000 et 200 000 Euros", 
   "En France": 105000, 
@@ -7084,7 +7084,7 @@
   ], 
   "A l'\u00e9tranger": 364795, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rendez-vous d\u00e9put\u00e9s Auditions Colloques etc.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": 74888000, 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": ""
  }, 
  {
@@ -7361,7 +7361,7 @@
   "Objectif et mission": "Le groupe MAIF propose des solutions d'assurance auto-habitation, assurance-vie, sant\u00e9-pr\u00e9voyance, \u00e9pargne, services au quotidien. La mutuelle assure les personnels de l'enseignement non confessionnel, du secteur de la recherche, de la culture et des loisirs, les collectivit\u00e9s sans but lucratif ainsi que leurs salari\u00e9s oeuvrant dans les domaines du sport, du handicap, de l'action sociale et de l'humanitaire. Sa filiale d'assurance dommage, Filia MAIF, accueille tous ceux qui, du fait des dispositions statutaires, ne peuvent acc\u00e9der \u00e0 la mutuelle mais partagent ses valeurs.", 
   "Acronyme": "MAIF", 
   "Nombre de personnes employ\u00e9es par l'organisme": 3, 
-  "Budget global": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Budget global": 3167000000, 
   "Raison sociale": "Mutuelle d'Assurance des Instituteurs de France", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 Euros", 
   "En France": 7000, 
@@ -7375,11 +7375,11 @@
   ], 
   "A l'\u00e9tranger": "", 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "La MAIF s'est impliqu\u00e9e plus particuli\u00e8rement lors des discussions des projets de loi relatifs \u00e0 la r\u00e9gulation des activit\u00e9s bancaires, consommation et \u00e9conomie sociale et solidaire via des rencontres avec quelques d\u00e9put\u00e9s et la diffusion d'argumentaires. Elle a \u00e9galement particip\u00e9 \u00e0 deux conf\u00e9rences organis\u00e9es \u00e0 la Maison de la Chimie sur ces deux derniers projets de loi.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": 3167000000, 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": ""
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "65000", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/2194", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Charte de bonne conduite interne Coca-Cola Entreprise", 
   "Cat\u00e9gorie": "Entreprise", 
@@ -7393,9 +7393,9 @@
   "id": 2194, 
   "Objectif et mission": "Coca-Cola Entreprise est le principal producteur et distributeur de boissons rafraichissantes sans alcool en France. Gr\u00e2ce \u00e0 5 sites de production en France, Coca-Cola assure la fabrication, la commercialisation et la distribution des produits de The Coca-Cola Company ainsi que d'autres produits.", 
   "Nombre de personnes employ\u00e9es par l'organisme": 3, 
-  "Budget global": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Budget global": 2200000000, 
   "Raison sociale": "Coca-Cola Entreprise", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "65000", 
   "En France": 2600, 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "ANIA Association nationale des industries alimentaires SNBR Syndicat National des Boissons Raffraichissantes UDA Union Des Annonceurs ILEC Institut de liaison et d'\u00e9tudes des industries de consommation", 
   "Adresse et t\u00e9l\u00e9phone": 158002600, 
@@ -7407,7 +7407,7 @@
   ], 
   "A l'\u00e9tranger": "", 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Auditions, rencontres avec des d\u00e9put\u00e9s, suivi des textes concernant l'activit\u00e9 de Coca-Cola Entreprise, partage de positions", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": 2200000000, 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": ""
  }, 
  {
@@ -7628,7 +7628,7 @@
   "Objectif et mission": "Groupe international de chimie et mat\u00e9riaux qui fournit \u00e0 ses clients des produits et solutions de haute valeur ajout\u00e9e pour r\u00e9pondre aux enjeux d'un d\u00e9veloppement plus durable (r\u00e9duction \u00e9nergie, r\u00e9duction CO2) principaux march\u00e9s: automobile, a\u00e9ronautique, biens de consommation, \u00e9nergie, environnement, construction", 
   "Acronyme": "SOLVAY", 
   "Nombre de personnes employ\u00e9es par l'organisme": 5, 
-  "Budget global": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Budget global": 790000000, 
   "Raison sociale": "SOLVAY Direction France", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 Euros", 
   "En France": 6100, 
@@ -7642,7 +7642,7 @@
   ], 
   "A l'\u00e9tranger": 24000, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Rencontre avec le pr\u00e9sident du groupe Chimie M. Yves Blein, accompagn\u00e9 de plusieurs membres de son groupe; rencontre \u00e0 sa demande de M. Roumegas sur le sujet substitution", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": 790000000, 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": ""
  }, 
  {
@@ -7708,7 +7708,7 @@
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": ""
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 300 000 et 350 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "303000", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/2235", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Les repr\u00e9sentants d'int\u00e9r\u00eat du Groupe Michelin agissent dans le respect des lignes-guides d'\u00e9thique du code d'\u00e9thique Michelin", 
   "Cat\u00e9gorie": "Entreprise", 
@@ -7724,9 +7724,9 @@
   "id": 2235, 
   "Objectif et mission": "Le Groupe fabrique et commercialise des pneus pour tous types de v\u00e9hicules. Michelin propose \u00e9galement des services num\u00e9riques d\u2019aide \u00e0 la mobilit\u00e9, et \u00e9dite des guides touristiques, des guides h\u00f4tellerie et restauration, des cartes et des atlas routiers.", 
   "Nombre de personnes employ\u00e9es par l'organisme": 11, 
-  "Budget global": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Budget global": 19600000000, 
   "Raison sociale": "Michelin", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 300 000 et 350 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "303000", 
   "En France": 21104, 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Syndicat National du Caoutchouc et des Polym\u00e8res (SNCP) Association Fran\u00e7aise des Entreprises Priv\u00e9es (AFEP) Mouvement des Entreprises de France (MEDEF) Union Routi\u00e8re de France (URF) Plateforme Fran\u00e7aise de l'Automobile (PFA)", 
   "Adresse et t\u00e9l\u00e9phone": 330473322000, 
@@ -7737,7 +7737,7 @@
    11
   ], 
   "A l'\u00e9tranger": 85596, 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": 19600000000, 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": ""
  }, 
  {
@@ -7941,7 +7941,7 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Audition par le Pr\u00e9sident de la d\u00e9l\u00e9gation charg\u00e9e des repr\u00e9sentants d'int\u00e9r\u00eats et des groupes d'\u00e9tude (Christophe SIRUGUE) Suivi de la mise en application des dispositions concernant le registre des repr\u00e9sentants d\u2019int\u00e9r\u00eats Suivi des travaux du D\u00e9ontologue"
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "11000", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/2721", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Oui, charte de conduite de l'association", 
   "Cotisations des membres": 110, 
@@ -7959,7 +7959,7 @@
   "Autres sources": "", 
   "Budget global": 38000, 
   "Raison sociale": "SMART CYCLE", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 10 000 et 20 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "11000", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "La Social Factory : incubateur de projets de l'\u00e9conomie sociale et solidaire", 
   "Adresse et t\u00e9l\u00e9phone": 33695061550, 
   "Nature juridique des adh\u00e9rents": "Personnes physiques", 
@@ -8216,7 +8216,7 @@
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": ""
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "38800", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/2731", 
   "Cotisations des membres": 10976, 
   "Cat\u00e9gorie": "Association", 
@@ -8240,7 +8240,7 @@
   "Autres sources": "", 
   "Budget global": 1165037, 
   "Raison sociale": "Wikim\u00e9dia France", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "38800", 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Notre association est reconnue comme une association locale par la Wikimedia Foundation. Il s'agit cependant d'une entit\u00e9 ind\u00e9pendante financi\u00e8rement et juridiquement, ob\u00e9issant \u00e0 des r\u00e8gles et \u00e0 une direction distinctes.", 
   "Adresse et t\u00e9l\u00e9phone": 33142369772, 
   "Dont financement public": 5000, 
@@ -8343,7 +8343,7 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "organisation d'\u00e9v\u00e8nements et colloques - rdv parlementaires - r\u00e9daction de notes de positions"
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "66730", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/316177", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "Code de l'association professionnelle des responsables des relations avec les pouvoirs publics (ARPP) Lobbying guidelines Pernod Ricard D\u00e9claration commune des entreprises membres de Transparency International France sur le lobbying", 
   "Cat\u00e9gorie": "Entreprise", 
@@ -8357,11 +8357,11 @@
   "Statut l\u00e9gal": "Soci\u00e9t\u00e9 Anonyme", 
   "id": 316177, 
   "Objectif et mission": "Vins", 
-  "Budget global": "Entre 8 500 000 et 8 750 000 Euros", 
+  "Budget global": 85580000000, 
   "Nombre de personnes employ\u00e9es par l'organisme": 4, 
   "Information financi\u00e8re compl\u00e9mentaire": "Adh\u00e9rent \u00e0 Transparency International France", 
   "Raison sociale": "Pernod Ricard", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 50 000 et 100 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "66730", 
   "En France": 2700, 
   "Appartenance \u00e0 un(e) ou plusieurs r\u00e9seau(x) / association(s) / f\u00e9d\u00e9ration(s) / conf\u00e9d\u00e9ration(s)": "Association Fran\u00e7aise des Entreprises Priv\u00e9es (AFEP) F\u00e9d\u00e9ration Fran\u00e7aise des Spiritueux (FFS) Association Nationale des Industries Alimentaires (ANIA) Union des Annonceurs (UDA)", 
   "Adresse et t\u00e9l\u00e9phone": 141004100, 
@@ -8373,7 +8373,7 @@
   ], 
   "A l'\u00e9tranger": 18424, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "En 2015 et 2016, le groupe Pernod Ricard a sollicit\u00e9 des rendez-vous aupr\u00e8s de d\u00e9put\u00e9s sur les projets et propositions de lois concernant son activit\u00e9.", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "Entre 8 500 000 et 8 750 000 Euros", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": 85580000000, 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": ""
  }, 
  {
@@ -9042,7 +9042,7 @@
   "id": 316133, 
   "Objectif et mission": "Transport public, Mobilit\u00e9 durable", 
   "Nombre de personnes employ\u00e9es par l'organisme": 2, 
-  "Budget global": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Budget global": 66000000000, 
   "Raison sociale": "Transdev", 
   "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 250 000 et 300 000 Euros", 
   "En France": 34200, 
@@ -9056,7 +9056,7 @@
   ], 
   "A l'\u00e9tranger": 48800, 
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "auditions \u00e0 la demande des commissions; rendez-vous avec les d\u00e9put\u00e9s et les administrateurs; suivi des travaux parlementaires (ferroviaire, d\u00e9centralisation, transports, fiscalit\u00e9 des entreprises, transposition de directive europ\u00e9enne).", 
-  "Chiffre d'affaire de l'entreprise ou du groupe": "Sup\u00e9rieur \u00e0 10 000 000 Euros", 
+  "Chiffre d'affaire de l'entreprise ou du groupe": 66000000000, 
   "Nombre de salari\u00e9s dans l'entreprise ou dans le groupe": ""
  }, 
  {
@@ -9898,7 +9898,7 @@
   "Principales initiatives li\u00e9es \u00e0 l'Assembl\u00e9e nationale couvertes l'ann\u00e9e pr\u00e9c\u00e9dente": "Coop de France a \u00e9t\u00e9 auditionn\u00e9e sur les projets de loi d'orientation agricole , et sur le projet de loi d'avenir pour l'agriculture. Coop de France a r\u00e9cemment particip\u00e9 aux travaux pr\u00e9paratoires sur le projet de loi relatif \u00e0 l'Economie sociale et solidaire, a \u00e9t\u00e9 auditionn\u00e9e dans le cadre de la Mission d'information sur l'Ecotaxe etc"
  }, 
  {
-  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 20 000 et 30 000 Euros", 
+  "Co\u00fbts li\u00e9s aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "A compl\u00e9ter", 
   "URL registre Assembl\u00e9e": "http://www2.assemblee-nationale.fr/representant/detail_representant_interet/316161", 
   "Adh\u00e9sion \u00e0 un code de conduite, une charte \u00e9thique ou une charte sur le lobbying": "L'ILEC respecte les codes de conduite \u00e9dict\u00e9s par l'Assembl\u00e9e nationale et le S\u00e9nat en mati\u00e8re de repr\u00e9sentation des int\u00e9r\u00eats. Elle est \u00e9galement signataire d'une charte \u00e9thique interne qui reprend les grands principes d\u00e9ontologiques, que les employ\u00e9s de l'ILEC doivent respecter dans leurs relations avec les pouvoirs publics.", 
   "Cotisations des membres": "2.700K\u20ac", 
@@ -9909,7 +9909,7 @@
    "Monsieur Daniel Diot"
   ], 
   "Nature juridique des adh\u00e9rents": "Personnes morales,", 
-  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "Entre 20 000 et 30 000 Euros", 
+  "Budget li\u00e9 aux activit\u00e9s directes de repr\u00e9sentation d'int\u00e9r\u00eats aupr\u00e8s du Parlement": "A compl\u00e9ter", 
   "Dirigeant / personne juridiquement responsable": "Monsieur Richard Panquiault (Directeur g\u00e9n\u00e9ral)", 
   "Noms des personnes morales membres de l'organisme": "3 M France / BACARDI FRANCE / BEIERSDORF SA / BIC / BOLTON SOLITAIRE SA / BONDUELLE EUROPE LONG LIFE / BOURJOIS SA / KRONENBOURG SAS / GROUPE D'AUCY/ COCA COLA ENTREPRISE SA / COLGATE PALMOLIVE SAS / COTY FRANCE SA / CRISTALCO S.A.S./ DANONE / DAREGAL S.A./ DELABLI DIVISION BLINI / DR. OETKER FRANCE S.A.S./ DURACELL / ECKES-GRANINI FRANCE SNC / EDGEWELL PERSONAL CARE FRANCE / ENERGIZER FRANCE SAS / ESCO FRANCE S.A.S./ FERRERO FRANCE / FINDUS FRANCE SAS / FROMAGERIES BEL S.A./ GENERAL MILLS FRANCE / GLAXOSMITHKLINE SANTE GRAND PUBLIC / HARIBO RICQLES ZAN / HASBRO FRANCE SAS / HEINEKEN ENTREPRISE / HENKEL FRANCE SA / AB INBEV FRANCE / INNOCENT DRINKS FRANCE / INTERSNACK FRANCE/ JOHNSON", 
   "Statut l\u00e9gal": "Association", 
