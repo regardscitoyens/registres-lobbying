@@ -83,8 +83,11 @@ for line in xls:
             rep["Nom de famille"] = get(line, "Nom et prénom du détenteur du titre")
             rep["Prénom"] = ""
             print >> sys.stderr, "WARNING: error extracting surname from family name:", rep["Nom de famille"]
-    dat = date.fromtimestamp((float(get(line, "Date d'échéance du titre d'accès"))-25569)*86400)
-    rep["Date d'échéance du titre d'accès"] = "%02d/%02d/%04d" % (dat.day, dat.month, dat.year)
+    try:
+        dat = date.fromtimestamp((float(get(line, "Date d'échéance du titre d'accès"))-25569)*86400)
+        rep["Date d'échéance du titre d'accès"] = "%02d/%02d/%04d" % (dat.day, dat.month, dat.year)
+    except:
+        rep["Date d'échéance du titre d'accès"] = results[-1]["Date d'échéance du titre d'accès"]
     results.append(rep)
 
 print fml(headers)
