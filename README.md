@@ -1,20 +1,37 @@
-## Registre des représentants d'intérêts de l'Assemblée nationale
+## Registres public des représentants d'intérêts en OpenData
 
-Le [nouveau registre des représentants d'intérêts de l'Assemblée nationale](http://www2.assemblee-nationale.fr/representant/representant_interet_liste) fournit un ensemble d'informations communiquées par souci de transparence par les organisations enregistrées.
+### Assemblée nationale
 
-Dans un souci d'archive, nous reproduisons sous la forme d'un tableur CSV [les données de l'ancienne version du registre](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-AN-v1-131229.csv) riche de 236 inscrits avant sa suppression le 29 décembre 2013. 
+L'Assemblée a d'abord mis en place en juillet 2009 sur recommandation de Marc Le Fur un [premier registre](http://www.assemblee-nationale.fr/representants-interets/liste.asp) présentant des informations très sommaires, resté en vigueur jusqu'au 29 décembre 2013. Nous reproduisons sous la forme d'un tableur CSV [les données de cette première version du registre](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-AN-v1-131229.csv) à la date de sa suppression, et qui comprenait alors 236 inscrits.
 
-Pour aider l'Assemblée à mieux assurer ce souci de transparence, nous republions également les informations publiées sur le nouveau registre sous la forme de données réutilisables [CSV](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-AN-v2.csv) ou [JSON](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-AN-v2.json) sous conditions OpenData ([licence ODBL](http://www.vvlibri.org/fr/licence/odbl/10/fr/legalcode)).
-
-Un total de 352 organisations sont inscrites au registre depuis la dernière mise-à-jour le 02 juin 2017, dont :
+Suite au rapport de Christophe Sirugue, l'Assemblée a ensuite déployé à partir de 2014 et jusqu'au 5 août 2017 un [système de registre enrichi](http://www2.assemblee-nationale.fr/14/representant-d-interets/repre_interet), toujours facultatif, mais présentant bien plus d'informations sur les inscrits. Nous remettons à disposition les données de ce registre aux formats [CSV](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-AN-v2-170805.csv) et [JSON](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-AN-v2-170805.json) telles qu'à leur suppression. Elles recensaient alors 352 organisations : 
  + 63 agences de lobbying,
  + 87 entreprises,
  + 111 syndicats ou organisations professionnelles,
  + 23 organismes publics,
  + 67 organisations de la société civile.
+L'historique de ce registre est intégralement disponible via les révisions git de ces deux fichiers.
 
-Les données sont collectées et mises-à-jour en cas de modification toutes les 30 minutes.
-Un [flux RSS](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/rss/registre-lobbying-AN.rss) permet ainsi d'être informé des futures modifications ou ajouts au registre.
+Sont également disponibles ces mêmes données telles que fournies sur la plateforme OpenData de l'Assemblée aux formats [JSON](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-AN-v2-opendata-161125.json) et [XML](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-AN-v2-opendata-161125.xml) lors de leur dernière mise à jour le 25 novembre 2016 (fichiers non-historisés).
+
+L'Assemblée s'appuie désormais sur le registre commun mis en œuvre par la HATVP.
+
+
+### Sénat
+
+Le Sénat tient depuis le 1er janvier 2010 un [registre sommaire](http://www.senat.fr/role/groupes_interet.html) du même type que la première version de l'Assemblée. Nous en redistribuons [les données historisées en CSV](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-Senat.csv), ainsi que les versions historiques des [4 janvier 2014](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-Senat-140104.csv) et [12 mars 2015](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-Senat-150312.csv).
+
+
+### Haute Autorité de la Transparence de la Vie Publique
+
+Suite à la loi Sapin 2, la HATVP devient responsable d'un [registre commun](http://www.hatvp.fr/le-repertoire/), obligatoire mais avec de larges exceptions.
+
+Données à venir...
+
+
+### Crédits
+
+Toutes ces données sont republiées sous conditions OpenData ([licence ODBL](http://www.vvlibri.org/fr/licence/odbl/10/fr/legalcode)).
 
 [Regards Citoyens](http://www.regardscitoyens.org)
 

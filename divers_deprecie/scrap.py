@@ -52,8 +52,8 @@ def get_html(url, name):
     return h
 
 ANdoublons = {}
-if fileexists('doublonsAN.json'):
-    with open('doublonsAN.json') as f:
+if fileexists('divers_deprecie/doublonsAN.json'):
+    with open('divers_deprecie/doublonsAN.json') as f:
         ANdoublons = dict((int(k), v) for k, v in json.load(f).items())
     with open('data/registre-lobbying-AN-v2.json') as f:
         oldData = dict((dic[u'id'], dic) for dic in json.load(f))
