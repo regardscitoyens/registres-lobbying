@@ -3,6 +3,7 @@
 cd $(echo $0 | sed 's#/[^/]*$##')
 
 git pull > /dev/null 2>&1
+workon registrelobbying
 
 DEBUG=true
 if [ -z "$1" ]; then
@@ -26,7 +27,6 @@ if ! [ -z "$filename" ] && ! test -f "$filename"; then
   echo "---------------------------------------"
   wget "$urlsenat" -O "$filename"
   source /usr/local/bin/virtualenvwrapper.sh
-  workon registrelobbying
   in2csv "$filename" > "$filename.csv"
   ./clean_senat.py "$filename.csv" > data/registre-lobbying-Senat.csv
   rm -f "$filename.csv"
@@ -34,5 +34,12 @@ if ! [ -z "$filename" ] && ! test -f "$filename"; then
     git commit data/registre-lobbying-Senat.csv -m "update registre Sénat"
     git push
   fi
+fi
+
+# Check HATVP
+./scrap_hatvp.py
+if ! $DEBUG && git diff data/registre-lobbying-HATVP*.json | grep "." > /dev/null; then
+  git commit data/registre-lobbying-HATVP*.json -m "update registre HATVP"
+  git push
 fi
 

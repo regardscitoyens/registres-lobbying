@@ -24,9 +24,7 @@ Le Sénat tient depuis le 1er janvier 2010 un [registre sommaire](http://www.sen
 
 ### Haute Autorité de la Transparence de la Vie Publique
 
-Suite à la loi Sapin 2, la HATVP devient responsable d'un [registre commun](http://www.hatvp.fr/le-repertoire/), obligatoire mais avec de larges exceptions.
-
-Données à venir...
+Suite à la loi Sapin 2, la HATVP devient responsable d'un [registre commun](http://www.hatvp.fr/le-repertoire/), obligatoire mais avec de larges exceptions. Les données publiées en JSON sur chaque fiche du registre sont agrégées dans [les données JSON que nous redistribuons](https://raw.github.com/regardscitoyens/registre-lobbying-AN/master/data/registre-lobbying-HATVP.json).
 
 
 ### Crédits
