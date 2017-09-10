@@ -3,6 +3,7 @@
 cd $(echo $0 | sed 's#/[^/]*$##')
 
 git pull > /dev/null 2>&1
+source /usr/local/bin/virtualenvwrapper.sh
 workon registrelobbying
 
 DEBUG=true
@@ -26,7 +27,6 @@ if ! [ -z "$filename" ] && ! test -f "$filename"; then
   echo "DOWNLOADING NEW SENATE REGISTER VERSION"
   echo "---------------------------------------"
   wget "$urlsenat" -O "$filename"
-  source /usr/local/bin/virtualenvwrapper.sh
   in2csv "$filename" > "$filename.csv"
   ./clean_senat.py "$filename.csv" > data/registre-lobbying-Senat.csv
   rm -f "$filename.csv"
