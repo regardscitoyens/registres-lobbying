@@ -15498,6 +15498,481 @@
         }
       ]
     }, 
+    "adresse": "MUTUALITE FRANCAISE DE GUYANE\r\nROUTE DE MONTABO\r\n1 LOTISSEMENT BENEY", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION NATIONALE MUTUALITE FRANCAISE", 
+        "identifiantNational": "304426240", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "MUTUELLE INTERIALE", 
+        "identifiantNational": "775685365", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA MUTUELLE INTERIALE ENTREPRISES ET EXPATRIES", 
+        "identifiantNational": "784647323", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU MINISTERE DE LA JUSTICE", 
+        "identifiantNational": "775657521", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TERRITORIA MUTUELLE", 
+        "identifiantNational": "483041307", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE NATIONALE DES SAPEURS POMPIERS DE FRANCE", 
+        "identifiantNational": "776949760", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION DES MUTUELLES DE FRANCE", 
+        "identifiantNational": "784411068", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERAT MUTUALISTE INTERDEP REG PARISIEN", 
+        "identifiantNational": "775662869", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CAISSE NATIONALE MUTUALISTE PREVOYANCE SANTE", 
+        "identifiantNational": "784492100", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE CIVILE DE LA DEFENSE", 
+        "identifiantNational": "784621476", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE SANTE", 
+        "identifiantNational": "785476003", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU GROUPE BNP PARIBAS", 
+        "identifiantNational": "784410847", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MACIF-MUTUALITE", 
+        "identifiantNational": "779558501", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE EDUCATION NATIONALE", 
+        "identifiantNational": "775685399", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE CENTRALE FINANCES", 
+        "identifiantNational": "302976568", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MGEN FILIA", 
+        "identifiantNational": "440363588", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CDC MUTUELLE", 
+        "identifiantNational": "784301434", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HARMONIE MUTUELLES", 
+        "identifiantNational": "479834012", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HARMONIE FONCTION PUBLIQUE", 
+        "identifiantNational": "790314017", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTACITE", 
+        "identifiantNational": "444042303", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE DE L'ECONOMIE DES FINANCES ET DE L INDUSTRIE", 
+        "identifiantNational": "499982098", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE NATIONALE TERRITORIALE MNT", 
+        "identifiantNational": "775678584", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC MUTUALISTE INTERPROFESSIONNELLE", 
+        "identifiantNational": "784669954", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE BLEUE", 
+        "identifiantNational": "775671993", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE UNEO", 
+        "identifiantNational": "503380081", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE NATIONALE PERSONNELS AIR FRANCE", 
+        "identifiantNational": "379718653", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU PERSONNEL IBM", 
+        "identifiantNational": "391346236", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE DE LA POLICE", 
+        "identifiantNational": "775671894", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA MUTUELLE GENERALE", 
+        "identifiantNational": "775685340", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE NAT HOSPIT PROF SANTE SOCIAL", 
+        "identifiantNational": "775606361", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE KLESIA SAINT GERMAIN", 
+        "identifiantNational": "344033360", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GEODIS", 
+        "identifiantNational": "442930939", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE CYBELE SOLIDARITE", 
+        "identifiantNational": "443885355", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DES CLERCS ET EMPLOYES NOTAIRE", 
+        "identifiantNational": "784338618", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU PERSONNEL GPE SOC GEN", 
+        "identifiantNational": "784410805", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "APIVIA MUTUELLE", 
+        "identifiantNational": "775709710", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MALAKOFF MEDERIC MUTUELLE", 
+        "identifiantNational": "784718256", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DE MARE-GAILLARD", 
+        "identifiantNational": "314559451", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION NATIONALE MUTUELLES D' ENTREPRISES", 
+        "identifiantNational": "414111930", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA FRATERNELLE MUTUELLE INTERENTREPRISES", 
+        "identifiantNational": "302999115", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MFTSV", 
+        "identifiantNational": "330929845", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE ENTREPRISES SCHNEIDER ELECTRIC", 
+        "identifiantNational": "390820058", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE METIERS ELECTRONIQUE INFORMATI", 
+        "identifiantNational": "391399052", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE SANTE EIFFAGE ENERGIE", 
+        "identifiantNational": "391526225", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE LA FRANCE MARITIME", 
+        "identifiantNational": "413423005", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BPCE MUTUELLE", 
+        "identifiantNational": "776466963", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUT PERSO ORGAN SOCIA SIMIL REG TOULOUSE", 
+        "identifiantNational": "776950602", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTAERO", 
+        "identifiantNational": "776950610", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE INDUS AERONAUT SPATIAL CONNEXES", 
+        "identifiantNational": "785280884", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPE AESIO", 
+        "identifiantNational": "821965241", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AVENIR MUTUELLE", 
+        "identifiantNational": "302976592", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ADREA MUTUELLE", 
+        "identifiantNational": "311799878", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EOVI MCD MUTUELLE", 
+        "identifiantNational": "317442176", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VITTAVI", 
+        "identifiantNational": "775584980", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE APREVA", 
+        "identifiantNational": "775627391", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION DE REPRESENTATION DES MEMBRES ASSOCIES", 
+        "identifiantNational": "487808305", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE HUMANIS NATIONALE", 
+        "identifiantNational": "339358681", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GRAND EST MUTUELLE DITE RADIANCE GROUPE HUMANIS GRAND EST", 
+        "identifiantNational": "483747333", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DE L'INDUSTRIE DU PETROLE", 
+        "identifiantNational": "775671902", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OCIANE", 
+        "identifiantNational": "434243085", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE MIEUX ETRE", 
+        "identifiantNational": "775659907", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOLID MUTUA ASS TRAVA INDEP SALAR FRANCE", 
+        "identifiantNational": "781166293", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA MUTUELLE VERTE", 
+        "identifiantNational": "309104099", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MATMUT MUTUALITE", 
+        "identifiantNational": "775701485", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA PROVENCE", 
+        "identifiantNational": "056806813", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "M.B.A MUTUELLE", 
+        "identifiantNational": "777749409", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CCMO MUTUELLE", 
+        "identifiantNational": "780508073", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU GROUPE RATP", 
+        "identifiantNational": "775671969", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE DES AFFAIRES SOCIALES", 
+        "identifiantNational": "784301475", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE MUTUALISTE LA CHOLETAISE", 
+        "identifiantNational": "315519231", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC MUTUALISTE LA FRATERNELLE", 
+        "identifiantNational": "327202487", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE PREVOYANCE SOCIALE", 
+        "identifiantNational": "320377906", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLES DU SOLEIL LIVRE II", 
+        "identifiantNational": "782395511", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUT ACCIDENTS CONFED GEN OEUVRES LAIQUES", 
+        "identifiantNational": "331903757", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "REUNICA MUTUELLE", 
+        "identifiantNational": "432836849", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE PREVOYANCE INTERPROFESSIONNELLE", 
+        "identifiantNational": "775659378", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE LE LIBRE CHOIX", 
+        "identifiantNational": "783747793", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE PERSONNELS CPAMIF ORGAN SOCIAUX", 
+        "identifiantNational": "784394363", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE UNION DU COMMERCE ET DES SCOP", 
+        "identifiantNational": "788108546", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "97300", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "BHAGOOA", 
+        "prenom": "Yves"
+      }
+    ], 
+    "dateCreation": "2017-09-11T08:48:07", 
+    "datePremierePublication": "2017-09-11T08:48:07", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "MUTUALITE FRANCAISE DE GUYANE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "BHAGOOA", 
+        "prenom": "Yves"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "501896336", 
+    "lienSiteWeb": "http://www.guyane.mutualite.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/501896336.json", 
+    "ville": "CAYENNE"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "OUTREMER", 
+          "label": "Outre-mer", 
+          "ordre": 20
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
     "adresse": "MUTUALITE FRANCAISE DE LA REUNION\r\n30 RUE MONSEIGNEUR MONDON", 
     "affiliations": [
       {
@@ -16040,6 +16515,1853 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/815119748.json", 
     "ville": "ST DENIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "MUTUALITE FRANCAISE ILE DE FRANCE\r\n15 CITE MALESHERBES", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION NATIONALE MUTUALITE FRANCAISE", 
+        "identifiantNational": "304426240", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "MUTAERO", 
+        "identifiantNational": "776950610", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE EPC", 
+        "identifiantNational": "391399326", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE MUTUALISTE INTER ENTREPRISES", 
+        "identifiantNational": "407879709", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE D'OUEST FRANCE", 
+        "identifiantNational": "390730893", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE AEROSPATIALE SOGERMA", 
+        "identifiantNational": "431733732", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BPCE MUTUELLE", 
+        "identifiantNational": "776466963", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE LA FRANCE MARITIME", 
+        "identifiantNational": "413423005", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MFTSV", 
+        "identifiantNational": "330929845", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUT EST", 
+        "identifiantNational": "442907127", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE PROVENCE ENTREPRISES", 
+        "identifiantNational": "348099789", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DES ORGANISMES SOCIAUX", 
+        "identifiantNational": "778213678", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU PERSONNEL DES AGF", 
+        "identifiantNational": "442882411", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE ENTRAIDE MUTUALITE FRANCAISE", 
+        "identifiantNational": "438804312", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE INDUS AERONAUT SPATIAL CONNEXES", 
+        "identifiantNational": "785280884", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA FRATERNELLE MUTUELLE INTERENTREPRISES", 
+        "identifiantNational": "302999115", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUT PERSO ORGAN SOCIA SIMIL REG TOULOUSE", 
+        "identifiantNational": "776950602", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE ENTREPRISE UGINE GUEUGNON N°341", 
+        "identifiantNational": "778588111", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE NATIONALE PERSO ETS MICHELIN", 
+        "identifiantNational": "382046464", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE FAMILIALE  ALSTHOM RATEAU", 
+        "identifiantNational": "341020667", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE SOCIETE MARSEILLAISE CREDIT", 
+        "identifiantNational": "344756358", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC MUTUALISTE CHIRURGIEN COMPLEMENT BDF", 
+        "identifiantNational": "775657125", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE SANTE EIFFAGE ENERGIE", 
+        "identifiantNational": "391526225", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE METIERS ELECTRONIQUE INFORMATI", 
+        "identifiantNational": "391399052", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPE AESIO", 
+        "identifiantNational": "821965241", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE APREVA", 
+        "identifiantNational": "775627391", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AVENIR MUTUELLE", 
+        "identifiantNational": "302976592", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EOVI MCD MUTUELLE", 
+        "identifiantNational": "317442176", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ADREA MUTUELLE", 
+        "identifiantNational": "311799878", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DES ELUS LOCAUX", 
+        "identifiantNational": "388887259", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VITTAVI", 
+        "identifiantNational": "775584980", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC MUTUALISTE ETUDIANTS REGION PARIS", 
+        "identifiantNational": "775684780", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA MUTUELLE DES ETUDIANTS", 
+        "identifiantNational": "431791672", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA PROVENCE", 
+        "identifiantNational": "056806813", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE INTERP LES MENAGES PREVOYANTS", 
+        "identifiantNational": "785151689", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OCIANE", 
+        "identifiantNational": "434243085", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE VIASANTE", 
+        "identifiantNational": "777927120", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EXTRAITS VEGETAUX ET DERIVES", 
+        "identifiantNational": "063804108", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AVENIR SANTE MUTUELLE", 
+        "identifiantNational": "775671951", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU MINISTERE DE LA JUSTICE", 
+        "identifiantNational": "775657521", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DES HOPITAUX DE LA VIENNE", 
+        "identifiantNational": "314685835", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE NATIONALE DES SAPEURS POMPIERS DE FRANCE", 
+        "identifiantNational": "776949760", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TERRITORIA MUTUELLE", 
+        "identifiantNational": "483041307", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE MIEUX ETRE", 
+        "identifiantNational": "775659907", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "REUNICA MUTUELLE", 
+        "identifiantNational": "432836849", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE INTEGRANCE", 
+        "identifiantNational": "340359900", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CENTRE MUTUALISTE INTERPROFESSIONNEL", 
+        "identifiantNational": "339420226", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CCMO MUTUELLE", 
+        "identifiantNational": "780508073", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE DES AFFAIRES SOCIALES", 
+        "identifiantNational": "784301475", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA MUTUELLE VERTE", 
+        "identifiantNational": "309104099", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOLID MUTUA ASS TRAVA INDEP SALAR FRANCE", 
+        "identifiantNational": "781166293", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC MUTUALISTE PERNOD", 
+        "identifiantNational": "444269187", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE INTERGROUP D'ENTRAIDE", 
+        "identifiantNational": "784275885", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUT UNION NATIONALE DES COMBATTANTS", 
+        "identifiantNational": "784360661", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GOODYEAR DUNLOP FRANCE", 
+        "identifiantNational": "391416591", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC MUTUALISTE PERSONNEL SNECMA", 
+        "identifiantNational": "784338600", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE FAMIL CHEMINOTS DE FRANCE", 
+        "identifiantNational": "784394413", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE COMPLEMENTAIRE D'ALSACE", 
+        "identifiantNational": "778900027", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE SERVIR", 
+        "identifiantNational": "311426811", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE PERSONNELS CPAMIF ORGAN SOCIAUX", 
+        "identifiantNational": "784394363", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUT ACCIDENTS CONFED GEN OEUVRES LAIQUES", 
+        "identifiantNational": "331903757", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE INTERPROFESSIONNELLE", 
+        "identifiantNational": "437994205", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE AVENIR SANTE", 
+        "identifiantNational": "433087806", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE PREVOYANCE INTERPROFESSIONNELLE", 
+        "identifiantNational": "775659378", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE UNION DU COMMERCE ET DES SCOP", 
+        "identifiantNational": "788108546", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC MUT PERSONNEL DES MMA & SES FILIALES", 
+        "identifiantNational": "352003180", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE INTER POLIET & CIMENT FRANCAIS", 
+        "identifiantNational": "784451569", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE MMH", 
+        "identifiantNational": "784608754", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DE PREVOYANCE ET DE SANTE", 
+        "identifiantNational": "432683787", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE DE LA DISTRIBUTION", 
+        "identifiantNational": "429211469", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE 403", 
+        "identifiantNational": "781166210", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "M.B.A MUTUELLE", 
+        "identifiantNational": "777749409", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLES DU SOLEIL LIVRE II", 
+        "identifiantNational": "782395511", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE SOLIDARITE AERONAUTIQUE", 
+        "identifiantNational": "419542063", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE DES ETUDIANTS DE L EST", 
+        "identifiantNational": "783332448", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHORUM", 
+        "identifiantNational": "784621419", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE EDUCATION NATIONALE", 
+        "identifiantNational": "775685399", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTACITE", 
+        "identifiantNational": "444042303", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CAISSE MUT PREV PERS COL TER HTE SAVOIE", 
+        "identifiantNational": "776525610", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTAME TERRITOIRE DE BELFORT", 
+        "identifiantNational": "344710991", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MGEN FILIA", 
+        "identifiantNational": "440363588", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUT AGENTS TERRITO MEMBRES EXTER NORMAND", 
+        "identifiantNational": "780915898", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE DE L'ECONOMIE DES FINANCES ET DE L INDUSTRIE", 
+        "identifiantNational": "499982098", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DES AFFAIRES ETRANGERES", 
+        "identifiantNational": "775666332", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CDC MUTUELLE", 
+        "identifiantNational": "784301434", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE CENTRALE FINANCES", 
+        "identifiantNational": "302976568", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE NATIONALE TERRITORIALE MNT", 
+        "identifiantNational": "775678584", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERAT MUTUALISTE INTERDEP REG PARISIEN", 
+        "identifiantNational": "775662869", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE KLESIA SAINT GERMAIN", 
+        "identifiantNational": "344033360", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC MUT AUTEURS COMPOS EDITEURS MUSIQUE", 
+        "identifiantNational": "784410771", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE FACOM", 
+        "identifiantNational": "444060099", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE CYBELE SOLIDARITE", 
+        "identifiantNational": "443885355", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DES ASSURES SOCIAUX DE FRANCE", 
+        "identifiantNational": "785474123", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GEODIS", 
+        "identifiantNational": "442930939", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU PERSONNEL DE LA MUTUALITE FRANCILIENNE", 
+        "identifiantNational": "442763595", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DE NATIXIS", 
+        "identifiantNational": "784312860", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE VALEO", 
+        "identifiantNational": "784718397", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE UMC", 
+        "identifiantNational": "529168007", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU PERSONNEL GPE SOC GEN", 
+        "identifiantNational": "784410805", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CAISSE NATIONALE MUTUALISTE PREVOYANCE SANTE", 
+        "identifiantNational": "784492100", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DE LA SADE", 
+        "identifiantNational": "391073350", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DES CHAMBRES COMMERCE INDUSTRIE", 
+        "identifiantNational": "784718355", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE CIVILE DE LA DEFENSE", 
+        "identifiantNational": "784621476", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DE PONTOISE", 
+        "identifiantNational": "333212561", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC MUTUAL INTERPROF REGION SUD EST PARI", 
+        "identifiantNational": "785721671", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE SANTE", 
+        "identifiantNational": "785476003", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DES CLERCS ET EMPLOYES NOTAIRE", 
+        "identifiantNational": "784338618", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MACIF-MUTUALITE", 
+        "identifiantNational": "779558501", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DE PREVOYANCE DU PERSONNEL DU GROUPE MACIF", 
+        "identifiantNational": "443172507", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUEL NATION FONCT COLLECT TERRITORIALE", 
+        "identifiantNational": "784442899", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE NATIONALE PERSONNELS AIR FRANCE", 
+        "identifiantNational": "379718653", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU PERSONNEL IBM", 
+        "identifiantNational": "391346236", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "APIVIA MUTUELLE", 
+        "identifiantNational": "775709710", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HARMONIE MUTUELLES", 
+        "identifiantNational": "479834012", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HARMONIE FONCTION PUBLIQUE", 
+        "identifiantNational": "790314017", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU GROUPE BNP PARIBAS", 
+        "identifiantNational": "784410847", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUEL ENT PERS SOC DES EAUX MARSEILLE", 
+        "identifiantNational": "775559651", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HARMONIE MUTUELLE", 
+        "identifiantNational": "538518473", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU CHU HOPITAUX DU PUY DE DOME", 
+        "identifiantNational": "347391948", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GROUPE LA DEPECHE DU MIDI COMPL SANTE", 
+        "identifiantNational": "391322849", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MATMUT MUTUALITE", 
+        "identifiantNational": "775701485", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA MUTUELLE DE BAGNEAUX", 
+        "identifiantNational": "444205769", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE DES CHEMINOTS", 
+        "identifiantNational": "775678550", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA MUTUELLE AUDIENS DE LA PRESSE, DU SPECTACLE ET DE LA COMMUNICATION", 
+        "identifiantNational": "775659923", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUT ASSUR PERSON EXTERIEUR SAL GPT AXA", 
+        "identifiantNational": "333574390", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE FAMILIALE REGION DE FOURMIES", 
+        "identifiantNational": "783623655", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MCLR", 
+        "identifiantNational": "308708650", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE INTERPROFESSIONNELLE", 
+        "identifiantNational": "776042327", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE AERONAUTIQUE BOUGUENAIS", 
+        "identifiantNational": "342826575", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE SAINT AUBANNAISE", 
+        "identifiantNational": "390998466", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU PIC SAINT LOUP LA SCOLAIRE", 
+        "identifiantNational": "443826144", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE LA PHILANTHROPIQUE", 
+        "identifiantNational": "441213022", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE LA FRATERNITE", 
+        "identifiantNational": "443815196", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA FRATERNELLE", 
+        "identifiantNational": "443820691", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GANGEOISE", 
+        "identifiantNational": "776001158", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE FAMILIALE", 
+        "identifiantNational": "784442915", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "IDENTITES MUTUELLE", 
+        "identifiantNational": "379655541", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION DES MUTUELLES DE FRANCE", 
+        "identifiantNational": "784411068", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE NAT HOSPIT PROF SANTE SOCIAL", 
+        "identifiantNational": "775606361", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA MUTUELLE GENERALE", 
+        "identifiantNational": "775685340", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION DE REPRESENTATION DES MEMBRES ASSOCIES", 
+        "identifiantNational": "487808305", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE HUMANIS NATIONALE", 
+        "identifiantNational": "339358681", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DE L'INDUSTRIE DU PETROLE", 
+        "identifiantNational": "775671902", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GRAND EST MUTUELLE DITE RADIANCE GROUPE HUMANIS GRAND EST", 
+        "identifiantNational": "483747333", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MALAKOFF MEDERIC MUTUELLE", 
+        "identifiantNational": "784718256", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE DE LA POLICE", 
+        "identifiantNational": "775671894", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE RENAULT", 
+        "identifiantNational": "775722655", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE UNEO", 
+        "identifiantNational": "503380081", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE INTERIALE", 
+        "identifiantNational": "775685365", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SUD-OUEST MUTUALITE", 
+        "identifiantNational": "777169079", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU PAYS HAUT", 
+        "identifiantNational": "783303209", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE JURASSIENNE   MUTI", 
+        "identifiantNational": "778396507", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPE DES MUTUELLES INDEPENDANTES", 
+        "identifiantNational": "783376270", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE PREVOYANCE SOCIALE", 
+        "identifiantNational": "320377906", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOLIDARITE RUR ET URBAINE ALSACE", 
+        "identifiantNational": "778847301", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MICILS", 
+        "identifiantNational": "302927553", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE LOU CLAPAS L'AVEYRONNAISE", 
+        "identifiantNational": "443911342", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE INTERENTREPRISES DES CAVES", 
+        "identifiantNational": "776744690", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE LA FRATERNELLE", 
+        "identifiantNational": "776011330", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DE SAINT SIMON", 
+        "identifiantNational": "341689552", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTAG", 
+        "identifiantNational": "382556900", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BANQUE POPULAIRE MUTUALITE", 
+        "identifiantNational": "429873706", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA MUTUELLE INTERIALE ENTREPRISES ET EXPATRIES", 
+        "identifiantNational": "784647323", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU GROUPE RATP", 
+        "identifiantNational": "775671969", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DES SAPEURS POMPIERS DE PARIS", 
+        "identifiantNational": "391036183", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE BLEUE", 
+        "identifiantNational": "775671993", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC MUTUALISTE INTERPROFESSIONNELLE", 
+        "identifiantNational": "784669954", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE ENTREPRISES SCHNEIDER ELECTRIC", 
+        "identifiantNational": "390820058", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION NATIONALE MUTUELLES D' ENTREPRISES", 
+        "identifiantNational": "414111930", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AMELLIS MUTUELLES", 
+        "identifiantNational": "775597768", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DES CLINIQUES DE FRANCE", 
+        "identifiantNational": "332759554", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PAVILLON PREVOYANCE", 
+        "identifiantNational": "442978086", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA SOLIDARITE D AQUITAINE", 
+        "identifiantNational": "781848221", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE MUTUALISTE LA CHOLETAISE", 
+        "identifiantNational": "315519231", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC MUTUALISTE LA FRATERNELLE", 
+        "identifiantNational": "327202487", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DE L'OISE AGENTS TERRITORIAUX", 
+        "identifiantNational": "780508081", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE LE LIBRE CHOIX", 
+        "identifiantNational": "783747793", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA PREVOYANCE ARTISANALE COM SALARIALE", 
+        "identifiantNational": "778868513", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CAISSE PREVOYANCE MULHOUSIENNE", 
+        "identifiantNational": "775642598", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "GOUEDARD", 
+        "prenom": "Frédéric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "COLLARD", 
+        "prenom": "Jean-Paul"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable Communication et Partenariats", 
+        "nom": "EISPAGNET", 
+        "prenom": "Cécile"
+      }
+    ], 
+    "dateCreation": "2017-09-11T08:50:37", 
+    "datePremierePublication": "2017-09-11T08:50:37", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "MUTUALITE FRANCAISE ILE DE FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "GOUEDARD", 
+        "prenom": "Frédéric"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "518102975", 
+    "lienSiteWeb": "http://www.iledefrance.mutualite.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/518102975.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "MUTUALITE FRANCAISE NORMANDIE\r\n16 AVENUE DU 6 JUIN", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION NATIONALE MUTUALITE FRANCAISE", 
+        "identifiantNational": "304426240", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "MUTUELLE INTERIALE", 
+        "identifiantNational": "775685365", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA MUTUELLE INTERIALE ENTREPRISES ET EXPATRIES", 
+        "identifiantNational": "784647323", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OCIANE", 
+        "identifiantNational": "434243085", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE FAMILIALE", 
+        "identifiantNational": "784442915", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "IDENTITES MUTUELLE", 
+        "identifiantNational": "379655541", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE DES CHEMINOTS", 
+        "identifiantNational": "775678550", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA MUTUELLE DE BAGNEAUX", 
+        "identifiantNational": "444205769", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA MUTUELLE AUDIENS DE LA PRESSE, DU SPECTACLE ET DE LA COMMUNICATION", 
+        "identifiantNational": "775659923", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU MINISTERE DE LA JUSTICE", 
+        "identifiantNational": "775657521", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TERRITORIA MUTUELLE", 
+        "identifiantNational": "483041307", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE NATIONALE DES SAPEURS POMPIERS DE FRANCE", 
+        "identifiantNational": "776949760", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DES HOPITAUX DE LA VIENNE", 
+        "identifiantNational": "314685835", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "M.B.A MUTUELLE", 
+        "identifiantNational": "777749409", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE INTEGRANCE", 
+        "identifiantNational": "340359900", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOLID MUTUA ASS TRAVA INDEP SALAR FRANCE", 
+        "identifiantNational": "781166293", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE MIEUX ETRE", 
+        "identifiantNational": "775659907", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CCMO MUTUELLE", 
+        "identifiantNational": "780508073", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA MUTUELLE VERTE", 
+        "identifiantNational": "309104099", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA MUTUELLE DES ETUDIANTS", 
+        "identifiantNational": "431791672", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE BLEUE", 
+        "identifiantNational": "775671993", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC MUTUALISTE INTERPROFESSIONNELLE", 
+        "identifiantNational": "784669954", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE MUTUALISTE LA CHOLETAISE", 
+        "identifiantNational": "315519231", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "REUNICA MUTUELLE", 
+        "identifiantNational": "432836849", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA PROVENCE", 
+        "identifiantNational": "056806813", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE INTERP LES MENAGES PREVOYANTS", 
+        "identifiantNational": "785151689", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU GROUPE RATP", 
+        "identifiantNational": "775671969", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE DES AFFAIRES SOCIALES", 
+        "identifiantNational": "784301475", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LES MUTUELLES ENSEMBLE", 
+        "identifiantNational": "443756770", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AVENIR SANTE MUTUELLE", 
+        "identifiantNational": "775671951", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE INTERGROUP D'ENTRAIDE", 
+        "identifiantNational": "784275885", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC MUTUALISTE PERNOD", 
+        "identifiantNational": "444269187", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUT UNION NATIONALE DES COMBATTANTS", 
+        "identifiantNational": "784360661", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GOODYEAR DUNLOP FRANCE", 
+        "identifiantNational": "391416591", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CENTRE MUTUALISTE INTERPROFESSIONNEL", 
+        "identifiantNational": "339420226", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE FAMIL CHEMINOTS DE FRANCE", 
+        "identifiantNational": "784394413", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE COMPLEMENTAIRE D'ALSACE", 
+        "identifiantNational": "778900027", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DE PREVOYANCE ET DE SANTE", 
+        "identifiantNational": "432683787", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUT ACCIDENTS CONFED GEN OEUVRES LAIQUES", 
+        "identifiantNational": "331903757", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE INTERPROFESSIONNELLE", 
+        "identifiantNational": "437994205", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE MMH", 
+        "identifiantNational": "784608754", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE 403", 
+        "identifiantNational": "781166210", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE SERVIR", 
+        "identifiantNational": "311426811", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AMELLIS MUTUELLES", 
+        "identifiantNational": "775597768", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SUD-OUEST MUTUALITE", 
+        "identifiantNational": "777169079", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE DE LA DISTRIBUTION", 
+        "identifiantNational": "429211469", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUT ASSUR PERSON EXTERIEUR SAL GPT AXA", 
+        "identifiantNational": "333574390", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DE L'OISE AGENTS TERRITORIAUX", 
+        "identifiantNational": "780508081", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE UNION DU COMMERCE ET DES SCOP", 
+        "identifiantNational": "788108546", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLES DU SOLEIL LIVRE II", 
+        "identifiantNational": "782395511", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE PERSONNELS CPAMIF ORGAN SOCIAUX", 
+        "identifiantNational": "784394363", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC MUT PERSONNEL DES MMA & SES FILIALES", 
+        "identifiantNational": "352003180", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE DES ETUDIANTS DE L EST", 
+        "identifiantNational": "783332448", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHORUM", 
+        "identifiantNational": "784621419", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE PREVOYANCE INTERPROFESSIONNELLE", 
+        "identifiantNational": "775659378", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE LE LIBRE CHOIX", 
+        "identifiantNational": "783747793", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MICILS", 
+        "identifiantNational": "302927553", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CAISSE PREVOYANCE MULHOUSIENNE", 
+        "identifiantNational": "775642598", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE SOLIDARITE AERONAUTIQUE", 
+        "identifiantNational": "419542063", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPE DES MUTUELLES INDEPENDANTES", 
+        "identifiantNational": "783376270", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU PAYS HAUT", 
+        "identifiantNational": "783303209", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE JURASSIENNE   MUTI", 
+        "identifiantNational": "778396507", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE FAMILIALE REGION DE FOURMIES", 
+        "identifiantNational": "783623655", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE INTERENTREPRISES DES CAVES", 
+        "identifiantNational": "776744690", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE PREVOYANCE SOCIALE", 
+        "identifiantNational": "320377906", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE AERONAUTIQUE BOUGUENAIS", 
+        "identifiantNational": "342826575", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE LA FRATERNELLE", 
+        "identifiantNational": "776011330", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTAG", 
+        "identifiantNational": "382556900", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE LA VENDARGUOISE", 
+        "identifiantNational": "443821624", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE INTERPROFESSIONNELLE", 
+        "identifiantNational": "776042327", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOLIDARITE RUR ET URBAINE ALSACE", 
+        "identifiantNational": "778847301", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU GROUPE BNP PARIBAS", 
+        "identifiantNational": "784410847", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GROUPE LA DEPECHE DU MIDI COMPL SANTE", 
+        "identifiantNational": "391322849", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HARMONIE MUTUELLE", 
+        "identifiantNational": "538518473", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HARMONIE FONCTION PUBLIQUE", 
+        "identifiantNational": "790314017", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU GRAND PORT MARITIME DU HAVRE", 
+        "identifiantNational": "781065412", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU CHU HOPITAUX DU PUY DE DOME", 
+        "identifiantNational": "347391948", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HARMONIE MUTUELLES", 
+        "identifiantNational": "479834012", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE EDUCATION NATIONALE", 
+        "identifiantNational": "775685399", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DES AFFAIRES ETRANGERES", 
+        "identifiantNational": "775666332", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE DE L'ECONOMIE DES FINANCES ET DE L INDUSTRIE", 
+        "identifiantNational": "499982098", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE NATIONALE TERRITORIALE MNT", 
+        "identifiantNational": "775678584", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MGEN FILIA", 
+        "identifiantNational": "440363588", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CDC MUTUELLE", 
+        "identifiantNational": "784301434", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE CENTRALE FINANCES", 
+        "identifiantNational": "302976568", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUT AGENTS TERRITO MEMBRES EXTER NORMAND", 
+        "identifiantNational": "780915898", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTAME TERRITOIRE DE BELFORT", 
+        "identifiantNational": "344710991", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CAISSE MUT PREV PERS COL TER HTE SAVOIE", 
+        "identifiantNational": "776525610", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTACITE", 
+        "identifiantNational": "444042303", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPE AESIO", 
+        "identifiantNational": "821965241", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AVENIR MUTUELLE", 
+        "identifiantNational": "302976592", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DES ELUS LOCAUX", 
+        "identifiantNational": "388887259", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ADREA MUTUELLE", 
+        "identifiantNational": "311799878", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EOVI MCD MUTUELLE", 
+        "identifiantNational": "317442176", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VITTAVI", 
+        "identifiantNational": "775584980", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE APREVA", 
+        "identifiantNational": "775627391", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MATMUT MUTUALITE", 
+        "identifiantNational": "775701485", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION DE REPRESENTATION DES MEMBRES ASSOCIES", 
+        "identifiantNational": "487808305", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GRAND EST MUTUELLE DITE RADIANCE GROUPE HUMANIS GRAND EST", 
+        "identifiantNational": "483747333", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE RENAULT", 
+        "identifiantNational": "775722655", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DE L'INDUSTRIE DU PETROLE", 
+        "identifiantNational": "775671902", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE HUMANIS NATIONALE", 
+        "identifiantNational": "339358681", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE NAT HOSPIT PROF SANTE SOCIAL", 
+        "identifiantNational": "775606361", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MACIF-MUTUALITE", 
+        "identifiantNational": "779558501", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUEL NATION FONCT COLLECT TERRITORIALE", 
+        "identifiantNational": "784442899", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU PERSONNEL IBM", 
+        "identifiantNational": "391346236", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE NATIONALE PERSONNELS AIR FRANCE", 
+        "identifiantNational": "379718653", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "APIVIA MUTUELLE", 
+        "identifiantNational": "775709710", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DE PREVOYANCE DU PERSONNEL DU GROUPE MACIF", 
+        "identifiantNational": "443172507", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERAT MUTUALISTE INTERDEP REG PARISIEN", 
+        "identifiantNational": "775662869", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC MUT AUTEURS COMPOS EDITEURS MUSIQUE", 
+        "identifiantNational": "784410771", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE SANTE", 
+        "identifiantNational": "785476003", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC MUTUAL INTERPROF REGION SUD EST PARI", 
+        "identifiantNational": "785721671", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DE PONTOISE", 
+        "identifiantNational": "333212561", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE CIVILE DE LA DEFENSE", 
+        "identifiantNational": "784621476", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DES CHAMBRES COMMERCE INDUSTRIE", 
+        "identifiantNational": "784718355", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU PERSONNEL GPE SOC GEN", 
+        "identifiantNational": "784410805", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU PERSONNEL DE LA MUTUALITE FRANCILIENNE", 
+        "identifiantNational": "442763595", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE KLESIA SAINT GERMAIN", 
+        "identifiantNational": "344033360", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CAISSE NATIONALE MUTUALISTE PREVOYANCE SANTE", 
+        "identifiantNational": "784492100", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE UMC", 
+        "identifiantNational": "529168007", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE VALEO", 
+        "identifiantNational": "784718397", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GEODIS", 
+        "identifiantNational": "442930939", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE CYBELE SOLIDARITE", 
+        "identifiantNational": "443885355", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE FACOM", 
+        "identifiantNational": "444060099", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DES CLERCS ET EMPLOYES NOTAIRE", 
+        "identifiantNational": "784338618", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DE NATIXIS", 
+        "identifiantNational": "784312860", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA MUTUELLE GENERALE", 
+        "identifiantNational": "775685340", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION DES MUTUELLES DE FRANCE", 
+        "identifiantNational": "784411068", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE UNEO", 
+        "identifiantNational": "503380081", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE DE LA POLICE", 
+        "identifiantNational": "775671894", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION NATIONALE MUTUELLES D' ENTREPRISES", 
+        "identifiantNational": "414111930", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE METIERS ELECTRONIQUE INFORMATI", 
+        "identifiantNational": "391399052", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUT PERSO ORGAN SOCIA SIMIL REG TOULOUSE", 
+        "identifiantNational": "776950602", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE FAMILIALE  ALSTHOM RATEAU", 
+        "identifiantNational": "341020667", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE ENTREPRISES SCHNEIDER ELECTRIC", 
+        "identifiantNational": "390820058", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE MUTUALISTE INTER ENTREPRISES", 
+        "identifiantNational": "407879709", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC MUTUALISTE CHIRURGIEN COMPLEMENT BDF", 
+        "identifiantNational": "775657125", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE SOCIETE MARSEILLAISE CREDIT", 
+        "identifiantNational": "344756358", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE NATIONALE PERSO ETS MICHELIN", 
+        "identifiantNational": "382046464", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE ENTREPRISE UGINE GUEUGNON N°341", 
+        "identifiantNational": "778588111", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTAERO", 
+        "identifiantNational": "776950610", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE EPC", 
+        "identifiantNational": "391399326", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE D'OUEST FRANCE", 
+        "identifiantNational": "390730893", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE AEROSPATIALE SOGERMA", 
+        "identifiantNational": "431733732", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BPCE MUTUELLE", 
+        "identifiantNational": "776466963", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE LA FRANCE MARITIME", 
+        "identifiantNational": "413423005", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MFTSV", 
+        "identifiantNational": "330929845", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE BOISSIERE DU BATIMENT ET TP", 
+        "identifiantNational": "781123245", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE PROVENCE ENTREPRISES", 
+        "identifiantNational": "348099789", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DES ORGANISMES SOCIAUX", 
+        "identifiantNational": "778213678", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE DU PERSONNEL DES AGF", 
+        "identifiantNational": "442882411", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE ENTRAIDE MUTUALITE FRANCAISE", 
+        "identifiantNational": "438804312", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA FRATERNELLE MUTUELLE INTERENTREPRISES", 
+        "identifiantNational": "302999115", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MALAKOFF MEDERIC MUTUELLE", 
+        "identifiantNational": "784718256", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE VIASANTE", 
+        "identifiantNational": "777927120", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE INDUS AERONAUT SPATIAL CONNEXES", 
+        "identifiantNational": "785280884", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE SANTE EIFFAGE ENERGIE", 
+        "identifiantNational": "391526225", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "14000", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "LETHUILLIER", 
+        "prenom": "Jacques"
+      }
+    ], 
+    "dateCreation": "2017-09-11T08:47:33", 
+    "datePremierePublication": "2017-09-11T08:47:33", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "MUTUALITE FRANCAISE NORMANDIE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "LETHUILLIER", 
+        "prenom": "Jacques"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "444628275", 
+    "lienSiteWeb": "https://normandie.mutualite.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/444628275.json", 
+    "ville": "CAEN"
   }, 
   {
     "activites": {
@@ -18874,6 +21196,116 @@
     "publierMonTelephoneDeContact": false, 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/552120222.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "PROPINT", 
+          "label": "Propriété intellectuelle", 
+          "ordre": 23
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "SOC NAL EXPLOIT INDUST TABAC ALLUMETTE\r\n143 BOULEVARD ROMAIN ROLLAND", 
+    "affiliations": [
+      {
+        "denomination": "UNION PATRONALE DEPARMENTALE - MEDEF PARIS", 
+        "identifiantNational": "398327098", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS FOURNISSEURS DE CIGARES EN FRANCE", 
+        "identifiantNational": "332139732", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION DES FOURNISSEURS DE TABACS A FUMER", 
+        "identifiantNational": "821297355", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75014", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Responsable des Affaires Publiques", 
+        "nom": "JULIAN", 
+        "prenom": "Adrien"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Senior EU Corporate Affairs Manager", 
+        "nom": "ROUQUETTE", 
+        "prenom": "Clémence"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée des Affaires Publiques", 
+        "nom": "FENART", 
+        "prenom": "Julia"
+      }
+    ], 
+    "dateCreation": "2017-09-11T10:47:09", 
+    "datePremierePublication": "2017-09-11T10:47:09", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "SOCIETE NATIONALE D'EXPLOITATION INDUSTRIELLE DES TABACS ET ALLUMETTES", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "DECUPPER", 
+        "prenom": "Dior"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "331355263", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/331355263.json", 
     "ville": "PARIS"
   }, 
   {
