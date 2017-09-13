@@ -6383,6 +6383,103 @@
           "code": "EUROPEEN", 
           "label": "Européen", 
           "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }
+      ]
+    }, 
+    "adresse": "COVEA\r\n86 90\r\n86 RUE SAINT LAZARE", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION DES ASSUREURS MUTUALISTES", 
+        "identifiantNational": "822879201", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS FRANCAISE DE LA GESTION FINANCIERE", 
+        "identifiantNational": "784362584", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PARIS EUROPLACE", 
+        "identifiantNational": "393769252", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION FRANCAISE DE L ASSURANCE", 
+        "identifiantNational": "784409013", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des affaires publiques", 
+        "nom": "COSSÉ", 
+        "prenom": "Stéphane"
+      }
+    ], 
+    "dateCreation": "2017-09-13T11:51:27", 
+    "datePremierePublication": "2017-09-13T11:51:27", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "COVEA", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président Directeur Général", 
+        "nom": "DEREZ", 
+        "prenom": "Thierry"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général Délégué", 
+        "nom": "BAUDON", 
+        "prenom": "Christian"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "450527916", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/930708/", 
+    "lienPageTwitter": "https://twitter.com/search?q=covea&src=typd&lang=fr", 
+    "lienSiteWeb": "http://www.covea.eu/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/450527916.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
         }
       ], 
       "listSecteursActivites": [
@@ -23979,6 +24076,116 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/326300159.json", 
     "ville": "BOULOGNE BILLANCOURT CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }, 
+        {
+          "code": "SOCIETE", 
+          "label": "Questions de société", 
+          "ordre": 26
+        }
+      ]
+    }, 
+    "adresse": "TERRITOIRES ZERO CHOMEUR LONGUE DUREE\r\nTZCLD\r\n106 RUE DU BAC", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "75007", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "GRANDGUILLAUME", 
+        "prenom": "Laurent"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur", 
+        "nom": "ARRU", 
+        "prenom": "Bernard"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Coordinatrice", 
+        "nom": "HODEAU", 
+        "prenom": "Clémentine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable Communication", 
+        "nom": "HAMON", 
+        "prenom": "Loïc"
+      }
+    ], 
+    "dateCreation": "2017-09-13T08:44:43", 
+    "datePremierePublication": "2017-09-13T08:44:43", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "TERRITOIRES ZERO CHOMEUR DE LONGUE DUREE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT", 
+        "nom": "GRANDGUILLAUME", 
+        "prenom": "Laurent"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "DAVY DE VIRVILLE", 
+        "prenom": "Michel"
+      }
+    ], 
+    "emailDeContact": "contact@tzcld.fr", 
+    "historique": [], 
+    "identifiantNational": "824524144", 
+    "lienPageFacebook": "https://www.facebook.com/zerochomeurLD", 
+    "lienPageTwitter": "https://twitter.com/ZeroChomeurLD", 
+    "lienSiteWeb": "https://www.tzcld.fr/", 
+    "pays": "", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0285524549", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/824524144.json", 
+    "ville": "PARIS 7"
   }, 
   {
     "activites": {
