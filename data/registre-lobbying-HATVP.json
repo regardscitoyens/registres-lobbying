@@ -370,6 +370,207 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "ARCTURUS FRANCE\r\n17 RUE DE MIROMESNIL", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES (AFCL)", 
+        "identifiantNational": "H000000001", 
+        "typeIdentifiantNational": "HATVP"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COCAB", 
+      "label": "Cabinet de conseil"
+    }, 
+    "clients": [
+      {
+        "denomination": "L'AIR LIQUIDE SOCIETE ANONYME POUR L'ETUDE ET L'EXPLOITATION DES PROCEDES GEORGES CLAUDE", 
+        "identifiantNational": "552096281", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE INTERPROF VIN APPELLATION ORIGINE", 
+        "identifiantNational": "448179333", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MELITTA FRANCE", 
+        "identifiantNational": "717280143", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HEETCH", 
+        "identifiantNational": "794693960", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION INTERCEREALES", 
+        "identifiantNational": "452007545", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOBIVIA", 
+        "identifiantNational": "470501545", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CAPITALCOM", 
+        "identifiantNational": "485135875", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PASSION CEREALES UNE CULTURE A PARTAGER", 
+        "identifiantNational": "483901096", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COLLECTIF DES ACTEURS DE LA CIGARETTE ELECTRONIQUE", 
+        "identifiantNational": "798356911", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "DUBOIS COLINEAU", 
+        "prenom": "Agnès"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Exécutif Adjoint", 
+        "nom": "BODARD", 
+        "prenom": "Etienne"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Associée", 
+        "nom": "DEFARGES", 
+        "prenom": "Mathilde"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante Senior", 
+        "nom": "COUDARD", 
+        "prenom": "Estelle"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante", 
+        "nom": "MARTIN", 
+        "prenom": "Morgane"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante", 
+        "nom": "MULLER", 
+        "prenom": "Angela"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant stagiaire", 
+        "nom": "GAUTIER", 
+        "prenom": "Gaetan"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante stagiaire", 
+        "nom": "MIRAULT", 
+        "prenom": "Mathilde"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "TEISSEYRE", 
+        "prenom": "Gilles"
+      }
+    ], 
+    "dateCreation": "2017-09-15T14:37:26", 
+    "datePremierePublication": "2017-09-15T14:37:26", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "ARCTURUS FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Co-gérant, Président", 
+        "nom": "TEISSEYRE", 
+        "prenom": "Gilles"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Co-gérante, Directrice Générale Exécutive", 
+        "nom": "DUBOIS COLINEAU", 
+        "prenom": "Agnes"
+      }
+    ], 
+    "emailDeContact": "paris@arcturus-group.com", 
+    "historique": [], 
+    "identifiantNational": "443058854", 
+    "lienPageTwitter": "https://twitter.com/ArcturusFR?lang=fr", 
+    "lienSiteWeb": "http://www.arcturus-group.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0156885210", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/443058854.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
@@ -5700,6 +5901,109 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [
+      {
+        "denomination": "SCOPING - SOCIETE DE COORDINATION D'ORDONNANCEMENT DE PILOTAGE ET D'INGENIERIE", 
+        "identifiantNational": "323420349", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION DES ENTREPRISES DU RECYCLAGE", 
+        "identifiantNational": "784358749", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ETS MARSEILLAIS D'IMPORTATION DE GOMME ARABIQUE", 
+        "identifiantNational": "057804411", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "REUNIR SERVICES", 
+        "identifiantNational": "523254464", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "93300", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "DAGNOGO", 
+        "prenom": "Claire"
+      }
+    ], 
+    "dateCreation": "2017-09-14T16:16:51", 
+    "datePremierePublication": "2017-09-14T16:16:51", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "CLAIRE DAGNOGO & SURICATES", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "DAGNOGO", 
+        "prenom": "Claire"
+      }
+    ], 
+    "emailDeContact": "contact@suricates.org", 
+    "historique": [], 
+    "identifiantNational": "821231248", 
+    "lienSiteWeb": "https://suricates.org/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": false, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/821231248.json", 
+    "ville": "AUBERVILLIERS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }, 
         {
           "code": "EUROPEEN", 
@@ -6369,6 +6673,129 @@
     "telephoneDeContact": "0156213434", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/784359549.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ETRANGER", 
+          "label": "Affaires étrangères, coopération internationale", 
+          "ordre": 1
+        }, 
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "SECURITE", 
+          "label": "Défense, sécurité", 
+          "ordre": 7
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "90 BIS RUE DE VARENNE", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COCAB", 
+      "label": "Cabinet de conseil"
+    }, 
+    "clients": [
+      {
+        "denomination": "FEDERATION NATIONALE DES CHASSEURS", 
+        "identifiantNational": "439220153", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FONDATION ASSISTANCE AUX ANIMAUX", 
+        "identifiantNational": "311642342", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION FRANCAISE DE TIR", 
+        "identifiantNational": "784354409", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPE PIZZORNO ENVIRONNEMENT", 
+        "identifiantNational": "429574395", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EDF ENERGIES NOUVELLES", 
+        "identifiantNational": "379677636", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NATURABUY", 
+        "identifiantNational": "498149657", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75007", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "COSTE", 
+        "prenom": "Thierry"
+      }
+    ], 
+    "dateCreation": "2017-09-15T14:49:19", 
+    "datePremierePublication": "2017-09-15T14:49:19", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "COSTE THIERRY", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "COSTE", 
+        "prenom": "Thierry"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "393791504", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0153595310", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/393791504.json", 
     "ville": "PARIS"
   }, 
   {
@@ -13624,6 +14051,120 @@
     "publierMonTelephoneDeContact": false, 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/394192389.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "SECURITE", 
+          "label": "Défense, sécurité", 
+          "ordre": 7
+        }, 
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }, 
+        {
+          "code": "SPORTS", 
+          "label": "Sports, loisirs, tourisme", 
+          "ordre": 27
+        }
+      ]
+    }, 
+    "adresse": "LOBBYING ET STRATEGIES\r\n90 B RUE DE VARENNE", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [
+      {
+        "denomination": "FEDERATION FRANCAISE DE BALL TRAP", 
+        "identifiantNational": "349958322", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION NATIONALE DES CHASSEURS", 
+        "identifiantNational": "439220153", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION FRANCAISE DE TIR", 
+        "identifiantNational": "784354409", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FONDATION ASSISTANCE AUX ANIMAUX", 
+        "identifiantNational": "311642342", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75007", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "COSTE", 
+        "prenom": "Thierry"
+      }
+    ], 
+    "dateCreation": "2017-09-15T14:52:15", 
+    "datePremierePublication": "2017-09-15T14:52:15", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "LOBBYING ET STRATEGIES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "COSTE", 
+        "prenom": "Thierry"
+      }
+    ], 
+    "emailDeContact": "thierry.coste@accesyst.com", 
+    "historique": [], 
+    "identifiantNational": "477598619", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0153595310", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/477598619.json", 
     "ville": "PARIS"
   }, 
   {
