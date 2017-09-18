@@ -6998,6 +6998,92 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }
+      ]
+    }, 
+    "adresse": "CREDIT AGRICOLE ASSURANCE\r\n50 56\r\n50 RUE DE LA PROCESSION", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION FRANCAISE DE L ASSURANCE", 
+        "identifiantNational": "784409013", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75015", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Responsable des affaires publiques", 
+        "nom": "JOLIVEL", 
+        "prenom": "Antoine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé d'affaires publiques", 
+        "nom": "CAMPREDON", 
+        "prenom": "Arthur"
+      }
+    ], 
+    "dateCreation": "2017-09-18T17:00:24", 
+    "datePremierePublication": "2017-09-18T17:00:24", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "CREDIT AGRICOLE ASSURANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "THOMAS", 
+        "prenom": "Frédéric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général Délégué", 
+        "nom": "LANGRENEY", 
+        "prenom": "Thierry"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général Délégué", 
+        "nom": "LE BIHAN", 
+        "prenom": "Henri"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "451746077", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/451746077.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -24769,9 +24855,9 @@
           "ordre": 21
         }, 
         {
-          "code": "SPORTS", 
-          "label": "Sports, loisirs, tourisme", 
-          "ordre": 27
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
         }
       ]
     }, 
@@ -24820,7 +24906,7 @@
         "prenom": "Constance"
       }
     ], 
-    "dateCreation": "2017-09-14T11:17:36", 
+    "dateCreation": "2017-09-18T17:44:30", 
     "datePremierePublication": "2017-09-14T11:17:36", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -24833,7 +24919,125 @@
         "prenom": "Thomas"
       }
     ], 
-    "historique": [], 
+    "emailDeContact": "thomas.m@tmarkoagency.com", 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }, 
+            {
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }, 
+            {
+              "code": "SPORTS", 
+              "label": "Sports, loisirs, tourisme", 
+              "ordre": 27
+            }
+          ]
+        }, 
+        "adresse": "THOMAS MARKO ET ASSOCIES\n22 AVENUE FRANKLIN DELANO ROOSEVELT", 
+        "affiliations": [
+          {
+            "denomination": "SYNTEC INGENIERIE", 
+            "identifiantNational": "384718839", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [
+          {
+            "denomination": "BOISSONS RAFRAICHISSANTES DE FRANCE", 
+            "identifiantNational": "430272039", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUP NAT INTERPRO SEMEN PLANT", 
+            "identifiantNational": "775657398", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75008", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "nom": "MARKO", 
+            "prenom": "Thomas"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Responsable Affaires publiques et règlementaires", 
+            "nom": "BIBET", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante Affaires publiques", 
+            "nom": "MOBUCHON", 
+            "prenom": "Constance"
+          }
+        ], 
+        "dateCreation": "2017-09-14T11:17:36", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "THOMAS MARKO ET ASSOCIES", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Fondateur-Directeur Associé", 
+            "nom": "MARKO", 
+            "prenom": "Thomas"
+          }
+        ], 
+        "identifiantNational": "341949410", 
+        "lienPageFacebook": "https://www.facebook.com/pg/tmaconseil", 
+        "lienPageLinkedin": "https://fr.linkedin.com/company/thomas-marko-&-associ-s", 
+        "lienPageTwitter": "https://twitter.com/tma_team", 
+        "lienSiteWeb": "http://www.thomasmarko-associes.com", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "341949410", 
     "lienPageFacebook": "https://www.facebook.com/pg/tmaconseil", 
     "lienPageLinkedin": "https://fr.linkedin.com/company/thomas-marko-&-associ-s", 
@@ -24843,6 +25047,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0144908260", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/341949410.json", 
     "ville": "PARIS"
