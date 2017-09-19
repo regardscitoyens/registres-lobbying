@@ -13345,6 +13345,108 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "ENTREPRISE", 
+          "label": "Gouvernance d’entreprise", 
+          "ordre": 14
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "PROREG", 
+          "label": "Professions réglementées", 
+          "ordre": 22
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "JEANTET AARPI\r\n87 89\r\n87 AVENUE KLEBER", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION DES AVOCATS LOBBYISTES", 
+        "identifiantNational": "W751210486", 
+        "typeIdentifiantNational": "RNA"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "AVCAB", 
+      "label": "Cabinet d’avocats"
+    }, 
+    "clients": [
+      {
+        "denomination": "YOU2YOU", 
+        "identifiantNational": "813538238", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SMALLBUSINESSACT.COM", 
+        "identifiantNational": "510605090", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "44 GALERIES LAFAYETTE - 44 GL", 
+        "identifiantNational": "552116329", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75116", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "PORTIER", 
+        "prenom": "Philippe"
+      }
+    ], 
+    "dateCreation": "2017-09-19T11:31:25", 
+    "datePremierePublication": "2017-09-19T11:31:25", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "JEANTET AARPI", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "ASSOCIE GERANT", 
+        "nom": "PORTIER", 
+        "prenom": "Philippe"
+      }
+    ], 
+    "emailDeContact": "pportier@jeantet.fr", 
+    "historique": [], 
+    "identifiantNational": "784657884", 
+    "lienPageLinkedin": "https://fr.linkedin.com/company/jeantet---avocats", 
+    "lienSiteWeb": "http://www.jeantet.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0145058057", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784657884.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -24884,6 +24986,11 @@
         "denomination": "GROUP NAT INTERPRO SEMEN PLANT", 
         "identifiantNational": "775657398", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHBR SYND INDUS DESINFECTION DESIN DERAT", 
+        "identifiantNational": "351053012", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "codePostal": "75008", 
@@ -24906,7 +25013,7 @@
         "prenom": "Constance"
       }
     ], 
-    "dateCreation": "2017-09-18T17:44:30", 
+    "dateCreation": "2017-09-19T11:07:33", 
     "datePremierePublication": "2017-09-14T11:17:36", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -25034,6 +25141,124 @@
         "publierMonAdresseEmail": true, 
         "publierMonAdressePhysique": true, 
         "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }, 
+            {
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "THOMAS MARKO ET ASSOCIES\n22 AVENUE FRANKLIN DELANO ROOSEVELT", 
+        "affiliations": [
+          {
+            "denomination": "SYNTEC INGENIERIE", 
+            "identifiantNational": "384718839", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [
+          {
+            "denomination": "BOISSONS RAFRAICHISSANTES DE FRANCE", 
+            "identifiantNational": "430272039", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUP NAT INTERPRO SEMEN PLANT", 
+            "identifiantNational": "775657398", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75008", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "nom": "MARKO", 
+            "prenom": "Thomas"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Responsable Affaires publiques et règlementaires", 
+            "nom": "BIBET", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante Affaires publiques", 
+            "nom": "MOBUCHON", 
+            "prenom": "Constance"
+          }
+        ], 
+        "dateCreation": "2017-09-18T17:44:30", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "THOMAS MARKO ET ASSOCIES", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Fondateur-Directeur Associé", 
+            "nom": "MARKO", 
+            "prenom": "Thomas"
+          }
+        ], 
+        "emailDeContact": "thomas.m@tmarkoagency.com", 
+        "identifiantNational": "341949410", 
+        "lienPageFacebook": "https://www.facebook.com/pg/tmaconseil", 
+        "lienPageLinkedin": "https://fr.linkedin.com/company/thomas-marko-&-associ-s", 
+        "lienPageTwitter": "https://twitter.com/tma_team", 
+        "lienSiteWeb": "http://www.thomasmarko-associes.com", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0144908260", 
         "typeIdentifiantNational": "SIREN", 
         "ville": "PARIS"
       }
