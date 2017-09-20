@@ -571,6 +571,157 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "ARCTURUS RHONE MEDITERRANEE\r\n9 QUAI DE RIVE NEUVE", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES (AFCL)", 
+        "identifiantNational": "H000000001", 
+        "typeIdentifiantNational": "HATVP"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COCAB", 
+      "label": "Cabinet de conseil"
+    }, 
+    "clients": [
+      {
+        "denomination": "BUREAU NATIONAL INTERPR COGNAC", 
+        "identifiantNational": "775563455", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CAF FRANCE", 
+        "identifiantNational": "542103148", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROPEAN QUADRICYCLE LEAGUE", 
+        "identifiantNational": "499161099", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DECLARANET", 
+        "identifiantNational": "502362981", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION PROFESSIONNELLE DES INTERMEDIAIRES EN CREDITS - APIC", 
+        "identifiantNational": "W751206285", 
+        "typeIdentifiantNational": "RNA"
+      }
+    ], 
+    "codePostal": "13001", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "TEISSEYRE", 
+        "prenom": "Gilles"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante Senior", 
+        "nom": "DUFOURNET", 
+        "prenom": "Charline"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Exécutif", 
+        "nom": "JUNG", 
+        "prenom": "Alain"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante", 
+        "nom": "SINI", 
+        "prenom": "Ghizlène"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "TEISSEYRE", 
+        "prenom": "Gilles"
+      }
+    ], 
+    "dateCreation": "2017-09-20T14:40:04", 
+    "datePremierePublication": "2017-09-20T14:40:04", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "ARCTURUS RHONE MEDITERRANEE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "TEISSEYRE", 
+        "prenom": "Gilles"
+      }
+    ], 
+    "emailDeContact": "marseille@arcturus-group.com", 
+    "historique": [], 
+    "identifiantNational": "500124037", 
+    "lienPageTwitter": "https://twitter.com/ArcturusMed?lang=fr", 
+    "lienSiteWeb": "http://www.arcturus-group.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "04 91 90 14 52", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/500124037.json", 
+    "ville": "MARSEILLE"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
@@ -2108,9 +2259,9 @@
         "typeIdentifiantNational": "HATVP"
       }, 
       {
-        "denomination": "COLLER CAPITAL LTD", 
-        "identifiantNational": "H000000025", 
-        "typeIdentifiantNational": "HATVP"
+        "denomination": "S.E.C. LINDSAY", 
+        "identifiantNational": "086150216", 
+        "typeIdentifiantNational": "SIREN"
       }, 
       {
         "denomination": "FIARO–FINANCIERE D’INVESTISSEMENT ARO", 
@@ -2381,6 +2532,16 @@
         "denomination": "IK INVESTMENT PARTNERS SAS", 
         "identifiantNational": "491121224", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ESSLING CAPITAL", 
+        "identifiantNational": "827573783", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "I&P", 
+        "identifiantNational": "441734746", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "codePostal": "75008", 
@@ -2404,7 +2565,7 @@
         "prenom": "Paul"
       }
     ], 
-    "dateCreation": "2017-09-05T12:28:19", 
+    "dateCreation": "2017-09-20T19:11:06", 
     "datePremierePublication": "2017-08-31T18:39:23", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -3761,9 +3922,9 @@
             "typeIdentifiantNational": "HATVP"
           }, 
           {
-            "denomination": "COLLER CAPITAL LTD", 
-            "identifiantNational": "H000000025", 
-            "typeIdentifiantNational": "HATVP"
+            "denomination": "S.E.C. LINDSAY", 
+            "identifiantNational": "086150216", 
+            "typeIdentifiantNational": "SIREN"
           }, 
           {
             "denomination": "FIARO–FINANCIERE D’INVESTISSEMENT ARO", 
@@ -4058,6 +4219,1674 @@
           }
         ], 
         "dateCreation": "2017-08-31T18:39:23", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "ASSO FRANCAISE INVESTISSEURS EN CAPITAL", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "MILLET", 
+            "prenom": "Olivier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "PERPERE", 
+            "prenom": "Paul"
+          }
+        ], 
+        "identifiantNational": "349165779", 
+        "lienPageLinkedin": "https://www.linkedin.com/company-beta/1089071/", 
+        "lienPageTwitter": "https://twitter.com/AFICasso", 
+        "lienSiteWeb": "http://www.afic.asso.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0147209909", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }, 
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }
+          ]
+        }, 
+        "adresse": "ASSO FRANCAISE INVESTISSEURS EN CAPITA\r\n23 RUE DE L ARCADE", 
+        "affiliations": [
+          {
+            "denomination": "MOUVEMENT ENTREPRISE FRANCE INTERNATIONA", 
+            "identifiantNational": "378236376", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CONFEDERATION DES PETITES ET MOYENNES ENTREPRISES", 
+            "identifiantNational": "303215016", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS  A F E C E I", 
+            "identifiantNational": "428419287", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PARIS EUROPLACE", 
+            "identifiantNational": "393769252", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FONDATION POUR PROSPECTIVE ET INNOVATION", 
+            "identifiantNational": "379606833", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CITIZEN ENTREPRENEURS", 
+            "identifiantNational": "505005025", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "STRATEXIO", 
+            "identifiantNational": "811196583", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION DES INVESTISSEURS INDIVIDUELS ET DES CLUBS D'INVESTISSEMENT", 
+            "identifiantNational": "784206104", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FORUM POUR L'INVESTI RESPONSAB - FRENCH", 
+            "identifiantNational": "440698413", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EUROPEAN PRIVATE EQUITY AND VENTURE CAPITAL ASSOCIATION (INVEST EUROPE)", 
+            "identifiantNational": "H000000036", 
+            "typeIdentifiantNational": "HATVP"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "ORPRO", 
+          "label": "Organisation professionnelle"
+        }, 
+        "clients": [
+          {
+            "denomination": "123 INVESTMENT MANAGERS", 
+            "identifiantNational": "432510345", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "21 CENTRALE PARTNERS", 
+            "identifiantNational": "421257270", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "360 CAPITAL PARTNERS", 
+            "identifiantNational": "498943471", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "3 I EUROPE PLC", 
+            "identifiantNational": "393050620", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "4D GLOBAL ENERGY ADVISORS", 
+            "identifiantNational": "444716914", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "A PLUS FINANCE", 
+            "identifiantNational": "420400699", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ABENEX CAPITAL", 
+            "identifiantNational": "418938528", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ACCESS CAPITAL PARTNERS", 
+            "identifiantNational": "421391764", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ACE MANAGEMENT", 
+            "identifiantNational": "429025422", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ACG CAPITAL", 
+            "identifiantNational": "392122370", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ACG MANAGEMENT", 
+            "identifiantNational": "432544773", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ACOFI GESTION", 
+            "identifiantNational": "415084433", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ACTIVA CAPITAL", 
+            "identifiantNational": "428998710", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALLIANCE DEVELOPPEMENT ET CONSEIL", 
+            "identifiantNational": "349462994", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ADVENT FRANCE BIOTECHNOLOGY", 
+            "identifiantNational": "814881520", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ADVENT INTERNATIONAL SAS", 
+            "identifiantNational": "413673617", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AGRO INVEST", 
+            "identifiantNational": "497774059", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALLIANCE ENTREPRENDRE", 
+            "identifiantNational": "399192327", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALOE PRIVATE EQUITY", 
+            "identifiantNational": "445290232", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALTER EQUITY", 
+            "identifiantNational": "513239848", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALVEN CAPITAL PARTNERS", 
+            "identifiantNational": "442935532", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AMS INDUSTRIES", 
+            "identifiantNational": "447948076", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AMUNDI PRIVATE EQUITY FUNDS", 
+            "identifiantNational": "422333575", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ANTIN INFRASTRUCTURE PARTNERS", 
+            "identifiantNational": "789002300", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "APAX PARTNERS MIDMARKET", 
+            "identifiantNational": "504829417", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "APAX PARTNERS SA", 
+            "identifiantNational": "309044840", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "APICAP", 
+            "identifiantNational": "438749962", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AQUASOURCA FRANCE", 
+            "identifiantNational": "409975802", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARCHIMED SAS", 
+            "identifiantNational": "795309525", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARCIS FINANCE", 
+            "identifiantNational": "392547527", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARDIAN FRANCE", 
+            "identifiantNational": "403201882", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARGOS SODITIC FRANCE", 
+            "identifiantNational": "377854682", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARKEA CAPITAL", 
+            "identifiantNational": "420761512", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASTER CAPITAL PARTNERS SAS", 
+            "identifiantNational": "414286567", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASTORG PARTNERS", 
+            "identifiantNational": "419838545", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ATLANTE GESTION", 
+            "identifiantNational": "417685344", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AUDACIA", 
+            "identifiantNational": "492471792", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AURIGA PARTNERS", 
+            "identifiantNational": "419156351", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AUXITEX - INSTITUT DE PARTICIPATION DU GRAND SUD OUEST", 
+            "identifiantNational": "387860851", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AXA LM FUND MANAGEMENT", 
+            "identifiantNational": "821960432", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AXA STRATEGIC VENTURES", 
+            "identifiantNational": "811958701", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AXELEO CAPITAL", 
+            "identifiantNational": "824690002", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AXIO CAPITAL", 
+            "identifiantNational": "800014664", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AZULIS CAPITAL", 
+            "identifiantNational": "424366839", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "B.C. PARTNERS.", 
+            "identifiantNational": "344578653", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "RB CAPITAL", 
+            "identifiantNational": "821868205", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BLACKFIN CAPITAL PARTNERS", 
+            "identifiantNational": "509679304", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BNP PARIBAS DEVELOPPEMENT", 
+            "identifiantNational": "348540592", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BPIFRANCE INVESTISSEMENT", 
+            "identifiantNational": "433975224", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BREEGA CAPITAL", 
+            "identifiantNational": "791519846", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BRIDGEPOINT PORTFOLIO SERVICES", 
+            "identifiantNational": "449056969", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BRIDGEPOINT SAS", 
+            "identifiantNational": "380223313", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BROWNFIELDS GESTION", 
+            "identifiantNational": "490897071", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BTP CAPITAL INVESTISSEMENT", 
+            "identifiantNational": "302527734", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BURELLE PARTICIPATIONS", 
+            "identifiantNational": "440050144", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BUTLER CAPITAL PARTNERS", 
+            "identifiantNational": "418930434", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CALAO FINANCE", 
+            "identifiantNational": "527724330", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CAP DECISIF MANAGEMENT", 
+            "identifiantNational": "494602808", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CAPAGRO", 
+            "identifiantNational": "800923906", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CAPELIA MANAGEMENT", 
+            "identifiantNational": "750343758", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CAPHORN INVEST", 
+            "identifiantNational": "521914382", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CAPITAL CROISSANCE", 
+            "identifiantNational": "753290865", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CAPITAL EXPORT", 
+            "identifiantNational": "524110343", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CAPITAL GRAND EST", 
+            "identifiantNational": "751542051", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CAPITEM PARTENAIRES", 
+            "identifiantNational": "791716145", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ATALANTE", 
+            "identifiantNational": "478003403", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CATHAY CAPITAL PRIVATE EQUITY", 
+            "identifiantNational": "490506045", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CATHAY INNOVATION", 
+            "identifiantNational": "818298184", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CAVIPAR", 
+            "identifiantNational": "439638479", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CDC INTERNATIONAL CAPITAL", 
+            "identifiantNational": "504586363", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CEA INVESTISSEMENT", 
+            "identifiantNational": "423426899", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CENTRE CAPITAL DEVELOPPEMENT", 
+            "identifiantNational": "341256543", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CEREA PARTENAIRE", 
+            "identifiantNational": "453706236", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CHEQUERS PARTENAIRES", 
+            "identifiantNational": "350505335", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CICLAD GESTION", 
+            "identifiantNational": "429562267", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CINVEN", 
+            "identifiantNational": "424123487", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CIE INVEST TECHNOLOG AVANCEES", 
+            "identifiantNational": "332112838", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CISCO SYSTEMS FRANCE", 
+            "identifiantNational": "349166561", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CITY STAR INDUSTRY INVESTMENT", 
+            "identifiantNational": "750382780", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CM-CIC INNOVATION", 
+            "identifiantNational": "344967336", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CM-CIC PRIVATE DEBT", 
+            "identifiantNational": "503110595", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COLBERT DEVELOPPEMENT", 
+            "identifiantNational": "812513919", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CARVEST CREDIT AGRICOLE REGIONS INVERTIS", 
+            "identifiantNational": "453051641", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CROISSANCE NORD PAS DE CALAIS", 
+            "identifiantNational": "381937382", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DAPHNI", 
+            "identifiantNational": "811341924", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DAYLIGHT CONSEILS", 
+            "identifiantNational": "484458344", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DEMETER PARTNERS", 
+            "identifiantNational": "483279923", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ELIGE CAPITAL", 
+            "identifiantNational": "809972581", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EMERTEC GESTION", 
+            "identifiantNational": "423843267", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ENTREPRENEUR VENTURE GESTION", 
+            "identifiantNational": "431633452", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EQUISTONE PARTNERS EUROPE S.A.S", 
+            "identifiantNational": "379716699", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EQUITIS GESTION", 
+            "identifiantNational": "431252121", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EURAZEO PME", 
+            "identifiantNational": "414908624", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EUREFI", 
+            "identifiantNational": "382532554", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EURO PRIVATE EQUITY FRANCE", 
+            "identifiantNational": "494738750", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FFP", 
+            "identifiantNational": "562075390", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FIN'ACTIVE - CONSEIL ET INVESTISSEMENT", 
+            "identifiantNational": "450528864", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FONDATIONS CAPITAL FRANCE", 
+            "identifiantNational": "449684646", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FONDINVEST CAPITAL", 
+            "identifiantNational": "394630420", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FRENCH FOOD CAPITAL", 
+            "identifiantNational": "824529986", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GALIA GESTION", 
+            "identifiantNational": "442329967", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GALIENA CAPITAL", 
+            "identifiantNational": "501763163", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INFRAVIA CAPITAL PARTNERS", 
+            "identifiantNational": "502203953", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INNOVACOM GESTION", 
+            "identifiantNational": "430087429", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INTER INVEST CAPITAL", 
+            "identifiantNational": "809672165", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "I SOURCE GESTION", 
+            "identifiantNational": "420748097", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "QUALIUM INVESTISSEMENT", 
+            "identifiantNational": "394791115", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "RE-SOURCES CAPITAL", 
+            "identifiantNational": "807657762", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOCIETE GENERALE CAPITAL PARTENAIRES", 
+            "identifiantNational": "304973357", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOFIPACA", 
+            "identifiantNational": "327785614", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "STARQUEST", 
+            "identifiantNational": "750953549", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TIKEHAU INVESTMENT MANAGEMENT", 
+            "identifiantNational": "491909446", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TIME FOR GROWTH", 
+            "identifiantNational": "509544300", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNIGRAINS DEVELOPPEMENT", 
+            "identifiantNational": "815027271", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VERMEER CAPITAL PARTNERS", 
+            "identifiantNational": "494007644", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AFRICINVEST", 
+            "identifiantNational": "H000000032", 
+            "typeIdentifiantNational": "HATVP"
+          }, 
+          {
+            "denomination": "CITIZEN CAPITAL PARTENAIRES", 
+            "identifiantNational": "528015415", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CM-CIC CAPITAL PRIVE", 
+            "identifiantNational": "420331480", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CM-CIC INVESTISSEMENT", 
+            "identifiantNational": "562118299", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COBALT CAPITAL", 
+            "identifiantNational": "453974586", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CIE DE GESTION ET DE PARTICIPATION", 
+            "identifiantNational": "334054632", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COMMITTED ADVISORS", 
+            "identifiantNational": "518675780", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CONNECT PRO", 
+            "identifiantNational": "538639139", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CREADEV", 
+            "identifiantNational": "441681889", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CVC CAPITAL PARTNERS (FRANCE) SA", 
+            "identifiantNational": "449491208", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EDMOND DE ROTHSCHILD INVESTMENT PARTNERS", 
+            "identifiantNational": "444071989", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EKKIO CAPITAL", 
+            "identifiantNational": "791678964", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ELAIA PARTNERS", 
+            "identifiantNational": "443990668", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ELEPHANTS & VENTURES", 
+            "identifiantNational": "791826837", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EMZ PARTNERS", 
+            "identifiantNational": "423762814", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EPF PARTNERS", 
+            "identifiantNational": "405149055", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ESFIN GESTION", 
+            "identifiantNational": "523138527", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ETOILE ID", 
+            "identifiantNational": "562121954", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EURAZEO", 
+            "identifiantNational": "692030992", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EUROPEAN CAPITAL FINANCIAL SCE LIMITED", 
+            "identifiantNational": "481605863", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FA DIESE 3", 
+            "identifiantNational": "801832601", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FAIR WEST S1", 
+            "identifiantNational": "751892738", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CONSOLIDATION ET DEVELOPPEMENT GESTION", 
+            "identifiantNational": "517624979", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FINADVANCE", 
+            "identifiantNational": "345156814", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FINANCIERE FLORENTINE", 
+            "identifiantNational": "504301235", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FINORPA GESTION", 
+            "identifiantNational": "821636453", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FINOVAM GESTION", 
+            "identifiantNational": "810733824", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FLC - ILP - SADEPAR GESTION", 
+            "identifiantNational": "503861452", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FLORAC", 
+            "identifiantNational": "500808761", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FONDS DE DOTATION POUR LE SOUTIEN ET L INNOVATION DES PME DANS L INDUSTRIE NANO ET MICRO ELECTRONIQUE", 
+            "identifiantNational": "813693900", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FRANCE VALLEY", 
+            "identifiantNational": "797547288", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IDIA", 
+            "identifiantNational": "508667094", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IFE MEZZANINE", 
+            "identifiantNational": "419935952", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IMPACT PARTENAIRES", 
+            "identifiantNational": "509104725", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INDIGO CAPITAL", 
+            "identifiantNational": "532447158", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INDUSTRIES ET FINANCES PARTENAIRES", 
+            "identifiantNational": "419682836", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INITIATIVE ET FINANCE GESTION", 
+            "identifiantNational": "343373825", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CA INDOSUEZ WEALTH (FRANCE)", 
+            "identifiantNational": "572171635", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INFRALION CAPITAL MANAGEMENT", 
+            "identifiantNational": "821430402", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INNOVAFONDS", 
+            "identifiantNational": "503327736", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INOCAP GESTION", 
+            "identifiantNational": "500207873", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IPSA", 
+            "identifiantNational": "418248019", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IRDI SORIDEC GESTION", 
+            "identifiantNational": "808610927", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IRIS CAPITAL MANAGEMENT", 
+            "identifiantNational": "424495315", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ISAI GESTION", 
+            "identifiantNational": "508804507", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IXO PRIVATE EQUITY", 
+            "identifiantNational": "444705156", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AQUA ASSET MANAGEMENT", 
+            "identifiantNational": "433515616", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LATOUR CAPITAL MANAGEMENT SAS", 
+            "identifiantNational": "532765120", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LBO FRANCE GESTION", 
+            "identifiantNational": "418354502", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COMPTOIR DE L'INNOVATION INVESTISSEMENT", 
+            "identifiantNational": "534107115", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "M CAPITAL PARTNERS", 
+            "identifiantNational": "443003504", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "M.A.B. CONSEILS", 
+            "identifiantNational": "392585188", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MBO PARTENAIRES", 
+            "identifiantNational": "443024237", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MEESCHAERT CAPITAL PARTNERS", 
+            "identifiantNational": "789728458", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MONTEFIORE INVESTMENT", 
+            "identifiantNational": "453184806", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MOTION EQUITY PARTNERS", 
+            "identifiantNational": "393450093", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MULTICROISSANCE", 
+            "identifiantNational": "341973899", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NAXICAP PARTNERS", 
+            "identifiantNational": "437558893", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NCI", 
+            "identifiantNational": "432501500", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NEXSTAGE AM", 
+            "identifiantNational": "442666830", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NIXEN PARTNERS", 
+            "identifiantNational": "432413565", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ODICEA", 
+            "identifiantNational": "521958454", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ODYSSEE VENTURE", 
+            "identifiantNational": "425130937", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OMNES CAPITAL", 
+            "identifiantNational": "428711196", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ORIUM", 
+            "identifiantNational": "410343412", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ORKOS CAPITAL", 
+            "identifiantNational": "493099469", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OTIUM MANAGEMENT", 
+            "identifiantNational": "518150834", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PALUEL - MARMONT CAPITAL", 
+            "identifiantNational": "529218281", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PARIS ANGELS CAPITAL", 
+            "identifiantNational": "508887338", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PARTECH PARTNERS", 
+            "identifiantNational": "490937216", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PECHEL INDUSTRIES PARTENAIRES", 
+            "identifiantNational": "477580195", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PERFECTIS PRIVATE EQUITY", 
+            "identifiantNational": "430312512", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PHILLIMORE", 
+            "identifiantNational": "451377329", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PHITRUST IMPACT INVESTORS", 
+            "identifiantNational": "450119607", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SIGMA GESTION", 
+            "identifiantNational": "477810535", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SIPAREX INGENIERIE ET FINANCE SIGEFI", 
+            "identifiantNational": "331595587", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SIPAREX PROXIMITE INNOVATION", 
+            "identifiantNational": "452276181", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOCIETE DE CAPITAL DEVELOPPEMENT D'ILE DE FRANCE", 
+            "identifiantNational": "354082299", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SODERO GESTION", 
+            "identifiantNational": "454026394", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOFINNOVA PARTNERS", 
+            "identifiantNational": "413388596", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SPRING", 
+            "identifiantNational": "812696276", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRUFFLE CAPITAL", 
+            "identifiantNational": "432942647", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNIGRAINS", 
+            "identifiantNational": "642008296", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VALEURS MOBILIERES ELYSEES", 
+            "identifiantNational": "302237870", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VENTECH", 
+            "identifiantNational": "410316699", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VERTO CAPITAL MANAGEMENT", 
+            "identifiantNational": "821694064", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VENDIS CAPITAL MANAGEMENT", 
+            "identifiantNational": "H000000031", 
+            "typeIdentifiantNational": "HATVP"
+          }, 
+          {
+            "denomination": "HIVEST CAPITAL PARTNERS", 
+            "identifiantNational": "823869979", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEMU QUI VENTURES", 
+            "identifiantNational": "820014900", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AMUNDI TRANSITION ENERGETIQUE", 
+            "identifiantNational": "804751147", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "D&P FINANCE", 
+            "identifiantNational": "494124977", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GRAND SUD-OUEST CAPITAL SA", 
+            "identifiantNational": "344276134", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GREEN RECOVERY II", 
+            "identifiantNational": "489495986", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "H.I.G. EUROPEAN CAPITAL PARTNERS S.A.S.", 
+            "identifiantNational": "494945660", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KURMA PARTNERS", 
+            "identifiantNational": "510043136", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "L CATTERTON EUROPE", 
+            "identifiantNational": "433485596", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "RISQUE & SERENITE", 
+            "identifiantNational": "419403449", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SAFRAN CORPORATE VENTURES", 
+            "identifiantNational": "501500300", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SAGARD SAS", 
+            "identifiantNational": "439725524", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SEB ALLIANCE", 
+            "identifiantNational": "440410918", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "YRIX CAPITAL CONSEIL", 
+            "identifiantNational": "445009921", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CECP INVESTMENT ADVISORS FRANCE", 
+            "identifiantNational": "421369869", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AFRICINVEST EUROPE", 
+            "identifiantNational": "823175484", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EXTENDAM", 
+            "identifiantNational": "789931318", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ECOMOBILITE VENTURES", 
+            "identifiantNational": "535407068", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EDMOND DE ROTHSCHILD PRIVATE EQUITY (FRANCE)", 
+            "identifiantNational": "448804575", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GALILEO PARTNERS", 
+            "identifiantNational": "419765128", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GARIBALDI PARTICIPATIONS", 
+            "identifiantNational": "451668891", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GENERIS CAPITAL PARTNERS", 
+            "identifiantNational": "505376426", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HI INOV", 
+            "identifiantNational": "753525385", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HOTEL INVESTISSEMENT CAPITAL", 
+            "identifiantNational": "809963945", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IBIONEXT", 
+            "identifiantNational": "813577079", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ICI CAPITAL", 
+            "identifiantNational": "791114754", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ILE DE FRANCE CAPITAL", 
+            "identifiantNational": "401380118", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IDI", 
+            "identifiantNational": "328479753", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IDINVEST PARTNERS", 
+            "identifiantNational": "414735175", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KOHLBERG KRAVIS ROBERTS & CO", 
+            "identifiantNational": "481810430", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SENEVE CAPITAL", 
+            "identifiantNational": "529262628", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SERENA CAPITAL", 
+            "identifiantNational": "504262650", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SEVENTURE PARTNERS", 
+            "identifiantNational": "327205258", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TECHFUND CAPITAL EUROPE MANAGEMENT", 
+            "identifiantNational": "432392322", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "WREZEL", 
+            "identifiantNational": "438132557", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FIVE ARROWS PRINCIPAL INVESTMENTS", 
+            "identifiantNational": "H000000027", 
+            "typeIdentifiantNational": "HATVP"
+          }, 
+          {
+            "denomination": "POINCARE GESTION", 
+            "identifiantNational": "523837110", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KREAXI", 
+            "identifiantNational": "424367035", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "XERYS GESTION", 
+            "identifiantNational": "793135450", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GIMV FRANCE", 
+            "identifiantNational": "498412568", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GO CAPITAL", 
+            "identifiantNational": "445284458", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SEILLANS INVESTISSEMENT SCR", 
+            "identifiantNational": "484645825", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EDIFY SA", 
+            "identifiantNational": "809893670", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CD&R LLP", 
+            "identifiantNational": "H000000024", 
+            "typeIdentifiantNational": "HATVP"
+          }, 
+          {
+            "denomination": "S.E.C. LINDSAY", 
+            "identifiantNational": "086150216", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FIARO–FINANCIERE D’INVESTISSEMENT ARO", 
+            "identifiantNational": "H000000026", 
+            "typeIdentifiantNational": "HATVP"
+          }, 
+          {
+            "denomination": "LT CAPITAL", 
+            "identifiantNational": "825146913", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "JACANA INVEST", 
+            "identifiantNational": "791617806", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "JMYX HOLDING", 
+            "identifiantNational": "804312015", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "JOLT CAPITAL", 
+            "identifiantNational": "535249387", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KEENSIGHT CAPITAL", 
+            "identifiantNational": "509104527", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MATIGNON INVESTISSEMENT ET GESTION", 
+            "identifiantNational": "404380305", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MERIDIAM", 
+            "identifiantNational": "483579389", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MIROVA", 
+            "identifiantNational": "394648216", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MONTAGU PRIVATE EQUITY S.A.S.", 
+            "identifiantNational": "447775669", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MORINGA PARTNERSHIP", 
+            "identifiantNational": "789961893", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NATIXIS GLOBAL ASSET MANAGEMENT", 
+            "identifiantNational": "453952681", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NEF INVESTISSEMENT", 
+            "identifiantNational": "499087336", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NEWFUND MANAGEMENT", 
+            "identifiantNational": "501215115", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NORD CAPITAL PARTENAIRES", 
+            "identifiantNational": "522679133", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NORD EUROPE PARTENARIAT", 
+            "identifiantNational": "345351225", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ORANGE DIGITAL INVESTMENT", 
+            "identifiantNational": "306769688", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OUEST CROISSANCE", 
+            "identifiantNational": "342048022", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PAI PARTNERS", 
+            "identifiantNational": "443837331", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PARQUEST CAPITAL", 
+            "identifiantNational": "438921637", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PARTICIPEX GESTION", 
+            "identifiantNational": "432398527", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PARVILLA", 
+            "identifiantNational": "492157094", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PAUL CAPITAL FRANCE", 
+            "identifiantNational": "411264849", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PERCEVA", 
+            "identifiantNational": "500208152", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PERSPECTIVES ET PARTICIPATIONS", 
+            "identifiantNational": "334258506", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PICARDIE INVESTISSEMENT SA", 
+            "identifiantNational": "331554527", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PLEIADE INVESTISSEMENT", 
+            "identifiantNational": "432049781", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PORTALIS AM", 
+            "identifiantNational": "752095430", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PRAGMA CAPITAL", 
+            "identifiantNational": "437666373", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "QUADRILLE CAPITAL", 
+            "identifiantNational": "495392458", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "QUADRIVIUM VENTURES", 
+            "identifiantNational": "532350360", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "QUAERO CAPITAL (FRANCE) S.A.S", 
+            "identifiantNational": "802673491", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "RAISE CONSEIL", 
+            "identifiantNational": "790891592", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "REL CONSEILS", 
+            "identifiantNational": "344334594", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SILVERFLEET CAPITAL", 
+            "identifiantNational": "425037876", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOPROMEC PARTICIPATIONS", 
+            "identifiantNational": "642047161", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SUEZ VENTURES", 
+            "identifiantNational": "504726720", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SWEN CAPITAL PARTNERS", 
+            "identifiantNational": "803812593", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TCR CAPITAL SAS", 
+            "identifiantNational": "437630353", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TERTIUM MANAGEMENT", 
+            "identifiantNational": "810153494", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TURENNE CAPITAL PARTENAIRES", 
+            "identifiantNational": "428167910", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "U I GESTION S.A.", 
+            "identifiantNational": "417810538", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNEXO", 
+            "identifiantNational": "393557418", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VAUBAN PARTENAIRES", 
+            "identifiantNational": "388933533", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VESPA CAPITAL FRANCE", 
+            "identifiantNational": "504366014", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "WEINBERG CAPITAL PARTNERS", 
+            "identifiantNational": "481485738", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "WENDEL", 
+            "identifiantNational": "572174035", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NOVX CAPITAL", 
+            "identifiantNational": "H000000028", 
+            "typeIdentifiantNational": "HATVP"
+          }, 
+          {
+            "denomination": "NTF CAPITAL", 
+            "identifiantNational": "H000000029", 
+            "typeIdentifiantNational": "HATVP"
+          }, 
+          {
+            "denomination": "TPG CAPITAL", 
+            "identifiantNational": "H000000030", 
+            "typeIdentifiantNational": "HATVP"
+          }, 
+          {
+            "denomination": "AALPS CAPITAL FRANCE", 
+            "identifiantNational": "828342220", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOFIVAL", 
+            "identifiantNational": "562041707", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "1KUBATOR", 
+            "identifiantNational": "538781592", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IK INVESTMENT PARTNERS SAS", 
+            "identifiantNational": "491121224", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75008", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Secrétaire générale", 
+            "nom": "VASSAUX", 
+            "prenom": "France"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "MILLET", 
+            "prenom": "Olivier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "PERPERE", 
+            "prenom": "Paul"
+          }
+        ], 
+        "dateCreation": "2017-09-05T12:28:19", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": true, 
         "denomination": "ASSO FRANCAISE INVESTISSEURS EN CAPITAL", 
@@ -13822,6 +15651,120 @@
     "telephoneDeContact": "01 84 25 00 81", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/824971154.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "PROREG", 
+          "label": "Professions réglementées", 
+          "ordre": 22
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "Confédération des buralistes\n23-25 rue Chaptal\n", 
+    "affiliations": [
+      {
+        "denomination": "CONFED GENERALE PETITES MOYENNES ENTREPR", 
+        "identifiantNational": "316809367", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "VASLIN", 
+        "prenom": "Jean-Paul"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé de missions", 
+        "nom": "LEGROS", 
+        "prenom": "Guillaume"
+      }
+    ], 
+    "dateCreation": "2017-09-20T18:06:04", 
+    "datePremierePublication": "2017-09-20T18:06:04", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "LA CONFEDERATION NATIONALE DES BURALISTES DE FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président national", 
+        "nom": "MONTREDON", 
+        "prenom": "Pascal"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire général", 
+        "nom": "RENAUD", 
+        "prenom": "Jean-Luc"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Trésorier général", 
+        "nom": "GUIFFÈS", 
+        "prenom": "Michel"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "784359796", 
+    "lienPageFacebook": "https://www.facebook.com/lesburalistes/?ref=br_rs", 
+    "lienPageTwitter": "https://twitter.com/LesBuralistes?lang=fr", 
+    "lienSiteWeb": "http://www.buralistes.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784359796.json", 
     "ville": "PARIS"
   }, 
   {
@@ -25275,6 +27218,714 @@
     "telephoneDeContact": "0144908260", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/341949410.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "TILDER\n28 rue bayard", 
+    "affiliations": [
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "784668618", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TRANSPARENCY INTERNATIONAL FRANCE", 
+        "identifiantNational": "425138393", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS MEDECINE RECHERCHE EN AFRIQUE", 
+        "identifiantNational": "438971426", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CERCLE DE L UNION INTERALLIEE", 
+        "identifiantNational": "784329161", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT MONTAIGNE", 
+        "identifiantNational": "444920318", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INITIADROIT", 
+        "identifiantNational": "492321492", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COLLECTIF EUROPANOVA", 
+        "identifiantNational": "452126931", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS FRANCAISE POUR LES NATIONS UNIES", 
+        "identifiantNational": "432749695", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COCAB", 
+      "label": "Cabinet de conseil"
+    }, 
+    "clients": [
+      {
+        "denomination": "ELSEVIER HOLDING FRANCE", 
+        "identifiantNational": "442233284", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ENGIE", 
+        "identifiantNational": "542107651", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE CIVILE DE GESTION ESSEC CERGY", 
+        "identifiantNational": "306881319", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPAMA SA", 
+        "identifiantNational": "343115135", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LEGO SYSTEM A S", 
+        "identifiantNational": "329035752", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "784668618", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ORANGE", 
+        "identifiantNational": "380129866", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNDICAT INTERDEPARTEMENTAL POUR L ASSAINISSEMENT DE L AGGLOMERATION PARISIENNE", 
+        "identifiantNational": "257550004", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DENTSU AEGIS NETWORK FRANCE", 
+        "identifiantNational": "352567986", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROSTAR INTERNATIONAL LIMITED", 
+        "identifiantNational": "525010708", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GIE RAMSAY GENERALE DE SANTE", 
+        "identifiantNational": "429427008", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPE ROUSSELET", 
+        "identifiantNational": "388718496", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HSBC FRANCE", 
+        "identifiantNational": "775670284", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NEXANS FRANCE", 
+        "identifiantNational": "428593230", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OMNIUM FINANCE", 
+        "identifiantNational": "413583022", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PARIS PHARMA SAS", 
+        "identifiantNational": "491892170", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HOLDING DES CENTRES POINT VISION", 
+        "identifiantNational": "534199385", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "YANCO BY S4M", 
+        "identifiantNational": "800356354", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SNCF", 
+        "identifiantNational": "808332670", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SUEZ", 
+        "identifiantNational": "433466570", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TIGF INVESTISSEMENTS", 
+        "identifiantNational": "790113724", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BANQUE DU GROUPE CASINO", 
+        "identifiantNational": "434130423", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BUFFALO GRILL", 
+        "identifiantNational": "318906443", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALLIANZ I.A.R.D.", 
+        "identifiantNational": "542110291", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AYMING", 
+        "identifiantNational": "414119735", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Associé", 
+        "nom": "REYNE", 
+        "prenom": "Clément"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Associé", 
+        "nom": "BOUDOT", 
+        "prenom": "Nicolas"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Associé - COO", 
+        "nom": "JUBIN", 
+        "prenom": "Guillaume"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directice Associée", 
+        "nom": "MOTTA RIVEY", 
+        "prenom": "Aurélie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "LERIDON", 
+        "prenom": "Matthias"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directice Associée", 
+        "nom": "KLEIN", 
+        "prenom": "Marie-Virginie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Associé", 
+        "nom": "LATROBE", 
+        "prenom": "Frédéric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Associé", 
+        "nom": "CHAMBENOIS", 
+        "prenom": "Bertrand"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Manager", 
+        "nom": "HARDY", 
+        "prenom": "Caroline"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Manager", 
+        "nom": "DUPUY", 
+        "prenom": "Jérome"
+      }
+    ], 
+    "dateCreation": "2017-09-20T16:22:04", 
+    "datePremierePublication": "2017-09-20T15:48:58", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "TILDER", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "LERIDON", 
+        "prenom": "Matthias"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Associée", 
+        "nom": "MOTTA RIVEY", 
+        "prenom": "Aurélie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chief Operating Officer - Directeur Associé", 
+        "nom": "JUBIN", 
+        "prenom": "Guillaume"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Associé", 
+        "nom": "REYNE", 
+        "prenom": "Clément"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Associé", 
+        "nom": "BOUDOT", 
+        "prenom": "Nicolas"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Associé", 
+        "nom": "LATROBE", 
+        "prenom": "Frédéric"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directice Associée", 
+        "nom": "KLEIN", 
+        "prenom": "Marie-Virginie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Associé", 
+        "nom": "CHAMBENOIS", 
+        "prenom": "Bertrand"
+      }
+    ], 
+    "emailDeContact": "c.reyne@tilder.com", 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }, 
+            {
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "TILDER\n28 rue bayard", 
+        "affiliations": [
+          {
+            "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+            "identifiantNational": "784668618", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRANSPARENCY INTERNATIONAL FRANCE", 
+            "identifiantNational": "425138393", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS MEDECINE RECHERCHE EN AFRIQUE", 
+            "identifiantNational": "438971426", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CERCLE DE L UNION INTERALLIEE", 
+            "identifiantNational": "784329161", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INSTITUT MONTAIGNE", 
+            "identifiantNational": "444920318", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INITIADROIT", 
+            "identifiantNational": "492321492", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COLLECTIF EUROPANOVA", 
+            "identifiantNational": "452126931", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS FRANCAISE POUR LES NATIONS UNIES", 
+            "identifiantNational": "432749695", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AVO_CONS", 
+          "code": "COCAB", 
+          "label": "Cabinet de conseil"
+        }, 
+        "clients": [
+          {
+            "denomination": "ELSEVIER HOLDING FRANCE", 
+            "identifiantNational": "442233284", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ENGIE", 
+            "identifiantNational": "542107651", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOCIETE CIVILE DE GESTION ESSEC CERGY", 
+            "identifiantNational": "306881319", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPAMA SA", 
+            "identifiantNational": "343115135", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LEGO SYSTEM A S", 
+            "identifiantNational": "329035752", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+            "identifiantNational": "784668618", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ORANGE", 
+            "identifiantNational": "380129866", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNDICAT INTERDEPARTEMENTAL POUR L ASSAINISSEMENT DE L AGGLOMERATION PARISIENNE", 
+            "identifiantNational": "257550004", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DENTSU AEGIS NETWORK FRANCE", 
+            "identifiantNational": "352567986", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EUROSTAR INTERNATIONAL LIMITED", 
+            "identifiantNational": "525010708", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GIE RAMSAY GENERALE DE SANTE", 
+            "identifiantNational": "429427008", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPE ROUSSELET", 
+            "identifiantNational": "388718496", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HSBC FRANCE", 
+            "identifiantNational": "775670284", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NEXANS FRANCE", 
+            "identifiantNational": "428593230", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OMNIUM FINANCE", 
+            "identifiantNational": "413583022", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PARIS PHARMA SAS", 
+            "identifiantNational": "491892170", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HOLDING DES CENTRES POINT VISION", 
+            "identifiantNational": "534199385", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "YANCO BY S4M", 
+            "identifiantNational": "800356354", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SNCF", 
+            "identifiantNational": "808332670", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SUEZ", 
+            "identifiantNational": "433466570", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TIGF INVESTISSEMENTS", 
+            "identifiantNational": "790113724", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BANQUE DU GROUPE CASINO", 
+            "identifiantNational": "434130423", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BUFFALO GRILL", 
+            "identifiantNational": "318906443", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALLIANZ I.A.R.D.", 
+            "identifiantNational": "542110291", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AYMING", 
+            "identifiantNational": "414119735", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75008", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Associé", 
+            "nom": "REYNE", 
+            "prenom": "Clément"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Associé", 
+            "nom": "BOUDOT", 
+            "prenom": "Nicolas"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Associé - COO", 
+            "nom": "JUBIN", 
+            "prenom": "Guillaume"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directice Associée", 
+            "nom": "MOTTA RIVEY", 
+            "prenom": "Aurélie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "LERIDON", 
+            "prenom": "Matthias"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directice Associée", 
+            "nom": "KLEIN", 
+            "prenom": "Marie-Virginie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Associé", 
+            "nom": "LATROBE", 
+            "prenom": "Frédéric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Associé", 
+            "nom": "CHAMBENOIS", 
+            "prenom": "Bertrand"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Manager", 
+            "nom": "HARDY", 
+            "prenom": "Caroline"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Manager", 
+            "nom": "DUPUY", 
+            "prenom": "Jérome"
+          }
+        ], 
+        "dateCreation": "2017-09-20T15:48:58", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "TILDER", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "LERIDON", 
+            "prenom": "Matthias"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Associée", 
+            "nom": "MOTTA RIVEY", 
+            "prenom": "Aurélie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Chief Operating Officer - Directeur Associé", 
+            "nom": "JUBIN", 
+            "prenom": "Guillaume"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Associé", 
+            "nom": "REYNE", 
+            "prenom": "Clément"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Associé", 
+            "nom": "BOUDOT", 
+            "prenom": "Nicolas"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Associé", 
+            "nom": "LATROBE", 
+            "prenom": "Frédéric"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directice Associée", 
+            "nom": "KLEIN", 
+            "prenom": "Marie-Virginie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Associé", 
+            "nom": "CHAMBENOIS", 
+            "prenom": "Bertrand"
+          }
+        ], 
+        "emailDeContact": "c.reyne@tilder.com", 
+        "identifiantNational": "380780262", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/2369184/", 
+        "lienPageTwitter": "https://twitter.com/tilderparis", 
+        "lienSiteWeb": "http://www.tilder.com", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0144149999", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
+    "identifiantNational": "380780262", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/2369184/", 
+    "lienPageTwitter": "https://twitter.com/tilderparis", 
+    "lienSiteWeb": "http://www.tilder.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0144149999", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/380780262.json", 
     "ville": "PARIS"
   }, 
   {
