@@ -468,6 +468,11 @@
         "denomination": "COLLECTIF DES ACTEURS DE LA CIGARETTE ELECTRONIQUE", 
         "identifiantNational": "798356911", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPE BRANDT", 
+        "identifiantNational": "799632443", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "codePostal": "75008", 
@@ -526,7 +531,7 @@
         "prenom": "Gilles"
       }
     ], 
-    "dateCreation": "2017-09-15T14:37:26", 
+    "dateCreation": "2017-09-21T09:13:44", 
     "datePremierePublication": "2017-09-15T14:37:26", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -546,7 +551,206 @@
       }
     ], 
     "emailDeContact": "paris@arcturus-group.com", 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }, 
+            {
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "ARCTURUS FRANCE\r\n17 RUE DE MIROMESNIL", 
+        "affiliations": [
+          {
+            "denomination": "ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES (AFCL)", 
+            "identifiantNational": "H000000001", 
+            "typeIdentifiantNational": "HATVP"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AVO_CONS", 
+          "code": "COCAB", 
+          "label": "Cabinet de conseil"
+        }, 
+        "clients": [
+          {
+            "denomination": "L'AIR LIQUIDE SOCIETE ANONYME POUR L'ETUDE ET L'EXPLOITATION DES PROCEDES GEORGES CLAUDE", 
+            "identifiantNational": "552096281", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COMITE INTERPROF VIN APPELLATION ORIGINE", 
+            "identifiantNational": "448179333", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MELITTA FRANCE", 
+            "identifiantNational": "717280143", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HEETCH", 
+            "identifiantNational": "794693960", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION INTERCEREALES", 
+            "identifiantNational": "452007545", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MOBIVIA", 
+            "identifiantNational": "470501545", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CAPITALCOM", 
+            "identifiantNational": "485135875", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PASSION CEREALES UNE CULTURE A PARTAGER", 
+            "identifiantNational": "483901096", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COLLECTIF DES ACTEURS DE LA CIGARETTE ELECTRONIQUE", 
+            "identifiantNational": "798356911", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75008", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "nom": "DUBOIS COLINEAU", 
+            "prenom": "Agnès"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Exécutif Adjoint", 
+            "nom": "BODARD", 
+            "prenom": "Etienne"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Associée", 
+            "nom": "DEFARGES", 
+            "prenom": "Mathilde"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante Senior", 
+            "nom": "COUDARD", 
+            "prenom": "Estelle"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante", 
+            "nom": "MARTIN", 
+            "prenom": "Morgane"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante", 
+            "nom": "MULLER", 
+            "prenom": "Angela"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Consultant stagiaire", 
+            "nom": "GAUTIER", 
+            "prenom": "Gaetan"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante stagiaire", 
+            "nom": "MIRAULT", 
+            "prenom": "Mathilde"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "TEISSEYRE", 
+            "prenom": "Gilles"
+          }
+        ], 
+        "dateCreation": "2017-09-15T14:37:26", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "ARCTURUS FRANCE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Co-gérant, Président", 
+            "nom": "TEISSEYRE", 
+            "prenom": "Gilles"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Co-gérante, Directrice Générale Exécutive", 
+            "nom": "DUBOIS COLINEAU", 
+            "prenom": "Agnes"
+          }
+        ], 
+        "emailDeContact": "paris@arcturus-group.com", 
+        "identifiantNational": "443058854", 
+        "lienPageTwitter": "https://twitter.com/ArcturusFR?lang=fr", 
+        "lienSiteWeb": "http://www.arcturus-group.com", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0156885210", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "443058854", 
     "lienPageTwitter": "https://twitter.com/ArcturusFR?lang=fr", 
     "lienSiteWeb": "http://www.arcturus-group.com", 
