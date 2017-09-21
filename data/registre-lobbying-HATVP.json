@@ -10210,6 +10210,93 @@
       ], 
       "listSecteursActivites": [
         {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }
+      ]
+    }, 
+    "adresse": "FEDERATION BATIMENT ET TP DU TERRITOIR\r\nJONXION 1\r\nTOUR 2EME ETAGE\r\n1 AVENUE DE LA GARE TGV", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION FRANCAISE DU BATIMENT", 
+        "identifiantNational": "784668642", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF FRANCHE COMTE", 
+        "identifiantNational": "778297143", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION DEPARTEMENTALE DES PETITES ET MOYENNES ENTREPRISES DU TERRITOIRE DE BELFORT", 
+        "identifiantNational": "538918137", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "90400", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire Générale", 
+        "nom": "RENARD", 
+        "prenom": "Céline"
+      }
+    ], 
+    "dateCreation": "2017-09-21T17:54:34", 
+    "datePremierePublication": "2017-09-21T17:54:34", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "FEDERATION BATIMENT ET TP DU TERRITOIRE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "CURTI", 
+        "prenom": "Paul"
+      }
+    ], 
+    "emailDeContact": "btp90@d90.ffbatiment.fr", 
+    "historique": [], 
+    "identifiantNational": "778714758", 
+    "lienPageFacebook": "https://www.facebook.com/btp90/", 
+    "lienSiteWeb": "http://www.btp90.ffbatiment.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0384282815", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/778714758.json", 
+    "ville": "MEROUX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }
+      ], 
+      "listSecteursActivites": [
+        {
           "code": "ECONOMIE", 
           "label": "Economie", 
           "ordre": 8
