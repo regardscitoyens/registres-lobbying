@@ -31586,6 +31586,248 @@
       ], 
       "listSecteursActivites": [
         {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "MEDIA", 
+          "label": "Médias, industries culturelles", 
+          "ordre": 18
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }
+      ]
+    }, 
+    "adresse": "UNION DE LA PUBLICITE EXTERIEURE\r\n47 RUE DE LIEGE", 
+    "affiliations": [
+      {
+        "denomination": "CTRE D'ETUDES DES SUPPORTS DE PUBLICITE", 
+        "identifiantNational": "775690589", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT RECHERCH ETUD PUBLICI", 
+        "identifiantNational": "784205999", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ARPP AUTORITE DE REGULATION PROFESSIONNELLE DE LA PUBLICITE", 
+        "identifiantNational": "307287193", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "AFFICHAGE FIACCHETTI", 
+        "identifiantNational": "330884644", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AFFICION", 
+        "identifiantNational": "509161667", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDIA RENT", 
+        "identifiantNational": "428133490", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AFFIOUEST", 
+        "identifiantNational": "342654894", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALOES RED", 
+        "identifiantNational": "402626139", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "A.N.P.", 
+        "identifiantNational": "493652168", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AVENTI ANTILLES", 
+        "identifiantNational": "424077444", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BAYONNE PUBLICITE", 
+        "identifiantNational": "385355441", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CLEAR CHANNEL FRANCE", 
+        "identifiantNational": "572050334", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DEFI GROUP", 
+        "identifiantNational": "302608989", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSERT", 
+        "identifiantNational": "428738280", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDIAKIOSK", 
+        "identifiantNational": "572181394", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "JCDECAUX FRANCE", 
+        "identifiantNational": "622044501", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDIA AEROPORTS DE PARIS", 
+        "identifiantNational": "533165692", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "JCDECAUX SA", 
+        "identifiantNational": "307570747", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LC OUTDOOR", 
+        "identifiantNational": "503885626", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PUBLICITE LUMINEUSE ET AFFICHAGE LIOTE", 
+        "identifiantNational": "338369564", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "IMPACT DIFFUSION SA", 
+        "identifiantNational": "424096535", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "REGIE PUBLICITAIRE DES TRANSPORTS PARISIENS METROBUS PUBLICITE", 
+        "identifiantNational": "327096426", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE METROPOLITAINE DE PUBLICITE ET D AFFICHAGE", 
+        "identifiantNational": "312665581", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDIAGARE", 
+        "identifiantNational": "503838013", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDIARAIL", 
+        "identifiantNational": "503839870", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TRONIC. PUB", 
+        "identifiantNational": "444159396", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE AFFICHAGE GUADELOUPEEN", 
+        "identifiantNational": "332483817", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SEDECA CARAIBE", 
+        "identifiantNational": "340596584", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VISION SUD OUEST", 
+        "identifiantNational": "415155605", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AFFICHE", 
+        "identifiantNational": "321762627", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Délégué général", 
+        "nom": "DOTTELONDE", 
+        "prenom": "Stéphane"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée du secrétariat général", 
+        "nom": "SORLOT", 
+        "prenom": "Laure"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice juridique", 
+        "nom": "TUREAU-MAZIC", 
+        "prenom": "Nathalie"
+      }
+    ], 
+    "dateCreation": "2017-09-22T12:02:40", 
+    "datePremierePublication": "2017-09-22T12:02:40", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "UNION DE LA PUBLICITE EXTERIEURE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "DOTTELONDE", 
+        "prenom": "Stéphane"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "303026280", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "01 47 42 16 28", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/303026280.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
           "code": "ECONOMIE", 
           "label": "Economie", 
           "ordre": 8
