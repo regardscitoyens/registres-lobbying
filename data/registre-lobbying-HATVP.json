@@ -1007,6 +1007,104 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "COMMERCE", 
+          "label": "Commerce extérieur", 
+          "ordre": 5
+        }, 
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "ASS NATIONALE IND AGRO ALIMENTAIRES\r\nANIA\r\n9 BOULEVARD MALESHERBES", 
+    "affiliations": [
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "784668618", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "DEGOUY", 
+        "prenom": "Alexis"
+      }
+    ], 
+    "dateCreation": "2017-09-25T16:52:21", 
+    "datePremierePublication": "2017-09-25T16:52:21", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ASS NATIONALE IND. AGRO ALIMENTAIRES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "GIRARD", 
+        "prenom": "Jean-Philippe"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur général", 
+        "nom": "CHAPALAIN", 
+        "prenom": "Catherine"
+      }
+    ], 
+    "emailDeContact": "info@ania.net", 
+    "historique": [], 
+    "identifiantNational": "302664784", 
+    "lienPageLinkedin": "https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQHhVu8S0_I8dQAAAV1U5cZ42Rws7S-jA-x8x0E4e46QT6rZKppLzmN2c-9bl4usoDXwbbBv_PQdI12_pUWg1jfSUoMKz80y1dRz6NnQbG-GYS3Thcqsl8accYHrXRPiaOLOKVM=&originalReferer=&sessionRedirect=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F5297929", 
+    "lienPageTwitter": "https://twitter.com/ania_france", 
+    "lienSiteWeb": "https://www.ania.net/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0153838600", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/302664784.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -14677,6 +14775,132 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/444786511.json", 
     "ville": "PARIS CEDEX 09"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "SECURITE", 
+          "label": "Défense, sécurité", 
+          "ordre": 7
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }
+      ]
+    }, 
+    "adresse": "GPT TECH FR CONTRE L INCENDIE\r\n10 RUE DU DEBARCADERE", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75017", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "FOUILHOUX", 
+        "prenom": "Gaëtan"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "CARDIN", 
+        "prenom": "Pierre"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "AUREL", 
+        "prenom": "Jea-Baptiste"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "PIRIOU", 
+        "prenom": "Hubert"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire Général", 
+        "nom": "VINIT", 
+        "prenom": "Anne"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Trésorier", 
+        "nom": "BROCAULT", 
+        "prenom": "Pascal"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire", 
+        "nom": "VAN OOST", 
+        "prenom": "Hervé"
+      }
+    ], 
+    "dateCreation": "2017-09-25T15:38:52", 
+    "datePremierePublication": "2017-09-25T15:38:52", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "GROUPEMENT TECHNIQUE FRANCAIS CONTRE L INCENDIE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "FOUILHOUX", 
+        "prenom": "Gaëtan"
+      }
+    ], 
+    "emailDeContact": "infos@gtfi.org", 
+    "historique": [], 
+    "identifiantNational": "784204869", 
+    "lienSiteWeb": "http://www.gtfi.org", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "01 40 55 13 26", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784204869.json", 
+    "ville": "PARIS"
   }, 
   {
     "activites": {
