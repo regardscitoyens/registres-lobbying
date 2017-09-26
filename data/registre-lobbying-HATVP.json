@@ -22662,6 +22662,84 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "SECURITE", 
+          "label": "Défense, sécurité", 
+          "ordre": 7
+        }
+      ]
+    }, 
+    "adresse": "NEXTER SYSTEMS\r\n34 BOULEVARD VALMY", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "42300", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Relations Institutionnelles, de la Communication et des Ventes France", 
+        "nom": "DUPUY", 
+        "prenom": "Alexandre"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "HERVE", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "MME", 
+        "nom": "BLANDIN", 
+        "prenom": "Laetitia"
+      }
+    ], 
+    "dateCreation": "2017-09-26T12:12:53", 
+    "datePremierePublication": "2017-09-26T12:12:53", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "NEXTER SYSTEMS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président Directeur Général", 
+        "nom": "MAYER", 
+        "prenom": "Stéphane"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "379706344", 
+    "lienSiteWeb": "http://www.nexter-group.fr/fr/filiales/nexter-systems", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/379706344.json", 
+    "ville": "ROANNE"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
