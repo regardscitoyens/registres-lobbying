@@ -15,6 +15,91 @@
           "ordre": 12
         }, 
         {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "ABBOTT FRANCE\r\nBATIMENT FLORENCE\r\n3 PLACE GUSTAVE EIFFEL\r\nCP 90207", 
+    "affiliations": [
+      {
+        "denomination": "SYND NATION INDUST TECHNOL MEDICALES", 
+        "identifiantNational": "307330845", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNDICAT DE L INDUSTRIE DU DIAGNOSTIC IN VITRO", 
+        "identifiantNational": "502725955", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION POUR LA PROMOTION DE L'INNOVATION DES DISPOSITIFS MEDICAUX APIDIM.", 
+        "identifiantNational": "W751184083", 
+        "typeIdentifiantNational": "RNA"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "94518", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Affaires Gouvernementales", 
+        "nom": "FOREST", 
+        "prenom": "Jérémie"
+      }
+    ], 
+    "dateCreation": "2017-09-26T15:31:38", 
+    "datePremierePublication": "2017-09-26T15:31:38", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ABBOTT FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "HRIMECH", 
+        "prenom": "Eric"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "602950206", 
+    "lienSiteWeb": "https://www.fr.abbott/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "01 45 60 25 00", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/602950206.json", 
+    "ville": "RUNGIS CEDEX 1"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
           "code": "SANTE", 
           "label": "Santé, sécurité sociale", 
           "ordre": 25
