@@ -193,6 +193,130 @@
           "code": "EUROPEEN", 
           "label": "Européen", 
           "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }, 
+        {
+          "code": "SOCIETE", 
+          "label": "Questions de société", 
+          "ordre": 26
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "ACTION PUBLIQUE\n12, rue Edmond Valentin", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COCAB", 
+      "label": "Cabinet de conseil"
+    }, 
+    "clients": [
+      {
+        "denomination": "FONDATION D AUTEUIL", 
+        "identifiantNational": "775688799", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION FRANCE ALZHEIMER", 
+        "identifiantNational": "337969646", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION NAL METIERS STATIONNEMENT", 
+        "identifiantNational": "421832247", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDA ASSURANCES", 
+        "identifiantNational": "813709086", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75007", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur associé", 
+        "nom": "SEMELLE", 
+        "prenom": "Jacques-Henri"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Associé", 
+        "nom": "BERT", 
+        "prenom": "Joseph"
+      }
+    ], 
+    "dateCreation": "2017-09-27T12:17:14", 
+    "datePremierePublication": "2017-09-27T12:17:14", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "ACTION PUBLIQUE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur associé", 
+        "nom": "SEMELLE", 
+        "prenom": "Jacques-Henri"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur associé", 
+        "nom": "BERT", 
+        "prenom": "Joseph"
+      }
+    ], 
+    "emailDeContact": "contact@actionpubliqueconseil.fr", 
+    "historique": [], 
+    "identifiantNational": "804408391", 
+    "lienPageFacebook": "https://www.facebook.com/actionpublique/", 
+    "lienSiteWeb": "http://www.actionpubliqueconseil.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0186954589", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/804408391.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
         }, 
         {
           "code": "MONDIAL", 
@@ -23128,6 +23252,123 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/493861363.json", 
     "ville": "PARIS 10"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "COMMERCE", 
+          "label": "Commerce extérieur", 
+          "ordre": 5
+        }, 
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "PROPINT", 
+          "label": "Propriété intellectuelle", 
+          "ordre": 23
+        }
+      ]
+    }, 
+    "adresse": "PERNOD RICARD\r\n12 PLACE DES ETATS UNIS", 
+    "affiliations": [
+      {
+        "denomination": "EUROPEAN AMERICAN CHAMBER OF COMMERCE FRANCE", 
+        "identifiantNational": "W751073339", 
+        "typeIdentifiantNational": "RNA"
+      }, 
+      {
+        "denomination": "FEDERATION DES EXPORTATEURS DE VINS ET SPIRITUEUX DE FRANCE", 
+        "identifiantNational": "W751042421", 
+        "typeIdentifiantNational": "RNA"
+      }, 
+      {
+        "denomination": "ASSO FRANCAI ENTREPRIS PRIVEES", 
+        "identifiantNational": "326943016", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75783", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Affaires Publiques (France)", 
+        "nom": "SCHEER", 
+        "prenom": "Laurent"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Réglementation AOC, Martell Mumm Perrier Jouet", 
+        "nom": "GABORIEAU", 
+        "prenom": "Patricia"
+      }
+    ], 
+    "dateCreation": "2017-09-27T11:43:30", 
+    "datePremierePublication": "2017-09-27T11:43:30", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "PERNOD RICARD", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président, Directeur Général", 
+        "nom": "RICARD", 
+        "prenom": "Alexandre"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "582041943", 
+    "lienPageLinkedin": "https://fr.linkedin.com/company/pernod-ricard", 
+    "lienPageTwitter": "https://twitter.com/pernod_ricard", 
+    "lienSiteWeb": "http://www.pernod-ricard.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/582041943.json", 
+    "ville": "PARIS CEDEX 16"
   }, 
   {
     "activites": {
