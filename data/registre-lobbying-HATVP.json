@@ -6924,6 +6924,209 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "ASSOCIATION FRANCE ALZHEIMER\r\n21 BOULEVARD MONTMARTRE", 
+    "affiliations": [
+      {
+        "denomination": "UNION NATIONALE DES ASSOCIATIONS AGREEES DU SYSTEME DE SANTE", 
+        "identifiantNational": "481370039", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION NATIONALE ASSOCIAT FAMILIALES", 
+        "identifiantNational": "784411902", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "75002", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable du suivi des politiques publiques", 
+        "nom": "DE CHARRY", 
+        "prenom": "Pauline"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "JAOUEN", 
+        "prenom": "Joël"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Vice-présidente", 
+        "nom": "HUON", 
+        "prenom": "Brigitte"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur délégué", 
+        "nom": "DURAND", 
+        "prenom": "Benoit"
+      }
+    ], 
+    "dateCreation": "2017-09-28T16:33:44", 
+    "datePremierePublication": "2017-09-28T16:13:15", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ASSOCIATION FRANCE ALZHEIMER", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président de l'Union des associations France Alzheimer et maladies apparentées", 
+        "nom": "JAOUEN", 
+        "prenom": "Joël"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur délégué", 
+        "nom": "DURAND", 
+        "prenom": "Benoit"
+      }
+    ], 
+    "emailDeContact": "contact@francealzheimer.org", 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "ASSOCIATION FRANCE ALZHEIMER\r\n21 BOULEVARD MONTMARTRE", 
+        "affiliations": [
+          {
+            "denomination": "UNION NATIONALE DES ASSOCIATIONS AGREEES DU SYSTEME DE SANTE", 
+            "identifiantNational": "481370039", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION NATIONALE ASSOCIAT FAMILIALES", 
+            "identifiantNational": "784411902", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_NON_GOUV", 
+          "code": "ASSOC", 
+          "label": "Association"
+        }, 
+        "clients": [], 
+        "codePostal": "75002", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "nom": "DE CHARRY", 
+            "prenom": "Pauline"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "JAOUEN", 
+            "prenom": "Joël"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Vice-présidente", 
+            "nom": "HUON", 
+            "prenom": "Brigitte"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur délégué", 
+            "nom": "DURAND", 
+            "prenom": "Benoit"
+          }
+        ], 
+        "dateCreation": "2017-09-28T16:13:15", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "ASSOCIATION FRANCE ALZHEIMER", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président de l'Union des associations France Alzheimer et maladies apparentées", 
+            "nom": "JAOUEN", 
+            "prenom": "Joël"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur délégué", 
+            "nom": "DURAND", 
+            "prenom": "Benoit"
+          }
+        ], 
+        "emailDeContact": "contact@francealzheimer.org", 
+        "identifiantNational": "337969646", 
+        "lienPageFacebook": "https://www.facebook.com/francealzheimer.org/", 
+        "lienPageLinkedin": "", 
+        "lienPageTwitter": "https://twitter.com/FranceAlzheimer", 
+        "lienSiteWeb": "http://www.francealzheimer.org/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "01 42 97 52 41 ", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
+    "identifiantNational": "337969646", 
+    "lienPageFacebook": "https://www.facebook.com/francealzheimer.org/", 
+    "lienPageLinkedin": "", 
+    "lienPageTwitter": "https://twitter.com/FranceAlzheimer", 
+    "lienSiteWeb": "http://www.francealzheimer.org/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "01 42 97 52 41 ", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/337969646.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -15088,19 +15291,9 @@
       ], 
       "listSecteursActivites": [
         {
-          "code": "FINANCES", 
-          "label": "Fiscalité, finances publiques", 
-          "ordre": 13
-        }, 
-        {
           "code": "ECONOMIE", 
           "label": "Economie", 
           "ordre": 8
-        }, 
-        {
-          "code": "RECHERCHE", 
-          "label": "Recherche, innovation", 
-          "ordre": 12
         }, 
         {
           "code": "ENERGIE", 
@@ -15108,9 +15301,19 @@
           "ordre": 11
         }, 
         {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
           "code": "FINANCES", 
           "label": "Fiscalité, finances publiques", 
           "ordre": 13
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
         }
       ]
     }, 
@@ -15131,7 +15334,7 @@
         "prenom": "François"
       }
     ], 
-    "dateCreation": "2017-09-28T10:34:13", 
+    "dateCreation": "2017-09-28T14:18:30", 
     "datePremierePublication": "2017-09-28T10:34:13", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -15150,7 +15353,90 @@
         "prenom": "Vincent"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }
+          ]
+        }, 
+        "adresse": "GROUPE DES FEDERATIONS INDUSTRIELLES\r\n55 AVENUE BOSQUET", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_NON_GOUV", 
+          "code": "ASSOC", 
+          "label": "Association"
+        }, 
+        "clients": [], 
+        "codePostal": "75007", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Adjoint au Directeur général - Affaires publiques", 
+            "nom": "DAUPEYROUX", 
+            "prenom": "François"
+          }
+        ], 
+        "dateCreation": "2017-09-28T10:34:13", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "GROUPE DES FEDERATIONS INDUSTRIELLES", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "DARMAYAN", 
+            "prenom": "Philippe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "MOULIN WRIGHT", 
+            "prenom": "Vincent"
+          }
+        ], 
+        "identifiantNational": "404091621", 
+        "lienPageTwitter": "https://twitter.com/GFI_Industrie", 
+        "lienSiteWeb": "http://gfi.asso.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "404091621", 
     "lienPageTwitter": "https://twitter.com/GFI_Industrie", 
     "lienSiteWeb": "http://gfi.asso.fr/", 
@@ -23068,14 +23354,60 @@
         }
       ]
     }, 
-    "adresse": "NEXTER SYSTEMS\r\n34 BOULEVARD VALMY", 
-    "affiliations": [], 
+    "affiliations": [
+      {
+        "denomination": "GROUPE INDUSTRIE MATERIEL DEFENSE TERRES", 
+        "identifiantNational": "344322722", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPEMENT INDUSTR FSES AERONAUT SPACIAL", 
+        "identifiantNational": "784668394", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPEMENT DES INDUSTRIES DE CONSTRUCTION ET ACTIVITES NAVALES", 
+        "identifiantNational": "784360109", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
     "categorieOrganisation": {
       "categorie": "SOCIETE", 
       "code": "SOCOM", 
       "label": "Société commerciale"
     }, 
-    "clients": [], 
+    "clients": [
+      {
+        "denomination": "NEXTER MUNITIONS", 
+        "identifiantNational": "339946469", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NEXTER MECHANICS", 
+        "identifiantNational": "439551110", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NEXTER ELECTRONICS", 
+        "identifiantNational": "439568700", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NEXTER ROBOTICS", 
+        "identifiantNational": "538115684", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NBC SYS", 
+        "identifiantNational": "439570417", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OPTSYS", 
+        "identifiantNational": "508707262", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
     "codePostal": "42300", 
     "collaborateurs": [
       {
@@ -23091,14 +23423,15 @@
       }, 
       {
         "civilite": "MME", 
+        "fonction": "Directrice Communication Externe Groupe", 
         "nom": "BLANDIN", 
         "prenom": "Laetitia"
       }
     ], 
-    "dateCreation": "2017-09-26T12:12:53", 
+    "dateCreation": "2017-09-28T15:29:10", 
     "datePremierePublication": "2017-09-26T12:12:53", 
-    "declarationOrgaAppartenance": false, 
-    "declarationTiers": false, 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
     "denomination": "NEXTER SYSTEMS", 
     "dirigeants": [
       {
@@ -23108,12 +23441,88 @@
         "prenom": "Stéphane"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "SECURITE", 
+              "label": "Défense, sécurité", 
+              "ordre": 7
+            }
+          ]
+        }, 
+        "adresse": "NEXTER SYSTEMS\r\n34 BOULEVARD VALMY", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "42300", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Relations Institutionnelles, de la Communication et des Ventes France", 
+            "nom": "DUPUY", 
+            "prenom": "Alexandre"
+          }, 
+          {
+            "civilite": "M", 
+            "nom": "HERVE", 
+            "prenom": "Philippe"
+          }, 
+          {
+            "civilite": "MME", 
+            "nom": "BLANDIN", 
+            "prenom": "Laetitia"
+          }
+        ], 
+        "dateCreation": "2017-09-26T12:12:53", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "NEXTER SYSTEMS", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président Directeur Général", 
+            "nom": "MAYER", 
+            "prenom": "Stéphane"
+          }
+        ], 
+        "identifiantNational": "379706344", 
+        "lienSiteWeb": "http://www.nexter-group.fr/fr/filiales/nexter-systems", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "ROANNE"
+      }
+    ], 
     "identifiantNational": "379706344", 
     "lienSiteWeb": "http://www.nexter-group.fr/fr/filiales/nexter-systems", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": true, 
-    "publierMonAdressePhysique": true, 
+    "publierMonAdressePhysique": false, 
     "publierMonTelephoneDeContact": true, 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/379706344.json", 
