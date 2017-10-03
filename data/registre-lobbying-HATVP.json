@@ -8022,6 +8022,102 @@
       ], 
       "listSecteursActivites": [
         {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }
+      ]
+    }, 
+    "adresse": "CACEIS\r\nN 1 AU 03\r\n1 PLACE VALHUBERT", 
+    "affiliations": [
+      {
+        "denomination": "ASS FRANCAISE PROFESSIONNELS DES TITRES", 
+        "identifiantNational": "400427910", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75013", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur de la Communication et des Affaires Publiques", 
+        "nom": "DEROBERT", 
+        "prenom": "Eric"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Conseiller Affaires Publiques", 
+        "nom": "VERNET-GRUOT", 
+        "prenom": "Sylvie"
+      }
+    ], 
+    "dateCreation": "2017-10-03T10:19:24", 
+    "datePremierePublication": "2017-10-03T10:19:24", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "CACEIS", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice générale déléguée", 
+        "nom": "PHILIPPOT", 
+        "prenom": "Sylvie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "ABADIE", 
+        "prenom": "Jean-François"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général délégué", 
+        "nom": "SALIBA", 
+        "prenom": "Joseph"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "437580160", 
+    "lienPageFacebook": "https://www.facebook.com/CACEISofficial/", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/caceis", 
+    "lienPageTwitter": "https://twitter.com/CACEIS", 
+    "lienSiteWeb": "http://www.caceis.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "+33157780000", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/437580160.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
           "code": "COMMERCE", 
           "label": "Commerce extérieur", 
           "ordre": 5
