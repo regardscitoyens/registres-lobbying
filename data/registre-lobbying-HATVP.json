@@ -10076,6 +10076,282 @@
           "code": "EUROPEEN", 
           "label": "Européen", 
           "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }
+      ]
+    }, 
+    "adresse": "DIRECT ENERGIE\r\n2 B RUE LOUIS ARMAND", 
+    "affiliations": [
+      {
+        "denomination": "ASS UNION FRANCAISE DE L'ELECTRICITE", 
+        "identifiantNational": "432492007", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION NATIONALE DES OPERATEURS DETAILLANTS EN ENERGIE", 
+        "identifiantNational": "W751178527", 
+        "typeIdentifiantNational": "RNA"
+      }, 
+      {
+        "denomination": "SYNDICAT DES ENERGIES RENOUVELABLES", 
+        "identifiantNational": "419710280", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS EUROPEEN VEHICULE ELECTRIQ ROUTIERS", 
+        "identifiantNational": "381166792", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75015", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président-Directeur Général", 
+        "nom": "CAÏTUCOLI", 
+        "prenom": "Xavier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général délégué", 
+        "nom": "CHONÉ", 
+        "prenom": "Fabien"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice de la Communication et des Relations institutionnelles", 
+        "nom": "BARTHELEMY", 
+        "prenom": "Frédérique"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable des Relations Institutionnelles", 
+        "nom": "PIERRE", 
+        "prenom": "Hélène"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé des Affaires institutionnelles", 
+        "nom": "DE COUËSSIN", 
+        "prenom": "Gabriel"
+      }
+    ], 
+    "dateCreation": "2017-10-04T11:24:53", 
+    "datePremierePublication": "2017-10-04T11:10:25", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "DIRECT ENERGIE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président-Directeur Général", 
+        "nom": "CAÏTUCOLI", 
+        "prenom": "Xavier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général délégué", 
+        "nom": "CHONÉ", 
+        "prenom": "Fabien"
+      }
+    ], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "CONSO", 
+              "label": "Concurrence, consommation", 
+              "ordre": 6
+            }, 
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }
+          ]
+        }, 
+        "adresse": "DIRECT ENERGIE\r\n2 B RUE LOUIS ARMAND", 
+        "affiliations": [
+          {
+            "denomination": "ASS UNION FRANCAISE DE L'ELECTRICITE", 
+            "identifiantNational": "432492007", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION NATIONALE DES OPERATEURS DETAILLANTS EN ENERGIE", 
+            "identifiantNational": "W751178527", 
+            "typeIdentifiantNational": "RNA"
+          }, 
+          {
+            "denomination": "SYNDICAT DES ENERGIES RENOUVELABLES", 
+            "identifiantNational": "419710280", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS EUROPEEN VEHICULE ELECTRIQ ROUTIERS", 
+            "identifiantNational": "381166792", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "75015", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Président-Directeur Général", 
+            "nom": "CAÏTUCOLI", 
+            "prenom": "Xavier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général délégué", 
+            "nom": "CHONÉ", 
+            "prenom": "Fabien"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice de la Communication et des Relations institutionnelles", 
+            "nom": "BARTHELEMY", 
+            "prenom": "Frédérique"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Chargé des Affaires institutionnelles", 
+            "nom": "DE COUËSSIN", 
+            "prenom": "Gabriel"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable des Relations Institutionnelles", 
+            "nom": "PIERRE", 
+            "prenom": "Hélène"
+          }
+        ], 
+        "dateCreation": "2017-10-04T11:10:25", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "DIRECT ENERGIE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président-Directeur Général", 
+            "nom": "CAÏTUCOLI", 
+            "prenom": "Xavier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général délégué", 
+            "nom": "CHONÉ", 
+            "prenom": "Fabien"
+          }
+        ], 
+        "identifiantNational": "442395448", 
+        "lienSiteWeb": "https://www.direct-energie.com/groupe/fr", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
+    "identifiantNational": "442395448", 
+    "lienSiteWeb": "https://www.direct-energie.com/groupe/fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/442395448.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
         }, 
         {
           "code": "MONDIAL", 
