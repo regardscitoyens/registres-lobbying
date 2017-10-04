@@ -9231,6 +9231,102 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENTREPRISE", 
+          "label": "Gouvernance d’entreprise", 
+          "ordre": 14
+        }
+      ]
+    }, 
+    "adresse": "CONFEDEDERATION GENERALE DES SCOP\n30 RUE DES EPINETTES - 75017 PARIS", 
+    "affiliations": [
+      {
+        "denomination": "UNION DES EMPLOYEURS DE L'ECONOMIE SOCIALE ET SOLIDAIRE", 
+        "identifiantNational": "410168512", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COOP FR LES ENTREPRISES COOPERATIVES", 
+        "identifiantNational": "317165728", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75017", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Déléguée Générale", 
+        "nom": "LEXCELLENT", 
+        "prenom": "Patricia"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "LANDRIOT", 
+        "prenom": "Jacques"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "MONTAUT", 
+        "prenom": "Charles-Henri"
+      }
+    ], 
+    "dateCreation": "2017-10-04T15:27:16", 
+    "datePremierePublication": "2017-10-04T15:27:16", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "CONFEDERATION GENERALE SOCS COOPERATIVES  DE  PRODUCTION", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "LANDRIOT", 
+        "prenom": "Jacques"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "784853632", 
+    "lienSiteWeb": "http://www.les-scop.coop", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784853632.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -27069,6 +27165,16 @@
         "denomination": "COMITE NAT INTERP POMME DE TER", 
         "identifiantNational": "310838198", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT NATIONAL DE L'ENVIRONNEMENT INDUSTRIEL ET DES RISQUES", 
+        "identifiantNational": "381984921", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSEIL NATION ORDRE ARCHITECT", 
+        "identifiantNational": "784356354", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "codePostal": "75007", 
@@ -27093,34 +27199,71 @@
       }, 
       {
         "civilite": "M", 
+        "fonction": "Consultant sénior", 
+        "nom": "MORILLION", 
+        "prenom": "Clément"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant", 
+        "nom": "CHARPENTIER", 
+        "prenom": "Thibault"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant", 
+        "nom": "GERMOND", 
+        "prenom": "Michel"
+      }, 
+      {
+        "civilite": "M", 
         "fonction": "", 
         "nom": "GARROUSTE", 
         "prenom": "Gilles"
       }, 
       {
         "civilite": "MME", 
-        "fonction": "", 
-        "nom": "PASQUIER DE SOLAN", 
-        "prenom": "Gaëlle"
-      }, 
-      {
-        "civilite": "MME", 
-        "nom": "RIBEROL", 
-        "prenom": "Pauline"
-      }, 
-      {
-        "civilite": "MME", 
-        "nom": "XAYASOMBATH", 
-        "prenom": "Amanda"
+        "fonction": "Consultante", 
+        "nom": "BERANGER", 
+        "prenom": "Estelle"
       }, 
       {
         "civilite": "M", 
         "fonction": "", 
         "nom": "NEVEU", 
         "prenom": "Alexandre"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée de missions", 
+        "nom": "HUNTER", 
+        "prenom": "Aliénor"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée de missions", 
+        "nom": "THARAUX", 
+        "prenom": "Margaux"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante", 
+        "nom": "D'ABRIGEON", 
+        "prenom": "Marion"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante", 
+        "nom": "PASQUIER DE SOLAN", 
+        "prenom": "Gaëlle"
+      }, 
+      {
+        "civilite": "MME", 
+        "nom": "XAYASOMBATH", 
+        "prenom": "Amanda"
       }
     ], 
-    "dateCreation": "2017-08-17T15:13:56", 
+    "dateCreation": "2017-10-04T15:05:07", 
     "datePremierePublication": "2017-08-17T15:13:56", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -27133,7 +27276,234 @@
         "prenom": "Capucine"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "SEANCE PUBLIQUE\n2-4, RUE DE SAINT SIMON", 
+        "affiliations": [
+          {
+            "denomination": "ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES (AFCL)", 
+            "identifiantNational": "H000000001", 
+            "typeIdentifiantNational": "HATVP"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AVO_CONS", 
+          "code": "COCAB", 
+          "label": "Cabinet de conseil"
+        }, 
+        "clients": [
+          {
+            "denomination": "SYSTEME U CENTRALE NATIONALE", 
+            "identifiantNational": "304602956", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PEUGEOT SA", 
+            "identifiantNational": "552100554", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GADOL OPTIC 2000", 
+            "identifiantNational": "326980018", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SANEF", 
+            "identifiantNational": "632050019", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYND NAT ETS RETRAITE PERSONNES AGEES", 
+            "identifiantNational": "440687226", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NEXEM", 
+            "identifiantNational": "817664659", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CENTR ETUD DOCUMENTA DU SUCRE", 
+            "identifiantNational": "784668816", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS INTERPROF DES FRUITS & LEGUMES FRAIS", 
+            "identifiantNational": "308647395", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNEDIC", 
+            "identifiantNational": "775671878", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION PROFESSIONNELLE DES ENTREPRISES DE L EAU", 
+            "identifiantNational": "784717068", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDENE SERVICES", 
+            "identifiantNational": "652027863", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CENTRE FRANCAIS DES FONDATIONS", 
+            "identifiantNational": "444560080", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ELEPHANT VERT FRANCE", 
+            "identifiantNational": "808276315", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INSTIT RADIOPROTECTION SURETE NUCLEAIRE", 
+            "identifiantNational": "440546018", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CONFEDERATION GENERALE DES PLANTEURS DE BETTERAVES (CGB)", 
+            "identifiantNational": "H000000009", 
+            "typeIdentifiantNational": "HATVP"
+          }, 
+          {
+            "denomination": "AGENCE NAT GESTION DECHETS RADIOACTIFS", 
+            "identifiantNational": "390199669", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS UNION FRANCAISE DE L'ELECTRICITE", 
+            "identifiantNational": "432492007", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION DES SYNDICATS DE L IMMOBILIER", 
+            "identifiantNational": "512536467", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COMITE NAT INTERP POMME DE TER", 
+            "identifiantNational": "310838198", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75007", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente", 
+            "nom": "FANDRE", 
+            "prenom": "Capucine"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Conseil", 
+            "nom": "DE DURFORT", 
+            "prenom": "Guillemette"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Parlement", 
+            "nom": "JULLIEN", 
+            "prenom": "Murielle"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "", 
+            "nom": "GARROUSTE", 
+            "prenom": "Gilles"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "", 
+            "nom": "PASQUIER DE SOLAN", 
+            "prenom": "Gaëlle"
+          }, 
+          {
+            "civilite": "MME", 
+            "nom": "RIBEROL", 
+            "prenom": "Pauline"
+          }, 
+          {
+            "civilite": "MME", 
+            "nom": "XAYASOMBATH", 
+            "prenom": "Amanda"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "", 
+            "nom": "NEVEU", 
+            "prenom": "Alexandre"
+          }
+        ], 
+        "dateCreation": "2017-08-17T15:13:56", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "SEANCE PUBLIQUE", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente", 
+            "nom": "FANDRE", 
+            "prenom": "Capucine"
+          }
+        ], 
+        "identifiantNational": "438568610", 
+        "lienPageFacebook": "https://www.facebook.com/seancepublique/", 
+        "lienPageLinkedin": "https://www.linkedin.com/company-beta/1333956/", 
+        "lienPageTwitter": "https://twitter.com/Seance_Publique?lang=fr", 
+        "lienSiteWeb": "http://www.seance-publique.com/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0145445095", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "438568610", 
     "lienPageFacebook": "https://www.facebook.com/seancepublique/", 
     "lienPageLinkedin": "https://www.linkedin.com/company-beta/1333956/", 
