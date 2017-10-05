@@ -10829,6 +10829,140 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "SOCIETE", 
+          "label": "Questions de société", 
+          "ordre": 26
+        }
+      ]
+    }, 
+    "adresse": "FAIRVALUE CORPORATE COMMUNICATION\r\n12 RUE DE CASTIGLIONE", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES (AFCL)", 
+        "identifiantNational": "H000000001", 
+        "typeIdentifiantNational": "HATVP"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COCAB", 
+      "label": "Cabinet de conseil"
+    }, 
+    "clients": [
+      {
+        "denomination": "FEDERATION NATIONALE HABILLEMENT", 
+        "identifiantNational": "784178204", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION DES PARTICULIERS EMPLOYEURS DE FRANCE", 
+        "identifiantNational": "784204786", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LIVANOVA FRANCE SAS", 
+        "identifiantNational": "477828412", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ANACOFI CIF", 
+        "identifiantNational": "497943639", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CENTRE ETUDE DIRECTEURS ASSOCIAT PROFESS", 
+        "identifiantNational": "344299425", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AMCOR FLEXIBLES FRANCE", 
+        "identifiantNational": "601820046", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75001", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Chef de Projet Affaires publiques", 
+        "nom": "LANNOY", 
+        "prenom": "Fanny"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Conseillère Affaires publiques", 
+        "nom": "GALLINELLI", 
+        "prenom": "Hélène"
+      }
+    ], 
+    "dateCreation": "2017-10-05T18:46:48", 
+    "datePremierePublication": "2017-10-05T18:46:48", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "FAIRVALUE CORPORATE COMMUNICATION", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "MAZOYER", 
+        "prenom": "Anne"
+      }
+    ], 
+    "emailDeContact": "flannoy@fairvaluecc.com", 
+    "historique": [], 
+    "identifiantNational": "481518843", 
+    "lienPageLinkedin": "https://fr.linkedin.com/company/fairvalue-corporate-&-public-affairs", 
+    "lienPageTwitter": "https://twitter.com/FairValue_EU", 
+    "lienSiteWeb": "http://www.fairvaluecc.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/481518843.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -12029,6 +12163,347 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/779786987.json", 
     "ville": "VILLEURBANNE"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "FEDERATION FRANCAISE CARROSSERIE\r\nIMMEUBLE LE CARDINET\r\n8 RUE BERNARD BUFFET", 
+    "affiliations": [
+      {
+        "denomination": "IRP AUTO", 
+        "identifiantNational": "488527847", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CESA", 
+        "identifiantNational": "347479669", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSERVATOIRE NATIONAL ARTS ET METIERS", 
+        "identifiantNational": "197534712", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CGPME COMMUNICATION", 
+        "identifiantNational": "438965352", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PFA CONSEIL", 
+        "identifiantNational": "812675270", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION ROUTIERE DE FRANCE", 
+        "identifiantNational": "784361701", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE EXPOS PARIS FOIRE PARIS ET SALONS", 
+        "identifiantNational": "784642076", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CENTRE ETUDE DIRECTEURS ASSOCIAT PROFESS", 
+        "identifiantNational": "344299425", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION INDUSTRIES METIERS METALLURGIE", 
+        "identifiantNational": "324642933", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [
+      {
+        "denomination": "CENT FORM APPRENTI CARROSSERIE", 
+        "identifiantNational": "310347661", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS  CAR CO SER CO", 
+        "identifiantNational": "428443170", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FFC EQUIPEMENTIERS", 
+        "identifiantNational": "533399150", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPEMENT NAT CARROSSIERS REPARATEURS", 
+        "identifiantNational": "392828653", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CARPROMO", 
+        "identifiantNational": "434103289", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75017", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général", 
+        "nom": "DUGRAND", 
+        "prenom": "Didier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur de Communication", 
+        "nom": "RICHARD", 
+        "prenom": "Frédéric"
+      }
+    ], 
+    "dateCreation": "2017-10-05T17:32:07", 
+    "datePremierePublication": "2017-10-05T17:30:14", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "FEDERATION FRANCAISE CARROSSERIE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "CHOLTON", 
+        "prenom": "Patrick"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général", 
+        "nom": "DUGRAND", 
+        "prenom": "Didier"
+      }
+    ], 
+    "emailDeContact": "didier.dugrand@ffc-carrosserie.org", 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "EDUCATION", 
+              "label": "Education, enseignement supérieur, formation", 
+              "ordre": 9
+            }, 
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }, 
+            {
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "FEDERATION FRANCAISE CARROSSERIE\r\nIMMEUBLE LE CARDINET\r\n8 RUE BERNARD BUFFET", 
+        "affiliations": [
+          {
+            "denomination": "IRP AUTO", 
+            "identifiantNational": "488527847", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CESA", 
+            "identifiantNational": "347479669", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CONSERVATOIRE NATIONAL ARTS ET METIERS", 
+            "identifiantNational": "197534712", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CGPME COMMUNICATION", 
+            "identifiantNational": "438965352", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PFA CONSEIL", 
+            "identifiantNational": "812675270", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION ROUTIERE DE FRANCE", 
+            "identifiantNational": "784361701", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COMITE EXPOS PARIS FOIRE PARIS ET SALONS", 
+            "identifiantNational": "784642076", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CENTRE ETUDE DIRECTEURS ASSOCIAT PROFESS", 
+            "identifiantNational": "344299425", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_NON_GOUV", 
+          "code": "ASSOC", 
+          "label": "Association"
+        }, 
+        "clients": [
+          {
+            "denomination": "CENT FORM APPRENTI CARROSSERIE", 
+            "identifiantNational": "310347661", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS  CAR CO SER CO", 
+            "identifiantNational": "428443170", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FFC EQUIPEMENTIERS", 
+            "identifiantNational": "533399150", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPEMENT NAT CARROSSIERS REPARATEURS", 
+            "identifiantNational": "392828653", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CARPROMO", 
+            "identifiantNational": "434103289", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75017", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Délégué Général", 
+            "nom": "DUGRAND", 
+            "prenom": "Didier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur de Communication", 
+            "nom": "RICHARD", 
+            "prenom": "Frédéric"
+          }
+        ], 
+        "dateCreation": "2017-10-05T17:30:14", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "FEDERATION FRANCAISE CARROSSERIE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "CHOLTON", 
+            "prenom": "Patrick"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Délégué Général", 
+            "nom": "DUGRAND", 
+            "prenom": "Didier"
+          }
+        ], 
+        "emailDeContact": "didier.dugrand@ffc-carrosserie.org", 
+        "identifiantNational": "784717019", 
+        "lienSiteWeb": "http://www.ffc-carrosserie.org", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0144297100", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
+    "identifiantNational": "784717019", 
+    "lienSiteWeb": "http://www.ffc-carrosserie.org", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0144297100", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784717019.json", 
+    "ville": "PARIS"
   }, 
   {
     "activites": {
