@@ -1578,6 +1578,237 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }
+      ]
+    }, 
+    "adresse": "ASS UNION FRANCAISE DE L ELECTRICITE\r\n3 RUE DU 4 SEPTEMBRE", 
+    "affiliations": [
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "775347453", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "RTE RESEAU DE TRANSPORT D'ELECTRICITE", 
+        "identifiantNational": "444619258", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ELECTRICITE DE FRANCE", 
+        "identifiantNational": "552081317", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION NATIONALE DES ENTREPRISES LOCALES D'ELECTRICITE ET DE GAZ", 
+        "identifiantNational": "499055911", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNDICAT DES ENERGIES RENOUVELABLES", 
+        "identifiantNational": "419710280", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ENEDIS", 
+        "identifiantNational": "444608442", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INEO", 
+        "identifiantNational": "552108797", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FRANCE HYDRO ELECTRICITE GPAE ECOWATT", 
+        "identifiantNational": "420030967", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ENGIE", 
+        "identifiantNational": "542107651", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNIPER FRANCE ENERGY SOLUTIONS", 
+        "identifiantNational": "501706170", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DIRECT ENERGIE", 
+        "identifiantNational": "442395448", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DALKIA", 
+        "identifiantNational": "456500537", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ENGIE ENERGIE SERVICES", 
+        "identifiantNational": "552046955", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "IDEX ENERGIES", 
+        "identifiantNational": "315871640", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EDF ENERGIES NOUVELLES", 
+        "identifiantNational": "379677636", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ENERGY POOL DEVELOPPEMENT", 
+        "identifiantNational": "511797904", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TOTAL ENERGIE GAZ", 
+        "identifiantNational": "429909351", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMPAGNIE NATIONALE DU RHONE", 
+        "identifiantNational": "957520901", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNIPER FRANCE POWER", 
+        "identifiantNational": "399361468", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75002", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Déléguée Générale", 
+        "nom": "CHENU", 
+        "prenom": "Anne"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "GOUBET MILHAUD", 
+        "prenom": "Christine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Stratégie et Prospective", 
+        "nom": "SIESS", 
+        "prenom": "Damien"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Conseiller social", 
+        "nom": "MUNDUBELTZ", 
+        "prenom": "Catherine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Conseiller Réseaux", 
+        "nom": "GUILLOU", 
+        "prenom": "Antoine"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable des Relations Institutionnelles", 
+        "nom": "HENKES", 
+        "prenom": "Charlotte"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Conseiller Métiers", 
+        "nom": "BARRE", 
+        "prenom": "Alexandre"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable des Affaires Economiques", 
+        "nom": "OSMONT", 
+        "prenom": "Robin"
+      }
+    ], 
+    "dateCreation": "2017-10-06T17:23:09", 
+    "datePremierePublication": "2017-10-06T17:23:09", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "ASS UNION FRANCAISE DE L'ELECTRICITE", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "PRESIDENTE", 
+        "nom": "GOUBET MILHAUD", 
+        "prenom": "Christine"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "DELEGUEE GENERALE", 
+        "nom": "CHENU", 
+        "prenom": "Anne"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "432492007", 
+    "lienPageLinkedin": "https://fr.linkedin.com/company/union-fran-aise-de-l%27electricit-", 
+    "lienPageTwitter": "https://twitter.com/ufelectricite?lang=fr", 
+    "lienSiteWeb": "http://ufe-electricite.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0158566900", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/432492007.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -27285,6 +27516,111 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/493861363.json", 
     "ville": "PARIS 10"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "PROPINT", 
+          "label": "Propriété intellectuelle", 
+          "ordre": 23
+        }, 
+        {
+          "code": "COM", 
+          "label": "Communications électroniques", 
+          "ordre": 28
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "PARROT\r\n174\r\nA 178\r\n174 QUAI DE JEMMAPES", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION PROFESSIONNELLE DU DRONE CIVIL U1 2 FPDC", 
+        "identifiantNational": "800428799", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75010", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Policy lead", 
+        "nom": "BAYLAC DE LA CODRE", 
+        "prenom": "Charlotte"
+      }
+    ], 
+    "dateCreation": "2017-10-06T16:43:48", 
+    "datePremierePublication": "2017-10-06T16:43:48", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "PARROT", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général délégué", 
+        "nom": "LABOSSIÈRE", 
+        "prenom": "Gilles"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président directeur général", 
+        "nom": "SEYDOUX", 
+        "prenom": "Henri"
+      }
+    ], 
+    "emailDeContact": "contact@parrot.com", 
+    "historique": [], 
+    "identifiantNational": "394149496", 
+    "lienPageFacebook": "https://www.facebook.com/parrotfr/", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/13708/", 
+    "lienPageTwitter": "https://twitter.com/Parrot", 
+    "lienSiteWeb": "https://www.parrot.com/fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0148036060", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/394149496.json", 
+    "ville": "PARIS"
   }, 
   {
     "activites": {
