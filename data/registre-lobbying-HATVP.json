@@ -10233,8 +10233,13 @@
     "adresse": "CREDIT AGRICOLE ASSURANCE\r\n50 56\r\n50 RUE DE LA PROCESSION", 
     "affiliations": [
       {
-        "denomination": "FEDERATION FRANCAISE DE L ASSURANCE", 
+        "denomination": "FEDERATION FRANCAISE DE L ASSURANCE (FFA)", 
         "identifiantNational": "784409013", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AF2I", 
+        "identifiantNational": "492445903", 
         "typeIdentifiantNational": "SIREN"
       }
     ], 
@@ -10259,7 +10264,7 @@
         "prenom": "Arthur"
       }
     ], 
-    "dateCreation": "2017-09-18T17:00:24", 
+    "dateCreation": "2017-10-09T11:56:35", 
     "datePremierePublication": "2017-09-18T17:00:24", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -10284,7 +10289,91 @@
         "prenom": "Henri"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }
+          ]
+        }, 
+        "adresse": "CREDIT AGRICOLE ASSURANCE\r\n50 56\r\n50 RUE DE LA PROCESSION", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION FRANCAISE DE L ASSURANCE (FFA)", 
+            "identifiantNational": "784409013", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "75015", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Responsable des affaires publiques", 
+            "nom": "JOLIVEL", 
+            "prenom": "Antoine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Chargé d'affaires publiques", 
+            "nom": "CAMPREDON", 
+            "prenom": "Arthur"
+          }
+        ], 
+        "dateCreation": "2017-09-18T17:00:24", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "CREDIT AGRICOLE ASSURANCE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "THOMAS", 
+            "prenom": "Frédéric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général Délégué", 
+            "nom": "LANGRENEY", 
+            "prenom": "Thierry"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général Délégué", 
+            "nom": "LE BIHAN", 
+            "prenom": "Henri"
+          }
+        ], 
+        "identifiantNational": "451746077", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "451746077", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": true, 
@@ -12740,6 +12829,189 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }
+      ]
+    }, 
+    "adresse": "FEDERATION FRANCAISE DE L ASSURANCE\n26 BOULEVARD HAUSSMANN", 
+    "affiliations": [
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "775347453", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPEMENT DES PROFESSIONS DE SERVICES", 
+        "identifiantNational": "477942114", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PARIS EUROPLACE", 
+        "identifiantNational": "393769252", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Délégué général", 
+        "nom": "CHNEIWEISS", 
+        "prenom": "Arnaud"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué général", 
+        "nom": "POIGET", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Pôle des affaires publiques et communication", 
+        "nom": "TEXIER", 
+        "prenom": "Arielle"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur vie et capitalisation", 
+        "nom": "BERNARDI", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice santé", 
+        "nom": "CAZALS", 
+        "prenom": "Véronique"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des affaires parlementaires", 
+        "nom": "LABORDE", 
+        "prenom": "Jean Paul"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Conseillère parlementaire", 
+        "nom": "JACQUEMIN-GUILLAUME", 
+        "prenom": "Annabelle"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Conseillère parlementaire", 
+        "nom": "MITRACHE", 
+        "prenom": "Viviana"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des affaires sociales", 
+        "nom": "MEYER", 
+        "prenom": "Alexis"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Pôle des assurances dommages et responsabilités,Directeur en charge des marchés", 
+        "nom": "PENET", 
+        "prenom": "Stéphane"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Pôle Europe et international", 
+        "nom": "PIEROTTI", 
+        "prenom": "Christian"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur adjoint Pôle juridique, fiscal et de la consommation, Département juridique", 
+        "nom": "ROSIER", 
+        "prenom": "François"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur adjoint Pôle juridique, fiscal et de la consommation, Département fiscal", 
+        "nom": "TALLON", 
+        "prenom": "François"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice adjointe Direction des affaires financières, prudentielles et comptables", 
+        "nom": "TARRAL", 
+        "prenom": "Christine"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur Pôle assurances dommages  et responsabilités Directeur en charge des métiers", 
+        "nom": "TRACA", 
+        "prenom": "Catherine"
+      }
+    ], 
+    "dateCreation": "2017-10-09T10:41:07", 
+    "datePremierePublication": "2017-10-09T10:41:07", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "FEDERATION FRANCAISE DE L ASSURANCE (FFA)", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT", 
+        "nom": "SPITZ", 
+        "prenom": "Bernard"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "784409013", 
+    "lienSiteWeb": "https://www.ffa-assurance.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784409013.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -13273,6 +13545,105 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/419508379.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "FEDERAT NAL SYNDICATS EXPLOITANTS 27\r\n2 ESPLANADE DE LA GARENNE", 
+    "affiliations": [
+      {
+        "denomination": "FEDE NAT SYNDIC EXPL AGRICOLE", 
+        "identifiantNational": "784854937", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "SYNDI", 
+      "label": "Syndicat"
+    }, 
+    "clients": [], 
+    "codePostal": "27930", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "CABROL", 
+        "prenom": "Cyril"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "MOULARD", 
+        "prenom": "Fabrice"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire Général", 
+        "nom": "LEVESQUE", 
+        "prenom": "Amaury"
+      }
+    ], 
+    "dateCreation": "2017-10-09T11:31:56", 
+    "datePremierePublication": "2017-10-09T11:31:56", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "FEDERATION NATIONALE DES SYNDICATS D'EXPLOITANTS 27", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "DIRECTEUR GENERAL", 
+        "nom": "CABROL", 
+        "prenom": "Cyril"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT", 
+        "nom": "MOULARD", 
+        "prenom": "Fabrice"
+      }
+    ], 
+    "emailDeContact": "direction@fnsea27.fr", 
+    "historique": [], 
+    "identifiantNational": "780807772", 
+    "lienSiteWeb": "http://www.fnsea27.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0232237777", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/780807772.json", 
+    "ville": "GUICHAINVILLE"
   }, 
   {
     "activites": {
