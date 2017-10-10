@@ -626,6 +626,16 @@
         "denomination": "LAFAYETTE GESTION", 
         "identifiantNational": "795278951", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EXTERION MEDIA (FRANCE) SA", 
+        "identifiantNational": "552052698", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CAISSE NATIONALE VIEIL PROFESS LIBERALES", 
+        "identifiantNational": "775670516", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "codePostal": "75008", 
@@ -667,19 +677,25 @@
         "prenom": "Marine"
       }, 
       {
-        "civilite": "MME", 
-        "fonction": "Consultante", 
-        "nom": "BONNECARRÈRE", 
-        "prenom": "Sophie"
-      }, 
-      {
         "civilite": "M", 
         "fonction": "Consultant", 
         "nom": "THALLER", 
         "prenom": "Thibaut"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant", 
+        "nom": "DE CHEMELLIER", 
+        "prenom": "Antoine"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante", 
+        "nom": "TOURRET", 
+        "prenom": "Marie"
       }
     ], 
-    "dateCreation": "2017-09-05T18:47:31", 
+    "dateCreation": "2017-10-10T10:51:13", 
     "datePremierePublication": "2017-09-05T18:47:31", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -698,7 +714,272 @@
         "prenom": "Timothé"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }, 
+            {
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "CONSO", 
+              "label": "Concurrence, consommation", 
+              "ordre": 6
+            }
+          ]
+        }, 
+        "adresse": "ANTHENOR PUBLIC AFFAIRS\r\n4 RUE MARBEUF", 
+        "affiliations": [
+          {
+            "denomination": "ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES (AFCL)", 
+            "identifiantNational": "H000000001", 
+            "typeIdentifiantNational": "HATVP"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AVO_CONS", 
+          "code": "COCAB", 
+          "label": "Cabinet de conseil"
+        }, 
+        "clients": [
+          {
+            "denomination": "ASSOCIATION POUR LA PROMOTION DE L'INNOVATION DES DISPOSITIFS MEDICAUX APIDIM.", 
+            "identifiantNational": "W751184083", 
+            "typeIdentifiantNational": "RNA"
+          }, 
+          {
+            "denomination": "ASSOCIATION NATIONALE DES OPERATEURS DETAILLANTS EN ENERGIE", 
+            "identifiantNational": "W751178527", 
+            "typeIdentifiantNational": "RNA"
+          }, 
+          {
+            "denomination": "EAST BALT FRANCE", 
+            "identifiantNational": "352081343", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION DES ENTREPRISES  DE LA BEAUTE", 
+            "identifiantNational": "784717167", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GLAUKOS FRANCE", 
+            "identifiantNational": "821457553", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PREMIERE LIGUE", 
+            "identifiantNational": "814202974", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "R&O SEAFOOD GASTRONOMY", 
+            "identifiantNational": "387915085", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "REPUBLIC TECHNOLOGIES FRANCE SAS", 
+            "identifiantNational": "432301984", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNDICAT DE L INDUSTRIE DU DIAGNOSTIC IN VITRO", 
+            "identifiantNational": "502725955", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNI VDL - UNION DES INDUSTRIES DU VEHICULE DE LOISIRS", 
+            "identifiantNational": "784717431", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AGENCE DE L ENVIRONNEMENT ET DE LA MAITRISE DE L ENERGIE", 
+            "identifiantNational": "385290309", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION FRANCAISE DES VEHICULES D'EPOQUE FFVE", 
+            "identifiantNational": "W751016485", 
+            "typeIdentifiantNational": "RNA"
+          }, 
+          {
+            "denomination": "GROUPEMENT DES PROFESSIONNELS DES CERTIFICATS D'ECONOMIES D'ENERGIE (GPC2E)", 
+            "identifiantNational": "W133019766", 
+            "typeIdentifiantNational": "RNA"
+          }, 
+          {
+            "denomination": "IFP ENERGIES NOUVELLES", 
+            "identifiantNational": "775729155", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ETHICON", 
+            "identifiantNational": "612030619", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BURGER KING FRANCE", 
+            "identifiantNational": "797882867", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION FRANÇAISE DES COURTIERS ET PRESTATAIRES DE SERVICES D'INVESTISSEMENT (AFCOPSI)", 
+            "identifiantNational": "W751233653", 
+            "typeIdentifiantNational": "RNA"
+          }, 
+          {
+            "denomination": "ASSOC FRANC.INDUSTRIE FONTAINE BONBONNE", 
+            "identifiantNational": "438324287", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION ENTREPRENEURS D'AFFINAGE DE L'EAU", 
+            "identifiantNational": "439818493", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION DES PROFESSIONNELS DE LA LOCATION MEUBLEE", 
+            "identifiantNational": "752423392", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VIN ET SOCIETE", 
+            "identifiantNational": "500328570", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "YPREMA", 
+            "identifiantNational": "350380457", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LAFAYETTE GESTION", 
+            "identifiantNational": "795278951", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75008", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur associé", 
+            "nom": "DE ROMANCE", 
+            "prenom": "Timothé"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "LAMARQUE", 
+            "prenom": "Gilles"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice conseil", 
+            "nom": "PAOLI", 
+            "prenom": "Ludivine"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante", 
+            "nom": "CARPENTIER", 
+            "prenom": "Fiona"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Consultant", 
+            "nom": "SCHNEIDER", 
+            "prenom": "Vincent"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante", 
+            "nom": "SAUCE", 
+            "prenom": "Marine"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante", 
+            "nom": "BONNECARRÈRE", 
+            "prenom": "Sophie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Consultant", 
+            "nom": "THALLER", 
+            "prenom": "Thibaut"
+          }
+        ], 
+        "dateCreation": "2017-09-05T18:47:31", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "ANTHENOR PUBLIC AFFAIRS", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "LAMARQUE", 
+            "prenom": "Gilles"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur associé", 
+            "nom": "DE ROMANCE", 
+            "prenom": "Timothé"
+          }
+        ], 
+        "identifiantNational": "450089107", 
+        "lienPageFacebook": "https://www.facebook.com/AnthenorPublicAffairs/", 
+        "lienPageLinkedin": "https://www.linkedin.com/company-beta/5393178/", 
+        "lienPageTwitter": "", 
+        "lienSiteWeb": "http://anthenor.fr", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0142275337", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "450089107", 
     "lienPageFacebook": "https://www.facebook.com/AnthenorPublicAffairs/", 
     "lienPageLinkedin": "https://www.linkedin.com/company-beta/5393178/", 
