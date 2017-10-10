@@ -1643,6 +1643,154 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "PROREG", 
+          "label": "Professions réglementées", 
+          "ordre": 22
+        }
+      ]
+    }, 
+    "adresse": "ASS FRANCAISE DE LA GESTION FINANCIERE\n41 rue de la Bienfaisance", 
+    "affiliations": [
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "775347453", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS  A F E C E I", 
+        "identifiantNational": "428419287", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire Général", 
+        "nom": "LAURENTIE", 
+        "prenom": "Christophe"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Adjointe au Délégué Général", 
+        "nom": "DELAHOUSSE", 
+        "prenom": "Laure"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice fiscale", 
+        "nom": "CHARLES-PÉRONNE", 
+        "prenom": "Delphine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général Adjoint", 
+        "nom": "PAGNIEZ", 
+        "prenom": "Eric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général", 
+        "nom": "BOLLON", 
+        "prenom": "Pierre"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Juridique", 
+        "nom": "ABISSET", 
+        "prenom": "Jérôme"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable commercialisation et vie des acteurs", 
+        "nom": "CONTE", 
+        "prenom": "Arabelle"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "DE PRÉNEUF", 
+        "prenom": "Dominique"
+      }
+    ], 
+    "dateCreation": "2017-10-10T17:31:15", 
+    "datePremierePublication": "2017-10-10T17:31:15", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ASS FRANCAISE DE LA GESTION FINANCIERE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "SETBON", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général", 
+        "nom": "BOLLON", 
+        "prenom": "Pierre"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "PINON", 
+        "prenom": "Eric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "DE PRÉNEUF", 
+        "prenom": "Dominique"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "784362584", 
+    "pays": "", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784362584.json", 
+    "ville": "PARIS 8"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -8525,6 +8673,101 @@
           "code": "EUROPEEN", 
           "label": "Européen", 
           "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ETRANGER", 
+          "label": "Affaires étrangères, coopération internationale", 
+          "ordre": 1
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "PROPINT", 
+          "label": "Propriété intellectuelle", 
+          "ordre": 23
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION DES FOURNISSEURS DE TABACS A FUMER", 
+        "identifiantNational": "821297355", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION FABRIC. PROTECT PROPRIETE INDUST.", 
+        "identifiantNational": "784668709", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92932", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des affaires publiques, juridiques et de la communication", 
+        "nom": "SENSI-MINAUTIER", 
+        "prenom": "Eric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable relations institutionnelles", 
+        "nom": "LALO", 
+        "prenom": "Cyril"
+      }
+    ], 
+    "dateCreation": "2017-10-10T17:53:54", 
+    "datePremierePublication": "2017-10-10T17:53:54", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "BRITISH AMERICAN TOBACCO FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "General Manager", 
+        "nom": "BEKEFI", 
+        "prenom": "Antal"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "303765630", 
+    "lienPageTwitter": "https://twitter.com/fr_bat_officiel", 
+    "lienSiteWeb": "http://www.batfrance.com/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": false, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/303765630.json", 
+    "ville": "PARIS LA DEFENSE CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
         }, 
         {
           "code": "MONDIAL", 
@@ -11409,12 +11652,6 @@
       }, 
       {
         "civilite": "M", 
-        "fonction": "Directeur Business Developpment", 
-        "nom": "KORNILOFF", 
-        "prenom": "Amaury"
-      }, 
-      {
-        "civilite": "M", 
         "fonction": "Cadre sup", 
         "nom": "PARISOT", 
         "prenom": "Ludovic"
@@ -11424,12 +11661,6 @@
         "fonction": "Executive Vice-President Research, Technology & Innovation", 
         "nom": "LEPERCQ", 
         "prenom": "Thierry"
-      }, 
-      {
-        "civilite": "MME", 
-        "fonction": "Cadre sup", 
-        "nom": "GRENON", 
-        "prenom": "Georgina"
       }, 
       {
         "civilite": "M", 
@@ -11499,23 +11730,6 @@
       }, 
       {
         "civilite": "M", 
-        "fonction": "Chargé de relations Institutionnelles", 
-        "nom": "DE FROMENT", 
-        "prenom": "François-Xavier"
-      }, 
-      {
-        "civilite": "MME", 
-        "fonction": "Chargée de relations Institutionelles", 
-        "nom": "D'HAUTEFEUILLE", 
-        "prenom": "Marie-Claire"
-      }, 
-      {
-        "civilite": "M", 
-        "nom": "HIRT", 
-        "prenom": "Marc"
-      }, 
-      {
-        "civilite": "M", 
         "nom": "OLIVIERI", 
         "prenom": "Francois-Xavier"
       }, 
@@ -11529,14 +11743,9 @@
         "civilite": "M", 
         "nom": "PESTEL", 
         "prenom": "Matthieu"
-      }, 
-      {
-        "civilite": "M", 
-        "nom": "SCHNEIDER", 
-        "prenom": "Josselin"
       }
     ], 
-    "dateCreation": "2017-10-02T16:21:44", 
+    "dateCreation": "2017-10-10T17:41:35", 
     "datePremierePublication": "2017-10-02T16:21:44", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -11555,7 +11764,321 @@
         "prenom": "Gérard"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "ENGIE\n1 PLACE SAMUEL DE CHAMPLAIN\nCS 50045 COURBEVOIE", 
+        "affiliations": [
+          {
+            "denomination": "ASSOCIATION FRANCAISE DU GAZ", 
+            "identifiantNational": "784854820", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS UNION FRANCAISE DE L'ELECTRICITE", 
+            "identifiantNational": "432492007", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSO FRANCAI ENTREPRIS PRIVEES", 
+            "identifiantNational": "326943016", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNDICAT DES ENERGIES RENOUVELABLES", 
+            "identifiantNational": "419710280", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION DES SERVICES ENERGIE ENVIRONNEMENT", 
+            "identifiantNational": "384882577", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FRANCE NATURE ENVIRONNEMENT IDF", 
+            "identifiantNational": "324644673", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LE CLUSTER MARITIME FRANCAIS", 
+            "identifiantNational": "489847624", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OFFICE FRANCO-ALLEMAND POUR LA TRANSITION ENERGETIQUE", 
+            "identifiantNational": "793105388", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "92930", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "nom": "HUBERT", 
+            "prenom": "Xavier"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chief Executive Officer France Renewable Energy, ENGIE SA", 
+            "nom": "HUET", 
+            "prenom": "Gwénaëlle"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "directeur affaires publiques et régulatoires", 
+            "nom": "HEMION", 
+            "prenom": "Soizic"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur Institutions France et Territoires", 
+            "nom": "ALAIN", 
+            "prenom": "Valérie"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Déléguée aux relations avec le parlement", 
+            "nom": "FAUVEL BANTOS", 
+            "prenom": "Mercedes"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Délégué aux affaires réglementaires", 
+            "nom": "GIRON", 
+            "prenom": "Etienne"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "CCEO de l'entité Entreprises & Collectivités", 
+            "nom": "TEROUANNE", 
+            "prenom": "Damien"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur adjoint direction des clients publics", 
+            "nom": "COCHEPAIN", 
+            "prenom": "Stéphane"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur régulation pour Entreprises et collectivités", 
+            "nom": "BERTHELOT", 
+            "prenom": "Corinne"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Executive vice president", 
+            "nom": "CHAREYRE", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Business Developpment", 
+            "nom": "KORNILOFF", 
+            "prenom": "Amaury"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Cadre sup", 
+            "nom": "PARISOT", 
+            "prenom": "Ludovic"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Executive Vice-President Research, Technology & Innovation", 
+            "nom": "LEPERCQ", 
+            "prenom": "Thierry"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Cadre sup", 
+            "nom": "GRENON", 
+            "prenom": "Georgina"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Cadre sup", 
+            "nom": "CHENU", 
+            "prenom": "Pierre-François"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Cadre sup", 
+            "nom": "HENNIG", 
+            "prenom": "Patrice"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Director Decentralized Solutions for Cities and Territories B2T", 
+            "nom": "BIANCARELLI", 
+            "prenom": "Olivier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire Général", 
+            "nom": "MONGIN", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général Adjoint, en charge des BU Elengy, GRDF, GRTGAZ...", 
+            "nom": "HOLLEAUX", 
+            "prenom": "Didier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "DGA en charge des Ressources Humaines", 
+            "nom": "DEHEUNYNCK", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "DGA, En charge de la BU france BtoB", 
+            "nom": "BRUEL", 
+            "prenom": "Franck"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur Taxe groupe", 
+            "nom": "JATON", 
+            "prenom": "Laurence"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur Régulation", 
+            "nom": "SEJOURNE", 
+            "prenom": "Jean-Baptiste"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur Responsabilité Environnementale et Sociétale", 
+            "nom": "CHASSAGNETTE", 
+            "prenom": "Anne"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Responsable Département Environnementet climat", 
+            "nom": "CASTERMAN", 
+            "prenom": "Hervé"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Chargé de relations Institutionnelles", 
+            "nom": "DE FROMENT", 
+            "prenom": "François-Xavier"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chargée de relations Institutionelles", 
+            "nom": "D'HAUTEFEUILLE", 
+            "prenom": "Marie-Claire"
+          }, 
+          {
+            "civilite": "M", 
+            "nom": "HIRT", 
+            "prenom": "Marc"
+          }, 
+          {
+            "civilite": "M", 
+            "nom": "OLIVIERI", 
+            "prenom": "Francois-Xavier"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Juriste", 
+            "nom": "MOKRI", 
+            "prenom": "Samia"
+          }, 
+          {
+            "civilite": "M", 
+            "nom": "PESTEL", 
+            "prenom": "Matthieu"
+          }, 
+          {
+            "civilite": "M", 
+            "nom": "SCHNEIDER", 
+            "prenom": "Josselin"
+          }
+        ], 
+        "dateCreation": "2017-10-02T16:21:44", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "ENGIE", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur Général", 
+            "nom": "KOCHER", 
+            "prenom": "Isabelle"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président du Conseil d'Administration", 
+            "nom": "MESTRALLET", 
+            "prenom": "Gérard"
+          }
+        ], 
+        "identifiantNational": "542107651", 
+        "lienSiteWeb": "", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS LA DEFENSE CEDEX"
+      }
+    ], 
     "identifiantNational": "542107651", 
     "lienSiteWeb": "", 
     "pays": "FRANCE", 
