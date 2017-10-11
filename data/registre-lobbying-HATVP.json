@@ -17785,6 +17785,70 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }
+      ]
+    }, 
+    "adresse": "1350 av. Albert Einstein\nPAT Bât 2\n", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ORGRR", 
+      "label": "Organisme de recherche ou de réflexion"
+    }, 
+    "clients": [], 
+    "codePostal": "34070", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "LAUSSEURE", 
+        "prenom": "Martine"
+      }
+    ], 
+    "dateCreation": "2017-10-11T11:14:46", 
+    "datePremierePublication": "2017-10-11T11:14:46", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "FRANCE BIOMETHANE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président du Think Tank France Biomethane", 
+        "nom": "DE SAINT JOUAN", 
+        "prenom": "Cédric"
+      }
+    ], 
+    "emailDeContact": "francebiomethane@agmpresse.com", 
+    "historique": [], 
+    "identifiantNational": "W343019670", 
+    "lienSiteWeb": "http://france-biomethane.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0615028260", 
+    "typeIdentifiantNational": "RNA", 
+    "url_json": "http://www.hatvp.fr/agora/W343019670.json", 
+    "ville": "MONTPELLIER"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -17900,6 +17964,75 @@
     "telephoneDeContact": "0156599124", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/420030967.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }
+      ]
+    }, 
+    "adresse": "GENERALE DU SOLAIRE\r\n69 RUE DE RICHELIEU", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75002", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "LAUSSEURE", 
+        "prenom": "Martine"
+      }
+    ], 
+    "dateCreation": "2017-10-11T11:49:41", 
+    "datePremierePublication": "2017-10-11T11:49:41", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "GENERALE DU SOLAIRE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "BOUR", 
+        "prenom": "Daniel"
+      }
+    ], 
+    "emailDeContact": "martine@lausseure.com", 
+    "historique": [], 
+    "identifiantNational": "537375875", 
+    "lienSiteWeb": "http://www.gdsolaire.com/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0615028260", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/537375875.json", 
     "ville": "PARIS"
   }, 
   {
@@ -43941,5 +44074,64 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/803247956.json", 
     "ville": "RUEIL MALMAISON"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }
+      ]
+    }, 
+    "adresse": "VOL V\r\n2\r\nPATIO BATIMENT\r\n1350 AVENUE ALBERT EINSTEIN", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "34000", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "LAUSSEURE", 
+        "prenom": "Martine"
+      }
+    ], 
+    "dateCreation": "2017-10-11T11:41:36", 
+    "datePremierePublication": "2017-10-11T11:41:36", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "VOL-V", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "DE SAINT JOUAN", 
+        "prenom": "Cedric"
+      }
+    ], 
+    "emailDeContact": "media@agmpresse.com", 
+    "historique": [], 
+    "identifiantNational": "512686064", 
+    "lienSiteWeb": "http://www.vol-v.com/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0615028260", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/512686064.json", 
+    "ville": "MONTPELLIER"
   }
 ]
