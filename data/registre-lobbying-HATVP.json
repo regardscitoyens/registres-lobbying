@@ -8455,6 +8455,275 @@
       ], 
       "listSecteursActivites": [
         {
+          "code": "OUTREMER", 
+          "label": "Outre-mer", 
+          "ordre": 20
+        }
+      ]
+    }, 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION DES ENTREPRISES DES OUTRE-MER", 
+        "identifiantNational": "393411855", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [
+      {
+        "denomination": "CMA CGM", 
+        "identifiantNational": "562024422", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "REUNION PECHE AUSTRALE", 
+        "identifiantNational": "820590750", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHAMBRE DEP AGRICULTURE DE LA GUADELOUPE", 
+        "identifiantNational": "189710031", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS DEVELOPPEMENT INDUSTRIE REUNION", 
+        "identifiantNational": "315668236", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION REUNIONNAISE COOPERATIVE AGRICOLE", 
+        "identifiantNational": "324156660", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMPAGNIE GENERALE D'ALIMENTATION", 
+        "identifiantNational": "309647170", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION DES GROUPEMENTS DE PRODUCTEURS DE BANANES DE GUADELOUPE ET MARTINIQUE", 
+        "identifiantNational": "450833314", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SUCRERIE DE BOIS ROUGE", 
+        "identifiantNational": "315253922", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CTE REG PECHE MARITIME ELEV MARINS REUN", 
+        "identifiantNational": "392778551", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "REGION REUNION", 
+        "identifiantNational": "239740012", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION REUNIONNAISE INTERPROFESSIONNELLE DE LA PECHE ET DE L'AQUACULTURE", 
+        "identifiantNational": "524026291", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CILAM INTERNATIONAL", 
+        "identifiantNational": "432623924", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SICA LAIT", 
+        "identifiantNational": "313553018", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CENTRE PATRON D ACTION PROFESS", 
+        "identifiantNational": "314307927", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SUCRIERE DE LA REUNION", 
+        "identifiantNational": "480034172", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHAMBRE DE COMMERCE ET D INDUSTRIE DE REGION DES ILES DE GUADELOUPE", 
+        "identifiantNational": "130014087", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION DES MOYENNES ET PETITES INDUSTRIES DE LA GUADELOUPE", 
+        "identifiantNational": "313802217", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS MARTINIQUAISE PROMOTION L'INDUSTRIE", 
+        "identifiantNational": "310214713", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS REUNION INTERPROFESS BETAIL VIANDES", 
+        "identifiantNational": "316344837", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHAMBRE COMMERCE ET INDUSTRIE MARTINIQUE", 
+        "identifiantNational": "189720022", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COLLECTIVITE TERRITORIALE DE GUYANE", 
+        "identifiantNational": "200052678", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE DES GRANDS MOULINS DES ANTILLES", 
+        "identifiantNational": "303095277", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CEM", 
+        "identifiantNational": "389670548", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSEIL INTERPRO RHUM TRADITIONNEL DOM", 
+        "identifiantNational": "404162158", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION DES MOYENNES ET PETITES INDUSTRIES DE LA GUYANE", 
+        "identifiantNational": "W9C1000997", 
+        "typeIdentifiantNational": "RNA"
+      }, 
+      {
+        "denomination": "FEDERATION REUNION DES COOP AGRICOLES", 
+        "identifiantNational": "320662323", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS MARTI INTER VIANDE BETAIL", 
+        "identifiantNational": "332701879", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75015", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général", 
+        "nom": "BALLY", 
+        "prenom": "Gérard"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président Région Réunion", 
+        "nom": "MARTINEL", 
+        "prenom": "Paul"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président Région Martinique", 
+        "nom": "PIERRE", 
+        "prenom": "Marie-Joseph"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Trésorier", 
+        "nom": "BIHRY", 
+        "prenom": "Claude"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président Région Guadeloupe", 
+        "nom": "DESALME", 
+        "prenom": "Franck"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président Région Guyane", 
+        "nom": "PREVOT", 
+        "prenom": "Ernest"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué général adjoint", 
+        "nom": "LOMBRIERE", 
+        "prenom": "Benoît"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant senior", 
+        "nom": "DETTER", 
+        "prenom": "Emmanuel"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante senior", 
+        "nom": "DE LA MAISONNEUVE", 
+        "prenom": "Laetitia"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant", 
+        "nom": "LEDWIDGE", 
+        "prenom": "Thomas"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante", 
+        "nom": "WEHRLI", 
+        "prenom": "Camille"
+      }
+    ], 
+    "dateCreation": "2017-10-12T09:06:39", 
+    "datePremierePublication": "2017-10-12T09:06:39", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "ASSOCIATION POUR LE DEVELOPPEMENT ECONOMIQUE DES DEPARTEMENTS D'OUTRE MER DANS LA CEE EURODOM", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "DIRECTEUR ADMNINISTRATIF ET FINANCIER", 
+        "nom": "SENGEL", 
+        "prenom": "Robert"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "W751091637", 
+    "lienSiteWeb": "http://www.eurodom.org/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": false, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "RNA", 
+    "url_json": "http://www.hatvp.fr/agora/W751091637.json", 
+    "ville": "PARIS 15E"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
           "code": "AGRI", 
           "label": "Agriculture, alimentation, pêche", 
           "ordre": 2
@@ -36823,6 +37092,163 @@
     "telephoneDeContact": "01 77 37 87 87", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/440889731.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }, 
+        {
+          "code": "SPORTS", 
+          "label": "Sports, loisirs, tourisme", 
+          "ordre": 27
+        }
+      ]
+    }, 
+    "adresse": "UNIMEV\r\n11 RUE FRIANT", 
+    "affiliations": [
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "784668618", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONFEDERATION DES PETITES ET MOYENNES ENTREPRISES", 
+        "identifiantNational": "303215016", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPEMENT DES PROFESSIONS DE SERVICES", 
+        "identifiantNational": "477942114", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ATOUT FRANCE AGENCE FRANCAISE DE DEVELOPPEMENT TOURISTIQUE", 
+        "identifiantNational": "340709211", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OFFICE DE TOURISME ET DES CONGRES PARIS", 
+        "identifiantNational": "775671373", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION FRANCAISE DE NORMALISATION", 
+        "identifiantNational": "775724818", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDER SYND SOC ETUDES CONSEILS", 
+        "identifiantNational": "784179426", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CENTRE ETUDE DIRECTEURS ASSOCIAT PROFESS", 
+        "identifiantNational": "344299425", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75014", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des Relations institutionnelles", 
+        "nom": "NEVEUX", 
+        "prenom": "Raphaële"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "ROSY", 
+        "prenom": "Matthieu"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Juridique et Fiscal", 
+        "nom": "DE LAVAL", 
+        "prenom": "Fabrice"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire Général", 
+        "nom": "PITROU", 
+        "prenom": "Frédéric"
+      }
+    ], 
+    "dateCreation": "2017-10-12T12:14:58", 
+    "datePremierePublication": "2017-10-12T12:14:58", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "UNIMEV", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "JOUËT", 
+        "prenom": "Frédéric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "ROSY", 
+        "prenom": "Matthieu"
+      }
+    ], 
+    "emailDeContact": "r.neveux@unimev.fr", 
+    "historique": [], 
+    "identifiantNational": "384254439", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/3186065/", 
+    "lienPageTwitter": "https://twitter.com/UNIMEV_FR", 
+    "lienSiteWeb": "https://www.unimev.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0153902000", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/384254439.json", 
     "ville": "PARIS"
   }, 
   {
