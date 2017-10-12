@@ -11749,6 +11749,119 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }
+      ]
+    }, 
+    "adresse": "CREDIT AGRICOLE SA\r\n12 PLACE DES ETATS UNIS", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION BANCAIRE FRANCAISE", 
+        "identifiantNational": "434987582", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSO FRANCAI ENTREPRIS PRIVEES", 
+        "identifiantNational": "326943016", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92127", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Affaires Publiques Groupe", 
+        "nom": "AUCOIN", 
+        "prenom": "Alban"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur Affaires Publiques Banque de Détail", 
+        "nom": "LHUISSIER", 
+        "prenom": "Marie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé de mission Affaires Publiques", 
+        "nom": "LE CONTE", 
+        "prenom": "Miguel"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé de mission Affaires publiques", 
+        "nom": "VALLET", 
+        "prenom": "Nicolas"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé de mission Affaires Publiques", 
+        "nom": "MESSAOUDANI", 
+        "prenom": "Claude"
+      }
+    ], 
+    "dateCreation": "2017-10-12T15:30:29", 
+    "datePremierePublication": "2017-10-12T15:30:29", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "CREDIT AGRICOLE SA", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "BRASSAC", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général Délégué", 
+        "nom": "MUSCA", 
+        "prenom": "Xavier"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "784608416", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784608416.json", 
+    "ville": "MONTROUGE CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
