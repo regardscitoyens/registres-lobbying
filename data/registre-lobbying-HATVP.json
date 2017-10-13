@@ -112,6 +112,16 @@
         "denomination": "LES ENTREPRISES DU MEDICAMENT", 
         "identifiantNational": "784668543", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LABORATOIRES INTERNATIONAUX DE RECHERCHE", 
+        "identifiantNational": "424399004", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS GPE INT POUR PHARMACIE DE RECHERCHE", 
+        "identifiantNational": "401255468", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "categorieOrganisation": {
@@ -147,7 +157,7 @@
         "prenom": "Jean-Edouard"
       }
     ], 
-    "dateCreation": "2017-08-31T11:55:36", 
+    "dateCreation": "2017-10-13T12:32:41", 
     "datePremierePublication": "2017-08-31T11:55:36", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -166,7 +176,97 @@
         "prenom": "Sylvie"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "ABBVIE\r\nSILIC\r\n10 RUE D ARCUEIL\r\nCP 90233", 
+        "affiliations": [
+          {
+            "denomination": "LES ENTREPRISES DU MEDICAMENT", 
+            "identifiantNational": "784668543", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "94528", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "FUMOLEAU", 
+            "prenom": "Pierre-Claude"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur des Affaires Institutionnelles et Economiques", 
+            "nom": "HERVÉ-BANNIER", 
+            "prenom": "Valérie"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice des Affaires Institutionnelles", 
+            "nom": "ANDRIEUX-BONNEAU", 
+            "prenom": "Aurélie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Chargé de Relations Institutionnelles", 
+            "nom": "LEROY", 
+            "prenom": "Jean-Edouard"
+          }
+        ], 
+        "dateCreation": "2017-08-31T11:55:36", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "ABBVIE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "FUMOLEAU", 
+            "prenom": "Pierre-Claude"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur des Affaires Pharmaceutiques et Pharmacien Responsable, France / Responsable Réglementaire Pays Nordiques", 
+            "nom": "KOEBERLÉ-RAMON", 
+            "prenom": "Sylvie"
+          }
+        ], 
+        "identifiantNational": "750775660", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "RUNGIS CEDEX 1"
+      }
+    ], 
     "identifiantNational": "750775660", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": true, 
@@ -41157,6 +41257,230 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/410168512.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "UNION INDUSTRIES CHIMIQUES\r\n14 RUE DE LA REPUBLIQUE", 
+    "affiliations": [
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "775347453", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPE DES FEDERATIONS INDUSTRIELLES", 
+        "identifiantNational": "404091621", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS UTILISATEURS TRANSPORTS FRET", 
+        "identifiantNational": "393985890", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "92800", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice générale", 
+        "nom": "SMETS", 
+        "prenom": "Magali"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Affaires Techniques", 
+        "nom": "PRUDHON", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des affaires publiques", 
+        "nom": "BOUISSOU-THOMAS", 
+        "prenom": "Marion"
+      }
+    ], 
+    "dateCreation": "2017-10-13T16:33:20", 
+    "datePremierePublication": "2017-10-13T16:03:02", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "UNION INDUSTRIES CHIMIQUES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "JUERY", 
+        "prenom": "Pascal"
+      }
+    ], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "UNION INDUSTRIES CHIMIQUES\r\n14 RUE DE LA REPUBLIQUE", 
+        "affiliations": [
+          {
+            "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+            "identifiantNational": "775347453", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPE DES FEDERATIONS INDUSTRIELLES", 
+            "identifiantNational": "404091621", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS UTILISATEURS TRANSPORTS FRET", 
+            "identifiantNational": "393985890", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "ORPRO", 
+          "label": "Organisation professionnelle"
+        }, 
+        "clients": [], 
+        "codePostal": "92800", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice générale", 
+            "nom": "SMETS", 
+            "prenom": "Magali"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Affaires Techniques", 
+            "nom": "PRUDHON", 
+            "prenom": "Philippe"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice des affaires publiques", 
+            "nom": "BOISSOU-THOMAS", 
+            "prenom": "Marion"
+          }
+        ], 
+        "dateCreation": "2017-10-13T16:03:02", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "UNION INDUSTRIES CHIMIQUES", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "JUERY", 
+            "prenom": "Pascal"
+          }
+        ], 
+        "identifiantNational": "784358855", 
+        "lienPageFacebook": "https://www.facebook.com/UIC.chimie/", 
+        "lienPageTwitter": "https://twitter.com/UIC_chimie", 
+        "lienSiteWeb": "http://www.uic.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PUTEAUX"
+      }
+    ], 
+    "identifiantNational": "784358855", 
+    "lienPageFacebook": "https://www.facebook.com/UIC.chimie/", 
+    "lienPageTwitter": "https://twitter.com/UIC_chimie", 
+    "lienSiteWeb": "http://www.uic.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784358855.json", 
+    "ville": "PUTEAUX"
   }, 
   {
     "activites": {
