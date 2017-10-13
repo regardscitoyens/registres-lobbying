@@ -9425,6 +9425,11 @@
         "denomination": "UNION FABRIC. PROTECT PROPRIETE INDUST.", 
         "identifiantNational": "784668709", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION PATRONALE DEPARMENTALE - MEDEF PARIS", 
+        "identifiantNational": "398327098", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "categorieOrganisation": {
@@ -9448,7 +9453,7 @@
         "prenom": "Cyril"
       }
     ], 
-    "dateCreation": "2017-10-10T17:53:54", 
+    "dateCreation": "2017-10-13T10:31:06", 
     "datePremierePublication": "2017-10-10T17:53:54", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -9461,7 +9466,100 @@
         "prenom": "Antal"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ETRANGER", 
+              "label": "Affaires étrangères, coopération internationale", 
+              "ordre": 1
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "PROPINT", 
+              "label": "Propriété intellectuelle", 
+              "ordre": 23
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "affiliations": [
+          {
+            "denomination": "ASSOCIATION DES FOURNISSEURS DE TABACS A FUMER", 
+            "identifiantNational": "821297355", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION FABRIC. PROTECT PROPRIETE INDUST.", 
+            "identifiantNational": "784668709", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "92932", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des affaires publiques, juridiques et de la communication", 
+            "nom": "SENSI-MINAUTIER", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Responsable relations institutionnelles", 
+            "nom": "LALO", 
+            "prenom": "Cyril"
+          }
+        ], 
+        "dateCreation": "2017-10-10T17:53:54", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "BRITISH AMERICAN TOBACCO FRANCE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "General Manager", 
+            "nom": "BEKEFI", 
+            "prenom": "Antal"
+          }
+        ], 
+        "identifiantNational": "303765630", 
+        "lienPageTwitter": "https://twitter.com/fr_bat_officiel", 
+        "lienSiteWeb": "http://www.batfrance.com/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": false, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS LA DEFENSE CEDEX"
+      }
+    ], 
     "identifiantNational": "303765630", 
     "lienPageTwitter": "https://twitter.com/fr_bat_officiel", 
     "lienSiteWeb": "http://www.batfrance.com/", 
