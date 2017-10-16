@@ -31258,6 +31258,76 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "SECURITE", 
+          "label": "Défense, sécurité", 
+          "ordre": 7
+        }
+      ]
+    }, 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "42170", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "VAN ROBAIS", 
+        "prenom": "Arnaud"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "DE BAVINCHOVE", 
+        "prenom": "Olivier"
+      }
+    ], 
+    "dateCreation": "2017-10-16T10:52:54", 
+    "datePremierePublication": "2017-10-16T10:52:54", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "RIVOLIER PERE ET FS ARMURERIE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT", 
+        "nom": "VAN ROBAIS", 
+        "prenom": "Arnaud"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "544500812", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": false, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/544500812.json", 
+    "ville": "ST JUST ST RAMBERT"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
