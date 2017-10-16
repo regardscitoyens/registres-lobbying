@@ -416,6 +416,624 @@
       ], 
       "listSecteursActivites": [
         {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "MEDIA", 
+          "label": "Médias, industries culturelles", 
+          "ordre": 18
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "73 AVENUE DES CHAMPS ÉLYSÉES\n", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES (AFCL)", 
+        "identifiantNational": "H000000001", 
+        "typeIdentifiantNational": "HATVP"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [
+      {
+        "denomination": "EURO DISNEY ASSOCIES SCA", 
+        "identifiantNational": "397471822", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BAXTER S.A.S", 
+        "identifiantNational": "304317357", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MSD FRANCE", 
+        "identifiantNational": "417890589", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NETINO", 
+        "identifiantNational": "441513801", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ARPEJEH", 
+        "identifiantNational": "504643065", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BFM TV", 
+        "identifiantNational": "482672714", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE FRANCAISE DU RADIOTELEPHONE - SFR", 
+        "identifiantNational": "343059564", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OCTALIA", 
+        "identifiantNational": "814503322", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "APPLE FRANCE", 
+        "identifiantNational": "322120916", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ORIENTIS GOURMET", 
+        "identifiantNational": "350283057", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OCTOPLUS", 
+        "identifiantNational": "531601136", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VISA EUROPE LIMITED", 
+        "identifiantNational": "509930699", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNILEND", 
+        "identifiantNational": "790766034", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VAINCRE LA MUCOVISCIDOSE", 
+        "identifiantNational": "784287583", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NQT", 
+        "identifiantNational": "492330683", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS DES EXPORTATEURS DE FILMS A.D.E.F", 
+        "identifiantNational": "423997261", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RMC DECOUVERTE", 
+        "identifiantNational": "529194797", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "ADLER", 
+        "prenom": "Jean-Christophe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur", 
+        "nom": "POZZANA", 
+        "prenom": "Aurelien"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice", 
+        "nom": "GUILLON-MOREL", 
+        "prenom": "Sophie"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante Senior", 
+        "nom": "RIPLEY", 
+        "prenom": "Margaux"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant", 
+        "nom": "BENDAVID", 
+        "prenom": "Xavier"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante", 
+        "nom": "LEPOUL", 
+        "prenom": "Morgane"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant", 
+        "nom": "LAFFARGUE", 
+        "prenom": "Fabrice"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante", 
+        "nom": "AZZOPARDI", 
+        "prenom": "Anne-Sophie"
+      }
+    ], 
+    "dateCreation": "2017-10-16T18:02:41", 
+    "datePremierePublication": "2017-10-16T16:53:04", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "AFFAIRES PUBLIQUES CONSULTANTS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Dirigeant", 
+        "nom": "ADLER", 
+        "prenom": "Jean-Christophe"
+      }
+    ], 
+    "emailDeContact": "info@affairespubliquesconsultants.fr", 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "EDUCATION", 
+              "label": "Education, enseignement supérieur, formation", 
+              "ordre": 9
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "MEDIA", 
+              "label": "Médias, industries culturelles", 
+              "ordre": 18
+            }, 
+            {
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "AFFAIRES PUBLIQUES CONSULTANTS\r\n71 73\r\n71 AVENUE DES CHAMPS ELYSEES", 
+        "affiliations": [
+          {
+            "denomination": "ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES (AFCL)", 
+            "identifiantNational": "H000000001", 
+            "typeIdentifiantNational": "HATVP"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [
+          {
+            "denomination": "EURO DISNEY ASSOCIES SCA", 
+            "identifiantNational": "397471822", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BAXTER S.A.S", 
+            "identifiantNational": "304317357", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MSD FRANCE", 
+            "identifiantNational": "417890589", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NETINO", 
+            "identifiantNational": "441513801", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARPEJEH", 
+            "identifiantNational": "504643065", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BFM TV", 
+            "identifiantNational": "482672714", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOCIETE FRANCAISE DU RADIOTELEPHONE - SFR", 
+            "identifiantNational": "343059564", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OCTALIA", 
+            "identifiantNational": "814503322", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "APPLE FRANCE", 
+            "identifiantNational": "322120916", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ORIENTIS GOURMET", 
+            "identifiantNational": "350283057", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OCTOPLUS", 
+            "identifiantNational": "531601136", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VISA EUROPE LIMITED", 
+            "identifiantNational": "509930699", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNILEND", 
+            "identifiantNational": "790766034", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75008", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "ADLER", 
+            "prenom": "Jean-Christophe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur", 
+            "nom": "POZZANA", 
+            "prenom": "Aurelien"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice", 
+            "nom": "GUILLON-MOREL", 
+            "prenom": "Sophie"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante Senior", 
+            "nom": "RIPLEY", 
+            "prenom": "Margaux"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Consultant", 
+            "nom": "BENDAVID", 
+            "prenom": "Xavier"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante", 
+            "nom": "LEPOUL", 
+            "prenom": "Morgane"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Consultant", 
+            "nom": "LAFFARGUE", 
+            "prenom": "Fabrice"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante", 
+            "nom": "AZZOPARDI", 
+            "prenom": "Anne-Sophie"
+          }
+        ], 
+        "dateCreation": "2017-10-16T16:53:04", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "AFFAIRES PUBLIQUES CONSULTANTS", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Dirigeant", 
+            "nom": "ADLER", 
+            "prenom": "Jean-Christophe"
+          }
+        ], 
+        "emailDeContact": "info@affairespubliquesconsultants.fr", 
+        "identifiantNational": "479189235", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/5191431/", 
+        "lienPageTwitter": "https://twitter.com/APc_lobbying", 
+        "lienSiteWeb": "http://affairespubliquesconsultants.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0156883980", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "EDUCATION", 
+              "label": "Education, enseignement supérieur, formation", 
+              "ordre": 9
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "MEDIA", 
+              "label": "Médias, industries culturelles", 
+              "ordre": 18
+            }, 
+            {
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "71 AVENUE DES CHAMPS ÉLYSÉES\n", 
+        "affiliations": [
+          {
+            "denomination": "ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES (AFCL)", 
+            "identifiantNational": "H000000001", 
+            "typeIdentifiantNational": "HATVP"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [
+          {
+            "denomination": "EURO DISNEY ASSOCIES SCA", 
+            "identifiantNational": "397471822", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BAXTER S.A.S", 
+            "identifiantNational": "304317357", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MSD FRANCE", 
+            "identifiantNational": "417890589", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NETINO", 
+            "identifiantNational": "441513801", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARPEJEH", 
+            "identifiantNational": "504643065", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BFM TV", 
+            "identifiantNational": "482672714", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOCIETE FRANCAISE DU RADIOTELEPHONE - SFR", 
+            "identifiantNational": "343059564", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OCTALIA", 
+            "identifiantNational": "814503322", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "APPLE FRANCE", 
+            "identifiantNational": "322120916", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ORIENTIS GOURMET", 
+            "identifiantNational": "350283057", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OCTOPLUS", 
+            "identifiantNational": "531601136", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VISA EUROPE LIMITED", 
+            "identifiantNational": "509930699", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNILEND", 
+            "identifiantNational": "790766034", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75008", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "ADLER", 
+            "prenom": "Jean-Christophe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur", 
+            "nom": "POZZANA", 
+            "prenom": "Aurelien"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice", 
+            "nom": "GUILLON-MOREL", 
+            "prenom": "Sophie"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante Senior", 
+            "nom": "RIPLEY", 
+            "prenom": "Margaux"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Consultant", 
+            "nom": "BENDAVID", 
+            "prenom": "Xavier"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante", 
+            "nom": "LEPOUL", 
+            "prenom": "Morgane"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Consultant", 
+            "nom": "LAFFARGUE", 
+            "prenom": "Fabrice"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante", 
+            "nom": "AZZOPARDI", 
+            "prenom": "Anne-Sophie"
+          }
+        ], 
+        "dateCreation": "2017-10-16T17:06:12", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "AFFAIRES PUBLIQUES CONSULTANTS", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Dirigeant", 
+            "nom": "ADLER", 
+            "prenom": "Jean-Christophe"
+          }
+        ], 
+        "emailDeContact": "info@affairespubliquesconsultants.fr", 
+        "identifiantNational": "479189235", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/5191431/", 
+        "lienPageTwitter": "https://twitter.com/APc_lobbying", 
+        "lienSiteWeb": "http://affairespubliquesconsultants.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0156883980", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
+    "identifiantNational": "479189235", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/5191431/", 
+    "lienPageTwitter": "https://twitter.com/APc_lobbying", 
+    "lienSiteWeb": "http://affairespubliquesconsultants.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0156883980", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/479189235.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
           "code": "AMENAGEMENT", 
           "label": "Logement, aménagement du territoire, urbanisme", 
           "ordre": 17
@@ -31884,6 +32502,125 @@
     "telephoneDeContact": "0155745200", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/524866241.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "COMMERCE", 
+          "label": "Commerce extérieur", 
+          "ordre": 5
+        }, 
+        {
+          "code": "SECURITE", 
+          "label": "Défense, sécurité", 
+          "ordre": 7
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "SAFRAN\r\n2 BD DU GENERAL MARTIAL VALIN", 
+    "affiliations": [
+      {
+        "denomination": "GROUPEMENT INDUSTR FSES AERONAUT SPACIAL", 
+        "identifiantNational": "784668394", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "775347453", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AFEP", 
+        "identifiantNational": "391358363", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75015", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "DECHELOTTE", 
+        "prenom": "Michel"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Affaires Institutionnelles", 
+        "nom": "DECHELOTTE", 
+        "prenom": "Michel"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Conseiller diplomatique", 
+        "nom": "PORTAL", 
+        "prenom": "David"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "PORTAL", 
+        "prenom": "David"
+      }
+    ], 
+    "dateCreation": "2017-10-16T17:54:33", 
+    "datePremierePublication": "2017-10-16T17:54:33", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "SAFRAN", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "PETITCOLIN", 
+        "prenom": "Philippe"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "562082909", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/562082909.json", 
     "ville": "PARIS"
   }, 
   {
