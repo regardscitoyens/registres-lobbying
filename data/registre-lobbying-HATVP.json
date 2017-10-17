@@ -9667,6 +9667,139 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "ENTREPRISE", 
+          "label": "Gouvernance d’entreprise", 
+          "ordre": 14
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "COM", 
+          "label": "Communications électroniques", 
+          "ordre": 28
+        }
+      ]
+    }, 
+    "adresse": "BNP PARIBAS PERSONAL FINANCE\r\nCETELEM\r\n1 BOULEVARD HAUSSMANN", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION BANCAIRE FRANCAISE", 
+        "identifiantNational": "434987582", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOC FRANC DES STES FINANC", 
+        "identifiantNational": "784669541", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des Relations Institutionnelles", 
+        "nom": "GUITTARD-LOSAY", 
+        "prenom": "Isabelle"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé d'affaires publiques", 
+        "nom": "ASSEDO", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée d'affaires publiques", 
+        "nom": "CHAUVIRE", 
+        "prenom": "Anne"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "ASSEDO", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur Directeur Général", 
+        "nom": "DAVID", 
+        "prenom": "Laurent"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur Directeur Général Délégué", 
+        "nom": "BELLAFIORE", 
+        "prenom": "Jean-Marie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "VAN GROENENDAEL", 
+        "prenom": "Alain"
+      }
+    ], 
+    "dateCreation": "2017-10-17T16:09:28", 
+    "datePremierePublication": "2017-10-17T16:09:28", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "BNP PARIBAS PERSONAL FINANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur Directeur Général Délégué", 
+        "nom": "BELLAFIORE", 
+        "prenom": "Jean-Marie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur Directeur Général", 
+        "nom": "DAVID", 
+        "prenom": "Laurent"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "542097902", 
+    "lienPageFacebook": "", 
+    "lienPageLinkedin": "https://www.linkedin.com/company-beta/281207/", 
+    "lienPageTwitter": "https://twitter.com/bnpp_pf", 
+    "lienSiteWeb": "http://www.bnpparibas-pf.com/fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/542097902.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -15191,6 +15324,259 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/775671688.json", 
     "ville": "COURBEVOIE"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "Fédération du Négoce de Bois et des Matériaux de construction\n215 bis boulevard Saint Germain", 
+    "affiliations": [
+      {
+        "denomination": "CONFEDERATION DES PETITES ET MOYENNES ENTREPRISES", 
+        "identifiantNational": "303215016", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75007", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable Affaires économiques, Fiscalité, Environnement", 
+        "nom": "OUVRIEU", 
+        "prenom": "Adrienne"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable juridique et social", 
+        "nom": "GAZEL", 
+        "prenom": "Stéphanie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président de la commission EHS", 
+        "nom": "LANE", 
+        "prenom": "Jean Marie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président de la commission sociale", 
+        "nom": "LECLERCQ", 
+        "prenom": "Sébastien"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président de la commission économique", 
+        "nom": "BIANCARELLI", 
+        "prenom": "Hervé"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Représentant désigné au Conseil supérieur de la construction - Président du groupe ville durable Nouvelle France Industrielle", 
+        "nom": "PESTRE", 
+        "prenom": "Jacques"
+      }
+    ], 
+    "dateCreation": "2017-10-17T14:08:49", 
+    "datePremierePublication": "2017-10-17T14:08:49", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "FEDERATION DU NEGOCE DE BOIS ET DES MATERIAUX DE CONSTRUCTION - FNBM", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "BERNIGAUD", 
+        "prenom": "Franck"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Vice Présidente", 
+        "nom": "ARNOUT", 
+        "prenom": "Marie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Trésorier adjoint", 
+        "nom": "ETELLIN", 
+        "prenom": "Laurent"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Trésorier", 
+        "nom": "GUILLOUX", 
+        "prenom": "François Xavier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général", 
+        "nom": "MARTIN SAINT LEON", 
+        "prenom": "Laurent"
+      }
+    ], 
+    "emailDeContact": "contact@fnbm.fr", 
+    "historique": [], 
+    "identifiantNational": "784311821", 
+    "lienPageFacebook": "https://www.facebook.com/FNBM-224756554317545/", 
+    "lienPageLinkedin": "https://www.linkedin.com/in/fnbm-fnbm-061889133/", 
+    "lienPageTwitter": "https://twitter.com/FNBM_actu", 
+    "lienSiteWeb": "http://www.fnbm.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0145482844", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784311821.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }, 
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "FEDERATION FR COMBUSTIBLES ET CARBURAN\r\n114 AVENUE DE WAGRAM", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75017", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "PLAN", 
+        "prenom": "Frederic"
+      }
+    ], 
+    "dateCreation": "2017-10-17T13:50:49", 
+    "datePremierePublication": "2017-10-17T13:50:49", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "FEDERATION FR COMBUSTIBLES ET CARBURANTS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT FEDERAL", 
+        "nom": "LAYLY", 
+        "prenom": "Eric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "DELEGUE GENERAL", 
+        "nom": "PLAN", 
+        "prenom": "Frederic"
+      }
+    ], 
+    "emailDeContact": "ff3c@ff3c.org", 
+    "historique": [], 
+    "identifiantNational": "389409137", 
+    "lienSiteWeb": "http://www.ff3c.org", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0147639260", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/389409137.json", 
+    "ville": "PARIS"
   }, 
   {
     "activites": {
