@@ -16467,6 +16467,95 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }
+      ]
+    }, 
+    "adresse": "FEDERATION NATIONALE DU CREDIT AGRICOL\r\n48 RUE LA BOETIE", 
+    "affiliations": [
+      {
+        "denomination": "CONFED NAT MUTUALITE COOP ET CREDIT AGRI", 
+        "identifiantNational": "421344201", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COOP FR LES ENTREPRISES COOPERATIVES", 
+        "identifiantNational": "317165728", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire fédéral", 
+        "nom": "SCHAEFER", 
+        "prenom": "Bertrand"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable affaires agricoles et agroalimentaires", 
+        "nom": "MIGAULT", 
+        "prenom": "Catherine"
+      }
+    ], 
+    "dateCreation": "2017-10-17T12:22:55", 
+    "datePremierePublication": "2017-10-17T12:22:55", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "FEDERATION NATIONALE DU CREDIT AGRICOLE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "LEFEBVRE", 
+        "prenom": "Dominique"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Premier Vice-président", 
+        "nom": "APPERT", 
+        "prenom": "Raphaël"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "AUCOIN", 
+        "prenom": "Alban"
+      }
+    ], 
+    "emailDeContact": "bertrand.schaefer@ca-fnca.fr", 
+    "historique": [], 
+    "identifiantNational": "310047147", 
+    "lienSiteWeb": "http://www.creditagricole.info", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0149534323", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/310047147.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
