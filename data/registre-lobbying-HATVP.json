@@ -2621,6 +2621,77 @@
       ], 
       "listSecteursActivites": [
         {
+          "code": "SECURITE", 
+          "label": "Défense, sécurité", 
+          "ordre": 7
+        }
+      ]
+    }, 
+    "adresse": "ASS NAT OFFICIERS CARRIERE EN RETRAITE\r\n15 RUE CLER", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "75007", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "secrétariat - comptabilité", 
+        "nom": "CHARBONNEL", 
+        "prenom": "Nathalie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "vice président - représentant d’intérêt AN", 
+        "nom": "AMEILHAUD", 
+        "prenom": "Jean-Paul"
+      }
+    ], 
+    "dateCreation": "2017-10-18T10:43:34", 
+    "datePremierePublication": "2017-10-18T10:43:34", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "ASS NAT OFFICIERS CARRIERE EN RETRAITE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président national", 
+        "nom": "OLHAGARAY", 
+        "prenom": "Michel"
+      }
+    ], 
+    "emailDeContact": "anocr@orange.fr", 
+    "historique": [], 
+    "identifiantNational": "327528782", 
+    "lienSiteWeb": "http://www.anocr.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0144189218", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/327528782.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
           "code": "AGRI", 
           "label": "Agriculture, alimentation, pêche", 
           "ordre": 2
