@@ -14155,6 +14155,244 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }
+      ]
+    }, 
+    "adresse": "FED FRANCAISE COOP GROUPEMENTS ARTISAN\r\n22 RUE JOUBERT", 
+    "affiliations": [
+      {
+        "denomination": "COOP FR LES ENTREPRISES COOPERATIVES", 
+        "identifiantNational": "317165728", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [
+      {
+        "denomination": "ORCAB", 
+        "identifiantNational": "419864400", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION U.F.C.A.C.", 
+        "identifiantNational": "537672420", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROGAM", 
+        "identifiantNational": "349704221", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE COOPERATIVE DE L'ARTISANAT RURAL", 
+        "identifiantNational": "330471897", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE ANONYME COOPERATIVE ARTISANALE", 
+        "identifiantNational": "601980063", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE COOPERATIVE ARTISANALE DE PRESTATIONS DE SERVICES", 
+        "identifiantNational": "428754873", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION DES COOPERATIVES D'ARTISANS DE SERVICES A LA PERSONNE (FCASAP)", 
+        "identifiantNational": "W751233786", 
+        "typeIdentifiantNational": "RNA"
+      }, 
+      {
+        "denomination": "SOC COOP ARTISANALE DU QUEYRAS", 
+        "identifiantNational": "348389784", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA CARACOLE", 
+        "identifiantNational": "349206326", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA FABRIQUE DE LA GOUTTE D'OR", 
+        "identifiantNational": "802639856", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LES ATELIERS RELIES DE CONCORET", 
+        "identifiantNational": "505155382", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COOP ARTISANS TAXIS REUNION", 
+        "identifiantNational": "443864285", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LES TAXIS RADIOS VILLE BLOIS", 
+        "identifiantNational": "334487725", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE COOPERATIVE ARTISANALE 7 24 PRO EURE", 
+        "identifiantNational": "823265251", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COOPERATIVE DES ARTISANS DEBOSSELEURS", 
+        "identifiantNational": "829057926", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "SICOT", 
+        "prenom": "Pascal"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire Général", 
+        "nom": "LEBLANC", 
+        "prenom": "François"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire Assistante", 
+        "nom": "MARTINS DOS SANTOS", 
+        "prenom": "Marie-Christine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice Président", 
+        "nom": "VIALATOUX", 
+        "prenom": "Eric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire du CA", 
+        "nom": "BIARD", 
+        "prenom": "Bruno"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Trésorier", 
+        "nom": "SCHOUMACHER", 
+        "prenom": "Denis"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Trésorier adjoint", 
+        "nom": "CHOLLET", 
+        "prenom": "Eddy"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "LE QUERE", 
+        "prenom": "Jean-Alain"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Administratrice", 
+        "nom": "DESPRET", 
+        "prenom": "Françoise"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "LE GUILLANT", 
+        "prenom": "Daniel"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "MEYER", 
+        "prenom": "Thomas"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Administratrice", 
+        "nom": "NORMAND", 
+        "prenom": "Françoise"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "LEBLANC", 
+        "prenom": "François"
+      }
+    ], 
+    "dateCreation": "2017-10-19T13:04:25", 
+    "datePremierePublication": "2017-10-19T13:04:25", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "FED FRANCAISE COOP GROUPEMENTS ARTISANS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "SICOT", 
+        "prenom": "Pascal"
+      }
+    ], 
+    "emailDeContact": "contact@ffcga.coop", 
+    "historique": [], 
+    "identifiantNational": "314974361", 
+    "lienPageFacebook": "https://fr-fr.facebook.com/FFCGA-324311814268597/", 
+    "lienSiteWeb": "http://ffcga.coop", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0147248877", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/314974361.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -35514,6 +35752,70 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/421240508.json", 
     "ville": "BOULOGNE BILLANCOURT"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "Syndicat pour la Valorisation et l'Elimination des Déchets  (SYVED)\n54 RUE PIERRE CURIE\nZI des Gätines", 
+    "affiliations": [
+      {
+        "denomination": "FEDERAT NAT ACTIVITE DECHET", 
+        "identifiantNational": "784360182", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "78373", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire Générale", 
+        "nom": "CONCHE", 
+        "prenom": "Isabelle"
+      }
+    ], 
+    "dateCreation": "2017-10-19T19:06:45", 
+    "datePremierePublication": "2017-10-19T19:06:45", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "SYNDICAT POUR LA VALORISATION ET L 'ELIMINATION DES DECHETS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "KIBARIAN", 
+        "prenom": "Azad"
+      }
+    ], 
+    "emailDeContact": "syved@syved.fr", 
+    "historique": [], 
+    "identifiantNational": "535352983", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/535352983.json", 
+    "ville": "PLAISIR Cedex"
   }, 
   {
     "activites": {
