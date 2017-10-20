@@ -2657,6 +2657,121 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "MEDIA", 
+          "label": "Médias, industries culturelles", 
+          "ordre": 18
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "SOCIETE", 
+          "label": "Questions de société", 
+          "ordre": 26
+        }
+      ]
+    }, 
+    "adresse": "ARPP AUTORITE REGULATION PROFESSIONNELLE DE LA PUBLICITE\n23 RUE AUGUSTE VACQUERIE", 
+    "affiliations": [
+      {
+        "denomination": "COMITE NAT FR CHAMBRE COMMERCE INTERN", 
+        "identifiantNational": "784855520", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION FRANCAISE MARKETING DIRECT", 
+        "identifiantNational": "434856746", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "75116", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "MARTIN", 
+        "prenom": "Stephane"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des affaires publiques et réglementaires", 
+        "nom": "JALADE", 
+        "prenom": "Magali"
+      }
+    ], 
+    "dateCreation": "2017-10-20T18:37:09", 
+    "datePremierePublication": "2017-10-20T18:37:09", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ARPP AUTORITE DE REGULATION PROFESSIONNELLE DE LA PUBLICITE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "MARTIN", 
+        "prenom": "Stéphane"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "D'AUBERT", 
+        "prenom": "François"
+      }
+    ], 
+    "emailDeContact": "contact@arpp.org", 
+    "historique": [], 
+    "identifiantNational": "307287193", 
+    "lienPageFacebook": "https://www.facebook.com/ARPPub", 
+    "lienPageLinkedin": "https://www.linkedin.com/company-beta/1093537/", 
+    "lienSiteWeb": "http://www.arpp.org", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0140151540", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/307287193.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -12974,14 +13089,14 @@
         "typeIdentifiantNational": "SIREN"
       }, 
       {
-        "denomination": "ASS FRANCAISE ENTREPRISES INVESTISSEMENT", 
-        "identifiantNational": "348036278", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
         "denomination": "ASS DU FOREX ET DES TRESORIERS DE BANQUE", 
         "identifiantNational": "377550637", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION FRANCAISE DES MARCHES FINANCIERS AMAFI", 
+        "identifiantNational": "W751085070", 
+        "typeIdentifiantNational": "RNA"
       }
     ], 
     "categorieOrganisation": {
@@ -13005,7 +13120,7 @@
         "prenom": "Antoine"
       }
     ], 
-    "dateCreation": "2017-10-09T19:11:26", 
+    "dateCreation": "2017-10-20T14:33:18", 
     "datePremierePublication": "2017-10-09T19:11:26", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -13036,7 +13151,126 @@
         "prenom": "Jacques"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }
+          ]
+        }, 
+        "adresse": "12 PLACE DES ETATS UNIS\nCS 70052", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION BANCAIRE FRANCAISE", 
+            "identifiantNational": "434987582", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS PROFESSIONNELLE BANQUES", 
+            "identifiantNational": "775675887", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS FRANCAISE ENTREPRISES INVESTISSEMENT", 
+            "identifiantNational": "348036278", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS DU FOREX ET DES TRESORIERS DE BANQUE", 
+            "identifiantNational": "377550637", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "92547", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Responsable des Affaires Publiques et d’Administration Interne", 
+            "nom": "CHEVRE", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Responsable veille réglementaire marchés", 
+            "nom": "LALLEMENT", 
+            "prenom": "Antoine"
+          }
+        ], 
+        "dateCreation": "2017-10-09T19:11:26", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "HOCHER", 
+            "prenom": "Jean-Yves"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général Délégué", 
+            "nom": "MARION", 
+            "prenom": "François"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général Délégué", 
+            "nom": "MONFRONT", 
+            "prenom": "Régis"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général Délégué", 
+            "nom": "PROST", 
+            "prenom": "Jacques"
+          }
+        ], 
+        "identifiantNational": "304187701", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/credit-agricole-cib", 
+        "lienPageTwitter": "https://twitter.com/CA_CIB", 
+        "lienSiteWeb": "https://www.ca-cib.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "+33141890000", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "MONTROUGE CEDEX"
+      }
+    ], 
     "identifiantNational": "304187701", 
     "lienPageLinkedin": "https://www.linkedin.com/company/credit-agricole-cib", 
     "lienPageTwitter": "https://twitter.com/CA_CIB", 
@@ -36266,6 +36500,92 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "MEDIA", 
+          "label": "Médias, industries culturelles", 
+          "ordre": 18
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "PROPINT", 
+          "label": "Propriété intellectuelle", 
+          "ordre": 23
+        }
+      ]
+    }, 
+    "adresse": "SYND PRESSE INDEPENDANT INFORMAT LIGNE\r\n8 PASSAGE BRULON", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75012", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice", 
+        "nom": "AUTRET", 
+        "prenom": "Karen"
+      }
+    ], 
+    "dateCreation": "2017-10-20T14:50:57", 
+    "datePremierePublication": "2017-10-20T14:50:57", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "SYNDICAT DE LA PRESSE INDEPENDANT D'INFORMATION EN LIGNE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "BOULANGER", 
+        "prenom": "Jean-Christophe"
+      }
+    ], 
+    "emailDeContact": "contact@spiil.org", 
+    "historique": [], 
+    "identifiantNational": "790593479", 
+    "lienPageTwitter": "https://twitter.com/spiil", 
+    "lienSiteWeb": "http://www.spiil.org/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0970261072", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/790593479.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -38755,6 +39075,113 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/824524144.json", 
     "ville": "PARIS 7"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "SECURITE", 
+          "label": "Défense, sécurité", 
+          "ordre": 7
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }
+      ]
+    }, 
+    "adresse": "THALES\r\nTOUR CARPE DIEM ESPLANADE NORD\r\nPL DES COROLLES", 
+    "affiliations": [
+      {
+        "denomination": "GROUPEMENT INDUSTR FSES AERONAUT SPACIAL", 
+        "identifiantNational": "784668394", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPE INDUSTRIE MATERIEL DEFENSE TERRES", 
+        "identifiantNational": "344322722", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT ENTREPRISE FRANCE INTERNATIONA", 
+        "identifiantNational": "378236376", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSO FRANCAI ENTREPRIS PRIVEES", 
+        "identifiantNational": "326943016", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92400", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "VP Relations Institutionnelles", 
+        "nom": "CAPUTO", 
+        "prenom": "Isabelle"
+      }
+    ], 
+    "dateCreation": "2017-10-20T18:19:08", 
+    "datePremierePublication": "2017-10-20T18:19:08", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "THALES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président - Directeur Général", 
+        "nom": "CAINE", 
+        "prenom": "Patrice"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "552059024", 
+    "lienPageFacebook": "https://www.facebook.com/thalesgroup", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/thales", 
+    "lienPageTwitter": "https://twitter.com/thalesgroup", 
+    "lienSiteWeb": "https://www.thalesgroup.com", 
+    "pays": "", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/552059024.json", 
+    "ville": "COURBEVOIE"
   }, 
   {
     "activites": {
