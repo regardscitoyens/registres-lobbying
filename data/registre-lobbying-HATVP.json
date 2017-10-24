@@ -404,6 +404,158 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }, 
+        {
+          "code": "MIGRA", 
+          "label": "Questions migratoires", 
+          "ordre": 24
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "AEROPORTS DE PARIS\r\nADP\r\n1 RUE DE FRANCE", 
+    "affiliations": [
+      {
+        "denomination": "UNION DES AEROPORTS FRANCAIS UAF", 
+        "identifiantNational": "784855223", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "784668618", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALLIANCE 46.2  ENTREPRENDRE EN FRANCE POUR LE TOURISME", 
+        "identifiantNational": "W751223300", 
+        "typeIdentifiantNational": "RNA"
+      }, 
+      {
+        "denomination": "UNIMEV", 
+        "identifiantNational": "384254439", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AVENIR TRANSPORTS", 
+        "identifiantNational": "439476250", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION PROFESSIONNELLE DES RESPONSABLES DES RELATIONS AVEC LES POUVOIRS PUBLICS - ARPP", 
+        "identifiantNational": "W751074197", 
+        "typeIdentifiantNational": "RNA"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "93290", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "ROSSAT-MIGNOD", 
+        "prenom": "Gisèle"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "directrice des affaires publiques", 
+        "nom": "ROSSAT-MIGNOD", 
+        "prenom": "Gisèle"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "adjoint aux affaires publiques", 
+        "nom": "KLAA", 
+        "prenom": "Khaled"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "responsable des relations tourisme", 
+        "nom": "MANCHERON", 
+        "prenom": "Rémi"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "responsables des relations institutionnelles France", 
+        "nom": "SOUEF", 
+        "prenom": "Mélinda"
+      }
+    ], 
+    "dateCreation": "2017-10-24T15:18:24", 
+    "datePremierePublication": "2017-10-24T15:18:24", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "AEROPORTS DE PARIS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "président directeur général", 
+        "nom": "DE ROMANET", 
+        "prenom": "Augustin"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "directeur général délégué", 
+        "nom": "ARKWRIGHT", 
+        "prenom": "Edward"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "552016628", 
+    "pays": "", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/552016628.json", 
+    "ville": "TREMBLAY EN FRANCE"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -3731,6 +3883,192 @@
     "telephoneDeContact": "01 44 43 10 00", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/187500046.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENTREPRISE", 
+          "label": "Gouvernance d’entreprise", 
+          "ordre": 14
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "ASSO FRANCAI ENTREPRIS PRIVEES\r\n11 AVENUE DELCASSE", 
+    "affiliations": [
+      {
+        "denomination": "INSTITUT FRANCAIS DES ADMINISTRATEURS", 
+        "identifiantNational": "451971675", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION GLOBAL COMPACT FRANCE", 
+        "identifiantNational": "488898511", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT EUROPLACE DE FINANCE", 
+        "identifiantNational": "484032594", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "BURELLE", 
+        "prenom": "Laurent"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "SOULMAGNON", 
+        "prenom": "François"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur", 
+        "nom": "ROBERT", 
+        "prenom": "Stéphanie"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur des Affaires Fiscales", 
+        "nom": "DE LA ROCQUE", 
+        "prenom": "Laetitia"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur adjoint des Affaires fiscales", 
+        "nom": "TARMIL", 
+        "prenom": "Amina"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Environnement Energie", 
+        "nom": "BOQUET", 
+        "prenom": "Nicolas"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice du service juridique", 
+        "nom": "DE BROSSES", 
+        "prenom": "Odile"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des Affaires sociales", 
+        "nom": "LEROY", 
+        "prenom": "Julie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Affaires Financières", 
+        "nom": "TRAN VAN", 
+        "prenom": "Le-Quang"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur Administratif et Financier", 
+        "nom": "BRICOTEAUX", 
+        "prenom": "Dominique"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Conseiller du Président", 
+        "nom": "DENIS", 
+        "prenom": "Eudoxe"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Affaires commerciales et Propriété intellectuelle", 
+        "nom": "FLAMENT-MASCARET", 
+        "prenom": "Emmanuelle"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur RSE et Affaires internationales", 
+        "nom": "GAMBERT", 
+        "prenom": "Elisabeth"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Négociations commerciales internationales", 
+        "nom": "POULAIN", 
+        "prenom": "Marc"
+      }
+    ], 
+    "dateCreation": "2017-10-24T13:46:49", 
+    "datePremierePublication": "2017-10-24T13:46:49", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ASSO FRANCAI ENTREPRIS PRIVEES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "BURELLE", 
+        "prenom": "Laurent"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "SOULMAGNON", 
+        "prenom": "François"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "326943016", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/afep---french-association-of-large-companies-association-française-des-entreprises-privées", 
+    "lienPageTwitter": "https://twitter.com/Afep_", 
+    "lienSiteWeb": "https://www.afep.com/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0143596535", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/326943016.json", 
     "ville": "PARIS"
   }, 
   {
@@ -22602,6 +22940,82 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }
+      ]
+    }, 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75001", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée des Affaires publiques", 
+        "nom": "COUGARD", 
+        "prenom": "Maïwenn"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Relations extérieures", 
+        "nom": "BURGAUD", 
+        "prenom": "François"
+      }
+    ], 
+    "dateCreation": "2017-10-24T13:56:01", 
+    "datePremierePublication": "2017-10-24T13:56:01", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "GROUP NAT INTERPRO SEMEN PLANT", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice générale", 
+        "nom": "DAGORN", 
+        "prenom": "Catherine"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "775657398", 
+    "lienPageFacebook": "https://www.facebook.com/cultivonslabiodiversite", 
+    "lienPageLinkedin": "https://fr.linkedin.com/company/gnis", 
+    "lienPageTwitter": "https://twitter.com/gnis", 
+    "lienSiteWeb": "http://www.gnis.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": false, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/775657398.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
@@ -22647,9 +23061,21 @@
         "fonction": "Adjoint au Directeur général - Affaires publiques", 
         "nom": "DAUPEYROUX", 
         "prenom": "François"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "MOULIN WRIGHT", 
+        "prenom": "Vincent"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "DARMAYAN", 
+        "prenom": "Philippe"
       }
     ], 
-    "dateCreation": "2017-09-28T14:18:30", 
+    "dateCreation": "2017-10-24T15:04:00", 
     "datePremierePublication": "2017-09-28T10:34:13", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -22724,6 +23150,88 @@
           }
         ], 
         "dateCreation": "2017-09-28T10:34:13", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "GROUPE DES FEDERATIONS INDUSTRIELLES", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "DARMAYAN", 
+            "prenom": "Philippe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "MOULIN WRIGHT", 
+            "prenom": "Vincent"
+          }
+        ], 
+        "identifiantNational": "404091621", 
+        "lienPageTwitter": "https://twitter.com/GFI_Industrie", 
+        "lienSiteWeb": "http://gfi.asso.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }
+          ]
+        }, 
+        "adresse": "GROUPE DES FEDERATIONS INDUSTRIELLES\r\n55 AVENUE BOSQUET", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_NON_GOUV", 
+          "code": "ASSOC", 
+          "label": "Association"
+        }, 
+        "clients": [], 
+        "codePostal": "75007", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Adjoint au Directeur général - Affaires publiques", 
+            "nom": "DAUPEYROUX", 
+            "prenom": "François"
+          }
+        ], 
+        "dateCreation": "2017-09-28T14:18:30", 
         "declarationOrgaAppartenance": false, 
         "declarationTiers": false, 
         "denomination": "GROUPE DES FEDERATIONS INDUSTRIELLES", 
@@ -23721,6 +24229,1920 @@
     "publierMonTelephoneDeContact": false, 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/344322722.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ETRANGER", 
+          "label": "Affaires étrangères, coopération internationale", 
+          "ordre": 1
+        }, 
+        {
+          "code": "SECURITE", 
+          "label": "Défense, sécurité", 
+          "ordre": 7
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }
+      ]
+    }, 
+    "adresse": "GPT INDUST CONSTRUC ACTIVIT NAVAL\r\n47 RUE DE MONCEAU", 
+    "affiliations": [
+      {
+        "denomination": "LE CLUSTER MARITIME FRANCAIS", 
+        "identifiantNational": "489847624", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATOIN POLE MER BRETAGNE", 
+        "identifiantNational": "488726563", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNDICAT DES ENERGIES RENOUVELABLES", 
+        "identifiantNational": "419710280", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EVOLEN", 
+        "identifiantNational": "534585419", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION INDUSTRIES METALLURGIQUES MINIERES", 
+        "identifiantNational": "784717191", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSEIL DES INDUSTRIES DE LA CONFIANCE ET DE LA SECURITE", 
+        "identifiantNational": "829519289", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOC TECHNIQUE MARITIME ET AERONAUTIQUE", 
+        "identifiantNational": "784362683", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OCEANIDES", 
+        "identifiantNational": "793451113", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TOULON VAR TECHNOLOGIES", 
+        "identifiantNational": "345245260", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "ACEBI", 
+        "identifiantNational": "313226052", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ACTIMAR", 
+        "identifiantNational": "421970427", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ADES TECHNOLOGIES", 
+        "identifiantNational": "393407234", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SN ADEXFLOW INTERNATIONAL", 
+        "identifiantNational": "480282961", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "A.D.T.S - A D TECHNICAL SUPPLIES", 
+        "identifiantNational": "525384814", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ADVANCED AERODYNAMIC VESSELS", 
+        "identifiantNational": "793570243", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SHIP STUDIO", 
+        "identifiantNational": "442013355", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOREINE", 
+        "identifiantNational": "794777284", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AIRBUS SAS", 
+        "identifiantNational": "383474814", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AIRBUS DEFENCE AND SPACE SAS", 
+        "identifiantNational": "393341516", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AIRBUS HELICOPTERS", 
+        "identifiantNational": "352383715", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AIR LIQUIDE FRANCE INDUSTRIE", 
+        "identifiantNational": "314119504", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AIRSEAS", 
+        "identifiantNational": "822983052", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EFINOR", 
+        "identifiantNational": "429420474", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALYOTECH", 
+        "identifiantNational": "483883534", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AMERIS FRANCE", 
+        "identifiantNational": "398725739", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AMPHENOL - AIR LB", 
+        "identifiantNational": "777343955", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ARCO INGENIERIE", 
+        "identifiantNational": "434460556", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AUBERT & DUVAL", 
+        "identifiantNational": "380342808", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PAULSTRA SNC", 
+        "identifiantNational": "314397670", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "IRTS", 
+        "identifiantNational": "401321856", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "JEUMONT ELECTRIC", 
+        "identifiantNational": "444571772", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PELAGOS", 
+        "identifiantNational": "508488566", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHANTIERS PIRIOU", 
+        "identifiantNational": "422322529", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "POLE EMC2", 
+        "identifiantNational": "487891012", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATOIN POLE MER BRETAGNE", 
+        "identifiantNational": "488726563", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TECHNIQUE ENERGIE ATOMIQUE - TECHNICATOME", 
+        "identifiantNational": "722045879", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSYSTEM", 
+        "identifiantNational": "412076937", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FIVA", 
+        "identifiantNational": "450092614", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GEIM", 
+        "identifiantNational": "801810565", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GERFLOR TARARE SNC", 
+        "identifiantNational": "433605128", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GAZTRANSPORT ET TECHNIGAZ", 
+        "identifiantNational": "662001403", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HGH SYSTEMES INFRAROUGES", 
+        "identifiantNational": "325486454", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INGELIANCE TECHNOLOGIES", 
+        "identifiantNational": "444436042", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT NAT DE PLONGEE PROFESSIONNELLE", 
+        "identifiantNational": "325598894", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "IXBLUE", 
+        "identifiantNational": "433185121", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AVON COMMUNICATIONS", 
+        "identifiantNational": "393477922", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BARDOT GROUP", 
+        "identifiantNational": "479529273", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BERTIN TECHNOLOGIES", 
+        "identifiantNational": "422511204", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BIOSEA", 
+        "identifiantNational": "815346770", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CABINET BESSE TRANSPORTS RISQUES DIVERS", 
+        "identifiantNational": "314120999", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BOLLORE LOGISTICS", 
+        "identifiantNational": "552088536", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BRETAGNE POLE NAVAL", 
+        "identifiantNational": "434569794", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "JLMD ECOLOGIE GROUP", 
+        "identifiantNational": "438970956", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "JOHNSON CONTROLS INDUSTRIES", 
+        "identifiantNational": "343056958", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "KEAS", 
+        "identifiantNational": "533429619", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "KERSHIP", 
+        "identifiantNational": "793430240", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE ETIENNE LACROIX TOUS ARTIFICES", 
+        "identifiantNational": "775580434", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC LA SPIROTECHNIQUE", 
+        "identifiantNational": "304668502", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BUREAU D'ETUDES MAURIC", 
+        "identifiantNational": "331430306", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BUREAU VERITAS", 
+        "identifiantNational": "775690621", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CEDREM", 
+        "identifiantNational": "502552284", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CETIM DEVELOPPEMENT", 
+        "identifiantNational": "489661504", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHANTIER NAVAL COUACH - CNC", 
+        "identifiantNational": "511791410", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHANTIER NAVAL DE MARSEILLE", 
+        "identifiantNational": "521974493", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHANTIERS DE LA HAUTE SEINE", 
+        "identifiantNational": "785790247", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MAFELEC", 
+        "identifiantNational": "794110445", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PRYSMIAN CABLES ET SYSTEMES FRANCE", 
+        "identifiantNational": "095750311", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RELLUMIX", 
+        "identifiantNational": "438489544", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ROXEL", 
+        "identifiantNational": "384122222", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAFRAN ELECTRONICS & DEFENSE", 
+        "identifiantNational": "480107911", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAFT", 
+        "identifiantNational": "383703873", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SBS STUDIO", 
+        "identifiantNational": "501569644", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SCHOTTEL FRANCE", 
+        "identifiantNational": "971203757", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SEGULA TECHNOLOGIES", 
+        "identifiantNational": "330581083", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SIGNALIS", 
+        "identifiantNational": "306188814", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMPAGNIE INDUSTRIELLE DES LASERS CILAS", 
+        "identifiantNational": "669802167", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSTRUCTIONS MECANIQUES DE NORMANDIE", 
+        "identifiantNational": "562110965", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CMR LOGISTIC - CPC", 
+        "identifiantNational": "493299127", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TEAM", 
+        "identifiantNational": "552018152", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CNN MCO", 
+        "identifiantNational": "484324660", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COREME - CONCEPTIONS REALISATIONS MECANIQUES ET ELECTRIQUES", 
+        "identifiantNational": "397550278", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CS SYSTEMES D'INFORMATION", 
+        "identifiantNational": "393135298", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DAHER AEROSPACE", 
+        "identifiantNational": "597020841", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DAMEN SHIPREPAIR BREST", 
+        "identifiantNational": "751201955", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DEFENSE CONSEIL INTERNATIONAL", 
+        "identifiantNational": "722031176", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DEF MARINE", 
+        "identifiantNational": "533936183", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DIADES MARINE SAS", 
+        "identifiantNational": "537614125", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ECA", 
+        "identifiantNational": "562011528", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROPEAN DEFENSE ECONOMIC NETWORKS", 
+        "identifiantNational": "510881741", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NEOPOLIA", 
+        "identifiantNational": "452124449", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NEXTER ELECTRONICS", 
+        "identifiantNational": "439568700", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CTEC-3D SEBASTIEN GELINEAU", 
+        "identifiantNational": "749827531", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DAMEN SHIPREPAIR DUNKERQUE", 
+        "identifiantNational": "340061654", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DCNS", 
+        "identifiantNational": "441133808", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DIGINEXT", 
+        "identifiantNational": "408225845", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ECOCEANE", 
+        "identifiantNational": "477659676", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MASSON MARINE", 
+        "identifiantNational": "485090302", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MBDA", 
+        "identifiantNational": "381737618", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MINERVA ISSARTEL", 
+        "identifiantNational": "814065140", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOBILIS", 
+        "identifiantNational": "377762554", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "C.C.E.MOTEURS LEROY SOMER", 
+        "identifiantNational": "330187287", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MTU-FRANCE", 
+        "identifiantNational": "435058706", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SA NEOFEU", 
+        "identifiantNational": "954508875", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NEXEYA", 
+        "identifiantNational": "423642222", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OCEA", 
+        "identifiantNational": "340889476", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ODAS", 
+        "identifiantNational": "491608642", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ENDEL SOUDAGE", 
+        "identifiantNational": "432973733", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BOWEN", 
+        "identifiantNational": "443030531", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ESTERLINE AVIONICS & CONTROLS FRANCE", 
+        "identifiantNational": "401431820", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EXPORT TRADING SERVICES SARL", 
+        "identifiantNational": "339765323", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EURENCO", 
+        "identifiantNational": "449207414", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROSAM", 
+        "identifiantNational": "950564476", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EXID CONCEPT & DEVELOPPEMENT", 
+        "identifiantNational": "800062028", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ETABLISSEMENTS JEAN PAUMIER ET FILS", 
+        "identifiantNational": "346350101", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PEINTA", 
+        "identifiantNational": "803172733", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROTORP", 
+        "identifiantNational": "391371101", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EVOLEN", 
+        "identifiantNational": "534585419", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FACTEM", 
+        "identifiantNational": "498660448", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FAPMO", 
+        "identifiantNational": "300514254", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "F C E", 
+        "identifiantNational": "439452285", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FLEX FUEL ENERGY DEVELOPMENT", 
+        "identifiantNational": "511026148", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ETABLISSEMENTS FOURE LAGADEC ET CIE", 
+        "identifiantNational": "356500306", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FRW CAROBRONZE", 
+        "identifiantNational": "562067082", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "KENTA ELECTRONIC", 
+        "identifiantNational": "380039073", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "KRAKEN SUBSEA ENGINEERING", 
+        "identifiantNational": "813239696", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LASCOM", 
+        "identifiantNational": "348107566", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LATTY INTERNATIONAL", 
+        "identifiantNational": "572200624", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LGM", 
+        "identifiantNational": "380902569", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LHERITIER", 
+        "identifiantNational": "344126602", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MAN DIESEL & TURBO FRANCE", 
+        "identifiantNational": "562037838", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MARINELEC", 
+        "identifiantNational": "348586405", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PRESCOM", 
+        "identifiantNational": "511147332", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PRINCIPIA", 
+        "identifiantNational": "440192169", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PROLARGE", 
+        "identifiantNational": "509579553", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RAIDCO MARINE INTERNATIONAL", 
+        "identifiantNational": "490581469", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RTSYS", 
+        "identifiantNational": "524201134", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAINT-GOBAIN SULLY", 
+        "identifiantNational": "322688474", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE COYARD", 
+        "identifiantNational": "399213016", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SCHNEIDER ELECTRIC INTERNATIONAL", 
+        "identifiantNational": "444769798", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SILLINGER", 
+        "identifiantNational": "431546233", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC INGENIERIE RECHER HYDRO NAVAL", 
+        "identifiantNational": "337680342", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC CONSTRUCT REPARAT NAVALE & MECANIQUE", 
+        "identifiantNational": "621750256", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCITEC FRANCE", 
+        "identifiantNational": "628242729", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOFLOG", 
+        "identifiantNational": "352533921", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOPEMEA", 
+        "identifiantNational": "709802557", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOPHIA CONSEIL", 
+        "identifiantNational": "480300425", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOSERSID", 
+        "identifiantNational": "442318705", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOURIAU", 
+        "identifiantNational": "421320268", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE DE RESEAU INFORMATIQUE ET DE GESTION", 
+        "identifiantNational": "497787044", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "STUDIA", 
+        "identifiantNational": "518048152", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNDICAT DES ENERGIES RENOUVELABLES", 
+        "identifiantNational": "419710280", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TERA-4", 
+        "identifiantNational": "801428061", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "THALES", 
+        "identifiantNational": "552059024", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "THEMYS", 
+        "identifiantNational": "413395690", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TRA- C INDUSTRIE", 
+        "identifiantNational": "439330812", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UFAST", 
+        "identifiantNational": "450746789", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VENTURA ASSOCIATES FRANCE", 
+        "identifiantNational": "539370478", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VOITH TURBO", 
+        "identifiantNational": "775727241", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ZODIAC MILPRO INTERNATIONAL", 
+        "identifiantNational": "534317011", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "WARTSILA FRANCE SAS", 
+        "identifiantNational": "946650686", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EATON INDUSTRIES (FRANCE) SAS", 
+        "identifiantNational": "509653176", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ABC INTER POLE", 
+        "identifiantNational": "439569393", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INGENIERIE SERVICES DEVELOPPEMENT", 
+        "identifiantNational": "347762437", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC INTERNATIONALE DES MOTEURS BAUDOUIN", 
+        "identifiantNational": "509985735", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Délégué général", 
+        "nom": "LAMBERT", 
+        "prenom": "François"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Conseiller export", 
+        "nom": "D'ARGENTRÉ", 
+        "prenom": "Hugues"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable PME-ETI", 
+        "nom": "MECHET", 
+        "prenom": "Marie-Christine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable des relations institutionnelles et des affaires de défense", 
+        "nom": "CROCE", 
+        "prenom": "Herve"
+      }
+    ], 
+    "dateCreation": "2017-10-24T15:46:38", 
+    "datePremierePublication": "2017-10-24T15:02:43", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "GROUPEMENT DES INDUSTRIES DE CONSTRUCTION ET ACTIVITES NAVALES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "GUILLOU", 
+        "prenom": "Hervé"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué général", 
+        "nom": "LAMBERT", 
+        "prenom": "François"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "LE PIVAIN", 
+        "prenom": "Louis"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire général", 
+        "nom": "NIELLY", 
+        "prenom": "Bruno"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Trésorier", 
+        "nom": "GUILLERME", 
+        "prenom": "Guénaël"
+      }
+    ], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ETRANGER", 
+              "label": "Affaires étrangères, coopération internationale", 
+              "ordre": 1
+            }, 
+            {
+              "code": "SECURITE", 
+              "label": "Défense, sécurité", 
+              "ordre": 7
+            }, 
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }
+          ]
+        }, 
+        "adresse": "GPT INDUST CONSTRUC ACTIVIT NAVAL\r\n47 RUE DE MONCEAU", 
+        "affiliations": [
+          {
+            "denomination": "LE CLUSTER MARITIME FRANCAIS", 
+            "identifiantNational": "489847624", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATOIN POLE MER BRETAGNE", 
+            "identifiantNational": "488726563", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNDICAT DES ENERGIES RENOUVELABLES", 
+            "identifiantNational": "419710280", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EVOLEN", 
+            "identifiantNational": "534585419", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION INDUSTRIES METALLURGIQUES MINIERES", 
+            "identifiantNational": "784717191", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CONSEIL DES INDUSTRIES DE LA CONFIANCE ET DE LA SECURITE", 
+            "identifiantNational": "829519289", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOC TECHNIQUE MARITIME ET AERONAUTIQUE", 
+            "identifiantNational": "784362683", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OCEANIDES", 
+            "identifiantNational": "793451113", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TOULON VAR TECHNOLOGIES", 
+            "identifiantNational": "345245260", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "ORPRO", 
+          "label": "Organisation professionnelle"
+        }, 
+        "clients": [
+          {
+            "denomination": "ACEBI", 
+            "identifiantNational": "313226052", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ACTIMAR", 
+            "identifiantNational": "421970427", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ADES TECHNOLOGIES", 
+            "identifiantNational": "393407234", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SN ADEXFLOW INTERNATIONAL", 
+            "identifiantNational": "480282961", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "A.D.T.S - A D TECHNICAL SUPPLIES", 
+            "identifiantNational": "525384814", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ADVANCED AERODYNAMIC VESSELS", 
+            "identifiantNational": "793570243", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SHIP STUDIO", 
+            "identifiantNational": "442013355", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOREINE", 
+            "identifiantNational": "794777284", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AIRBUS SAS", 
+            "identifiantNational": "383474814", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AIRBUS DEFENCE AND SPACE SAS", 
+            "identifiantNational": "393341516", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AIRBUS HELICOPTERS", 
+            "identifiantNational": "352383715", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AIR LIQUIDE FRANCE INDUSTRIE", 
+            "identifiantNational": "314119504", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AIRSEAS", 
+            "identifiantNational": "822983052", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EFINOR", 
+            "identifiantNational": "429420474", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALYOTECH", 
+            "identifiantNational": "483883534", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AMERIS FRANCE", 
+            "identifiantNational": "398725739", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AMPHENOL - AIR LB", 
+            "identifiantNational": "777343955", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARCO INGENIERIE", 
+            "identifiantNational": "434460556", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AUBERT & DUVAL", 
+            "identifiantNational": "380342808", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PAULSTRA SNC", 
+            "identifiantNational": "314397670", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IRTS", 
+            "identifiantNational": "401321856", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "JEUMONT ELECTRIC", 
+            "identifiantNational": "444571772", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PELAGOS", 
+            "identifiantNational": "508488566", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CHANTIERS PIRIOU", 
+            "identifiantNational": "422322529", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "POLE EMC2", 
+            "identifiantNational": "487891012", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATOIN POLE MER BRETAGNE", 
+            "identifiantNational": "488726563", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TECHNIQUE ENERGIE ATOMIQUE - TECHNICATOME", 
+            "identifiantNational": "722045879", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSYSTEM", 
+            "identifiantNational": "412076937", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FIVA", 
+            "identifiantNational": "450092614", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GEIM", 
+            "identifiantNational": "801810565", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GERFLOR TARARE SNC", 
+            "identifiantNational": "433605128", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GAZTRANSPORT ET TECHNIGAZ", 
+            "identifiantNational": "662001403", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HGH SYSTEMES INFRAROUGES", 
+            "identifiantNational": "325486454", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INGELIANCE TECHNOLOGIES", 
+            "identifiantNational": "444436042", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INSTITUT NAT DE PLONGEE PROFESSIONNELLE", 
+            "identifiantNational": "325598894", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IXBLUE", 
+            "identifiantNational": "433185121", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AVON COMMUNICATIONS", 
+            "identifiantNational": "393477922", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BARDOT GROUP", 
+            "identifiantNational": "479529273", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BERTIN TECHNOLOGIES", 
+            "identifiantNational": "422511204", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BIOSEA", 
+            "identifiantNational": "815346770", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CABINET BESSE TRANSPORTS RISQUES DIVERS", 
+            "identifiantNational": "314120999", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BOLLORE LOGISTICS", 
+            "identifiantNational": "552088536", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BRETAGNE POLE NAVAL", 
+            "identifiantNational": "434569794", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "JLMD ECOLOGIE GROUP", 
+            "identifiantNational": "438970956", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "JOHNSON CONTROLS INDUSTRIES", 
+            "identifiantNational": "343056958", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KEAS", 
+            "identifiantNational": "533429619", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KERSHIP", 
+            "identifiantNational": "793430240", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOCIETE ETIENNE LACROIX TOUS ARTIFICES", 
+            "identifiantNational": "775580434", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOC LA SPIROTECHNIQUE", 
+            "identifiantNational": "304668502", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BUREAU D'ETUDES MAURIC", 
+            "identifiantNational": "331430306", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BUREAU VERITAS", 
+            "identifiantNational": "775690621", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CEDREM", 
+            "identifiantNational": "502552284", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CETIM DEVELOPPEMENT", 
+            "identifiantNational": "489661504", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CHANTIER NAVAL COUACH - CNC", 
+            "identifiantNational": "511791410", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CHANTIER NAVAL DE MARSEILLE", 
+            "identifiantNational": "521974493", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CHANTIERS DE LA HAUTE SEINE", 
+            "identifiantNational": "785790247", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MAFELEC", 
+            "identifiantNational": "794110445", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PRYSMIAN CABLES ET SYSTEMES FRANCE", 
+            "identifiantNational": "095750311", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "RELLUMIX", 
+            "identifiantNational": "438489544", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ROXEL", 
+            "identifiantNational": "384122222", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SAFRAN ELECTRONICS & DEFENSE", 
+            "identifiantNational": "480107911", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SAFT", 
+            "identifiantNational": "383703873", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SBS STUDIO", 
+            "identifiantNational": "501569644", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SCHOTTEL FRANCE", 
+            "identifiantNational": "971203757", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SEGULA TECHNOLOGIES", 
+            "identifiantNational": "330581083", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SIGNALIS", 
+            "identifiantNational": "306188814", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COMPAGNIE INDUSTRIELLE DES LASERS CILAS", 
+            "identifiantNational": "669802167", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CONSTRUCTIONS MECANIQUES DE NORMANDIE", 
+            "identifiantNational": "562110965", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CMR LOGISTIC - CPC", 
+            "identifiantNational": "493299127", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TEAM", 
+            "identifiantNational": "552018152", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CNN MCO", 
+            "identifiantNational": "484324660", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COREME - CONCEPTIONS REALISATIONS MECANIQUES ET ELECTRIQUES", 
+            "identifiantNational": "397550278", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CS SYSTEMES D'INFORMATION", 
+            "identifiantNational": "393135298", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DAHER AEROSPACE", 
+            "identifiantNational": "597020841", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DAMEN SHIPREPAIR BREST", 
+            "identifiantNational": "751201955", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DEFENSE CONSEIL INTERNATIONAL", 
+            "identifiantNational": "722031176", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DEF MARINE", 
+            "identifiantNational": "533936183", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DIADES MARINE SAS", 
+            "identifiantNational": "537614125", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ECA", 
+            "identifiantNational": "562011528", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EUROPEAN DEFENSE ECONOMIC NETWORKS", 
+            "identifiantNational": "510881741", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NEOPOLIA", 
+            "identifiantNational": "452124449", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NEXTER ELECTRONICS", 
+            "identifiantNational": "439568700", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CTEC-3D SEBASTIEN GELINEAU", 
+            "identifiantNational": "749827531", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DAMEN SHIPREPAIR DUNKERQUE", 
+            "identifiantNational": "340061654", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DCNS", 
+            "identifiantNational": "441133808", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DIGINEXT", 
+            "identifiantNational": "408225845", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ECOCEANE", 
+            "identifiantNational": "477659676", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MASSON MARINE", 
+            "identifiantNational": "485090302", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MBDA", 
+            "identifiantNational": "381737618", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MINERVA ISSARTEL", 
+            "identifiantNational": "814065140", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MOBILIS", 
+            "identifiantNational": "377762554", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "C.C.E.MOTEURS LEROY SOMER", 
+            "identifiantNational": "330187287", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MTU-FRANCE", 
+            "identifiantNational": "435058706", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SA NEOFEU", 
+            "identifiantNational": "954508875", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NEXEYA", 
+            "identifiantNational": "423642222", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OCEA", 
+            "identifiantNational": "340889476", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ODAS", 
+            "identifiantNational": "491608642", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ENDEL SOUDAGE", 
+            "identifiantNational": "432973733", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BOWEN", 
+            "identifiantNational": "443030531", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ESTERLINE AVIONICS & CONTROLS FRANCE", 
+            "identifiantNational": "401431820", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EXPORT TRADING SERVICES SARL", 
+            "identifiantNational": "339765323", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EURENCO", 
+            "identifiantNational": "449207414", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EUROSAM", 
+            "identifiantNational": "950564476", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EXID CONCEPT & DEVELOPPEMENT", 
+            "identifiantNational": "800062028", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ETABLISSEMENTS JEAN PAUMIER ET FILS", 
+            "identifiantNational": "346350101", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PEINTA", 
+            "identifiantNational": "803172733", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EUROTORP", 
+            "identifiantNational": "391371101", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EVOLEN", 
+            "identifiantNational": "534585419", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FACTEM", 
+            "identifiantNational": "498660448", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FAPMO", 
+            "identifiantNational": "300514254", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "F C E", 
+            "identifiantNational": "439452285", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FLEX FUEL ENERGY DEVELOPMENT", 
+            "identifiantNational": "511026148", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ETABLISSEMENTS FOURE LAGADEC ET CIE", 
+            "identifiantNational": "356500306", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FRW CAROBRONZE", 
+            "identifiantNational": "562067082", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KENTA ELECTRONIC", 
+            "identifiantNational": "380039073", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KRAKEN SUBSEA ENGINEERING", 
+            "identifiantNational": "813239696", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LASCOM", 
+            "identifiantNational": "348107566", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LATTY INTERNATIONAL", 
+            "identifiantNational": "572200624", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LGM", 
+            "identifiantNational": "380902569", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LHERITIER", 
+            "identifiantNational": "344126602", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MAN DIESEL & TURBO FRANCE", 
+            "identifiantNational": "562037838", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MARINELEC", 
+            "identifiantNational": "348586405", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PRESCOM", 
+            "identifiantNational": "511147332", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PRINCIPIA", 
+            "identifiantNational": "440192169", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PROLARGE", 
+            "identifiantNational": "509579553", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "RAIDCO MARINE INTERNATIONAL", 
+            "identifiantNational": "490581469", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "RTSYS", 
+            "identifiantNational": "524201134", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SAINT-GOBAIN SULLY", 
+            "identifiantNational": "322688474", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOCIETE COYARD", 
+            "identifiantNational": "399213016", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SCHNEIDER ELECTRIC INTERNATIONAL", 
+            "identifiantNational": "444769798", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SILLINGER", 
+            "identifiantNational": "431546233", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOC INGENIERIE RECHER HYDRO NAVAL", 
+            "identifiantNational": "337680342", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOC CONSTRUCT REPARAT NAVALE & MECANIQUE", 
+            "identifiantNational": "621750256", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOCITEC FRANCE", 
+            "identifiantNational": "628242729", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOFLOG", 
+            "identifiantNational": "352533921", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOPEMEA", 
+            "identifiantNational": "709802557", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOPHIA CONSEIL", 
+            "identifiantNational": "480300425", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOSERSID", 
+            "identifiantNational": "442318705", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOURIAU", 
+            "identifiantNational": "421320268", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOCIETE DE RESEAU INFORMATIQUE ET DE GESTION", 
+            "identifiantNational": "497787044", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "STUDIA", 
+            "identifiantNational": "518048152", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNDICAT DES ENERGIES RENOUVELABLES", 
+            "identifiantNational": "419710280", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TERA-4", 
+            "identifiantNational": "801428061", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "THALES", 
+            "identifiantNational": "552059024", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "THEMYS", 
+            "identifiantNational": "413395690", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRA- C INDUSTRIE", 
+            "identifiantNational": "439330812", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UFAST", 
+            "identifiantNational": "450746789", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VENTURA ASSOCIATES FRANCE", 
+            "identifiantNational": "539370478", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VOITH TURBO", 
+            "identifiantNational": "775727241", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ZODIAC MILPRO INTERNATIONAL", 
+            "identifiantNational": "534317011", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "WARTSILA FRANCE SAS", 
+            "identifiantNational": "946650686", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EATON INDUSTRIES (FRANCE) SAS", 
+            "identifiantNational": "509653176", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ABC INTER POLE", 
+            "identifiantNational": "439569393", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INGENIERIE SERVICES DEVELOPPEMENT", 
+            "identifiantNational": "347762437", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOC INTERNATIONALE DES MOTEURS BAUDOUIN", 
+            "identifiantNational": "509985735", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75008", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Délégué général", 
+            "nom": "LAMBERT", 
+            "prenom": "François"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Conseiller export", 
+            "nom": "D'ARGENTRÉ", 
+            "prenom": "Hugues"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chargée de mission auprès du délégué", 
+            "nom": "MECHET", 
+            "prenom": "Marie-Christine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Responsable des relations institutionnelles et des affaires de défense", 
+            "nom": "CROCE", 
+            "prenom": "Herve"
+          }
+        ], 
+        "dateCreation": "2017-10-24T15:02:43", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "GROUPEMENT DES INDUSTRIES DE CONSTRUCTION ET ACTIVITES NAVALES", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "GUILLOU", 
+            "prenom": "Hervé"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Délégué général", 
+            "nom": "LAMBERT", 
+            "prenom": "François"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Vice-Président", 
+            "nom": "LE PIVAIN", 
+            "prenom": "Louis"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire général", 
+            "nom": "NIELLY", 
+            "prenom": "Bruno"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Trésorier", 
+            "nom": "GUILLERME", 
+            "prenom": "Guénaël"
+          }
+        ], 
+        "identifiantNational": "784360109", 
+        "lienPageTwitter": "https://twitter.com/gican_indunav?lang=fr", 
+        "lienSiteWeb": "http://gican.asso.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
+    "identifiantNational": "784360109", 
+    "lienPageTwitter": "https://twitter.com/gican_indunav?lang=fr", 
+    "lienSiteWeb": "http://gican.asso.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784360109.json", 
     "ville": "PARIS"
   }, 
   {
@@ -36140,24 +38562,6 @@
       }, 
       {
         "civilite": "M", 
-        "fonction": "Directeur Général délégué", 
-        "nom": "CABANNES", 
-        "prenom": "Séverin"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Directeur Général délégué", 
-        "nom": "VALET", 
-        "prenom": "Didier"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Directeur Général délégué", 
-        "nom": "SANCHEZ INCERA", 
-        "prenom": "Bernardo"
-      }, 
-      {
-        "civilite": "M", 
         "fonction": "Directeur des Affaires Publiques Groupe", 
         "nom": "LASCOLS", 
         "prenom": "Laurent"
@@ -36212,12 +38616,12 @@
       }, 
       {
         "civilite": "M", 
-        "fonction": "Président du conseil d'administration", 
-        "nom": "BINI SMAGHI", 
-        "prenom": "Lorenzo"
+        "fonction": "Conseiller senior Affaires Publiques Groupe", 
+        "nom": "JANIN", 
+        "prenom": "Simon"
       }
     ], 
-    "dateCreation": "2017-08-31T18:36:06", 
+    "dateCreation": "2017-10-24T19:08:36", 
     "datePremierePublication": "2017-08-31T18:36:06", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -36254,7 +38658,184 @@
         "prenom": "Lorenzo"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }
+          ]
+        }, 
+        "adresse": "SOCIETE GENERALE\r\n29 BOULEVARD HAUSSMANN", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION BANCAIRE FRANCAISE", 
+            "identifiantNational": "434987582", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PARIS EUROPLACE", 
+            "identifiantNational": "393769252", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AFEP", 
+            "identifiantNational": "391358363", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "75009", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "OUDÉA", 
+            "prenom": "Frédéric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général délégué", 
+            "nom": "CABANNES", 
+            "prenom": "Séverin"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général délégué", 
+            "nom": "VALET", 
+            "prenom": "Didier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général délégué", 
+            "nom": "SANCHEZ INCERA", 
+            "prenom": "Bernardo"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Affaires Publiques Groupe", 
+            "nom": "LASCOLS", 
+            "prenom": "Laurent"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Responsable de la Business Unit Région Afrique & Outre-mer, Banque de détail à l’international", 
+            "nom": "MAYMAT", 
+            "prenom": "Alexandre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur financier du Groupe", 
+            "nom": "HEIM", 
+            "prenom": "Philippe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "IBFS Head for Public Affairs and ECB relations", 
+            "nom": "BERTHELEMY", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice de la réglementation et des relations de place", 
+            "nom": "AUVRAY MAGNIN", 
+            "prenom": "Marianne"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Head of Strategy for Market Infrastructures", 
+            "nom": "DE GAY DE NEXON", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire Général du Groupe", 
+            "nom": "BRIATTA", 
+            "prenom": "Gilles"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire du conseil d'administration", 
+            "nom": "SUET", 
+            "prenom": "Patrick"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Head of Regulatory Strategy", 
+            "nom": "LITVACK", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président du conseil d'administration", 
+            "nom": "BINI SMAGHI", 
+            "prenom": "Lorenzo"
+          }
+        ], 
+        "dateCreation": "2017-08-31T18:36:06", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "SOCIETE GENERALE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "OUDÉA", 
+            "prenom": "Frédéric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général délégué", 
+            "nom": "CABANNES", 
+            "prenom": "Séverin"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général délégué", 
+            "nom": "VALET", 
+            "prenom": "Didier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général délégué", 
+            "nom": "SANCHEZ INCERA", 
+            "prenom": "Bernardo"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président du conseil d'administration", 
+            "nom": "BINI SMAGHI", 
+            "prenom": "Lorenzo"
+          }
+        ], 
+        "identifiantNational": "552120222", 
+        "lienPageFacebook": "https://fr-fr.facebook.com/societegenerale/", 
+        "lienPageLinkedin": "https://www.linkedin.com/company-beta/1691/", 
+        "lienPageTwitter": "https://twitter.com/SocieteGenerale", 
+        "lienSiteWeb": "https://www.societegenerale.com/fr/accueil", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "552120222", 
     "lienPageFacebook": "https://fr-fr.facebook.com/societegenerale/", 
     "lienPageLinkedin": "https://www.linkedin.com/company-beta/1691/", 
