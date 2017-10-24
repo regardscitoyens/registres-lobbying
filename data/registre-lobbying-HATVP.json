@@ -2864,6 +2864,114 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }
+      ]
+    }, 
+    "adresse": "ASS FED NAT ARTISANS PIZZA CAMION MAGA\r\nMAISON DES ARTISANS\r\n7 BOULEVARD PEBRE", 
+    "affiliations": [
+      {
+        "denomination": "CONFEDERATION GENERALE ALIMENTAT.DETAIL", 
+        "identifiantNational": "784717225", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "13008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "GARCIA", 
+        "prenom": "Luc-Gaston"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président honoraire", 
+        "nom": "SPOSITO", 
+        "prenom": "Francis"
+      }
+    ], 
+    "dateCreation": "2017-10-24T12:21:44", 
+    "datePremierePublication": "2017-10-24T12:21:44", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ASS FED NAT ARTISANS PIZZA CAMION MAGAS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "GARCIA", 
+        "prenom": "Luc-Gaston"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente adjointe", 
+        "nom": "SUDRE", 
+        "prenom": "Isabelle"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président honoraire", 
+        "nom": "SPOSITO", 
+        "prenom": "Francis"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Trésorier", 
+        "nom": "AUDIBERT", 
+        "prenom": "Cyril"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "449491091", 
+    "lienSiteWeb": "https://www.camionpizza.org", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/449491091.json", 
+    "ville": "MARSEILLE"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }, 
         {
           "code": "EUROPEEN", 
@@ -12548,6 +12656,132 @@
     "telephoneDeContact": "0156213434", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/784359549.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "JUSTICE", 
+          "label": "Justice", 
+          "ordre": 16
+        }, 
+        {
+          "code": "PROREG", 
+          "label": "Professions réglementées", 
+          "ordre": 22
+        }, 
+        {
+          "code": "SOCIETE", 
+          "label": "Questions de société", 
+          "ordre": 26
+        }
+      ]
+    }, 
+    "adresse": "CONSEIL NATIONAL DES BARREAUX\n22 RUE DE LONDRES\n", 
+    "affiliations": [
+      {
+        "denomination": "FONDATION POUR LE DROIT CONTINENTAL", 
+        "identifiantNational": "507793149", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GIP JUSTICE COOPERATION INTERNATIONALE", 
+        "identifiantNational": "130016462", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MISSION DE RECHERCHE DROIT ET JUSTICE", 
+        "identifiantNational": "180089500", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "Le CLIO - Comité de liaison des institutions ordinales", 
+        "identifiantNational": "H249650017", 
+        "typeIdentifiantNational": "HATVP"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée des relations institutionnelles", 
+        "nom": "BOERI", 
+        "prenom": "Anna"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des relations institutionnelles", 
+        "nom": "LOUIS-TRÉFOURET", 
+        "prenom": "Françoise"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice du service juridique", 
+        "nom": "CAVAILLÉ", 
+        "prenom": "Géraldine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des affaires législatives et règlementaires", 
+        "nom": "BRIAND", 
+        "prenom": "Jacques-Edouard"
+      }
+    ], 
+    "dateCreation": "2017-10-24T11:57:12", 
+    "datePremierePublication": "2017-10-24T11:57:12", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "CONSEIL NATIONAL DES BARREAUX", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "EYDOUX", 
+        "prenom": "Pascal"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "BORTOLUZZI", 
+        "prenom": "Stéphane"
+      }
+    ], 
+    "emailDeContact": "pouvoirs-publics@cnb.avocat.fr", 
+    "historique": [], 
+    "identifiantNational": "391576964", 
+    "lienPageTwitter": "https://twitter.com/cnbarreaux", 
+    "lienSiteWeb": "https://www.cnb.avocat.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0153308560", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/391576964.json", 
     "ville": "PARIS"
   }, 
   {
