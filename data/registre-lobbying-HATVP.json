@@ -23398,6 +23398,85 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "GENZYME\r\n33 A 35\r\n33 BOULEVARD DE LA PAIX\r\nCS 90510", 
+    "affiliations": [
+      {
+        "denomination": "LES ENTREPRISES DU MEDICAMENT", 
+        "identifiantNational": "784668543", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION FRANCE BIOTECH", 
+        "identifiantNational": "417666278", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "78105", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "DELEUZE", 
+        "prenom": "Christian"
+      }
+    ], 
+    "dateCreation": "2017-10-26T17:29:59", 
+    "datePremierePublication": "2017-10-26T17:29:59", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "GENZYME", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "DELEUZE", 
+        "prenom": "Christian"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "399179639", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "01 30 87 25 25", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/399179639.json", 
+    "ville": "ST GERMAIN EN LAYE CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }, 
         {
           "code": "EUROPEEN", 
@@ -38435,6 +38514,332 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/562082909.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "SANOFI PASTEUR EUROPE\n14 espace Henry Vallée\n69007 Lyon", 
+    "affiliations": [
+      {
+        "denomination": "LES ENTREPRISES DU MEDICAMENT", 
+        "identifiantNational": "784668543", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "69007", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "MONTERO", 
+        "prenom": "Serge"
+      }
+    ], 
+    "dateCreation": "2017-10-26T17:30:52", 
+    "datePremierePublication": "2017-10-26T17:30:52", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "SANOFI PASTEUR EUROPE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "MONTERO", 
+        "prenom": "Serge"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "821177425", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/821177425.json", 
+    "ville": "LYON CEDEX 07"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "COMMERCE", 
+          "label": "Commerce extérieur", 
+          "ordre": 5
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "SANOFI AVENTIS FRANCE\r\n82 AVENUE RASPAIL", 
+    "affiliations": [
+      {
+        "denomination": "LES ENTREPRISES DU MEDICAMENT", 
+        "identifiantNational": "784668543", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYND NATION INDUST TECHNOL MEDICALES", 
+        "identifiantNational": "307330845", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AFIPA", 
+        "identifiantNational": "451446553", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNDICAT DE L INDUSTRIE DU DIAGNOSTIC IN VITRO", 
+        "identifiantNational": "502725955", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GEMME", 
+        "identifiantNational": "493174825", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "G5 - IPSEN - PIERRE FABRE - SANOFI - AVENTIS - SERVIER", 
+        "identifiantNational": "489472829", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "94250", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président Directeur Général", 
+        "nom": "LEROY", 
+        "prenom": "Guillaume"
+      }
+    ], 
+    "dateCreation": "2017-10-26T17:31:43", 
+    "datePremierePublication": "2017-10-26T17:31:43", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "SANOFI-AVENTIS FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président Directeur Général", 
+        "nom": "LEROY", 
+        "prenom": "Guillaume"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "403335904", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "01 41 24 70 00", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/403335904.json", 
+    "ville": "GENTILLY"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "PROPINT", 
+          "label": "Propriété intellectuelle", 
+          "ordre": 23
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "SANOFI AVENTIS GROUPE\r\n54 RUE LA BOETIE", 
+    "affiliations": [
+      {
+        "denomination": "LE CERCLE DE L'INDUSTRIE", 
+        "identifiantNational": "394192389", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT DE L ENTREPRISE", 
+        "identifiantNational": "302655154", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LES ENTREPRISES DU MEDICAMENT", 
+        "identifiantNational": "784668543", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION PROFESSIONNELLE DES RESPONSABLES DES RELATIONS AVEC LES POUVOIRS PUBLICS - ARPP", 
+        "identifiantNational": "W751074197", 
+        "typeIdentifiantNational": "RNA"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75414", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Vice Président Relations gouvernementales France", 
+        "nom": "TCHENG", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Relations institutionnelles", 
+        "nom": "MOREAU", 
+        "prenom": "Jean-Yves"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Support Unités opérationnelles", 
+        "nom": "BERNARD", 
+        "prenom": "Neil"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur Support fonctions globales", 
+        "nom": "JOLIVET", 
+        "prenom": "Clotilde"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Relations Associations professionnelles", 
+        "nom": "MAUGENDRE", 
+        "prenom": "Philippe"
+      }
+    ], 
+    "dateCreation": "2017-10-26T17:28:31", 
+    "datePremierePublication": "2017-10-26T17:28:31", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "SANOFI-AVENTIS GROUPE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président Directeur Général", 
+        "nom": "DE FONT REAULX", 
+        "prenom": "Francois"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "403335938", 
+    "lienSiteWeb": "http://en.sanofi.com/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "01 53 77 40 00", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/403335938.json", 
+    "ville": "PARIS CEDEX 08"
   }, 
   {
     "activites": {
