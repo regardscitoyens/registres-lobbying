@@ -12126,6 +12126,153 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }
+      ]
+    }, 
+    "adresse": "CHRISTOPHE CLERGEAU STRATEGIES\r\n10 RUE DE STRASBOURG", 
+    "affiliations": [
+      {
+        "denomination": "LE CLUSTER MARITIME FRANCAIS", 
+        "identifiantNational": "489847624", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RESEAU ATLANTIC 2.0", 
+        "identifiantNational": "510377435", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [
+      {
+        "denomination": "GO CAPITAL", 
+        "identifiantNational": "445284458", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NEOEN", 
+        "identifiantNational": "508320017", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LE CLUSTER MARITIME FRANCAIS", 
+        "identifiantNational": "489847624", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TRANSFERTS LANGUEDOC ROUSSILLON", 
+        "identifiantNational": "482666351", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROPE TECHNOLOGIES", 
+        "identifiantNational": "417784592", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DAHER AEROSPACE", 
+        "identifiantNational": "597020841", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "REGION OCCITANIE", 
+        "identifiantNational": "200053791", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SDI SOCIETE DE DRAGAGE INTERNATIONAL", 
+        "identifiantNational": "343234845", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "44000", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "directeur général", 
+        "nom": "POURCHER", 
+        "prenom": "Etienne"
+      }
+    ], 
+    "dateCreation": "2017-10-27T15:16:06", 
+    "datePremierePublication": "2017-10-27T15:16:06", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "CHRISTOPHE CLERGEAU STRATEGIES \"C2STRATEGIES\"", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "président", 
+        "nom": "CLERGEAU", 
+        "prenom": "Christophe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "POURCHER", 
+        "prenom": "Etienne"
+      }
+    ], 
+    "emailDeContact": "contact@c2strategies.fr", 
+    "historique": [], 
+    "identifiantNational": "819765033", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "+33228494088", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/819765033.json", 
+    "ville": "NANTES"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
@@ -28106,6 +28253,148 @@
     "telephoneDeContact": "0153707470", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/532572112.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "JUSTICE", 
+          "label": "Justice", 
+          "ordre": 16
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }, 
+        {
+          "code": "SOCIETE", 
+          "label": "Questions de société", 
+          "ordre": 26
+        }
+      ]
+    }, 
+    "adresse": "INSIGN PROCHES\r\n21 RUE DU FAUBOURG SAINT ANTOINE", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COCAB", 
+      "label": "Cabinet de conseil"
+    }, 
+    "clients": [
+      {
+        "denomination": "AUCHAN RETAIL FRANCE", 
+        "identifiantNational": "481986446", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDER GEN ASS DEP PUPILLE ENS PUBLIC", 
+        "identifiantNational": "784453318", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONTINENTAL FRANCE", 
+        "identifiantNational": "380110304", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE NATIONALE TERRITORIALE MNT", 
+        "identifiantNational": "775678584", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMMUNE DE SCEAUX", 
+        "identifiantNational": "219200714", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ORDRE DES AVOCATS A LA COUR DE PARIS", 
+        "identifiantNational": "302979075", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75011", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice associée", 
+        "nom": "ACKERMAN", 
+        "prenom": "Olga"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice associée", 
+        "nom": "PONS", 
+        "prenom": "Johanna"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice de clientèle", 
+        "nom": "BAUX", 
+        "prenom": "Roxane"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant", 
+        "nom": "AUBIGNAT", 
+        "prenom": "Julien"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant", 
+        "nom": "NOURY", 
+        "prenom": "Armand"
+      }
+    ], 
+    "dateCreation": "2017-10-27T12:55:24", 
+    "datePremierePublication": "2017-10-27T12:55:24", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "INSIGN PROCHES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président fondateur", 
+        "nom": "FRELAUX", 
+        "prenom": "Pierre-Yves"
+      }
+    ], 
+    "emailDeContact": "contact@agenceproches.com", 
+    "historique": [], 
+    "identifiantNational": "810026187", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/9326679/", 
+    "lienPageTwitter": "https://twitter.com/agenceProches?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Fagenceproches.com%2F", 
+    "lienSiteWeb": "http://agenceproches.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/810026187.json", 
     "ville": "PARIS"
   }, 
   {
