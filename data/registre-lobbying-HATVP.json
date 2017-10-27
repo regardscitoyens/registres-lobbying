@@ -12275,6 +12275,16 @@
         "denomination": "ILEC", 
         "identifiantNational": "798379723", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT DE L'ECONOMIE CIRCULAIRE", 
+        "identifiantNational": "790867493", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TRANSPARENCY INTERNATIONAL FRANCE", 
+        "identifiantNational": "425138393", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "categorieOrganisation": {
@@ -12304,7 +12314,7 @@
         "prenom": "Benoist"
       }
     ], 
-    "dateCreation": "2017-10-25T09:02:03", 
+    "dateCreation": "2017-10-27T11:28:55", 
     "datePremierePublication": "2017-10-25T09:02:03", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -12317,7 +12327,117 @@
         "prenom": "Ben"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "CONSO", 
+              "label": "Concurrence, consommation", 
+              "ordre": 6
+            }, 
+            {
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "COCA COLA EUROPEAN PARTNERS FRANCE\r\nCCEP FRANCE\r\n9 CHEMIN DE BRETAGNE\r\nCS 80050 CS 80050", 
+        "affiliations": [
+          {
+            "denomination": "ASS NATIONALE IND. AGRO ALIMENTAIRES", 
+            "identifiantNational": "302664784", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BRF", 
+            "identifiantNational": "808456214", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION DES ANNONCEURS", 
+            "identifiantNational": "784669533", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ILEC", 
+            "identifiantNational": "798379723", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "92130", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Responsable Affaires Publiques & diversité", 
+            "nom": "HARRARI", 
+            "prenom": "Alain"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Vice Présidente Affaires Publiques & Communication", 
+            "nom": "DE KERLEAU", 
+            "prenom": "Emmanuelle"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Affaires Publiques", 
+            "nom": "BERTON", 
+            "prenom": "Benoist"
+          }
+        ], 
+        "dateCreation": "2017-10-25T09:02:03", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "COCA-COLA EUROPEAN PARTNERS FRANCE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "P.D.G", 
+            "nom": "LAMBRECHT", 
+            "prenom": "Ben"
+          }
+        ], 
+        "identifiantNational": "343688016", 
+        "lienSiteWeb": "https://www.cokecce.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0158002600", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "ISSY LES MOULINEAUX"
+      }
+    ], 
     "identifiantNational": "343688016", 
     "lienSiteWeb": "https://www.cokecce.fr/", 
     "pays": "FRANCE", 
@@ -40054,9 +40174,21 @@
         "fonction": "Conseiller senior Affaires Publiques Groupe", 
         "nom": "JANIN", 
         "prenom": "Simon"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Affaires Publiques GBIS", 
+        "nom": "BOUCHETA", 
+        "prenom": "Haroun"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Affaires Publiques GBIS", 
+        "nom": "GIORDANO", 
+        "prenom": "Stéphane"
       }
     ], 
-    "dateCreation": "2017-10-24T19:08:36", 
+    "dateCreation": "2017-10-27T12:10:34", 
     "datePremierePublication": "2017-08-31T18:36:06", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -40223,6 +40355,164 @@
           }
         ], 
         "dateCreation": "2017-08-31T18:36:06", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "SOCIETE GENERALE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "OUDÉA", 
+            "prenom": "Frédéric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général délégué", 
+            "nom": "CABANNES", 
+            "prenom": "Séverin"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général délégué", 
+            "nom": "VALET", 
+            "prenom": "Didier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général délégué", 
+            "nom": "SANCHEZ INCERA", 
+            "prenom": "Bernardo"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président du conseil d'administration", 
+            "nom": "BINI SMAGHI", 
+            "prenom": "Lorenzo"
+          }
+        ], 
+        "identifiantNational": "552120222", 
+        "lienPageFacebook": "https://fr-fr.facebook.com/societegenerale/", 
+        "lienPageLinkedin": "https://www.linkedin.com/company-beta/1691/", 
+        "lienPageTwitter": "https://twitter.com/SocieteGenerale", 
+        "lienSiteWeb": "https://www.societegenerale.com/fr/accueil", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }
+          ]
+        }, 
+        "adresse": "SOCIETE GENERALE\r\n29 BOULEVARD HAUSSMANN", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION BANCAIRE FRANCAISE", 
+            "identifiantNational": "434987582", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PARIS EUROPLACE", 
+            "identifiantNational": "393769252", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AFEP", 
+            "identifiantNational": "391358363", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "75009", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "OUDÉA", 
+            "prenom": "Frédéric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Affaires Publiques Groupe", 
+            "nom": "LASCOLS", 
+            "prenom": "Laurent"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Responsable de la Business Unit Région Afrique & Outre-mer, Banque de détail à l’international", 
+            "nom": "MAYMAT", 
+            "prenom": "Alexandre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur financier du Groupe", 
+            "nom": "HEIM", 
+            "prenom": "Philippe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "IBFS Head for Public Affairs and ECB relations", 
+            "nom": "BERTHELEMY", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice de la réglementation et des relations de place", 
+            "nom": "AUVRAY MAGNIN", 
+            "prenom": "Marianne"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Head of Strategy for Market Infrastructures", 
+            "nom": "DE GAY DE NEXON", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire Général du Groupe", 
+            "nom": "BRIATTA", 
+            "prenom": "Gilles"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire du conseil d'administration", 
+            "nom": "SUET", 
+            "prenom": "Patrick"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Head of Regulatory Strategy", 
+            "nom": "LITVACK", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Conseiller senior Affaires Publiques Groupe", 
+            "nom": "JANIN", 
+            "prenom": "Simon"
+          }
+        ], 
+        "dateCreation": "2017-10-24T19:08:36", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": false, 
         "denomination": "SOCIETE GENERALE", 
