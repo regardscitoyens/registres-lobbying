@@ -9088,6 +9088,147 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }
+      ]
+    }, 
+    "adresse": "ASSOC FRANC DES STES FINANC\r\n24 AVENUE DE LA GRANDE ARMEE", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION D'ECONOMIE FINANCIERE", 
+        "identifiantNational": "351445002", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE FRANCAIS D ORGANISATION ET DE NORMALISATION BANCAIRES", 
+        "identifiantNational": "510363039", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CENTRE NATIONAL PROFESSSIONS FINANCIERES", 
+        "identifiantNational": "784854069", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION BANCAIRE FRANCAISE", 
+        "identifiantNational": "434987582", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT POUR L EDUCATION FINANCIERE DU PUBLIC", 
+        "identifiantNational": "784717001", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF", 
+        "identifiantNational": "322826512", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ORIAS", 
+        "identifiantNational": "789563152", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS  A F E C E I", 
+        "identifiantNational": "428419287", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75017", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Délégué Général", 
+        "nom": "PALLE-GUILLABERT", 
+        "prenom": "Françoise"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général adjoint", 
+        "nom": "LEGRAND", 
+        "prenom": "Yves-Marie"
+      }
+    ], 
+    "dateCreation": "2017-10-30T16:29:58", 
+    "datePremierePublication": "2017-10-30T16:29:58", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ASSOC FRANC DES STES FINANC", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "HAUGUEL", 
+        "prenom": "Didier"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Délégué Général", 
+        "nom": "PALLE-GUILLABERT", 
+        "prenom": "Françoise"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "784669541", 
+    "lienSiteWeb": "http://www.asf-france.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784669541.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -15891,6 +16032,111 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/525010708.json", 
     "ville": "Londres"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "COM", 
+          "label": "Communications électroniques", 
+          "ordre": 28
+        }
+      ]
+    }, 
+    "affiliations": [
+      {
+        "denomination": "TECH'IN FRANCE", 
+        "identifiantNational": "489305367", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNTEC NUMERIQUE", 
+        "identifiantNational": "384719001", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS INTERNET ADVERTISING BUREAU", 
+        "identifiantNational": "433370152", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROPEAN AMERICAN CHAMBER OF COMMERCE FRANCE", 
+        "identifiantNational": "784854358", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75002", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Public Policy Director", 
+        "nom": "REYRE", 
+        "prenom": "Delphine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Policy Manager", 
+        "nom": "BATTESTI", 
+        "prenom": "Anton'maria"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Public Policy Manager", 
+        "nom": "GERULLIS", 
+        "prenom": "Ophelie"
+      }
+    ], 
+    "dateCreation": "2017-10-30T20:46:11", 
+    "datePremierePublication": "2017-10-30T20:46:11", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "FACEBOOK FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Gerant", 
+        "nom": "CREHAN", 
+        "prenom": "Shane"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "530085802", 
+    "lienSiteWeb": "http://www.facebook.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": false, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/530085802.json", 
+    "ville": "PARIS"
   }, 
   {
     "activites": {
@@ -45317,6 +45563,93 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/380780262.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }
+      ]
+    }, 
+    "adresse": "TOTAL SA\r\nLA DEFENSE 6\r\n2 PLACE JEAN MILLIER\r\nCOURBEVOIE", 
+    "affiliations": [
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "775347453", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AFEP", 
+        "identifiantNational": "391358363", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92078", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "DEROUBAIX", 
+        "prenom": "Bertrand"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "FONDRAZ", 
+        "prenom": "Nicolas"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "MARCHAL", 
+        "prenom": "Alexandre"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "NAHAN", 
+        "prenom": "François"
+      }
+    ], 
+    "dateCreation": "2017-10-30T17:33:53", 
+    "datePremierePublication": "2017-10-30T17:33:53", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "TOTAL SA", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président-directeur général", 
+        "nom": "POUYANNE", 
+        "prenom": "Patrick"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "542051180", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/542051180.json", 
+    "ville": "PARIS LA DEFENSE CEDEX"
   }, 
   {
     "activites": {
