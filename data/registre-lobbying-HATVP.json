@@ -10587,6 +10587,105 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }
+      ]
+    }, 
+    "adresse": "AXA\n25 AVENUE MATIGNON", 
+    "affiliations": [
+      {
+        "denomination": "PARIS EUROPLACE", 
+        "identifiantNational": "393769252", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSO FRANCAI ENTREPRIS PRIVEES", 
+        "identifiantNational": "326943016", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Affaires Publiques et de la Responsabilité d’Entreprise", 
+        "nom": "ARISS", 
+        "prenom": "Jad"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des Affaires Publiques et des Relations Institutionnelles", 
+        "nom": "PLAS", 
+        "prenom": "Patricia"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur du Bureau de Bruxelles", 
+        "nom": "LORILLON", 
+        "prenom": "Fabrice"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Manager Affaires Publiques", 
+        "nom": "DARDOUR", 
+        "prenom": "Nacim"
+      }
+    ], 
+    "dateCreation": "2017-10-30T11:56:39", 
+    "datePremierePublication": "2017-10-30T11:56:39", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "AXA", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "BUBERL", 
+        "prenom": "Thomas"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "572093920", 
+    "lienPageLinkedin": "https://fr.linkedin.com/company/axa", 
+    "lienPageTwitter": "https://twitter.com/axa", 
+    "lienSiteWeb": "https://www.axa.com/fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/572093920.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
@@ -15889,18 +15988,24 @@
     "collaborateurs": [
       {
         "civilite": "MME", 
-        "fonction": "Chef de Projet Affaires publiques", 
-        "nom": "LANNOY", 
-        "prenom": "Fanny"
+        "fonction": "Conseillère Affaires publiques", 
+        "nom": "GALLINELLI", 
+        "prenom": "Hélène"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "MAZOYER", 
+        "prenom": "Anne"
       }, 
       {
         "civilite": "MME", 
         "fonction": "Conseillère Affaires publiques", 
-        "nom": "GALLINELLI", 
-        "prenom": "Hélène"
+        "nom": "KALIFA", 
+        "prenom": "Ellyn"
       }
     ], 
-    "dateCreation": "2017-10-05T18:46:48", 
+    "dateCreation": "2017-10-30T12:26:48", 
     "datePremierePublication": "2017-10-05T18:46:48", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -15913,8 +16018,140 @@
         "prenom": "Anne"
       }
     ], 
-    "emailDeContact": "flannoy@fairvaluecc.com", 
-    "historique": [], 
+    "emailDeContact": "amazoyer@fairvaluecc.com", 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }, 
+            {
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }, 
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "SOCIETE", 
+              "label": "Questions de société", 
+              "ordre": 26
+            }
+          ]
+        }, 
+        "adresse": "FAIRVALUE CORPORATE COMMUNICATION\r\n12 RUE DE CASTIGLIONE", 
+        "affiliations": [
+          {
+            "denomination": "ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES (AFCL)", 
+            "identifiantNational": "H000000001", 
+            "typeIdentifiantNational": "HATVP"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AVO_CONS", 
+          "code": "COCAB", 
+          "label": "Cabinet de conseil"
+        }, 
+        "clients": [
+          {
+            "denomination": "FEDERATION NATIONALE HABILLEMENT", 
+            "identifiantNational": "784178204", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION DES PARTICULIERS EMPLOYEURS DE FRANCE", 
+            "identifiantNational": "784204786", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LIVANOVA FRANCE SAS", 
+            "identifiantNational": "477828412", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ANACOFI CIF", 
+            "identifiantNational": "497943639", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CENTRE ETUDE DIRECTEURS ASSOCIAT PROFESS", 
+            "identifiantNational": "344299425", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AMCOR FLEXIBLES FRANCE", 
+            "identifiantNational": "601820046", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75001", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Chef de Projet Affaires publiques", 
+            "nom": "LANNOY", 
+            "prenom": "Fanny"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Conseillère Affaires publiques", 
+            "nom": "GALLINELLI", 
+            "prenom": "Hélène"
+          }
+        ], 
+        "dateCreation": "2017-10-05T18:46:48", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "FAIRVALUE CORPORATE COMMUNICATION", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente", 
+            "nom": "MAZOYER", 
+            "prenom": "Anne"
+          }
+        ], 
+        "emailDeContact": "flannoy@fairvaluecc.com", 
+        "identifiantNational": "481518843", 
+        "lienPageLinkedin": "https://fr.linkedin.com/company/fairvalue-corporate-&-public-affairs", 
+        "lienPageTwitter": "https://twitter.com/FairValue_EU", 
+        "lienSiteWeb": "http://www.fairvaluecc.com", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "481518843", 
     "lienPageLinkedin": "https://fr.linkedin.com/company/fairvalue-corporate-&-public-affairs", 
     "lienPageTwitter": "https://twitter.com/FairValue_EU", 
