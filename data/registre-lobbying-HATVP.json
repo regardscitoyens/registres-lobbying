@@ -12862,6 +12862,458 @@
       ], 
       "listSecteursActivites": [
         {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "COM PUBLICS\r\n10 RUE DE SEZE", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES (AFCL)", 
+        "identifiantNational": "H000000001", 
+        "typeIdentifiantNational": "HATVP"
+      }, 
+      {
+        "denomination": "UNION PATRONALE DEPARMENTALE - MEDEF PARIS", 
+        "identifiantNational": "398327098", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COCAB", 
+      "label": "Cabinet de conseil"
+    }, 
+    "clients": [
+      {
+        "denomination": "CHAMBRE SYND EAUX MINERALES", 
+        "identifiantNational": "784856080", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION NATIONALE DES ENTREPRISES ADAPTEES", 
+        "identifiantNational": "411811938", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ACIFTE", 
+        "identifiantNational": "498687888", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PARIS LOW COST", 
+        "identifiantNational": "513257915", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASAP-SOLUTIONS", 
+        "identifiantNational": "789494614", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CIFOG", 
+        "identifiantNational": "412222044", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE NATIONAL POUR PROMOTION DE L OEUF", 
+        "identifiantNational": "440302610", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTERPROFESSION NATIONALE PORCINE", 
+        "identifiantNational": "448608067", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHAMB SYND IMPORT AUTOMOBILES MOTOCYCLES", 
+        "identifiantNational": "784717126", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC CENTRALE CANINE AMELIOR RACES CHIENS", 
+        "identifiantNational": "314775495", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION NATIONALE INTERPROFES JUS DE FRUIT", 
+        "identifiantNational": "784408387", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SICA RAISINOR FRANCE ALCOOLS", 
+        "identifiantNational": "814959045", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA FOURRURE FRANCAISE", 
+        "identifiantNational": "752610063", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur associé", 
+        "nom": "LA FAY", 
+        "prenom": "Mathieu"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Adjointe", 
+        "nom": "CHARBONNIER", 
+        "prenom": "Angeline"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur adjoint", 
+        "nom": "MOURA", 
+        "prenom": "Thibaut"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "consultant", 
+        "nom": "DE LA SELLE", 
+        "prenom": "Alban"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante", 
+        "nom": "THIÉBAUT", 
+        "prenom": "Delphine"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante", 
+        "nom": "ACHAB", 
+        "prenom": "Majda"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant", 
+        "nom": "METIVIER", 
+        "prenom": "Guillaume"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant", 
+        "nom": "PINEDA", 
+        "prenom": "Matthieu"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante", 
+        "nom": "SOMBART", 
+        "prenom": "Elisa"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante", 
+        "nom": "DE FONTANGES", 
+        "prenom": "Marine"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante", 
+        "nom": "DESGRANGE", 
+        "prenom": "Mathilde"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "consultant", 
+        "nom": "L'KASSIMI", 
+        "prenom": "Yacine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "consultant", 
+        "nom": "BAILLOU", 
+        "prenom": "Pierre"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "consultante", 
+        "nom": "PRAT", 
+        "prenom": "Céline"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "consultante", 
+        "nom": "SISSI", 
+        "prenom": "Linda"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur associé", 
+        "nom": "LA FAY", 
+        "prenom": "Mathieu"
+      }
+    ], 
+    "dateCreation": "2017-10-31T15:15:38", 
+    "datePremierePublication": "2017-10-31T15:15:38", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "COM'PUBLICS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "TEYSSIER D'ORFEUIL", 
+        "prenom": "Marc"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "398995142", 
+    "lienPageLinkedin": "https://fr.linkedin.com/company/com%27publics", 
+    "lienSiteWeb": "http://www.compublics.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0144181455", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/398995142.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "SPORTS", 
+          "label": "Sports, loisirs, tourisme", 
+          "ordre": 27
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "COMMUNICATION & INSTITUTIONS\r\n32 RUE NOTRE DAME DES VICTOIRES", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES (AFCL)", 
+        "identifiantNational": "H000000001", 
+        "typeIdentifiantNational": "HATVP"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [
+      {
+        "denomination": "SOC ENCOURAG ELEVAGE DU CHEVAL FRANCAIS", 
+        "identifiantNational": "318455698", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FRANCE GALOP", 
+        "identifiantNational": "401415500", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EOLFI", 
+        "identifiantNational": "477951644", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE CHARBONNIER IMPORTATION COMMERCE", 
+        "identifiantNational": "784669418", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION FCAISE PETROLIERS INDEPENDANT", 
+        "identifiantNational": "784357717", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION FRANCAISE DE TENNIS", 
+        "identifiantNational": "775671381", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EXELTIUM", 
+        "identifiantNational": "490299989", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION PLASTURGIE ACTIVITES", 
+        "identifiantNational": "407713791", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PLASTICSEUROPE AISBL", 
+        "identifiantNational": "440032910", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION FR COMBUSTIBLES ET CARBURANTS", 
+        "identifiantNational": "389409137", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS PROMOTION COMMERCE SERVICE SPECIALIS", 
+        "identifiantNational": "303432934", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNDICAT NATIONAL PILOTES DE LIGNES", 
+        "identifiantNational": "785743246", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNDICAT SYNTEC CONSEIL MANAGEMENT", 
+        "identifiantNational": "419999206", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNIDEN", 
+        "identifiantNational": "434856894", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75002", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur associé", 
+        "nom": "ALEXANDRE", 
+        "prenom": "Fabrice"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "LE PICARD", 
+        "prenom": "Olivier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant", 
+        "nom": "JASSON", 
+        "prenom": "Marc-Antoine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant", 
+        "nom": "LE PICARD", 
+        "prenom": "Nessim"
+      }
+    ], 
+    "dateCreation": "2017-10-31T12:36:23", 
+    "datePremierePublication": "2017-10-31T12:36:23", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "COMMUNICATION & INSTITUTIONS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "LE PICARD", 
+        "prenom": "Olivier"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "340388479", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/2284982/", 
+    "lienPageTwitter": "https://twitter.com/com_inst", 
+    "lienSiteWeb": "http://www.cominst.com/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/340388479.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
           "code": "SECURITE", 
           "label": "Défense, sécurité", 
           "ordre": 7
