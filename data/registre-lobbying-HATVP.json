@@ -15677,11 +15677,6 @@
         "typeIdentifiantNational": "SIREN"
       }, 
       {
-        "denomination": "ENGIE", 
-        "identifiantNational": "542107651", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
         "denomination": "FEDERATION ENTREP COMMERCE DISTRIBUTION", 
         "identifiantNational": "784855876", 
         "typeIdentifiantNational": "SIREN"
@@ -15762,7 +15757,7 @@
         "prenom": "Aurélien"
       }
     ], 
-    "dateCreation": "2017-10-20T10:35:31", 
+    "dateCreation": "2017-11-03T18:52:41", 
     "datePremierePublication": "2017-10-20T10:35:31", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -15782,7 +15777,216 @@
       }
     ], 
     "emailDeContact": "domainespublics@domainespublics.fr", 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "SECURITE", 
+              "label": "Défense, sécurité", 
+              "ordre": 7
+            }, 
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }, 
+            {
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "DOMAINES PUBLICS\r\n4 AVENUE VICTOR HUGO", 
+        "affiliations": [
+          {
+            "denomination": "ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES (AFCL)", 
+            "identifiantNational": "H000000001", 
+            "typeIdentifiantNational": "HATVP"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [
+          {
+            "denomination": "ASSOCIATION FRANCAISE POUR L'HYDROGENE ET LES PILES A COMBUSTIBLE", 
+            "identifiantNational": "419636303", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION AFILOG", 
+            "identifiantNational": "449270578", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PARIS INN GROUP", 
+            "identifiantNational": "501865729", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FIDUCIAL SECURITE EVENEMENTIEL EN ABREGE FIDUCIAL SECURITE", 
+            "identifiantNational": "501144307", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CONSEIL NATIONAL DES CENTRES COMMERCIAUX", 
+            "identifiantNational": "349047373", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DCNS", 
+            "identifiantNational": "441133808", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION FRANCAISE INDUSTRIES PETROLIERES", 
+            "identifiantNational": "784668527", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ENGIE", 
+            "identifiantNational": "542107651", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION ENTREP COMMERCE DISTRIBUTION", 
+            "identifiantNational": "784855876", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION SOCIETES IMMOBILIER FONCIERES", 
+            "identifiantNational": "784855405", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CINOV CONSEIL EN MANAGEMENT", 
+            "identifiantNational": "489773283", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYND NATION ENTREPRISES FROID EQUIP CUIS", 
+            "identifiantNational": "784717084", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DIRECTEURS IMMOBILIERS", 
+            "identifiantNational": "423670140", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYND NATIONAL PROFESSIONELS IMMOBILIERS", 
+            "identifiantNational": "305442501", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNDICAT PROFESSIONNEL DES TELEVISIONS LOCALES HERTZIENNES", 
+            "identifiantNational": "509127205", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75116", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "ZUNZ", 
+            "prenom": "Steven"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "ARNAUD", 
+            "prenom": "Jean-Michel"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur associé", 
+            "nom": "BONNEL", 
+            "prenom": "Thomas"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "directeur affaires publiques", 
+            "nom": "BAROUKH", 
+            "prenom": "Samuel"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Consultant senior", 
+            "nom": "BALLADA", 
+            "prenom": "Julien"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante senior", 
+            "nom": "MARTIN", 
+            "prenom": "Aude"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Consultant senior", 
+            "nom": "VANDERSCHAEG", 
+            "prenom": "Aurélien"
+          }
+        ], 
+        "dateCreation": "2017-10-20T10:35:31", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "DOMAINES PUBLICS", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "ZUNZ", 
+            "prenom": "Steven"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "ARNAUD", 
+            "prenom": "Jean-Michel"
+          }
+        ], 
+        "emailDeContact": "domainespublics@domainespublics.fr", 
+        "identifiantNational": "500633722", 
+        "lienPageLinkedin": "https://fr.linkedin.com/company/domaines-publics", 
+        "lienPageTwitter": "https://twitter.com/DomainesPublics?lang=fr", 
+        "lienSiteWeb": "http://www.domainespublics.fr", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "01 53 64 08 54", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "500633722", 
     "lienPageLinkedin": "https://fr.linkedin.com/company/domaines-publics", 
     "lienPageTwitter": "https://twitter.com/DomainesPublics?lang=fr", 
@@ -29520,6 +29724,85 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/539540492.json", 
     "ville": "LYON"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "JANSSEN CILAG\r\nJANSSEN\r\n1 RUE CAMILLE DESMOULINS\r\nTSA 91003", 
+    "affiliations": [
+      {
+        "denomination": "ASS GPE INT POUR PHARMACIE DE RECHERCHE", 
+        "identifiantNational": "401255468", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LES ENTREPRISES DU MEDICAMENT", 
+        "identifiantNational": "784668543", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92787", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable support business", 
+        "nom": "LA ROCHE", 
+        "prenom": "Martine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur affaires gouvernementales", 
+        "nom": "GRUMEL", 
+        "prenom": "Olivier"
+      }
+    ], 
+    "dateCreation": "2017-11-03T14:53:33", 
+    "datePremierePublication": "2017-11-03T14:53:33", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "JANSSEN CILAG", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "QUILÈS", 
+        "prenom": "Emmanuelle"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "562033068", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/562033068.json", 
+    "ville": "ISSY LES MOULINEAUX CEDEX 9"
   }, 
   {
     "activites": {
