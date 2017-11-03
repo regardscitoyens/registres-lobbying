@@ -1420,6 +1420,88 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }
+      ]
+    }, 
+    "adresse": "ALTA CONSEILS\r\n26 RUE WASHINGTON", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [
+      {
+        "denomination": "HISTOIRE & PATRIMOINE", 
+        "identifiantNational": "480309731", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TAGERIM", 
+        "identifiantNational": "451010490", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "BENETTI", 
+        "prenom": "Jean"
+      }
+    ], 
+    "dateCreation": "2017-11-03T12:01:45", 
+    "datePremierePublication": "2017-11-03T12:01:45", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "ALTA CONSEILS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "BENETTI", 
+        "prenom": "Jean"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "402880215", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/402880215.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -37702,22 +37784,10 @@
     "codePostal": "92506", 
     "collaborateurs": [
       {
-        "civilite": "M", 
-        "fonction": "Directeur Excellence Opérationnelle siège et terrain", 
-        "nom": "MARCHAL", 
-        "prenom": "Jean-Michel"
-      }, 
-      {
         "civilite": "MME", 
         "fonction": "Directeur Exécutif des relations intitutionnelles et économiques", 
         "nom": "AMEYE", 
         "prenom": "Véronique"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Analyste Médical et Institutionnel", 
-        "nom": "GARRIDO", 
-        "prenom": "Sylvain"
       }, 
       {
         "civilite": "MME", 
@@ -37726,7 +37796,7 @@
         "prenom": "Pascale"
       }
     ], 
-    "dateCreation": "2017-08-25T14:29:31", 
+    "dateCreation": "2017-11-03T10:13:15", 
     "datePremierePublication": "2017-08-25T12:40:39", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -37814,6 +37884,100 @@
           }
         ], 
         "dateCreation": "2017-08-25T12:40:39", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "NOVARTIS PHARMA SAS", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général Pharmaceuticals", 
+            "nom": "BEAULIEU", 
+            "prenom": "Luc"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président Novartis Pharma SAS", 
+            "nom": "COLLET", 
+            "prenom": "Frédéric"
+          }
+        ], 
+        "identifiantNational": "410349070", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "RUEIL MALMAISON CEDEX"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "NOVARTIS PHARMA SAS\r\n2 A 4\r\n2 RUE LIONEL TERRAY", 
+        "affiliations": [
+          {
+            "denomination": "LES ENTREPRISES DU MEDICAMENT", 
+            "identifiantNational": "784668543", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LABORATOIRES INTERNATIONAUX DE RECHERCHE", 
+            "identifiantNational": "424399004", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "92506", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Excellence Opérationnelle siège et terrain", 
+            "nom": "MARCHAL", 
+            "prenom": "Jean-Michel"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur Exécutif des relations intitutionnelles et économiques", 
+            "nom": "AMEYE", 
+            "prenom": "Véronique"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Analyste Médical et Institutionnel", 
+            "nom": "GARRIDO", 
+            "prenom": "Sylvain"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur Affaires Publiques en Territoires", 
+            "nom": "GELIN", 
+            "prenom": "Pascale"
+          }
+        ], 
+        "dateCreation": "2017-08-25T14:29:31", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": false, 
         "denomination": "NOVARTIS PHARMA SAS", 
@@ -39858,6 +40022,79 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/562082909.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "SANDOZ\r\n49 AVENUE GEORGES POMPIDOU\r\nCS 70078", 
+    "affiliations": [
+      {
+        "denomination": "GEMME", 
+        "identifiantNational": "493174825", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LES ENTREPRISES DU MEDICAMENT", 
+        "identifiantNational": "784668543", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92593", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT SANDOZ FRANCE", 
+        "nom": "DELENTA", 
+        "prenom": "Christophe"
+      }
+    ], 
+    "dateCreation": "2017-11-03T11:29:20", 
+    "datePremierePublication": "2017-11-03T11:29:20", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "SANDOZ", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT SANDOZ FRANCE", 
+        "nom": "DELENTA", 
+        "prenom": "Christophe"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "552123341", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/552123341.json", 
+    "ville": "LEVALLOIS PERRET CEDEX"
   }, 
   {
     "activites": {
