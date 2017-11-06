@@ -3128,7 +3128,7 @@
         }
       ]
     }, 
-    "adresse": "ASS FED NAT ARTISANS PIZZA CAMION MAGA\r\nMAISON DES ARTISANS\r\n7 BOULEVARD PEBRE", 
+    "adresse": "FNAPCM\nMAISON DES ARTISANS\n7 BOULEVARD PEBRE", 
     "affiliations": [
       {
         "denomination": "CONFEDERATION GENERALE ALIMENTAT.DETAIL", 
@@ -3155,9 +3155,21 @@
         "fonction": "Président honoraire", 
         "nom": "SPOSITO", 
         "prenom": "Francis"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente adjointe, déléguée Bretagne - Pays de la Loire", 
+        "nom": "SUDRE", 
+        "prenom": "Isabelle"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué ville de Marseille", 
+        "nom": "AUDIBERT", 
+        "prenom": "Cyrille"
       }
     ], 
-    "dateCreation": "2017-10-24T12:21:44", 
+    "dateCreation": "2017-11-06T17:06:15", 
     "datePremierePublication": "2017-10-24T12:21:44", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -3185,10 +3197,221 @@
         "civilite": "M", 
         "fonction": "Trésorier", 
         "nom": "AUDIBERT", 
-        "prenom": "Cyril"
+        "prenom": "Cyrille"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "code": "CONSO", 
+              "label": "Concurrence, consommation", 
+              "ordre": 6
+            }, 
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "EDUCATION", 
+              "label": "Education, enseignement supérieur, formation", 
+              "ordre": 9
+            }, 
+            {
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }
+          ]
+        }, 
+        "adresse": "ASS FED NAT ARTISANS PIZZA CAMION MAGA\r\nMAISON DES ARTISANS\r\n7 BOULEVARD PEBRE", 
+        "affiliations": [
+          {
+            "denomination": "CONFEDERATION GENERALE ALIMENTAT.DETAIL", 
+            "identifiantNational": "784717225", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "ORPRO", 
+          "label": "Organisation professionnelle"
+        }, 
+        "clients": [], 
+        "codePostal": "13008", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "GARCIA", 
+            "prenom": "Luc-Gaston"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président honoraire", 
+            "nom": "SPOSITO", 
+            "prenom": "Francis"
+          }
+        ], 
+        "dateCreation": "2017-10-24T12:21:44", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "ASS FED NAT ARTISANS PIZZA CAMION MAGAS", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "GARCIA", 
+            "prenom": "Luc-Gaston"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente adjointe", 
+            "nom": "SUDRE", 
+            "prenom": "Isabelle"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président honoraire", 
+            "nom": "SPOSITO", 
+            "prenom": "Francis"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Trésorier", 
+            "nom": "AUDIBERT", 
+            "prenom": "Cyril"
+          }
+        ], 
+        "identifiantNational": "449491091", 
+        "lienSiteWeb": "https://www.camionpizza.org", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "MARSEILLE"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "code": "CONSO", 
+              "label": "Concurrence, consommation", 
+              "ordre": 6
+            }, 
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "EDUCATION", 
+              "label": "Education, enseignement supérieur, formation", 
+              "ordre": 9
+            }, 
+            {
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }
+          ]
+        }, 
+        "adresse": "ASS FED NAT ARTISANS PIZZA CAMION MAGA\r\nMAISON DES ARTISANS\r\n7 BOULEVARD PEBRE", 
+        "affiliations": [
+          {
+            "denomination": "CONFEDERATION GENERALE ALIMENTAT.DETAIL", 
+            "identifiantNational": "784717225", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "ORPRO", 
+          "label": "Organisation professionnelle"
+        }, 
+        "clients": [], 
+        "codePostal": "13008", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "GARCIA", 
+            "prenom": "Luc-Gaston"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président honoraire", 
+            "nom": "SPOSITO", 
+            "prenom": "Francis"
+          }
+        ], 
+        "dateCreation": "2017-11-06T16:58:25", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "ASS FED NAT ARTISANS PIZZA CAMION MAGAS", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "GARCIA", 
+            "prenom": "Luc-Gaston"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente adjointe", 
+            "nom": "SUDRE", 
+            "prenom": "Isabelle"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président honoraire", 
+            "nom": "SPOSITO", 
+            "prenom": "Francis"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Trésorier", 
+            "nom": "AUDIBERT", 
+            "prenom": "Cyril"
+          }
+        ], 
+        "identifiantNational": "449491091", 
+        "lienSiteWeb": "https://www.camionpizza.org", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "MARSEILLE"
+      }
+    ], 
     "identifiantNational": "449491091", 
     "lienSiteWeb": "https://www.camionpizza.org", 
     "pays": "FRANCE", 
@@ -11379,6 +11602,124 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "ENTREPRISE", 
+          "label": "Gouvernance d’entreprise", 
+          "ordre": 14
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }
+      ]
+    }, 
+    "adresse": "BPCE\r\n50 AVENUE PIERRE MENDES FRANCE", 
+    "affiliations": [
+      {
+        "denomination": "PARIS EUROPLACE", 
+        "identifiantNational": "393769252", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION BANCAIRE FRANCAISE", 
+        "identifiantNational": "434987582", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COOP FR LES ENTREPRISES COOPERATIVES", 
+        "identifiantNational": "317165728", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS  A F E C E I", 
+        "identifiantNational": "428419287", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75013", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Conseiller du Président du Directoire, en charge des Affaires Publiques", 
+        "nom": "DUHAMEL", 
+        "prenom": "Nicolas"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Adjoint des Affaires Publiques Groupe", 
+        "nom": "MICHELIN", 
+        "prenom": "Emmanuel"
+      }
+    ], 
+    "dateCreation": "2017-11-06T14:27:02", 
+    "datePremierePublication": "2017-11-06T14:27:02", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "BPCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président du Directoire", 
+        "nom": "PÉROL", 
+        "prenom": "François"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "493455042", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/439981", 
+    "lienPageTwitter": "https://twitter.com/groupebpce", 
+    "lienSiteWeb": "https://www.groupebpce.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "+33(0)158404142", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/493455042.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
@@ -11962,6 +12303,104 @@
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "COMMERCE", 
+          "label": "Commerce extérieur", 
+          "ordre": 5
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }
+      ]
+    }, 
+    "adresse": "CHAMBRE COMMERCE INDUSTRIE DU PAYS ARLES\nAV DE LA 1ERE DIV FR LIBRE\nBP 10039", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "CHAMCO", 
+      "label": "Chambre consulaire"
+    }, 
+    "clients": [], 
+    "codePostal": "13633", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice de la vie institutionnelle", 
+        "nom": "HOVANESSIAN", 
+        "prenom": "Anne"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur du port de commerce", 
+        "nom": "PONCHON", 
+        "prenom": "Benoit"
+      }
+    ], 
+    "dateCreation": "2017-11-06T12:48:10", 
+    "datePremierePublication": "2017-11-06T12:48:10", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "CHAMBRE COMMERCE INDUSTRIE DU PAYS ARLES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "PAGLIA", 
+        "prenom": "Stéphane"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "PHILIBERT", 
+        "prenom": "Sébastien"
+      }
+    ], 
+    "emailDeContact": "ahovanessian@arles.cci.fr", 
+    "historique": [], 
+    "identifiantNational": "181300039", 
+    "lienPageFacebook": "https://fr-fr.facebook.com/CCIPAYSARLES", 
+    "lienPageTwitter": "https://twitter.com/CCIPAYSARLES", 
+    "lienSiteWeb": "http://www.arles.cci.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/181300039.json", 
+    "ville": "ARLES CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
         }
       ], 
       "listSecteursActivites": [
@@ -12180,6 +12619,98 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/188822118.json", 
     "ville": "EPINAL CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ETRANGER", 
+          "label": "Affaires étrangères, coopération internationale", 
+          "ordre": 1
+        }, 
+        {
+          "code": "COMMERCE", 
+          "label": "Commerce extérieur", 
+          "ordre": 5
+        }, 
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }
+      ]
+    }, 
+    "adresse": "CCI TERRITORIALE ALPES DE HTE PROVENCE\r\n60 BOULEVARD GASSENDI", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "CHAMCO", 
+      "label": "Chambre consulaire"
+    }, 
+    "clients": [], 
+    "codePostal": "04000", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Responsable Achats / Marchés Publics", 
+        "nom": "PROFFIT", 
+        "prenom": "Mathieu"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "RICHAUD", 
+        "prenom": "Alban"
+      }
+    ], 
+    "dateCreation": "2017-11-06T15:41:43", 
+    "datePremierePublication": "2017-11-06T15:41:43", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "CHAMBRE DE COMMERCE ET D'INDUSTRIE TERRITORIALE ALPES-DE-HAUTE-PROVENCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "GOMEZ", 
+        "prenom": "Roland"
+      }
+    ], 
+    "emailDeContact": "accueil@digne.cci.fr", 
+    "historique": [], 
+    "identifiantNational": "180400012", 
+    "lienPageFacebook": "https://www.facebook.com/CCIT04", 
+    "lienSiteWeb": "http://www.digne.cci.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0492308080", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/180400012.json", 
+    "ville": "DIGNE LES BAINS"
   }, 
   {
     "activites": {
@@ -30931,6 +31462,120 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/477598619.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ETRANGER", 
+          "label": "Affaires étrangères, coopération internationale", 
+          "ordre": 1
+        }, 
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "COMMERCE", 
+          "label": "Commerce extérieur", 
+          "ordre": 5
+        }, 
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }
+      ]
+    }, 
+    "adresse": "MAX HAVELAAR FRANCE\r\nMONTREUIL SOUS\r\nBOIS\r\n261 RUE DE PARIS", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "93556", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Plaidoyer", 
+        "nom": "FURIO", 
+        "prenom": "Aldine"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable Plaidoyer", 
+        "nom": "RODRIGUEZ", 
+        "prenom": "Valeria"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "DESBORDES", 
+        "prenom": "Blaise"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "SARRAZIN-BITEYE", 
+        "prenom": "Emilie"
+      }
+    ], 
+    "dateCreation": "2017-11-06T14:14:30", 
+    "datePremierePublication": "2017-11-06T14:14:30", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "MAX HAVELAAR FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "DESBORDES", 
+        "prenom": "Blaise"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "SARRAZIN-BITEYE", 
+        "prenom": "Emilie"
+      }
+    ], 
+    "emailDeContact": "info@maxhavelaarfrance.org", 
+    "historique": [], 
+    "identifiantNational": "388118549", 
+    "lienSiteWeb": "https://www.maxhavelaarfrance.org", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0142877021", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/388118549.json", 
+    "ville": "MONTREUIL CEDEX"
   }, 
   {
     "activites": {
