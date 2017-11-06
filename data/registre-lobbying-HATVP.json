@@ -37826,6 +37826,226 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "MUTUELLE NATIONALE TERRITORIALE MNT\r\n4 RUE D ATHENES", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION NATIONALE MUTUALITE FRANCAISE", 
+        "identifiantNational": "304426240", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUALITE FONCTION PUBLIQUE LIVRE I", 
+        "identifiantNational": "528623549", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AUTRE", 
+      "code": "AUORG", 
+      "label": "Autres organisations"
+    }, 
+    "clients": [], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "SADDIER", 
+        "prenom": "Jérôme"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur délégué en charge des Affaires publiques, de la Communication et du Secrétariat général", 
+        "nom": "VIDILLES", 
+        "prenom": "Victor"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "chargé de mission affaires publiques", 
+        "nom": "TABET", 
+        "prenom": "Youri"
+      }
+    ], 
+    "dateCreation": "2017-11-06T09:10:55", 
+    "datePremierePublication": "2017-11-06T08:55:52", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "MUTUELLE NATIONALE TERRITORIALE MNT", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président général", 
+        "nom": "GIANAZZA", 
+        "prenom": "Alain"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "SADDIER", 
+        "prenom": "Jérôme"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général délégué", 
+        "nom": "ADOUARD", 
+        "prenom": "Laurent"
+      }
+    ], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }, 
+            {
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "MUTUELLE NATIONALE TERRITORIALE MNT\r\n4 RUE D ATHENES", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION NATIONALE MUTUALITE FRANCAISE", 
+            "identifiantNational": "304426240", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MUTUALITE FONCTION PUBLIQUE LIVRE I", 
+            "identifiantNational": "528623549", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "75009", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "SADDIER", 
+            "prenom": "Jérôme"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur délégué en charge des Affaires publiques, de la Communication et du Secrétariat général", 
+            "nom": "VIDILLES", 
+            "prenom": "Victor"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "chargé de mission affaires publiques", 
+            "nom": "TABET", 
+            "prenom": "Youri"
+          }
+        ], 
+        "dateCreation": "2017-11-06T08:55:52", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "MUTUELLE NATIONALE TERRITORIALE MNT", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président général", 
+            "nom": "GIANAZZA", 
+            "prenom": "Alain"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "SADDIER", 
+            "prenom": "Jérôme"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général délégué", 
+            "nom": "ADOUARD", 
+            "prenom": "Laurent"
+          }
+        ], 
+        "identifiantNational": "775678584", 
+        "lienPageFacebook": "https://www.facebook.com/mutuelleMNT/", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/93048/", 
+        "lienPageTwitter": "https://twitter.com/mutuellemnt?lang=en", 
+        "lienSiteWeb": "http://www.mnt.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
+    "identifiantNational": "775678584", 
+    "lienPageFacebook": "https://www.facebook.com/mutuelleMNT/", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/93048/", 
+    "lienPageTwitter": "https://twitter.com/mutuellemnt?lang=en", 
+    "lienSiteWeb": "http://www.mnt.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/775678584.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -39351,6 +39571,91 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/514604453.json", 
     "ville": "BEZIERS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "PROREG", 
+          "label": "Professions réglementées", 
+          "ordre": 22
+        }
+      ]
+    }, 
+    "adresse": "PUBLIC CONSEIL\r\n4 B AVENUE EDMOND BLANC", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COCAB", 
+      "label": "Cabinet de conseil"
+    }, 
+    "clients": [
+      {
+        "denomination": "FAF AGEFOS PME", 
+        "identifiantNational": "301761987", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "78170", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "SALSAT", 
+        "prenom": "Genevieve"
+      }
+    ], 
+    "dateCreation": "2017-11-06T10:02:01", 
+    "datePremierePublication": "2017-11-06T10:02:01", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "PUBLIC CONSEIL", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "PRESIDENTE", 
+        "nom": "SALSAT", 
+        "prenom": "Genevieve"
+      }
+    ], 
+    "emailDeContact": "gsalsat@free.fr", 
+    "historique": [], 
+    "identifiantNational": "504780545", 
+    "lienSiteWeb": "https://www.publicconseil.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "06 66 33 63 82", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/504780545.json", 
+    "ville": "LA CELLE ST CLOUD"
   }, 
   {
     "activites": {
