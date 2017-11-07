@@ -14832,6 +14832,151 @@
       ], 
       "listSecteursActivites": [
         {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "PROREG", 
+          "label": "Professions réglementées", 
+          "ordre": 22
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }, 
+        {
+          "code": "SOCIETE", 
+          "label": "Questions de société", 
+          "ordre": 26
+        }
+      ]
+    }, 
+    "adresse": "168 RUE DE GRENELLE", 
+    "affiliations": [
+      {
+        "denomination": "GYNECOLOGIE SANS FRONTIERE", 
+        "identifiantNational": "433299179", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS MEDECINE RECHERCHE EN AFRIQUE", 
+        "identifiantNational": "438971426", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS NALE DES  ETUDIANTS SAGES FEMMES", 
+        "identifiantNational": "491765848", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE FRANCAISE DE TELEMEDECINE ANTEL (SFT ANTEL)", 
+        "identifiantNational": "533650412", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE DE LIAISON DES INSTITUTIONS ORDINALES - CLIO", 
+        "identifiantNational": "W751189349", 
+        "typeIdentifiantNational": "RNA"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75007", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "CURAT", 
+        "prenom": "Anne-Marie"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Vice-Présidente", 
+        "nom": "BENOIT TRUONG CANH", 
+        "prenom": "Marianne"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Vice-Présidente", 
+        "nom": "DERRENDINGER", 
+        "prenom": "Isabelle"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Trésorière", 
+        "nom": "COPONAT", 
+        "prenom": "Sylvaine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable des relations institutionnelles et des affaires européennes", 
+        "nom": "DELAHAYE", 
+        "prenom": "Jean-Marc"
+      }
+    ], 
+    "dateCreation": "2017-11-07T15:55:59", 
+    "datePremierePublication": "2017-11-07T15:55:59", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "CONSEIL NATIONAL ORDRE DES SAGES FEMMES", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "CURAT", 
+        "prenom": "Anne-Marie"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "784401549", 
+    "lienPageTwitter": "https://twitter.com/CNOSF", 
+    "lienSiteWeb": "http://www.ordre-sages-femmes.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0145518250", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784401549.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
           "code": "ETRANGER", 
           "label": "Affaires étrangères, coopération internationale", 
           "ordre": 1
@@ -30936,6 +31081,185 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "COM", 
+          "label": "Communications électroniques", 
+          "ordre": 28
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "affiliations": [
+      {
+        "denomination": "ASS EUROPEEN VEHICULE ELECTRIQ ROUTIERS", 
+        "identifiantNational": "381166792", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TRANSPARENCY INTERNATIONAL FRANCE", 
+        "identifiantNational": "425138393", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNTEC NUMERIQUE", 
+        "identifiantNational": "384719001", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS FRANCAISE JURISTES ENTREPRISES", 
+        "identifiantNational": "431589076", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "775347453", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TECH'IN FRANCE", 
+        "identifiantNational": "489305367", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOC FONDATION INTERNET NOUVEL. GENERAT", 
+        "identifiantNational": "432401628", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMMISSION NATIONALE DE L'INFORMATIQUE ET DES LIBERTES", 
+        "identifiantNational": "110000122", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RENAISSANCE NUMERIQUE", 
+        "identifiantNational": "501629232", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75015", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Déléguée aux affaires territoriales et parlementaires du Groupe La Poste", 
+        "nom": "LUNGU", 
+        "prenom": "Smara"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Relations avec les Territoires", 
+        "nom": "HAMET", 
+        "prenom": "François"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur de la Régulation et des Affaires Institutionnelles et Européennes", 
+        "nom": "FORCEVILLE", 
+        "prenom": "Jean-Paul"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Déléguée RSE Groupe chargée des relations institutionnelles", 
+        "nom": "CHABREDIER", 
+        "prenom": "Christelle"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Juridique du Groupe", 
+        "nom": "LALLET", 
+        "prenom": "Alexandre"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des Affaires institutionnelles nationales et douanières", 
+        "nom": "DEFAYE-GENESTE", 
+        "prenom": "Christelle"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Relations Institutionnelles Branche Numérique du Groupe", 
+        "nom": "REGNARD", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur de la Régulation et des Etudes du Groupe", 
+        "nom": "JORAM", 
+        "prenom": "Denis"
+      }
+    ], 
+    "dateCreation": "2017-11-07T14:57:32", 
+    "datePremierePublication": "2017-11-07T14:57:32", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "LA POSTE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président Directeur Général", 
+        "nom": "WAHL", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général Adjoint du Groupe, Secrétaire Général du Groupe", 
+        "nom": "BAJOU", 
+        "prenom": "Philippe"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "356000000", 
+    "lienPageFacebook": "https://fr-fr.facebook.com/laposte/", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/164661/", 
+    "lienPageTwitter": "https://twitter.com/groupelaposte?lang=fr", 
+    "lienSiteWeb": "https://legroupe.laposte.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": false, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/356000000.json", 
+    "ville": "PARIS 15"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -38892,6 +39216,199 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "NILE\r\n65 RUE GALANDE", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COCAB", 
+      "label": "Cabinet de conseil"
+    }, 
+    "clients": [
+      {
+        "denomination": "PANPHARMA", 
+        "identifiantNational": "328297841", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NORDIC PHARMA", 
+        "identifiantNational": "419929088", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AXA ASSISTANCE FRANCE", 
+        "identifiantNational": "311338339", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SANDOZ", 
+        "identifiantNational": "552123341", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALMIRALL SAS", 
+        "identifiantNational": "403070832", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ONCOMEDICS", 
+        "identifiantNational": "491352779", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TAKEDA FRANCE SAS", 
+        "identifiantNational": "785750266", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UCB PHARMA SA", 
+        "identifiantNational": "562079046", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AEGERION PHARMACEUTICALS", 
+        "identifiantNational": "534195599", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AMGEN SAS", 
+        "identifiantNational": "377998679", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BOEHRINGER INGELHEIM FRANCE", 
+        "identifiantNational": "337280226", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BSN-RADIANTE SAS", 
+        "identifiantNational": "652880519", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTERCEPT PHARMA FRANCE SAS", 
+        "identifiantNational": "814555173", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTUITIVE SURGICAL SA", 
+        "identifiantNational": "417889177", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "JANSSEN CILAG", 
+        "identifiantNational": "562033068", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOLNLYCKE HEALTH CARE", 
+        "identifiantNational": "383197472", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PFIZER PFE FRANCE", 
+        "identifiantNational": "807902770", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PHILIPS FRANCE COMMERCIAL", 
+        "identifiantNational": "811847243", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OT4B", 
+        "identifiantNational": "824907612", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SIGVARIS", 
+        "identifiantNational": "384137857", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "THUASNE", 
+        "identifiantNational": "542091186", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75005", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Consultant senior", 
+        "nom": "CARLASSARE", 
+        "prenom": "Thibaud"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant senior", 
+        "nom": "HEZARD", 
+        "prenom": "Germain"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante senior", 
+        "nom": "MOUILLET", 
+        "prenom": "Laurence"
+      }
+    ], 
+    "dateCreation": "2017-11-07T15:58:29", 
+    "datePremierePublication": "2017-11-07T15:58:29", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "NILE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "MARIOTTE", 
+        "prenom": "Olivier"
+      }
+    ], 
+    "emailDeContact": "olivier.mariotte@nile-consulting.eu", 
+    "historique": [], 
+    "identifiantNational": "498735448", 
+    "lienSiteWeb": "http://www.nile-consulting.eu/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "01 40 46 78 00", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/498735448.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -40501,6 +41018,298 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/501629232.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "RENAULT SAS\r\n013 015\r\n13 QUAI ALPHONSE LE GALLO", 
+    "affiliations": [
+      {
+        "denomination": "COMITE CONSTRUCTEURS FRANCAIS AUTOMOBILE", 
+        "identifiantNational": "775671662", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSO FRANCAI ENTREPRIS PRIVEES", 
+        "identifiantNational": "326943016", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUP AUTORITE RESP TRANSPORT", 
+        "identifiantNational": "322441817", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT ENTREPRISE FRANCE INTERNATIONA", 
+        "identifiantNational": "378236376", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE NAT FR CHAMBRE COMMERCE INTERN", 
+        "identifiantNational": "784855520", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION BANCAIRE FRANCAISE", 
+        "identifiantNational": "434987582", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PLATEFORME DE LA FILIERE AUTOMOBILE", 
+        "identifiantNational": "524965019", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOC FRANC DES STES FINANC", 
+        "identifiantNational": "784669541", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OFFICE COORDINATION BANCAIRE FINANCIERE", 
+        "identifiantNational": "784411340", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS EUROPEEN VEHICULE ELECTRIQ ROUTIERS", 
+        "identifiantNational": "381166792", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTIT FRANC RELATIONS INTERNATIONALES", 
+        "identifiantNational": "784308926", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [
+      {
+        "denomination": "MAUBEUGE CONSTRUCTION AUTOMOBILE", 
+        "identifiantNational": "702023433", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RENAULT FLINS", 
+        "identifiantNational": "410206205", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE VEHICULES AUTOMOBILES BATILLY", 
+        "identifiantNational": "319851408", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE DE TRANSMISSIONS AUTOMATIQUES", 
+        "identifiantNational": "370200537", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE DES AUTOMOBILES ALPINE OU SAA", 
+        "identifiantNational": "662750074", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MARCEL", 
+        "identifiantNational": "817646375", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOFRASTOCK INTERNATIONAL", 
+        "identifiantNational": "775618481", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RCI BANQUE", 
+        "identifiantNational": "306523358", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RENAULT RETAIL GROUP", 
+        "identifiantNational": "312212301", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ACI VILLEURBANNE", 
+        "identifiantNational": "970507174", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FONDERIE DE BRETAGNE", 
+        "identifiantNational": "515275048", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RENAULT CLEON", 
+        "identifiantNational": "410206528", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RENAULT DOUAI", 
+        "identifiantNational": "410206437", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RENAULT SANDOUVILLE", 
+        "identifiantNational": "410206270", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "92100", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur des Affaires publiques", 
+        "nom": "GUÉRIN", 
+        "prenom": "Virginie"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur-adjoint des Affaires publiques", 
+        "nom": "BUREL", 
+        "prenom": "Sophie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur-adjoint des Affaires publiques", 
+        "nom": "(DE) LA ROCHEBROCHARD D'AUZAY", 
+        "prenom": "Antoine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Relations institutionnelles Innovation & Environnement", 
+        "nom": "BEZIAT", 
+        "prenom": "Jean-Christohe"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chef de projet Affaires publiques", 
+        "nom": "(D') HARCOURT", 
+        "prenom": "Louise"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué régional Affaires publiques", 
+        "nom": "FARGE", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué régional Affaires publiques", 
+        "nom": "BERTHELOT", 
+        "prenom": "Olivier"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée d'Affaires puliques", 
+        "nom": "DEBRU", 
+        "prenom": "Aurélia"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé d'Affaires publiques", 
+        "nom": "SABLIN", 
+        "prenom": "Simon-Serge"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée d'Affaires publiques", 
+        "nom": "MAIRESSE", 
+        "prenom": "Hélène"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée d'Affaires publiques", 
+        "nom": "LE NAIRE", 
+        "prenom": "Marie-Laure"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée d'Affaires publiques", 
+        "nom": "GAUTREAU", 
+        "prenom": "Stéphanie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé d'Affaires publiques", 
+        "nom": "MOUCHET", 
+        "prenom": "Adrien"
+      }
+    ], 
+    "dateCreation": "2017-11-07T17:53:54", 
+    "datePremierePublication": "2017-11-07T17:53:54", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "RENAULT SAS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président-Directeur Général", 
+        "nom": "GHOSN BICHARA", 
+        "prenom": "Carlos"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "780129987", 
+    "lienSiteWeb": "https://group.renault.com/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/780129987.json", 
+    "ville": "BOULOGNE BILLANCOURT"
   }, 
   {
     "activites": {
@@ -43377,6 +44186,110 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/331355263.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }
+      ]
+    }, 
+    "adresse": "STORENGY\r\nBATIMENT DJINN\r\n12 RUE RAOUL NORDLING\r\nCS 70001", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION  FRANCAISE DES PROFESSIONNELS DE LA GEOTHERMIE", 
+        "identifiantNational": "525271565", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION FRANCAISE DU GAZ", 
+        "identifiantNational": "784854820", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNDICAT DES ENERGIES RENOUVELABLES", 
+        "identifiantNational": "419710280", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GEODEEP SAS", 
+        "identifiantNational": "819805029", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92270", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "LACOMBE", 
+        "prenom": "Sébastien"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "DIRECTEUR GENERAL DE STORENGY", 
+        "nom": "PREVIEU", 
+        "prenom": "Cecile"
+      }
+    ], 
+    "dateCreation": "2017-11-07T12:43:05", 
+    "datePremierePublication": "2017-11-07T12:43:05", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "STORENGY", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "DIRECTEUR GENERAL DE STORENGY", 
+        "nom": "PREVIEU", 
+        "prenom": "Cecile"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT DU CONSEIL D'ADMINISTRATION", 
+        "nom": "GRAUX", 
+        "prenom": "Francois"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "487650632", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/487650632.json", 
+    "ville": "BOIS COLOMBES"
   }, 
   {
     "activites": {
