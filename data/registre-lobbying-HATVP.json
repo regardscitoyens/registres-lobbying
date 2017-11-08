@@ -13222,6 +13222,106 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }
+      ]
+    }, 
+    "adresse": "CIE IBM FRANCE\r\n17 AVENUE DE L EUROPE", 
+    "affiliations": [
+      {
+        "denomination": "SYNTEC NUMERIQUE", 
+        "identifiantNational": "384719001", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALLIANCE FRANCAISE DES INDUSTRIES DU NUMERIQUE", 
+        "identifiantNational": "438608630", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSO FRANCAI ENTREPRIS PRIVEES", 
+        "identifiantNational": "326943016", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92275", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Affaires publiques", 
+        "nom": "DUFOIX-GARNIER", 
+        "prenom": "Diane"
+      }
+    ], 
+    "dateCreation": "2017-11-08T17:19:55", 
+    "datePremierePublication": "2017-11-08T17:19:55", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "CIE IBM FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "SEKKAKI", 
+        "prenom": "Nicolas"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "552118465", 
+    "lienPageTwitter": "https://twitter.com/ibm_france?lang=fr", 
+    "lienSiteWeb": "https://www.ibm.com/fr-fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/552118465.json", 
+    "ville": "BOIS COLOMBES CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
@@ -15114,6 +15214,51 @@
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "denomination": "KIKO FRANCE", 
+        "identifiantNational": "521795237", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MARIONNAUD LAFAYETTE", 
+        "identifiantNational": "348674169", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ORANGE", 
+        "identifiantNational": "380129866", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PRINTEMPS", 
+        "identifiantNational": "503314767", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SEPHORA", 
+        "identifiantNational": "393712286", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SODINA", 
+        "identifiantNational": "799893177", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TEDDY SMITH DIGITAL", 
+        "identifiantNational": "752902288", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VIVARTE SERVICES", 
+        "identifiantNational": "413157090", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "L'AUTRE USINE", 
+        "identifiantNational": "813158144", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
         "denomination": "EIFFAGE IMMOBILIER", 
         "identifiantNational": "314527649", 
         "typeIdentifiantNational": "SIREN"
@@ -15354,6 +15499,41 @@
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "denomination": "ALAIN AFFLELOU FRANCHISEUR SAS", 
+        "identifiantNational": "304577794", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "IMMALDI ET COMPAGNIE", 
+        "identifiantNational": "378568638", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "L'IMMOBILIERE CASTORAMA", 
+        "identifiantNational": "451671028", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CLEOR", 
+        "identifiantNational": "413873670", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DECATHLON", 
+        "identifiantNational": "306138900", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ETAM", 
+        "identifiantNational": "552015307", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "KARAVEL", 
+        "identifiantNational": "532321916", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
         "denomination": "POLYGONE BEZIERS", 
         "identifiantNational": "538132341", 
         "typeIdentifiantNational": "SIREN"
@@ -15479,6 +15659,56 @@
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "denomination": "ATOL", 
+        "identifiantNational": "305219859", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CSF", 
+        "identifiantNational": "440283752", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CORA PROXI", 
+        "identifiantNational": "817537152", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FNAC PARIS", 
+        "identifiantNational": "350127460", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GENERALE DE TELEPHONE", 
+        "identifiantNational": "437723844", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "KIABI EUROPE", 
+        "identifiantNational": "344103270", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HAPPY CURL", 
+        "identifiantNational": "343738266", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA BRIOCHE DOREE", 
+        "identifiantNational": "318906591", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LUDENDO COMMERCE FRANCE", 
+        "identifiantNational": "414138842", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LITTLE EXTRA", 
+        "identifiantNational": "480089853", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
         "denomination": "GROUPE CHESSE", 
         "identifiantNational": "447986688", 
         "typeIdentifiantNational": "SIREN"
@@ -15491,6 +15721,36 @@
       {
         "denomination": "CONCEPTS ET DISTRIBUTION", 
         "identifiantNational": "394860100", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NORAUTO FRANCE", 
+        "identifiantNational": "480470152", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TOYS R US", 
+        "identifiantNational": "345404156", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ZARA FRANCE", 
+        "identifiantNational": "348991555", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "THOM EUROPE", 
+        "identifiantNational": "523840395", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MAISONS DU MONDE FRANCE", 
+        "identifiantNational": "383196656", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BUT", 
+        "identifiantNational": "358500411", 
         "typeIdentifiantNational": "SIREN"
       }
     ], 
@@ -15509,7 +15769,7 @@
         "prenom": "Gontran"
       }
     ], 
-    "dateCreation": "2017-11-08T10:39:20", 
+    "dateCreation": "2017-11-08T18:11:27", 
     "datePremierePublication": "2017-11-08T10:39:20", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -15523,7 +15783,518 @@
       }
     ], 
     "emailDeContact": "communication@cncc.com", 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }, 
+            {
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }
+          ]
+        }, 
+        "adresse": "CONSEIL NATIONAL DES CENTRES COMMERCIA\r\n3 RUE LA BOETIE", 
+        "affiliations": [
+          {
+            "denomination": "CONSEIL DU COMMERCE DE FRANCE", 
+            "identifiantNational": "784856528", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "ORPRO", 
+          "label": "Organisation professionnelle"
+        }, 
+        "clients": [
+          {
+            "denomination": "BANIMMO FRANCE", 
+            "identifiantNational": "448413062", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CBRE GLOBAL INVESTORS FRANCE", 
+            "identifiantNational": "998620108", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CEGIS SARL", 
+            "identifiantNational": "330740184", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CENOR ASSET MANAGEMENT", 
+            "identifiantNational": "443368428", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CODIC FRANCE", 
+            "identifiantNational": "378491393", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COMPAGNIE DE PHALSBOURG", 
+            "identifiantNational": "349545103", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CONSTRUCTIONS INDUSTRIELLES SAVOYARDES", 
+            "identifiantNational": "797180445", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EIFFAGE IMMOBILIER", 
+            "identifiantNational": "314527649", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EMA INVEST", 
+            "identifiantNational": "478825730", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EUROCOMMERCIAL PROPERTIES FRANCE SAS", 
+            "identifiantNational": "387582604", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FONCIERE BORDEROUGE", 
+            "identifiantNational": "528562895", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FREY", 
+            "identifiantNational": "398248591", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GALIMMO", 
+            "identifiantNational": "784364150", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROSVENOR CONTINENTAL EUROPE", 
+            "identifiantNational": "419071659", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HABITAT ET COMMERCE", 
+            "identifiantNational": "429420755", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IMOCOMINVEST 2", 
+            "identifiantNational": "802889337", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LASALLE INVESTMENT MANAGEMENT", 
+            "identifiantNational": "399213263", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "JODE", 
+            "identifiantNational": "442328407", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LINKCITY ILE-DE-FRANCE", 
+            "identifiantNational": "343183331", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NEINVER FRANCE SARL", 
+            "identifiantNational": "520224312", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OREAS", 
+            "identifiantNational": "380043950", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CUSHMAN AND WAKEFIELD SAS", 
+            "identifiantNational": "732005921", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LA DECOUVERTE EXPANSION", 
+            "identifiantNational": "777770579", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DUVAL DEVELOPPEMENT", 
+            "identifiantNational": "408723187", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ETS PUB AMENAG RESTRUCTUR ESPACES CIAUX", 
+            "identifiantNational": "420829558", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ETIXIA", 
+            "identifiantNational": "799179098", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPE IDEC INVEST", 
+            "identifiantNational": "518802301", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FIGA", 
+            "identifiantNational": "311890958", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FIMINCO", 
+            "identifiantNational": "485037337", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FINANCIERE GROUPE BARNEOUD", 
+            "identifiantNational": "450239389", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HAMMERSON FRANCE", 
+            "identifiantNational": "682030622", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IKEA CENTRES FRANCE SAS", 
+            "identifiantNational": "484376157", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IMMO MOUSQUETAIRES REGION PARISIENNE", 
+            "identifiantNational": "499557189", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IMMOCHAN", 
+            "identifiantNational": "428803746", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IMOCOMINVEST", 
+            "identifiantNational": "538584533", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "JMP EXPANSION", 
+            "identifiantNational": "410133433", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KLEPIERRE MANAGEMENT", 
+            "identifiantNational": "562100214", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FINANCIERE APSYS", 
+            "identifiantNational": "499677649", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALTAREA FRANCE", 
+            "identifiantNational": "324814219", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SAVILLS", 
+            "identifiantNational": "662045517", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SODEC", 
+            "identifiantNational": "419435201", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SCI SOGEPROM CIP CENTRE", 
+            "identifiantNational": "501531362", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TH REAL ESTATE (FRANCE)", 
+            "identifiantNational": "441242526", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNIBAIL-RODAMCO DEVELOPMENT", 
+            "identifiantNational": "501710263", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VICITY", 
+            "identifiantNational": "440264430", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VIRGIL", 
+            "identifiantNational": "320720782", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "WERELDHAVE MANAGEMENT FRANCE", 
+            "identifiantNational": "384291456", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "WILHELM & CO FRANCE", 
+            "identifiantNational": "494438963", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GS REIM (GC REAL ESTATE IVESTMENT MANAGEMENT)", 
+            "identifiantNational": "532286077", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LES ARCHES METROPOLE", 
+            "identifiantNational": "452369721", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SELECTIRENTE", 
+            "identifiantNational": "414135558", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BERTRAND IMMOBILIER", 
+            "identifiantNational": "801551227", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPAMA IMMOBILIER", 
+            "identifiantNational": "413114760", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FINVEST", 
+            "identifiantNational": "531701902", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INOVISTA", 
+            "identifiantNational": "527988349", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "POLYGONE BEZIERS", 
+            "identifiantNational": "538132341", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PROMO METRO", 
+            "identifiantNational": "712029099", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NACARAT", 
+            "identifiantNational": "311087175", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "REALEASE", 
+            "identifiantNational": "507918621", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "R E D E I M", 
+            "identifiantNational": "345336309", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "REDEVCO FRANCE", 
+            "identifiantNational": "775656416", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "RETAIL & CONNEXIONS", 
+            "identifiantNational": "341826782", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "RMB EUROPE", 
+            "identifiantNational": "422281246", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SA DESTRELLAN", 
+            "identifiantNational": "382374940", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOCIETE DES CENTRES COMMERCIAUX", 
+            "identifiantNational": "689801231", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DEVELOPPE EQUIPE SERVICE SODES", 
+            "identifiantNational": "321762213", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VASTNED MANAGEMENT FRANCE", 
+            "identifiantNational": "439087388", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VINCI IMMOBILIER PROMOTION", 
+            "identifiantNational": "339788309", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VINCI AUTOROUTES", 
+            "identifiantNational": "512377060", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SARL VISION D'OCCITANIE", 
+            "identifiantNational": "808272231", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NAMI-AEW EUROPE", 
+            "identifiantNational": "513392373", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AXA REAL ESTATE INVESTMENT MANAGERS FRANCE EN ABREGE AXA REIM FRANCE", 
+            "identifiantNational": "397991670", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BOUYGUES IMMOBILIER", 
+            "identifiantNational": "562091546", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CAMAE", 
+            "identifiantNational": "483513578", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALMIA MANAGEMENT", 
+            "identifiantNational": "799911771", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CARREFOUR PROPERTY FRANCE", 
+            "identifiantNational": "775632169", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CATELLA ASSET MANAGEMENT", 
+            "identifiantNational": "798456810", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CATINVEST SA", 
+            "identifiantNational": "393327002", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AGORA GROUPE", 
+            "identifiantNational": "818188369", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SCAPRIM ASSET MANAGEMENT", 
+            "identifiantNational": "491084612", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPE CHESSE", 
+            "identifiantNational": "447986688", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COMPAGNIE FONCIERE DU LEVANT", 
+            "identifiantNational": "388752180", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CONCEPTS ET DISTRIBUTION", 
+            "identifiantNational": "394860100", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75008", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des relations institutionnelles et extérieures", 
+            "nom": "LAMARRE", 
+            "prenom": "Dorian"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Délégué général", 
+            "nom": "THURING", 
+            "prenom": "Gontran"
+          }
+        ], 
+        "dateCreation": "2017-11-08T10:39:20", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "CONSEIL NATIONAL DES CENTRES COMMERCIAUX", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "FREY", 
+            "prenom": "Antoine"
+          }
+        ], 
+        "emailDeContact": "communication@cncc.com", 
+        "identifiantNational": "349047373", 
+        "lienSiteWeb": "http://www.cncc.com", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0153438260", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "349047373", 
     "lienSiteWeb": "http://www.cncc.com", 
     "pays": "FRANCE", 
@@ -44402,6 +45173,90 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "SNCF MOBILITES\r\nSNCF ST DENIS 9 RUE JEAN PHILIPPE RAME\r\n9 RUE JEAN PHILIPPE RAMEAU", 
+    "affiliations": [
+      {
+        "denomination": "UNION  TRANSPORTS PUBLICS FERROVIAIRES", 
+        "identifiantNational": "784408643", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "93200", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice de la Régulation SNCF Mobilités", 
+        "nom": "DAZIANO", 
+        "prenom": "Laurence"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable Régulation Gares&Connexions", 
+        "nom": "MIALOT", 
+        "prenom": "Stéphane"
+      }
+    ], 
+    "dateCreation": "2017-11-08T13:40:15", 
+    "datePremierePublication": "2017-11-08T13:40:15", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "SNCF MOBILITES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président du Conseil d'administration", 
+        "nom": "PEPY", 
+        "prenom": "Guillaume"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "552049447", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/552049447.json", 
+    "ville": "ST DENIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -44504,27 +45359,9 @@
     "collaborateurs": [
       {
         "civilite": "M", 
-        "fonction": "Directeur Général", 
-        "nom": "OUDÉA", 
-        "prenom": "Frédéric"
-      }, 
-      {
-        "civilite": "M", 
         "fonction": "Directeur des Affaires Publiques Groupe", 
         "nom": "LASCOLS", 
         "prenom": "Laurent"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Responsable de la Business Unit Région Afrique & Outre-mer, Banque de détail à l’international", 
-        "nom": "MAYMAT", 
-        "prenom": "Alexandre"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Directeur financier du Groupe", 
-        "nom": "HEIM", 
-        "prenom": "Philippe"
       }, 
       {
         "civilite": "M", 
@@ -44552,12 +45389,6 @@
       }, 
       {
         "civilite": "M", 
-        "fonction": "Secrétaire du conseil d'administration", 
-        "nom": "SUET", 
-        "prenom": "Patrick"
-      }, 
-      {
-        "civilite": "M", 
         "fonction": "Head of Regulatory Strategy", 
         "nom": "LITVACK", 
         "prenom": "Eric"
@@ -44581,7 +45412,7 @@
         "prenom": "Stéphane"
       }
     ], 
-    "dateCreation": "2017-10-27T12:10:34", 
+    "dateCreation": "2017-11-08T17:55:57", 
     "datePremierePublication": "2017-08-31T18:36:06", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -44610,12 +45441,6 @@
         "fonction": "Directeur Général délégué", 
         "nom": "SANCHEZ INCERA", 
         "prenom": "Bernardo"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Président du conseil d'administration", 
-        "nom": "BINI SMAGHI", 
-        "prenom": "Lorenzo"
       }
     ], 
     "historique": [
@@ -44906,6 +45731,322 @@
           }
         ], 
         "dateCreation": "2017-10-24T19:08:36", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "SOCIETE GENERALE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "OUDÉA", 
+            "prenom": "Frédéric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général délégué", 
+            "nom": "CABANNES", 
+            "prenom": "Séverin"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général délégué", 
+            "nom": "VALET", 
+            "prenom": "Didier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général délégué", 
+            "nom": "SANCHEZ INCERA", 
+            "prenom": "Bernardo"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président du conseil d'administration", 
+            "nom": "BINI SMAGHI", 
+            "prenom": "Lorenzo"
+          }
+        ], 
+        "identifiantNational": "552120222", 
+        "lienPageFacebook": "https://fr-fr.facebook.com/societegenerale/", 
+        "lienPageLinkedin": "https://www.linkedin.com/company-beta/1691/", 
+        "lienPageTwitter": "https://twitter.com/SocieteGenerale", 
+        "lienSiteWeb": "https://www.societegenerale.com/fr/accueil", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }
+          ]
+        }, 
+        "adresse": "SOCIETE GENERALE\r\n29 BOULEVARD HAUSSMANN", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION BANCAIRE FRANCAISE", 
+            "identifiantNational": "434987582", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PARIS EUROPLACE", 
+            "identifiantNational": "393769252", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AFEP", 
+            "identifiantNational": "391358363", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "75009", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "OUDÉA", 
+            "prenom": "Frédéric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Affaires Publiques Groupe", 
+            "nom": "LASCOLS", 
+            "prenom": "Laurent"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Responsable de la Business Unit Région Afrique & Outre-mer, Banque de détail à l’international", 
+            "nom": "MAYMAT", 
+            "prenom": "Alexandre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur financier du Groupe", 
+            "nom": "HEIM", 
+            "prenom": "Philippe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "IBFS Head for Public Affairs and ECB relations", 
+            "nom": "BERTHELEMY", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice de la réglementation et des relations de place", 
+            "nom": "AUVRAY MAGNIN", 
+            "prenom": "Marianne"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Head of Strategy for Market Infrastructures", 
+            "nom": "DE GAY DE NEXON", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire Général du Groupe", 
+            "nom": "BRIATTA", 
+            "prenom": "Gilles"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire du conseil d'administration", 
+            "nom": "SUET", 
+            "prenom": "Patrick"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Head of Regulatory Strategy", 
+            "nom": "LITVACK", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Conseiller senior Affaires Publiques Groupe", 
+            "nom": "JANIN", 
+            "prenom": "Simon"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Affaires Publiques GBIS", 
+            "nom": "BOUCHETA", 
+            "prenom": "Haroun"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Affaires Publiques GBIS", 
+            "nom": "GIORDANO", 
+            "prenom": "Stéphane"
+          }
+        ], 
+        "dateCreation": "2017-10-27T12:10:34", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "SOCIETE GENERALE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "OUDÉA", 
+            "prenom": "Frédéric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général délégué", 
+            "nom": "CABANNES", 
+            "prenom": "Séverin"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général délégué", 
+            "nom": "VALET", 
+            "prenom": "Didier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général délégué", 
+            "nom": "SANCHEZ INCERA", 
+            "prenom": "Bernardo"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président du conseil d'administration", 
+            "nom": "BINI SMAGHI", 
+            "prenom": "Lorenzo"
+          }
+        ], 
+        "identifiantNational": "552120222", 
+        "lienPageFacebook": "https://fr-fr.facebook.com/societegenerale/", 
+        "lienPageLinkedin": "https://www.linkedin.com/company-beta/1691/", 
+        "lienPageTwitter": "https://twitter.com/SocieteGenerale", 
+        "lienSiteWeb": "https://www.societegenerale.com/fr/accueil", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }
+          ]
+        }, 
+        "adresse": "SOCIETE GENERALE\r\n29 BOULEVARD HAUSSMANN", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION BANCAIRE FRANCAISE", 
+            "identifiantNational": "434987582", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PARIS EUROPLACE", 
+            "identifiantNational": "393769252", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AFEP", 
+            "identifiantNational": "391358363", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "75009", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Affaires Publiques Groupe", 
+            "nom": "LASCOLS", 
+            "prenom": "Laurent"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "IBFS Head for Public Affairs and ECB relations", 
+            "nom": "BERTHELEMY", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice de la réglementation et des relations de place", 
+            "nom": "AUVRAY MAGNIN", 
+            "prenom": "Marianne"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Head of Strategy for Market Infrastructures", 
+            "nom": "DE GAY DE NEXON", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire Général du Groupe", 
+            "nom": "BRIATTA", 
+            "prenom": "Gilles"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Head of Regulatory Strategy", 
+            "nom": "LITVACK", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Conseiller senior Affaires Publiques Groupe", 
+            "nom": "JANIN", 
+            "prenom": "Simon"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Affaires Publiques GBIS", 
+            "nom": "BOUCHETA", 
+            "prenom": "Haroun"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Affaires Publiques GBIS", 
+            "nom": "GIORDANO", 
+            "prenom": "Stéphane"
+          }
+        ], 
+        "dateCreation": "2017-11-08T15:25:19", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": false, 
         "denomination": "SOCIETE GENERALE", 
