@@ -2891,6 +2891,110 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ETRANGER", 
+          "label": "Affaires étrangères, coopération internationale", 
+          "ordre": 1
+        }, 
+        {
+          "code": "COMMERCE", 
+          "label": "Commerce extérieur", 
+          "ordre": 5
+        }, 
+        {
+          "code": "SECURITE", 
+          "label": "Défense, sécurité", 
+          "ordre": 7
+        }, 
+        {
+          "code": "OUTREMER", 
+          "label": "Outre-mer", 
+          "ordre": 20
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "ARIANESPACE\r\nBOULEVARD DE L EUROPE\r\nBP 177", 
+    "affiliations": [
+      {
+        "denomination": "GROUPEMENT INDUSTR FSES AERONAUT SPACIAL", 
+        "identifiantNational": "784668394", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "91006", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Affaires publiques", 
+        "nom": "ARCHIER", 
+        "prenom": "Alexandre"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé de mission Affaires publiques", 
+        "nom": "JAMBON", 
+        "prenom": "Maxime"
+      }
+    ], 
+    "dateCreation": "2017-11-09T14:42:27", 
+    "datePremierePublication": "2017-11-09T14:42:27", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ARIANESPACE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président exécutif", 
+        "nom": "ISRAËL", 
+        "prenom": "Stéphane"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "318516457", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/318516457.json", 
+    "ville": "EVRY CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -3000,6 +3104,82 @@
     "telephoneDeContact": "0140151540", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/307287193.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "3 rue Edmond Valentin", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75007", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général", 
+        "nom": "BOUTIN", 
+        "prenom": "Christophe"
+      }
+    ], 
+    "dateCreation": "2017-11-09T18:56:53", 
+    "datePremierePublication": "2017-11-09T18:56:53", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "ASFA ASSOCIATION PROFESSIONNELLE DES SOCIETES FRANCAISES CONCESSIONNAIRES OU EXPLOITANTES D'AUTOROUTES OU D'OUVRAGES ROUTIERS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "HARY", 
+        "prenom": "Arnaud"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général", 
+        "nom": "BOUTIN", 
+        "prenom": "Christophe"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "W751041866", 
+    "lienPageFacebook": "https://www.facebook.com/mabelleautoroute", 
+    "lienPageTwitter": "https://twitter.com/ASFAutoroutes", 
+    "lienSiteWeb": "http://www.autoroutes.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "RNA", 
+    "url_json": "http://www.hatvp.fr/agora/W751041866.json", 
     "ville": "PARIS"
   }, 
   {
@@ -10013,6 +10193,70 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }
+      ]
+    }, 
+    "adresse": "ASS FR INDEPENDANTE L ELECTRICITE GAZ\n37 RUE DU COLISEE 75008 PARIS", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire générale", 
+        "nom": "PINET", 
+        "prenom": "Clémentine"
+      }
+    ], 
+    "dateCreation": "2017-11-09T20:01:49", 
+    "datePremierePublication": "2017-11-09T20:01:49", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "ASSOCIATION FRANCAISE INDEPENDANTE DE L ELECTRICITE ET DU GAZ", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "MARC", 
+        "prenom": "Boudier"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "752289678", 
+    "lienSiteWeb": "http://www.afieg.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0986277034", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/752289678.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -10783,6 +11027,157 @@
     "typeIdentifiantNational": "RNA", 
     "url_json": "http://www.hatvp.fr/agora/W751091637.json", 
     "ville": "PARIS 15E"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }
+      ]
+    }, 
+    "adresse": "ATLAS PUBLIC AFFAIRS\r\n37 RUE DU COLISEE", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION A.F.C.L.", 
+        "identifiantNational": "394191183", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COCAB", 
+      "label": "Cabinet de conseil"
+    }, 
+    "clients": [
+      {
+        "denomination": "UNIPER FRANCE", 
+        "identifiantNational": "501706360", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYND INTERPROFESSIONNEL DU CUIR   CONSEIL NATIONAL DU CUIR", 
+        "identifiantNational": "784410714", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYND NAT FABRICATION ENSEIGNE LUMINEUSE", 
+        "identifiantNational": "784453268", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION FRANCAISE INDEPENDANTE DE L ELECTRICITE ET DU GAZ", 
+        "identifiantNational": "752289678", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EDPR FRANCE HOLDING", 
+        "identifiantNational": "797610730", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMPAGNIE DES GAZ DE PETROLE PRIMAGAZ", 
+        "identifiantNational": "542084454", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LNGENERATION", 
+        "identifiantNational": "538132549", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GAS NATURAL EUROPE", 
+        "identifiantNational": "477977755", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOLGAS ENERGIA S.A.", 
+        "identifiantNational": "791665912", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AXEGAZ", 
+        "identifiantNational": "752377937", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "GROSJEAN", 
+        "prenom": "Pierre-Damien"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante senior", 
+        "nom": "PINET", 
+        "prenom": "Clémentine"
+      }
+    ], 
+    "dateCreation": "2017-11-09T19:59:43", 
+    "datePremierePublication": "2017-11-09T19:59:43", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "ATLAS PUBLIC AFFAIRS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "DROGUERE", 
+        "prenom": "Christophe"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "522058106", 
+    "lienSiteWeb": "http://www.atlaspublicaffairs.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "01 75 42 95 94", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/522058106.json", 
+    "ville": "PARIS"
   }, 
   {
     "activites": {
@@ -26961,6 +27356,174 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ETRANGER", 
+          "label": "Affaires étrangères, coopération internationale", 
+          "ordre": 1
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "FEDERATION PROF ENTREPRISES L EAU\r\n19 AVENUE DE MESSINE", 
+    "affiliations": [
+      {
+        "denomination": "ACADEMIE DE L'EAU", 
+        "identifiantNational": "415282037", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS SCIENTIFIQUE TECH EAU ENVIRON", 
+        "identifiantNational": "784717050", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CERCLE FRANCAIS DE L EAU", 
+        "identifiantNational": "383309044", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPEMENT PERSONNELS SERVICES GPS", 
+        "identifiantNational": "378629927", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "784668618", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OFFICE INTERNATIONAL DE L'EAU", 
+        "identifiantNational": "314901729", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "SUEZ EAU FRANCE", 
+        "identifiantNational": "410034607", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOGEDO", 
+        "identifiantNational": "332111129", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAUR", 
+        "identifiantNational": "339379984", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VEOLIA EAU - COMPAGNIE GENERALE DES EAUX", 
+        "identifiantNational": "572025526", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AQUALTER EXPLOITATION", 
+        "identifiantNational": "421277534", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DERICHEBOURG AQUA", 
+        "identifiantNational": "749867669", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE DES EAUX DE FIN D'OISE", 
+        "identifiantNational": "444062723", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "MATHIEU", 
+        "prenom": "Tristan"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée affaires publiques", 
+        "nom": "DE LEONARDIS", 
+        "prenom": "Chiara"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice de la communication", 
+        "nom": "ASSO", 
+        "prenom": "Caroline"
+      }
+    ], 
+    "dateCreation": "2017-11-09T16:25:10", 
+    "datePremierePublication": "2017-11-09T16:25:10", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "FEDERATION PROFESSIONNELLE DES ENTREPRISES DE L EAU", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "CAMUS", 
+        "prenom": "Bertrand"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué général", 
+        "nom": "MATHIEU", 
+        "prenom": "Tristan"
+      }
+    ], 
+    "emailDeContact": "fp2e@fp2e.org", 
+    "historique": [], 
+    "identifiantNational": "784717068", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0153701358", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784717068.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -27141,6 +27704,120 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/420030967.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "G AGENCE\n67 COURS MIRABEAU", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COCAB", 
+      "label": "Cabinet de conseil"
+    }, 
+    "clients": [
+      {
+        "denomination": "IMMOCHAN FRANCE", 
+        "identifiantNational": "969201532", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AUCHAN RETAIL FRANCE", 
+        "identifiantNational": "481986446", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VOLTALIA", 
+        "identifiantNational": "485182448", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "13100", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "GUILLAUMIN", 
+        "prenom": "Eric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "directeur associé", 
+        "nom": "GUILLAUMIN", 
+        "prenom": "Eric"
+      }
+    ], 
+    "dateCreation": "2017-11-09T14:12:47", 
+    "datePremierePublication": "2017-11-09T14:12:47", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "G-AGENCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Gérant", 
+        "nom": "GUILLAUMIN", 
+        "prenom": "Eric"
+      }
+    ], 
+    "emailDeContact": "contact@g-agence.fr", 
+    "historique": [], 
+    "identifiantNational": "452600067", 
+    "lienPageFacebook": "https://www.facebook.com/eric.guillaumin.5", 
+    "lienPageLinkedin": "https://www.linkedin.com/company-beta/10672429/admin/updates/", 
+    "lienPageTwitter": "https://twitter.com/GuillauminEric", 
+    "lienSiteWeb": "http://www.g-agence.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "04 86 69 54 64 ", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/452600067.json", 
+    "ville": "AIX EN PROVENCE"
   }, 
   {
     "activites": {
@@ -49743,6 +50420,85 @@
       ], 
       "listSecteursActivites": [
         {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "TIGF INVESTISSEMENTS\r\n40 AVENUE DE L EUROPE\r\nCS 20522 CS 20522", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [
+      {
+        "denomination": "TRANSPORT ET INFRASTRUCTURES GAZ FRANCE", 
+        "identifiantNational": "095580841", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "64010", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "MOCKLY", 
+        "prenom": "Dominique"
+      }
+    ], 
+    "dateCreation": "2017-11-09T17:48:08", 
+    "datePremierePublication": "2017-11-09T17:48:08", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "TIGF INVESTISSEMENTS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "MOCKLY", 
+        "prenom": "Dominique"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "790113724", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0559133400", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/790113724.json", 
+    "ville": "PAU CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
           "code": "ECONOMIE", 
           "label": "Economie", 
           "ordre": 8
@@ -50735,6 +51491,170 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/425138393.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "TRANSPORT INFRASTRUCTURES GAZ FRANCE\r\n40 AVENUE DE L EUROPE", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION FRANCAISE DU GAZ", 
+        "identifiantNational": "784854820", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOC FR DU GAZ NATUREL POUR VEHICULES", 
+        "identifiantNational": "399808237", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOC FRANC INGENIEUR RESPONS MAINTENANC", 
+        "identifiantNational": "350805933", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION DES GRANDS UTILISATEURS DE RESEAUX RADIO D'EXPLOITATION (AGURRE)", 
+        "identifiantNational": "W932004303", 
+        "typeIdentifiantNational": "RNA"
+      }, 
+      {
+        "denomination": "ASSOCIAT TECHNIQUE ENERGIE ENVIRONNEMENT", 
+        "identifiantNational": "315062786", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CANALISATEURS DE FRANCE", 
+        "identifiantNational": "378787238", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AGENCE DE SERVICES ET DE PAIEMENT", 
+        "identifiantNational": "130006372", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUP ETUDE SECURITE INDUSTRI PETROLIERE", 
+        "identifiantNational": "316853514", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT MONTAIGNE", 
+        "identifiantNational": "444920318", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "784668618", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OBSERVATOIRE NATIONAL DT DICT", 
+        "identifiantNational": "534752704", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UPRIGAZ(UNION PROF.INDUSTRIES PRIV. GAZ)", 
+        "identifiantNational": "429801665", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION FRANCAISE INDUSTRIES PETROLIERES", 
+        "identifiantNational": "784668527", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "64000", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président du Conseil d'Administration - Directeur Général", 
+        "nom": "MOCKLY", 
+        "prenom": "Dominique"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable des Affaires Publiques", 
+        "nom": "WORINGER", 
+        "prenom": "Mathilde"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable du Département Relations Institutionnelles", 
+        "nom": "AOUN", 
+        "prenom": "Marie-Claire"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable du service Coordination - autorisations et relations tiers", 
+        "nom": "BAT", 
+        "prenom": "Louis"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable des Relations Institutionnelles Régionales", 
+        "nom": "MATHIEU", 
+        "prenom": "Patrick"
+      }
+    ], 
+    "dateCreation": "2017-11-09T17:33:46", 
+    "datePremierePublication": "2017-11-09T17:33:46", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "TRANSPORT ET INFRASTRUCTURES GAZ FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président du Conseil d'Administration - Directeur Général", 
+        "nom": "MOCKLY", 
+        "prenom": "Dominique"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "095580841", 
+    "lienSiteWeb": "https://www.tigf.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0559133400", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/095580841.json", 
+    "ville": "PAU"
   }, 
   {
     "activites": {
