@@ -52566,6 +52566,115 @@
       ], 
       "listSecteursActivites": [
         {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }, 
+        {
+          "code": "PROREG", 
+          "label": "Professions réglementées", 
+          "ordre": 22
+        }
+      ]
+    }, 
+    "adresse": "SYND PROF DES THANATOPRACTEURS\r\n2 PLACE DES NATIONS", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "SYNDI", 
+      "label": "Syndicat"
+    }, 
+    "clients": [], 
+    "codePostal": "25000", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "IVANES", 
+        "prenom": "Cédric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice -Président", 
+        "nom": "NICOLAS", 
+        "prenom": "Frédéric"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire Générale", 
+        "nom": "TIPREZ", 
+        "prenom": "Hélène"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Trésoriere", 
+        "nom": "HARTMANN", 
+        "prenom": "Aubéri"
+      }
+    ], 
+    "dateCreation": "2017-11-12T19:07:17", 
+    "datePremierePublication": "2017-11-12T19:07:17", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "SYNDICAT PROFESSIONNEL DES THANATOPRACTEURS INDEPENDANTS SALARIES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "IVANES", 
+        "prenom": "Cédric"
+      }
+    ], 
+    "emailDeContact": "president@syndicatdesthanatopracteurs.fr", 
+    "historique": [], 
+    "identifiantNational": "753067768", 
+    "lienPageFacebook": "https://www.facebook.com/Syndicat-Professionnel-des-Thanatopracteurs-Ind%C3%A9pendants-et-Salari%C3%A9s-316839538390169/?ref=bookmarks", 
+    "lienSiteWeb": "https://www.syndicatdesthanatopracteurs.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0665974100", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/753067768.json", 
+    "ville": "BESANCON"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
           "code": "ENERGIE", 
           "label": "Energie", 
           "ordre": 11
