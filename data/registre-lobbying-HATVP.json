@@ -23160,6 +23160,92 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }
+      ]
+    }, 
+    "adresse": "FEDERAT PROMOTEURS IMMOBILIERS FRANCE\r\n106 RUE DE L UNIVERSITE", 
+    "affiliations": [
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "784668618", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSET IMMOBILIER CONSULTANTS", 
+        "identifiantNational": "442455044", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75007", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice de cabinet et des relations institutionnelles", 
+        "nom": "PEYRICOT", 
+        "prenom": "Anne"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice juridique", 
+        "nom": "JOLY", 
+        "prenom": "Bérengère"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur technique", 
+        "nom": "GIBON", 
+        "prenom": "Philip"
+      }
+    ], 
+    "dateCreation": "2017-11-13T11:46:43", 
+    "datePremierePublication": "2017-11-13T11:46:43", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "FEDERATION DES PROMOTEURS IMMOBILIERS DE FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général", 
+        "nom": "ROUQUE", 
+        "prenom": "Alexis"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "FRANÇOIS-CUXAC", 
+        "prenom": "Alexandra"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "784312332", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784312332.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -61794,6 +61880,114 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/784522559.json", 
     "ville": "PARIS 11"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "UNION NATION PREST DISPOSITIFS MEDICAU\n13 rue BALLU", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Déléguée Générale", 
+        "nom": "GRANDO", 
+        "prenom": "Heidi"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Assistante Déléguée Générale", 
+        "nom": "CORDIER", 
+        "prenom": "Julie"
+      }
+    ], 
+    "dateCreation": "2017-11-13T11:26:08", 
+    "datePremierePublication": "2017-11-13T11:26:08", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "UNION NATION PREST DISPOSITIFS MEDICAUX", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT", 
+        "nom": "CAMAIONI", 
+        "prenom": "Fabrice"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "PIANT", 
+        "prenom": "Frédéric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Trésorier", 
+        "nom": "VOGELEER", 
+        "prenom": "Edouard"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "TRUSCHEL", 
+        "prenom": "Thierry"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "MARIE", 
+        "prenom": "Christian"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "438685695", 
+    "lienSiteWeb": "https://www.unpdmsyndicatprofessionnel.com/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/438685695.json", 
+    "ville": "PARIS"
   }, 
   {
     "activites": {
