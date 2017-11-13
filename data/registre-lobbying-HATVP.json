@@ -1174,6 +1174,125 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "AIR LIQUIDE SANTE INTERNATIONAL\r\n75 QUAI D ORSAY", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION DES PRESTATAIRES DE SANTE A DOMICILE", 
+        "identifiantNational": "798748349", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [
+      {
+        "denomination": "CDM E-HEALTH", 
+        "identifiantNational": "538835489", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75007", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Affaires Européennes et Internationales", 
+        "nom": "SUEUR", 
+        "prenom": "Thierry"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente Directrice Générale", 
+        "nom": "SCHILLAG", 
+        "prenom": "Diana"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable Affaires Publiques", 
+        "nom": "MIRDJANIAN", 
+        "prenom": "Emilie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chronic Care Management Program Director", 
+        "nom": "WOYNAR", 
+        "prenom": "Sébastien"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur de la Communication et des Affaires Publiques", 
+        "nom": "DOUCET", 
+        "prenom": "Muriel"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur France", 
+        "nom": "DES VILLETTES", 
+        "prenom": "Charles-Henri"
+      }
+    ], 
+    "dateCreation": "2017-11-13T16:47:15", 
+    "datePremierePublication": "2017-11-13T16:47:15", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "AIR LIQUIDE SANTE INTERNATIONAL", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente Directrice Générale", 
+        "nom": "SCHILLAG", 
+        "prenom": "Diana"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "552134728", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/552134728.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -17381,6 +17500,93 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "JUSTICE", 
+          "label": "Justice", 
+          "ordre": 16
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }, 
+        {
+          "code": "PROREG", 
+          "label": "Professions réglementées", 
+          "ordre": 22
+        }
+      ]
+    }, 
+    "adresse": "CONSEIL SUPER NOTARIAT\r\n60 BOULEVARD DE LA TOUR MAUBOURG", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75007", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "MANDELLI", 
+        "prenom": "Christine"
+      }
+    ], 
+    "dateCreation": "2017-11-13T17:00:14", 
+    "datePremierePublication": "2017-11-13T17:00:14", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "CONSEIL SUPER NOTARIAT", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "président", 
+        "nom": "COIFFARD", 
+        "prenom": "Didier"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "784350134", 
+    "lienSiteWeb": "http://notaires.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784350134.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -23005,6 +23211,431 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/778714758.json", 
     "ville": "MEROUX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "FEDERATION ENTREPRISES RECYCLAGE\r\n101 RUE DE PRONY", 
+    "affiliations": [
+      {
+        "denomination": "CONFEDERATION DES PETITES ET MOYENNES ENTREPRISES", 
+        "identifiantNational": "303215016", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "SYND REG INDUSTRIE COMMERCE RECUPERATION", 
+        "identifiantNational": "779917624", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDEREC EST", 
+        "identifiantNational": "783344575", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDEREC NORD PAS DE CALAIS", 
+        "identifiantNational": "783710270", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDEREC OUEST", 
+        "identifiantNational": "786018937", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYND RECUP GESTION INDUS ENVIRON RECYC", 
+        "identifiantNational": "781846084", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYND INDUST COMMERC RECUPERATI SUD-OUEST", 
+        "identifiantNational": "776949703", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNDICAT INDUSTRIE COMMERCE RECUPERATIOM", 
+        "identifiantNational": "784358558", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75017", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "BURNAND", 
+        "prenom": "Manuel"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "CARPENTIER", 
+        "prenom": "Jean-Philippe"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable relations institutionnelles", 
+        "nom": "BADIN", 
+        "prenom": "Marie-Ange"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président FEDEREC Palettes et Bois", 
+        "nom": "LEON", 
+        "prenom": "Pascal"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président FEDEREC Région parisienne et Trésorier FEDEREC", 
+        "nom": "AZOUBEL", 
+        "prenom": "Albert"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président FEDEREC OUEST", 
+        "nom": "BARBAZANGES", 
+        "prenom": "Pierre-Yves"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président FEDEREC Plumes et Duvets", 
+        "nom": "CAPELLOT", 
+        "prenom": "Pierre"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président FEDEREC SUD-OUEST", 
+        "nom": "CHAZELLE", 
+        "prenom": "Etienne"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président FEDEREC CENTRE SUD-EST", 
+        "nom": "COLON", 
+        "prenom": "Florent"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président FEDEREC EST", 
+        "nom": "DE CHIREE", 
+        "prenom": "Thierry"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président FEDEREC Syres Solvants", 
+        "nom": "DESPORT", 
+        "prenom": "Fabien"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président FEDEREC NORD PICARDIE", 
+        "nom": "DOOLAEGHE", 
+        "prenom": "Bertrand"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président de la Commission internationale", 
+        "nom": "FRANCOIS", 
+        "prenom": "Olivier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président FEDEREC Papiers-Cartons", 
+        "nom": "GENNEVIEVE", 
+        "prenom": "Pascal"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président de la Commission Broyeurs", 
+        "nom": "GROSVALLET", 
+        "prenom": "Alban"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président FEDEREC Métaux non ferreux", 
+        "nom": "KORNBERG", 
+        "prenom": "Patrick"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président de la Commission DBPS", 
+        "nom": "LE FICHOUS", 
+        "prenom": "Olivier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président FEDEREC BTP", 
+        "nom": "LE MEUR", 
+        "prenom": "Erwan"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président VALORDEC", 
+        "nom": "LUTHRINGER", 
+        "prenom": "Jean-Pierre"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente FEDEREC Métal", 
+        "nom": "MESCAM", 
+        "prenom": "Marie-Pierre"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président FEDEREC DEEE", 
+        "nom": "PARISI", 
+        "prenom": "Jean-Pierre"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente FEDEREC SUD-MEDITERRANEE", 
+        "nom": "ROSSI", 
+        "prenom": "Sandra"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président FEDEREC Verre", 
+        "nom": "SZOSTAK", 
+        "prenom": "Matthieu"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente FEDEREC SUD-OUEST ATLANTIQUE", 
+        "nom": "VIDALIES", 
+        "prenom": "Diane"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président FEDEREC Plastiques", 
+        "nom": "VIANT", 
+        "prenom": "Christophe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président FEDEREC Textiles", 
+        "nom": "ZERROUG", 
+        "prenom": "Mehdi"
+      }
+    ], 
+    "dateCreation": "2017-11-13T19:28:30", 
+    "datePremierePublication": "2017-11-13T16:29:06", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "FEDERATION DES ENTREPRISES DU RECYCLAGE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "CARPENTIER", 
+        "prenom": "Jean-Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "BURNAND", 
+        "prenom": "Manuel"
+      }
+    ], 
+    "emailDeContact": "accueil@federec.com", 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }
+          ]
+        }, 
+        "adresse": "FEDERATION ENTREPRISES RECYCLAGE\r\n101 RUE DE PRONY", 
+        "affiliations": [
+          {
+            "denomination": "CONFEDERATION DES PETITES ET MOYENNES ENTREPRISES", 
+            "identifiantNational": "303215016", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "ORPRO", 
+          "label": "Organisation professionnelle"
+        }, 
+        "clients": [
+          {
+            "denomination": "SYND REG INDUSTRIE COMMERCE RECUPERATION", 
+            "identifiantNational": "779917624", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDEREC EST", 
+            "identifiantNational": "783344575", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDEREC NORD PAS DE CALAIS", 
+            "identifiantNational": "783710270", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDEREC OUEST", 
+            "identifiantNational": "786018937", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYND RECUP GESTION INDUS ENVIRON RECYC", 
+            "identifiantNational": "781846084", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYND INDUST COMMERC RECUPERATI SUD-OUEST", 
+            "identifiantNational": "776949703", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75017", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "BURNAND", 
+            "prenom": "Manuel"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "CARPENTIER", 
+            "prenom": "Jean-Philippe"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable relations institutionnelles", 
+            "nom": "BADIN", 
+            "prenom": "Marie-Ange"
+          }
+        ], 
+        "dateCreation": "2017-11-13T16:29:06", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "FEDERATION DES ENTREPRISES DU RECYCLAGE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "CARPENTIER", 
+            "prenom": "Jean-Philippe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "BURNAND", 
+            "prenom": "Manuel"
+          }
+        ], 
+        "emailDeContact": "accueil@federec.com", 
+        "identifiantNational": "784358749", 
+        "lienPageFacebook": "https://fr-fr.facebook.com/federec.org/", 
+        "lienPageTwitter": "https://twitter.com/_federec_?lang=fr", 
+        "lienSiteWeb": "http://www.federec.com", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0140540194", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
+    "identifiantNational": "784358749", 
+    "lienPageFacebook": "https://fr-fr.facebook.com/federec.org/", 
+    "lienPageTwitter": "https://twitter.com/_federec_?lang=fr", 
+    "lienSiteWeb": "http://www.federec.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0140540194", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784358749.json", 
+    "ville": "PARIS"
   }, 
   {
     "activites": {
@@ -33560,6 +34191,11 @@
         "denomination": "LES ENTREPRISES DU MEDICAMENT", 
         "identifiantNational": "784668543", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LABORATOIRES INTERNATIONAUX DE RECHERCHE", 
+        "identifiantNational": "424399004", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "categorieOrganisation": {
@@ -33571,19 +34207,13 @@
     "codePostal": "92787", 
     "collaborateurs": [
       {
-        "civilite": "MME", 
-        "fonction": "Responsable support business", 
-        "nom": "LA ROCHE", 
-        "prenom": "Martine"
-      }, 
-      {
         "civilite": "M", 
         "fonction": "Directeur affaires gouvernementales", 
         "nom": "GRUMEL", 
         "prenom": "Olivier"
       }
     ], 
-    "dateCreation": "2017-11-03T14:53:33", 
+    "dateCreation": "2017-11-13T14:13:44", 
     "datePremierePublication": "2017-11-03T14:53:33", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -33596,8 +34226,87 @@
         "prenom": "Emmanuelle"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "JANSSEN CILAG\r\nJANSSEN\r\n1 RUE CAMILLE DESMOULINS\r\nTSA 91003", 
+        "affiliations": [
+          {
+            "denomination": "ASS GPE INT POUR PHARMACIE DE RECHERCHE", 
+            "identifiantNational": "401255468", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LES ENTREPRISES DU MEDICAMENT", 
+            "identifiantNational": "784668543", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "92787", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable support business", 
+            "nom": "LA ROCHE", 
+            "prenom": "Martine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur affaires gouvernementales", 
+            "nom": "GRUMEL", 
+            "prenom": "Olivier"
+          }
+        ], 
+        "dateCreation": "2017-11-03T14:53:33", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "JANSSEN CILAG", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente", 
+            "nom": "QUILÈS", 
+            "prenom": "Emmanuelle"
+          }
+        ], 
+        "identifiantNational": "562033068", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "ISSY LES MOULINEAUX CEDEX 9"
+      }
+    ], 
     "identifiantNational": "562033068", 
+    "lienPageTwitter": "", 
+    "lienSiteWeb": "http://www.janssen.com/france/", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
