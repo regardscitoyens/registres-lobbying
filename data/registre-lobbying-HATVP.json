@@ -9850,6 +9850,125 @@
       ], 
       "listSecteursActivites": [
         {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }, 
+        {
+          "code": "PROREG", 
+          "label": "Professions réglementées", 
+          "ordre": 22
+        }
+      ]
+    }, 
+    "adresse": "87 avenue Kléber", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "75116", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "PORTIER", 
+        "prenom": "Philippe"
+      }
+    ], 
+    "dateCreation": "2017-11-14T11:20:57", 
+    "datePremierePublication": "2017-11-14T11:20:57", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "ASSOCIATION DES AVOCATS LOBBYISTES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "PORTIER", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président d'honneur", 
+        "nom": "CUSINBERCHE", 
+        "prenom": "Régis"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire", 
+        "nom": "ZYLBERBOGEN", 
+        "prenom": "Chloé"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "VOGEL", 
+        "prenom": "Joseph"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Vice-Président", 
+        "nom": "SAMMAN", 
+        "prenom": "Thaima"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "membre du Conseil d'Administration", 
+        "nom": "COHEN", 
+        "prenom": "Odile"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "membre du Conseil d'Administration", 
+        "nom": "BAYON", 
+        "prenom": "Laurent"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "membre du Conseil d'Administration", 
+        "nom": "BOULIN", 
+        "prenom": "Franck"
+      }
+    ], 
+    "emailDeContact": "contact@avocats-lobbying.com", 
+    "historique": [], 
+    "identifiantNational": "W751210486", 
+    "lienPageFacebook": "https://www.facebook.com/Avocats-Lobbyistes-404852756216597/", 
+    "lienPageLinkedin": "https://www.linkedin.com/groups/4508404", 
+    "lienPageTwitter": "https://twitter.com/aalobbyistes", 
+    "lienSiteWeb": "http://www.avocats-lobbying.com/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0145058057", 
+    "typeIdentifiantNational": "RNA", 
+    "url_json": "http://www.hatvp.fr/agora/W751210486.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
           "code": "FINANCE", 
           "label": "Banques, assurances, secteur financier", 
           "ordre": 4
@@ -23302,6 +23421,11 @@
         "denomination": "SYNDICAT INDUSTRIE COMMERCE RECUPERATIOM", 
         "identifiantNational": "784358558", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNDICAT INDUSTRIE COMMERCE RECUPERATION", 
+        "identifiantNational": "782897680", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "codePostal": "75017", 
@@ -23463,7 +23587,7 @@
         "prenom": "Mehdi"
       }
     ], 
-    "dateCreation": "2017-11-13T19:28:30", 
+    "dateCreation": "2017-11-14T09:10:30", 
     "datePremierePublication": "2017-11-13T16:29:06", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -23593,6 +23717,288 @@
           }
         ], 
         "dateCreation": "2017-11-13T16:29:06", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "FEDERATION DES ENTREPRISES DU RECYCLAGE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "CARPENTIER", 
+            "prenom": "Jean-Philippe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "BURNAND", 
+            "prenom": "Manuel"
+          }
+        ], 
+        "emailDeContact": "accueil@federec.com", 
+        "identifiantNational": "784358749", 
+        "lienPageFacebook": "https://fr-fr.facebook.com/federec.org/", 
+        "lienPageTwitter": "https://twitter.com/_federec_?lang=fr", 
+        "lienSiteWeb": "http://www.federec.com", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0140540194", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }
+          ]
+        }, 
+        "adresse": "FEDERATION ENTREPRISES RECYCLAGE\r\n101 RUE DE PRONY", 
+        "affiliations": [
+          {
+            "denomination": "CONFEDERATION DES PETITES ET MOYENNES ENTREPRISES", 
+            "identifiantNational": "303215016", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "ORPRO", 
+          "label": "Organisation professionnelle"
+        }, 
+        "clients": [
+          {
+            "denomination": "SYND REG INDUSTRIE COMMERCE RECUPERATION", 
+            "identifiantNational": "779917624", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDEREC EST", 
+            "identifiantNational": "783344575", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDEREC NORD PAS DE CALAIS", 
+            "identifiantNational": "783710270", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDEREC OUEST", 
+            "identifiantNational": "786018937", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYND RECUP GESTION INDUS ENVIRON RECYC", 
+            "identifiantNational": "781846084", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYND INDUST COMMERC RECUPERATI SUD-OUEST", 
+            "identifiantNational": "776949703", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNDICAT INDUSTRIE COMMERCE RECUPERATIOM", 
+            "identifiantNational": "784358558", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75017", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "BURNAND", 
+            "prenom": "Manuel"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "CARPENTIER", 
+            "prenom": "Jean-Philippe"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable relations institutionnelles", 
+            "nom": "BADIN", 
+            "prenom": "Marie-Ange"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président FEDEREC Palettes et Bois", 
+            "nom": "LEON", 
+            "prenom": "Pascal"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président FEDEREC Région parisienne et Trésorier FEDEREC", 
+            "nom": "AZOUBEL", 
+            "prenom": "Albert"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président FEDEREC OUEST", 
+            "nom": "BARBAZANGES", 
+            "prenom": "Pierre-Yves"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président FEDEREC Plumes et Duvets", 
+            "nom": "CAPELLOT", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président FEDEREC SUD-OUEST", 
+            "nom": "CHAZELLE", 
+            "prenom": "Etienne"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président FEDEREC CENTRE SUD-EST", 
+            "nom": "COLON", 
+            "prenom": "Florent"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président FEDEREC EST", 
+            "nom": "DE CHIREE", 
+            "prenom": "Thierry"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président FEDEREC Syres Solvants", 
+            "nom": "DESPORT", 
+            "prenom": "Fabien"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président FEDEREC NORD PICARDIE", 
+            "nom": "DOOLAEGHE", 
+            "prenom": "Bertrand"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président de la Commission internationale", 
+            "nom": "FRANCOIS", 
+            "prenom": "Olivier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président FEDEREC Papiers-Cartons", 
+            "nom": "GENNEVIEVE", 
+            "prenom": "Pascal"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président de la Commission Broyeurs", 
+            "nom": "GROSVALLET", 
+            "prenom": "Alban"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président FEDEREC Métaux non ferreux", 
+            "nom": "KORNBERG", 
+            "prenom": "Patrick"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président de la Commission DBPS", 
+            "nom": "LE FICHOUS", 
+            "prenom": "Olivier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président FEDEREC BTP", 
+            "nom": "LE MEUR", 
+            "prenom": "Erwan"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président VALORDEC", 
+            "nom": "LUTHRINGER", 
+            "prenom": "Jean-Pierre"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente FEDEREC Métal", 
+            "nom": "MESCAM", 
+            "prenom": "Marie-Pierre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président FEDEREC DEEE", 
+            "nom": "PARISI", 
+            "prenom": "Jean-Pierre"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente FEDEREC SUD-MEDITERRANEE", 
+            "nom": "ROSSI", 
+            "prenom": "Sandra"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président FEDEREC Verre", 
+            "nom": "SZOSTAK", 
+            "prenom": "Matthieu"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente FEDEREC SUD-OUEST ATLANTIQUE", 
+            "nom": "VIDALIES", 
+            "prenom": "Diane"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président FEDEREC Plastiques", 
+            "nom": "VIANT", 
+            "prenom": "Christophe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président FEDEREC Textiles", 
+            "nom": "ZERROUG", 
+            "prenom": "Mehdi"
+          }
+        ], 
+        "dateCreation": "2017-11-13T19:28:30", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": true, 
         "denomination": "FEDERATION DES ENTREPRISES DU RECYCLAGE", 
@@ -39181,6 +39587,107 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/388118549.json", 
     "ville": "MONTREUIL CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "METRO CASH & CARRY FRANCE\r\nMETRO ON LINE MAKRO ON LINE METRO\r\nZONE ARTISANALE DU PETIT NANTERRE\r\n5 RUE DES GRANDS PRES", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION DU COMMERCE ET DE LA DISTRIBUTION", 
+        "identifiantNational": "809768047", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONFEDERATION DES PETITES ET MOYENNES ENTREPRISES", 
+        "identifiantNational": "303215016", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92024", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire Général", 
+        "nom": "EYCHENIE", 
+        "prenom": "Patrick"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable des Relations Institutionnelles", 
+        "nom": "ARTUS", 
+        "prenom": "Julie"
+      }
+    ], 
+    "dateCreation": "2017-11-14T12:22:04", 
+    "datePremierePublication": "2017-11-14T12:22:04", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "METRO CASH & CARRY FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "FEYTIT", 
+        "prenom": "Benoît"
+      }
+    ], 
+    "emailDeContact": "", 
+    "historique": [], 
+    "identifiantNational": "399315613", 
+    "lienSiteWeb": "https://www.metro.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/399315613.json", 
+    "ville": "NANTERRE CEDEX"
   }, 
   {
     "activites": {
