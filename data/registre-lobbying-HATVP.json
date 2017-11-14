@@ -29140,15 +29140,9 @@
         "fonction": "Chargée affaires publiques", 
         "nom": "DE LEONARDIS", 
         "prenom": "Chiara"
-      }, 
-      {
-        "civilite": "MME", 
-        "fonction": "Directrice de la communication", 
-        "nom": "ASSO", 
-        "prenom": "Caroline"
       }
     ], 
-    "dateCreation": "2017-11-10T16:17:48", 
+    "dateCreation": "2017-11-14T15:50:28", 
     "datePremierePublication": "2017-11-09T16:25:10", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -29307,6 +29301,176 @@
           }
         ], 
         "dateCreation": "2017-11-09T16:25:10", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "FEDERATION PROFESSIONNELLE DES ENTREPRISES DE L EAU", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "CAMUS", 
+            "prenom": "Bertrand"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Délégué général", 
+            "nom": "MATHIEU", 
+            "prenom": "Tristan"
+          }
+        ], 
+        "emailDeContact": "fp2e@fp2e.org", 
+        "identifiantNational": "784717068", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0153701358", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ETRANGER", 
+              "label": "Affaires étrangères, coopération internationale", 
+              "ordre": 1
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "FEDERATION PROF ENTREPRISES L EAU\r\n19 AVENUE DE MESSINE", 
+        "affiliations": [
+          {
+            "denomination": "ACADEMIE DE L'EAU", 
+            "identifiantNational": "415282037", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS SCIENTIFIQUE TECH EAU ENVIRON", 
+            "identifiantNational": "784717050", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CERCLE FRANCAIS DE L EAU", 
+            "identifiantNational": "383309044", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPEMENT PERSONNELS SERVICES GPS", 
+            "identifiantNational": "378629927", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+            "identifiantNational": "784668618", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OFFICE INTERNATIONAL DE L'EAU", 
+            "identifiantNational": "314901729", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION NATIO SERVI PUBLI INDUS & COMME", 
+            "identifiantNational": "451534234", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "ORPRO", 
+          "label": "Organisation professionnelle"
+        }, 
+        "clients": [
+          {
+            "denomination": "SUEZ EAU FRANCE", 
+            "identifiantNational": "410034607", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOGEDO", 
+            "identifiantNational": "332111129", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SAUR", 
+            "identifiantNational": "339379984", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VEOLIA EAU - COMPAGNIE GENERALE DES EAUX", 
+            "identifiantNational": "572025526", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AQUALTER EXPLOITATION", 
+            "identifiantNational": "421277534", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DERICHEBOURG AQUA", 
+            "identifiantNational": "749867669", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOCIETE DES EAUX DE FIN D'OISE", 
+            "identifiantNational": "444062723", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75008", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "nom": "MATHIEU", 
+            "prenom": "Tristan"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chargée affaires publiques", 
+            "nom": "DE LEONARDIS", 
+            "prenom": "Chiara"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice de la communication", 
+            "nom": "ASSO", 
+            "prenom": "Caroline"
+          }
+        ], 
+        "dateCreation": "2017-11-10T16:17:48", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": true, 
         "denomination": "FEDERATION PROFESSIONNELLE DES ENTREPRISES DE L EAU", 
@@ -61867,6 +62031,224 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/784668527.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "UNION INDUS PROTECT PLANT UIPP\n2 RUE DENFERT ROCHEREAU\n", 
+    "affiliations": [
+      {
+        "denomination": "UNION INDUSTRIES CHIMIQUES", 
+        "identifiantNational": "784358855", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "SYNDI", 
+      "label": "Syndicat"
+    }, 
+    "clients": [
+      {
+        "denomination": "ADAMA FRANCE", 
+        "identifiantNational": "349428532", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ARYSTA LIFESCIENCE FRANCE", 
+        "identifiantNational": "302203914", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BAYER SAS", 
+        "identifiantNational": "562038893", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BASF FRANCE SAS", 
+        "identifiantNational": "542069158", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DOW AGROSCIENCES DISTRIBUTION", 
+        "identifiantNational": "433934072", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DUPONT SOLUTIONS (FRANCE) SAS", 
+        "identifiantNational": "492951306", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MONSANTO SAS", 
+        "identifiantNational": "420019812", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BELCHIM CROP PROTECTION", 
+        "identifiantNational": "432267805", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UPL FRANCE", 
+        "identifiantNational": "752099010", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CERTIS EUROPE BV", 
+        "identifiantNational": "440341360", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHEMINOVA AGRO FRANCE", 
+        "identifiantNational": "352320279", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DE SANGOSSE", 
+        "identifiantNational": "300163896", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GOWAN FRANCE SAS", 
+        "identifiantNational": "520833054", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NUFARM", 
+        "identifiantNational": "552029068", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PHILAGRO FRANCE", 
+        "identifiantNational": "389150582", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PHYTEUROP", 
+        "identifiantNational": "666580352", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAPEC AGRO FRANCE", 
+        "identifiantNational": "808539936", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SBM DEVELOPPEMENT", 
+        "identifiantNational": "399189224", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SUMI AGRO FRANCE", 
+        "identifiantNational": "408602639", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ACTION PIN", 
+        "identifiantNational": "399412683", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TRADI AGRI SA", 
+        "identifiantNational": "313821365", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNGENTA FRANCE SAS", 
+        "identifiantNational": "443716832", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "92660", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des affaires réglementaires & juridiques", 
+        "nom": "MICHEL", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Générale", 
+        "nom": "POMMARET", 
+        "prenom": "Eugénia"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice de la communication et des affaires publiques", 
+        "nom": "GUEY", 
+        "prenom": "Delphine"
+      }
+    ], 
+    "dateCreation": "2017-11-14T15:56:08", 
+    "datePremierePublication": "2017-11-14T15:56:08", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "UNION INDUS PROTECT PLANT UIPP", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "KERFANT", 
+        "prenom": "Nicolas"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Générale", 
+        "nom": "POMMARET", 
+        "prenom": "Eugénia"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "785308420", 
+    "lienSiteWeb": "http://www.uipp.org", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/785308420.json", 
+    "ville": "BOULOGNE CEDEX"
   }, 
   {
     "activites": {
