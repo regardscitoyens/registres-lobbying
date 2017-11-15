@@ -1213,6 +1213,16 @@
         "denomination": "FEDERATION DES PRESTATAIRES DE SANTE A DOMICILE", 
         "identifiantNational": "798748349", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYND NATION INDUST TECHNOL MEDICALES", 
+        "identifiantNational": "307330845", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNTEC NUMERIQUE", 
+        "identifiantNational": "384719001", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "categorieOrganisation": {
@@ -1266,7 +1276,7 @@
         "prenom": "Charles-Henri"
       }
     ], 
-    "dateCreation": "2017-11-13T16:47:15", 
+    "dateCreation": "2017-11-15T09:16:57", 
     "datePremierePublication": "2017-11-13T16:47:15", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -1279,7 +1289,124 @@
         "prenom": "Diana"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "AIR LIQUIDE SANTE INTERNATIONAL\r\n75 QUAI D ORSAY", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION DES PRESTATAIRES DE SANTE A DOMICILE", 
+            "identifiantNational": "798748349", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [
+          {
+            "denomination": "CDM E-HEALTH", 
+            "identifiantNational": "538835489", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75007", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Affaires Européennes et Internationales", 
+            "nom": "SUEUR", 
+            "prenom": "Thierry"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente Directrice Générale", 
+            "nom": "SCHILLAG", 
+            "prenom": "Diana"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable Affaires Publiques", 
+            "nom": "MIRDJANIAN", 
+            "prenom": "Emilie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Chronic Care Management Program Director", 
+            "nom": "WOYNAR", 
+            "prenom": "Sébastien"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur de la Communication et des Affaires Publiques", 
+            "nom": "DOUCET", 
+            "prenom": "Muriel"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur France", 
+            "nom": "DES VILLETTES", 
+            "prenom": "Charles-Henri"
+          }
+        ], 
+        "dateCreation": "2017-11-13T16:47:15", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "AIR LIQUIDE SANTE INTERNATIONAL", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente Directrice Générale", 
+            "nom": "SCHILLAG", 
+            "prenom": "Diana"
+          }
+        ], 
+        "identifiantNational": "552134728", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "552134728", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": true, 
