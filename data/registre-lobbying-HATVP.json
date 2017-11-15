@@ -1240,6 +1240,12 @@
     "codePostal": "75007", 
     "collaborateurs": [
       {
+        "civilite": "MME", 
+        "fonction": "Présidente Directrice Générale", 
+        "nom": "SCHILLAG", 
+        "prenom": "Diana"
+      }, 
+      {
         "civilite": "M", 
         "fonction": "Directeur des Affaires Européennes et Internationales", 
         "nom": "SUEUR", 
@@ -1247,9 +1253,9 @@
       }, 
       {
         "civilite": "MME", 
-        "fonction": "Présidente Directrice Générale", 
-        "nom": "SCHILLAG", 
-        "prenom": "Diana"
+        "fonction": "Directeur de la Communication et des Affaires Publiques", 
+        "nom": "DOUCET", 
+        "prenom": "Muriel"
       }, 
       {
         "civilite": "MME", 
@@ -1264,19 +1270,13 @@
         "prenom": "Sébastien"
       }, 
       {
-        "civilite": "MME", 
-        "fonction": "Directeur de la Communication et des Affaires Publiques", 
-        "nom": "DOUCET", 
-        "prenom": "Muriel"
-      }, 
-      {
         "civilite": "M", 
         "fonction": "Directeur France", 
         "nom": "DES VILLETTES", 
         "prenom": "Charles-Henri"
       }
     ], 
-    "dateCreation": "2017-11-15T09:16:57", 
+    "dateCreation": "2017-11-15T15:13:32", 
     "datePremierePublication": "2017-11-13T16:47:15", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -1387,6 +1387,132 @@
           }
         ], 
         "dateCreation": "2017-11-13T16:47:15", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "AIR LIQUIDE SANTE INTERNATIONAL", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente Directrice Générale", 
+            "nom": "SCHILLAG", 
+            "prenom": "Diana"
+          }
+        ], 
+        "identifiantNational": "552134728", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "AIR LIQUIDE SANTE INTERNATIONAL\r\n75 QUAI D ORSAY", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION DES PRESTATAIRES DE SANTE A DOMICILE", 
+            "identifiantNational": "798748349", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYND NATION INDUST TECHNOL MEDICALES", 
+            "identifiantNational": "307330845", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNTEC NUMERIQUE", 
+            "identifiantNational": "384719001", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [
+          {
+            "denomination": "CDM E-HEALTH", 
+            "identifiantNational": "538835489", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75007", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Affaires Européennes et Internationales", 
+            "nom": "SUEUR", 
+            "prenom": "Thierry"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente Directrice Générale", 
+            "nom": "SCHILLAG", 
+            "prenom": "Diana"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable Affaires Publiques", 
+            "nom": "MIRDJANIAN", 
+            "prenom": "Emilie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Chronic Care Management Program Director", 
+            "nom": "WOYNAR", 
+            "prenom": "Sébastien"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur de la Communication et des Affaires Publiques", 
+            "nom": "DOUCET", 
+            "prenom": "Muriel"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur France", 
+            "nom": "DES VILLETTES", 
+            "prenom": "Charles-Henri"
+          }
+        ], 
+        "dateCreation": "2017-11-15T09:16:57", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": true, 
         "denomination": "AIR LIQUIDE SANTE INTERNATIONAL", 
@@ -24331,6 +24457,84 @@
       ], 
       "listSecteursActivites": [
         {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "FEDERAT PRESTATAIRES SANTE A DOMICILE\r\nTOUR DE L HORLOGE\r\n4 PLACE LOUIS ARMAND", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75603", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Déléguée Générale", 
+        "nom": "DUVAUCHELLE", 
+        "prenom": "Alexandra"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé de mission", 
+        "nom": "SLAMA", 
+        "prenom": "Julien"
+      }
+    ], 
+    "dateCreation": "2017-11-15T16:52:54", 
+    "datePremierePublication": "2017-11-15T16:52:54", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "FEDERATION DES PRESTATAIRES DE SANTE A DOMICILE", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Vice-Président", 
+        "nom": "MARCHAND", 
+        "prenom": "Carmela"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Déléguée Générale", 
+        "nom": "DUVAUCHELLE", 
+        "prenom": "Alexandra"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "DES VILLETTES", 
+        "prenom": "Charles Henri"
+      }
+    ], 
+    "emailDeContact": "contact@fedepsad.fr", 
+    "historique": [], 
+    "identifiantNational": "798748349", 
+    "lienSiteWeb": "http://www.fedepsad.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0172762578", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/798748349.json", 
+    "ville": "PARIS cedex 12"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
           "code": "AMENAGEMENT", 
           "label": "Logement, aménagement du territoire, urbanisme", 
           "ordre": 17
@@ -35494,6 +35698,165 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/824971154.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "PROPINT", 
+          "label": "Propriété intellectuelle", 
+          "ordre": 23
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "AIR LIQUIDE SA ETU EXPLOIT PROCEDES GC\r\nPARIS 7\r\n75 QUAI D ORSAY", 
+    "affiliations": [
+      {
+        "denomination": "ASSO FRANCAI ENTREPRIS PRIVEES", 
+        "identifiantNational": "326943016", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS RELATIONS AVEC POUVOIRS PUBLICS", 
+        "identifiantNational": "480217165", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION NAT SOCIETES PAR ACTIONS", 
+        "identifiantNational": "784718561", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHAMBRE DE COMMERCE INTERNATIONALE", 
+        "identifiantNational": "784357337", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LE CERCLE DE L'INDUSTRIE", 
+        "identifiantNational": "394192389", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT DE L ENTREPRISE", 
+        "identifiantNational": "302655154", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75321", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président Directeur Général", 
+        "nom": "POTIER", 
+        "prenom": "Benoît"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Affaires Européennes et Internationales", 
+        "nom": "SUEUR", 
+        "prenom": "Thierry"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur, Initiative Hydrogène", 
+        "nom": "FRANC", 
+        "prenom": "Pierre-Etienne"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Stratégie Réglementation et Affaires externes", 
+        "nom": "QUINT", 
+        "prenom": "Aliette"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable Affaires Européennes et Internationales", 
+        "nom": "NIEL", 
+        "prenom": "Paul-Edouard"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-President, European Industry Affairs", 
+        "nom": "IMBAULT", 
+        "prenom": "Olivier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Adjoint des Affaires Européennes et Internationales", 
+        "nom": "MAGES", 
+        "prenom": "Vincent"
+      }
+    ], 
+    "dateCreation": "2017-11-15T15:12:17", 
+    "datePremierePublication": "2017-11-15T15:12:17", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "L'AIR LIQUIDE SOCIETE ANONYME POUR L'ETUDE ET L'EXPLOITATION DES PROCEDES GEORGES CLAUDE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président Directeur Général", 
+        "nom": "POTIER", 
+        "prenom": "Benoît"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "552096281", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/552096281.json", 
+    "ville": "PARIS CEDEX 07"
   }, 
   {
     "activites": {
