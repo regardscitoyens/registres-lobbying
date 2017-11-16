@@ -4413,6 +4413,112 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }, 
+        {
+          "code": "PROPINT", 
+          "label": "Propriété intellectuelle", 
+          "ordre": 23
+        }
+      ]
+    }, 
+    "adresse": "April\n44-46 RUE DE L'OUEST\nBâtiment 8", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "75014", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "BECQUET", 
+        "prenom": "Jean-Christophe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué général", 
+        "nom": "COUCHET", 
+        "prenom": "Frédéric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé de mission affaires publiques", 
+        "nom": "GONNU", 
+        "prenom": "Étienne"
+      }
+    ], 
+    "dateCreation": "2017-11-16T09:34:00", 
+    "datePremierePublication": "2017-11-16T09:34:00", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "ASS PROMO RECHERCHE INFORMATIQUE LIBRE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "BECQUET", 
+        "prenom": "Jean-Christophe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué général", 
+        "nom": "COUCHET", 
+        "prenom": "Frédéric"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "440832301", 
+    "lienPageTwitter": "https://twitter.com/aprilorg", 
+    "lienSiteWeb": "http://www.april.org", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/440832301.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -19876,129 +19982,22 @@
     "codePostal": "92930", 
     "collaborateurs": [
       {
-        "civilite": "M", 
-        "nom": "HUBERT", 
-        "prenom": "Xavier"
-      }, 
-      {
-        "civilite": "MME", 
-        "fonction": "Chief Executive Officer France Renewable Energy, ENGIE SA", 
-        "nom": "HUET", 
-        "prenom": "Gwénaëlle"
-      }, 
-      {
-        "civilite": "MME", 
-        "fonction": "directeur affaires publiques et régulatoires", 
-        "nom": "HEMION", 
-        "prenom": "Soizic"
-      }, 
-      {
         "civilite": "MME", 
         "fonction": "Directeur Institutions France et Territoires", 
         "nom": "ALAIN", 
         "prenom": "Valérie"
       }, 
       {
-        "civilite": "MME", 
-        "fonction": "Déléguée aux relations avec le parlement", 
-        "nom": "FAUVEL BANTOS", 
-        "prenom": "Mercedes"
+        "civilite": "M", 
+        "fonction": "Résponsable Département Environnement et climat Engie S.A", 
+        "nom": "CASTERMAN", 
+        "prenom": "Hervé"
       }, 
       {
         "civilite": "M", 
-        "fonction": "Délégué aux affaires réglementaires", 
-        "nom": "GIRON", 
-        "prenom": "Etienne"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "CCEO de l'entité Entreprises & Collectivités", 
-        "nom": "TEROUANNE", 
-        "prenom": "Damien"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Directeur adjoint direction des clients publics", 
-        "nom": "COCHEPAIN", 
-        "prenom": "Stéphane"
-      }, 
-      {
-        "civilite": "MME", 
-        "fonction": "Directeur régulation pour Entreprises et collectivités", 
-        "nom": "BERTHELOT", 
-        "prenom": "Corinne"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Executive vice president", 
+        "fonction": "DGA en charge des BU globales et Latam", 
         "nom": "CHAREYRE", 
         "prenom": "Pierre"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Cadre sup", 
-        "nom": "PARISOT", 
-        "prenom": "Ludovic"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Executive Vice-President Research, Technology & Innovation", 
-        "nom": "LEPERCQ", 
-        "prenom": "Thierry"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Cadre sup", 
-        "nom": "CHENU", 
-        "prenom": "Pierre-François"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Cadre sup", 
-        "nom": "HENNIG", 
-        "prenom": "Patrice"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Director Decentralized Solutions for Cities and Territories B2T", 
-        "nom": "BIANCARELLI", 
-        "prenom": "Olivier"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Secrétaire Général", 
-        "nom": "MONGIN", 
-        "prenom": "Pierre"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Directeur Général Adjoint, en charge des BU Elengy, GRDF, GRTGAZ...", 
-        "nom": "HOLLEAUX", 
-        "prenom": "Didier"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "DGA en charge des Ressources Humaines", 
-        "nom": "DEHEUNYNCK", 
-        "prenom": "Pierre"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "DGA, En charge de la BU france BtoB", 
-        "nom": "BRUEL", 
-        "prenom": "Franck"
-      }, 
-      {
-        "civilite": "MME", 
-        "fonction": "Directeur Taxe groupe", 
-        "nom": "JATON", 
-        "prenom": "Laurence"
-      }, 
-      {
-        "civilite": "MME", 
-        "fonction": "Directeur Régulation", 
-        "nom": "SEJOURNE", 
-        "prenom": "Jean-Baptiste"
       }, 
       {
         "civilite": "MME", 
@@ -20008,28 +20007,72 @@
       }, 
       {
         "civilite": "M", 
-        "fonction": "Responsable Département Environnementet climat", 
-        "nom": "CASTERMAN", 
-        "prenom": "Hervé"
+        "fonction": "Directeur des relations externes", 
+        "nom": "CHENU", 
+        "prenom": "Pierre-François"
       }, 
       {
         "civilite": "M", 
-        "nom": "OLIVIERI", 
-        "prenom": "Francois-Xavier"
+        "fonction": "DGA en charge des ressources Humaines Groupe", 
+        "nom": "DEHEUNYNCK", 
+        "prenom": "Pierre"
       }, 
       {
         "civilite": "MME", 
-        "fonction": "Juriste", 
-        "nom": "MOKRI", 
-        "prenom": "Samia"
+        "fonction": "Déléguée aux relations avec le parlement", 
+        "nom": "FAUVEL-BANTOS", 
+        "prenom": "Mercedes"
       }, 
       {
         "civilite": "M", 
-        "nom": "PESTEL", 
-        "prenom": "Matthieu"
+        "fonction": "Délégué aux affaires Réglementaires", 
+        "nom": "GIRON", 
+        "prenom": "Etienne"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Secrétariat exécutif", 
+        "nom": "GUENOD", 
+        "prenom": "Christian"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur affaires publiques et régulatoires", 
+        "nom": "HEMION", 
+        "prenom": "Soizic"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "DGA en charge des BU Elengy, GRDF, GRTgaz, Storengy...", 
+        "nom": "HOLLEAUX", 
+        "prenom": "Didier"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur Général de la BU France Renouvelables", 
+        "nom": "HUET", 
+        "prenom": "Gwénaëlle"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur Taxe Groupe", 
+        "nom": "JATON", 
+        "prenom": "Laurence"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "DGA Secrétaire Général", 
+        "nom": "MONGIN", 
+        "prenom": "Pierre"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Régulation", 
+        "nom": "SEJOURNE", 
+        "prenom": "Jean-Baptiste"
       }
     ], 
-    "dateCreation": "2017-10-10T17:41:35", 
+    "dateCreation": "2017-11-16T11:43:23", 
     "datePremierePublication": "2017-10-02T16:21:44", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -20336,6 +20379,285 @@
           }
         ], 
         "dateCreation": "2017-10-02T16:21:44", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "ENGIE", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur Général", 
+            "nom": "KOCHER", 
+            "prenom": "Isabelle"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président du Conseil d'Administration", 
+            "nom": "MESTRALLET", 
+            "prenom": "Gérard"
+          }
+        ], 
+        "identifiantNational": "542107651", 
+        "lienSiteWeb": "", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS LA DEFENSE CEDEX"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "ENGIE\n1 PLACE SAMUEL DE CHAMPLAIN\nCS 50045 COURBEVOIE", 
+        "affiliations": [
+          {
+            "denomination": "ASSOCIATION FRANCAISE DU GAZ", 
+            "identifiantNational": "784854820", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS UNION FRANCAISE DE L'ELECTRICITE", 
+            "identifiantNational": "432492007", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSO FRANCAI ENTREPRIS PRIVEES", 
+            "identifiantNational": "326943016", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNDICAT DES ENERGIES RENOUVELABLES", 
+            "identifiantNational": "419710280", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION DES SERVICES ENERGIE ENVIRONNEMENT", 
+            "identifiantNational": "384882577", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FRANCE NATURE ENVIRONNEMENT IDF", 
+            "identifiantNational": "324644673", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LE CLUSTER MARITIME FRANCAIS", 
+            "identifiantNational": "489847624", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OFFICE FRANCO-ALLEMAND POUR LA TRANSITION ENERGETIQUE", 
+            "identifiantNational": "793105388", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "92930", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "nom": "HUBERT", 
+            "prenom": "Xavier"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chief Executive Officer France Renewable Energy, ENGIE SA", 
+            "nom": "HUET", 
+            "prenom": "Gwénaëlle"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "directeur affaires publiques et régulatoires", 
+            "nom": "HEMION", 
+            "prenom": "Soizic"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur Institutions France et Territoires", 
+            "nom": "ALAIN", 
+            "prenom": "Valérie"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Déléguée aux relations avec le parlement", 
+            "nom": "FAUVEL BANTOS", 
+            "prenom": "Mercedes"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Délégué aux affaires réglementaires", 
+            "nom": "GIRON", 
+            "prenom": "Etienne"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "CCEO de l'entité Entreprises & Collectivités", 
+            "nom": "TEROUANNE", 
+            "prenom": "Damien"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur adjoint direction des clients publics", 
+            "nom": "COCHEPAIN", 
+            "prenom": "Stéphane"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur régulation pour Entreprises et collectivités", 
+            "nom": "BERTHELOT", 
+            "prenom": "Corinne"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Executive vice president", 
+            "nom": "CHAREYRE", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Cadre sup", 
+            "nom": "PARISOT", 
+            "prenom": "Ludovic"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Executive Vice-President Research, Technology & Innovation", 
+            "nom": "LEPERCQ", 
+            "prenom": "Thierry"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Cadre sup", 
+            "nom": "CHENU", 
+            "prenom": "Pierre-François"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Cadre sup", 
+            "nom": "HENNIG", 
+            "prenom": "Patrice"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Director Decentralized Solutions for Cities and Territories B2T", 
+            "nom": "BIANCARELLI", 
+            "prenom": "Olivier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire Général", 
+            "nom": "MONGIN", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général Adjoint, en charge des BU Elengy, GRDF, GRTGAZ...", 
+            "nom": "HOLLEAUX", 
+            "prenom": "Didier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "DGA en charge des Ressources Humaines", 
+            "nom": "DEHEUNYNCK", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "DGA, En charge de la BU france BtoB", 
+            "nom": "BRUEL", 
+            "prenom": "Franck"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur Taxe groupe", 
+            "nom": "JATON", 
+            "prenom": "Laurence"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur Régulation", 
+            "nom": "SEJOURNE", 
+            "prenom": "Jean-Baptiste"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur Responsabilité Environnementale et Sociétale", 
+            "nom": "CHASSAGNETTE", 
+            "prenom": "Anne"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Responsable Département Environnementet climat", 
+            "nom": "CASTERMAN", 
+            "prenom": "Hervé"
+          }, 
+          {
+            "civilite": "M", 
+            "nom": "OLIVIERI", 
+            "prenom": "Francois-Xavier"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Juriste", 
+            "nom": "MOKRI", 
+            "prenom": "Samia"
+          }, 
+          {
+            "civilite": "M", 
+            "nom": "PESTEL", 
+            "prenom": "Matthieu"
+          }
+        ], 
+        "dateCreation": "2017-10-10T17:41:35", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": false, 
         "denomination": "ENGIE", 
