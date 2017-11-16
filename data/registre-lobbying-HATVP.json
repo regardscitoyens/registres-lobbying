@@ -30465,6 +30465,102 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "CULTURE", 
+          "label": "Arts, patrimoine culturel", 
+          "ordre": 3
+        }, 
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "JUSTICE", 
+          "label": "Justice", 
+          "ordre": 16
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "SOCIETE", 
+          "label": "Questions de société", 
+          "ordre": 26
+        }
+      ]
+    }, 
+    "adresse": "GENEALOGISTES DE FRANCE\r\n4 AVENUE DU COQ", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "DJIKPA", 
+        "prenom": "Antoine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire général", 
+        "nom": "DOLIDON", 
+        "prenom": "Hervé"
+      }
+    ], 
+    "dateCreation": "2017-11-16T16:02:11", 
+    "datePremierePublication": "2017-11-16T16:02:11", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "GENEALOGISTES DE FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "DJIKPA", 
+        "prenom": "Antoine"
+      }
+    ], 
+    "emailDeContact": "contact@genealogistes-france.org", 
+    "historique": [], 
+    "identifiantNational": "810524215", 
+    "lienPageTwitter": "https://twitter.com/GenealogistesFR", 
+    "lienSiteWeb": "http://genealogistes-france.org/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/810524215.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -47616,9 +47712,15 @@
       }, 
       {
         "civilite": "M", 
-        "fonction": "Directeur délégué en charge des Affaires publiques, de la Communication et du Secrétariat général", 
+        "fonction": "Directeur général adjoint Communication et affaires institutionnelles", 
         "nom": "VIDILLES", 
         "prenom": "Victor"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur affaires publiques et expertise territoriale", 
+        "nom": "JOUSSEN", 
+        "prenom": "Jean-Marc"
       }, 
       {
         "civilite": "M", 
@@ -47627,7 +47729,7 @@
         "prenom": "Youri"
       }
     ], 
-    "dateCreation": "2017-11-06T09:10:55", 
+    "dateCreation": "2017-11-16T16:56:45", 
     "datePremierePublication": "2017-11-06T08:55:52", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -47726,6 +47828,228 @@
           }
         ], 
         "dateCreation": "2017-11-06T08:55:52", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "MUTUELLE NATIONALE TERRITORIALE MNT", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président général", 
+            "nom": "GIANAZZA", 
+            "prenom": "Alain"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "SADDIER", 
+            "prenom": "Jérôme"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général délégué", 
+            "nom": "ADOUARD", 
+            "prenom": "Laurent"
+          }
+        ], 
+        "identifiantNational": "775678584", 
+        "lienPageFacebook": "https://www.facebook.com/mutuelleMNT/", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/93048/", 
+        "lienPageTwitter": "https://twitter.com/mutuellemnt?lang=en", 
+        "lienSiteWeb": "http://www.mnt.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }, 
+            {
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "MUTUELLE NATIONALE TERRITORIALE MNT\r\n4 RUE D ATHENES", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION NATIONALE MUTUALITE FRANCAISE", 
+            "identifiantNational": "304426240", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MUTUALITE FONCTION PUBLIQUE LIVRE I", 
+            "identifiantNational": "528623549", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations"
+        }, 
+        "clients": [], 
+        "codePostal": "75009", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "SADDIER", 
+            "prenom": "Jérôme"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur délégué en charge des Affaires publiques, de la Communication et du Secrétariat général", 
+            "nom": "VIDILLES", 
+            "prenom": "Victor"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "chargé de mission affaires publiques", 
+            "nom": "TABET", 
+            "prenom": "Youri"
+          }
+        ], 
+        "dateCreation": "2017-11-06T09:10:55", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "MUTUELLE NATIONALE TERRITORIALE MNT", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président général", 
+            "nom": "GIANAZZA", 
+            "prenom": "Alain"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "SADDIER", 
+            "prenom": "Jérôme"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général délégué", 
+            "nom": "ADOUARD", 
+            "prenom": "Laurent"
+          }
+        ], 
+        "identifiantNational": "775678584", 
+        "lienPageFacebook": "https://www.facebook.com/mutuelleMNT/", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/93048/", 
+        "lienPageTwitter": "https://twitter.com/mutuellemnt?lang=en", 
+        "lienSiteWeb": "http://www.mnt.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }, 
+            {
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "MUTUELLE NATIONALE TERRITORIALE MNT\r\n4 RUE D ATHENES", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION NATIONALE MUTUALITE FRANCAISE", 
+            "identifiantNational": "304426240", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MUTUALITE FONCTION PUBLIQUE LIVRE I", 
+            "identifiantNational": "528623549", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations"
+        }, 
+        "clients": [], 
+        "codePostal": "75009", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "SADDIER", 
+            "prenom": "Jérôme"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général adjoint Communication et affaires institutionnelles", 
+            "nom": "VIDILLES", 
+            "prenom": "Victor"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur affaires publiques et expertise territoriale", 
+            "nom": "JOUSSEN", 
+            "prenom": "Jean-Marc"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "chargé de mission affaires publiques", 
+            "nom": "TABET", 
+            "prenom": "Youri"
+          }
+        ], 
+        "dateCreation": "2017-11-06T09:15:43", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": false, 
         "denomination": "MUTUELLE NATIONALE TERRITORIALE MNT", 
@@ -48766,6 +49090,98 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/493861363.json", 
     "ville": "PARIS 10"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "JUSTICE", 
+          "label": "Justice", 
+          "ordre": 16
+        }, 
+        {
+          "code": "PROREG", 
+          "label": "Professions réglementées", 
+          "ordre": 22
+        }, 
+        {
+          "code": "SOCIETE", 
+          "label": "Questions de société", 
+          "ordre": 26
+        }
+      ]
+    }, 
+    "adresse": "ORDRE DES AVOCATS A LA COUR DE PARIS\r\nPALAIS DE JUSTICE\r\n4 BOULEVARD DU PALAIS", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75001", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Responsable des affaires publiques", 
+        "nom": "BACCIALONE", 
+        "prenom": "Matthieu"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur de la communication", 
+        "nom": "PAPIN", 
+        "prenom": "Guillaume"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général des services", 
+        "nom": "ROESCH", 
+        "prenom": "Guillaume"
+      }
+    ], 
+    "dateCreation": "2017-11-16T16:31:49", 
+    "datePremierePublication": "2017-11-16T16:31:49", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "ORDRE DES AVOCATS A LA COUR DE PARIS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Bâtonnier", 
+        "nom": "SICARD", 
+        "prenom": "Frédéric"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "302979075", 
+    "lienPageFacebook": "https://www.facebook.com/Barreau2Paris/", 
+    "lienPageTwitter": "https://twitter.com/Avocats_Paris", 
+    "lienSiteWeb": "http://avocatparis.org/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/302979075.json", 
+    "ville": "PARIS"
   }, 
   {
     "activites": {
@@ -56531,6 +56947,4551 @@
     "telephoneDeContact": "01 44 30 49 60", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/384718839.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "COM", 
+          "label": "Communications électroniques", 
+          "ordre": 28
+        }
+      ]
+    }, 
+    "adresse": "TECH'IN FRANCE\n13 RUE LA FAYETTE", 
+    "affiliations": [
+      {
+        "denomination": "FED IDUST ELECTR ELECTRONIQUES  COMMUNIC", 
+        "identifiantNational": "775688443", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "ADEQUASYS FRANCE", 
+        "identifiantNational": "403107683", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ADMINCONTROL FRANCE", 
+        "identifiantNational": "811909258", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AGENCE FRANCAISE D'INFORMATIQUE", 
+        "identifiantNational": "322750191", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "A K I O", 
+        "identifiantNational": "421001702", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALTAVEN", 
+        "identifiantNational": "500821251", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ANAPLAN FRANCE", 
+        "identifiantNational": "792005910", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "APLON", 
+        "identifiantNational": "381386804", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "APPLIDGET", 
+        "identifiantNational": "512747676", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CLOUD IS MINE", 
+        "identifiantNational": "794633347", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ARTISTOON SAS", 
+        "identifiantNational": "801629734", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASTON ITRADE FINANCE", 
+        "identifiantNational": "525108288", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASTREE SOFTWARE", 
+        "identifiantNational": "538739814", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ACTIVEEON", 
+        "identifiantNational": "500807284", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ACCESSIBLE CONSEILS SARL", 
+        "identifiantNational": "481217644", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AD SCIENCE", 
+        "identifiantNational": "482007895", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ADDENDA SOFTWARE", 
+        "identifiantNational": "328215975", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AIRBNB FRANCE", 
+        "identifiantNational": "750885410", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AKANEA DEVELOPPEMENT", 
+        "identifiantNational": "330573775", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AKUITEO", 
+        "identifiantNational": "533335303", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALCUIN", 
+        "identifiantNational": "794981050", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPE ALLO-MEDIA", 
+        "identifiantNational": "531163210", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALTISYS", 
+        "identifiantNational": "399735141", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AMADEUS", 
+        "identifiantNational": "344496252", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AMALTO TECHNOLOGIES", 
+        "identifiantNational": "484329370", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AMAZON FRANCE SERVICES SAS", 
+        "identifiantNational": "809869043", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AMETHYSTE", 
+        "identifiantNational": "379167786", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ANAKEEN", 
+        "identifiantNational": "420697971", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ANTENIA", 
+        "identifiantNational": "500933452", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "APPLE FRANCE", 
+        "identifiantNational": "322120916", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ARCADE", 
+        "identifiantNational": "392153201", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SCI ARPEGE", 
+        "identifiantNational": "392554556", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AGENCE DE SERVICES ET DE PAIEMENT", 
+        "identifiantNational": "130006372", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AURA EQUIPEMENTS", 
+        "identifiantNational": "339739971", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AVENCIS", 
+        "identifiantNational": "438587511", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BEE4WIN", 
+        "identifiantNational": "809951403", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BERGER LEVRAULT", 
+        "identifiantNational": "755800646", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "B.F.H.", 
+        "identifiantNational": "331800045", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BIBOARD", 
+        "identifiantNational": "507802551", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BONITASOFT", 
+        "identifiantNational": "512854514", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BOX FRANCE SARL", 
+        "identifiantNational": "793616038", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BRAINSONIC", 
+        "identifiantNational": "448567867", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CARVIVO", 
+        "identifiantNational": "819173634", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CASSIOPAE", 
+        "identifiantNational": "429083025", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CEGID", 
+        "identifiantNational": "410218010", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CENTREON", 
+        "identifiantNational": "483494589", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EASIWARE", 
+        "identifiantNational": "508636537", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EASYVISTA", 
+        "identifiantNational": "347848947", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SELLSY", 
+        "identifiantNational": "509961074", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ECHOES LABS", 
+        "identifiantNational": "530718105", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EDATER", 
+        "identifiantNational": "497832667", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EDICIA", 
+        "identifiantNational": "444954721", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EFLUID", 
+        "identifiantNational": "788876522", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ELCIMAI FINANCIAL SOFTWARE", 
+        "identifiantNational": "423306760", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EMAILSTRATEGIE", 
+        "identifiantNational": "438994774", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ENERGIENCY", 
+        "identifiantNational": "792639098", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EPTICA", 
+        "identifiantNational": "438993966", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ESI GROUP", 
+        "identifiantNational": "381080225", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EURECIA", 
+        "identifiantNational": "487820268", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EURO DECISION", 
+        "identifiantNational": "327562286", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HBS RESEARCH", 
+        "identifiantNational": "489036152", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HISSEZ-HAUT", 
+        "identifiantNational": "804524817", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HOLY DIS", 
+        "identifiantNational": "348366535", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HORIZONTAL SOFTWARE", 
+        "identifiantNational": "520319245", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "IDEOLYS", 
+        "identifiantNational": "521295162", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "KEYNECTIS", 
+        "identifiantNational": "478217318", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC ITN CONSULTANTS", 
+        "identifiantNational": "333489532", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ITIAM SYSTEMS EUROPE", 
+        "identifiantNational": "495174211", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "IVALUA", 
+        "identifiantNational": "428796858", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "JLB INFORMATIQUE", 
+        "identifiantNational": "323803569", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "KEYWORD", 
+        "identifiantNational": "332586528", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "KIMOCE", 
+        "identifiantNational": "382863710", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "KITRY", 
+        "identifiantNational": "480463413", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "KONVERGENCE BUSINESS & TECHNOLOGIES", 
+        "identifiantNational": "340563378", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "KOSMOS", 
+        "identifiantNational": "419223425", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LASCOM", 
+        "identifiantNational": "348107566", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LEGAL SUITE SAS", 
+        "identifiantNational": "430050336", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LMBA", 
+        "identifiantNational": "392544193", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LOGICIEL SERVICE ENTREPRISE", 
+        "identifiantNational": "328686514", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LPDR INGENIERIE", 
+        "identifiantNational": "438999682", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LUCCA", 
+        "identifiantNational": "441637691", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDIALOG", 
+        "identifiantNational": "345306617", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDIATECH GROUPE", 
+        "identifiantNational": "498581792", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEGA INTERNATIONAL", 
+        "identifiantNational": "385185806", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "WEATHERNEWS FRANCE", 
+        "identifiantNational": "497511923", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DEVCOMWEB MICROLOGICIEL", 
+        "identifiantNational": "444878466", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NEXTOPS", 
+        "identifiantNational": "493038707", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NLIIVE", 
+        "identifiantNational": "518569736", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LEVEL5", 
+        "identifiantNational": "519797310", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NUMALIS", 
+        "identifiantNational": "814614020", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NUMVISION", 
+        "identifiantNational": "510202393", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OBEO", 
+        "identifiantNational": "485129860", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OCI URBANISME", 
+        "identifiantNational": "509182895", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ODASEVA TECHNOLOGIES", 
+        "identifiantNational": "751464264", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OPENDATASOFT", 
+        "identifiantNational": "538168329", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OXYAD SOFTWARE", 
+        "identifiantNational": "391220589", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALEA PREVENTION", 
+        "identifiantNational": "508069481", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PENBASE", 
+        "identifiantNational": "447776832", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PERFECT MEMORY", 
+        "identifiantNational": "507459113", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PITCHY BROS PROD", 
+        "identifiantNational": "799416011", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PLANISWARE", 
+        "identifiantNational": "403262082", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "POCKET RESULT", 
+        "identifiantNational": "792666562", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SERVICEPILOT TECHNOLOGIES", 
+        "identifiantNational": "439416504", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYSTEME INFORMATIQUE CLE EN MAINS", 
+        "identifiantNational": "333088185", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SIDETRADE", 
+        "identifiantNational": "430007252", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SIMPLICITE SOFTWARE", 
+        "identifiantNational": "490393519", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SINEQUA", 
+        "identifiantNational": "442599213", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SMARTHAB", 
+        "identifiantNational": "827894825", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC NORD ELECTRONIQUE DE GESTION", 
+        "identifiantNational": "322623349", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SPLIO", 
+        "identifiantNational": "434533071", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "STORMSHIELD", 
+        "identifiantNational": "428173975", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "STREAMWIDE", 
+        "identifiantNational": "434188660", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "STRATOCORE", 
+        "identifiantNational": "533150991", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYDEV", 
+        "identifiantNational": "417800810", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNERTRADE FRANCE", 
+        "identifiantNational": "430447409", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYSTMG", 
+        "identifiantNational": "520674490", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYSTNAPS", 
+        "identifiantNational": "494589401", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYSTRAN", 
+        "identifiantNational": "334343993", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TALENTSOFT", 
+        "identifiantNational": "497941377", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TALIANCE GROUP", 
+        "identifiantNational": "803157338", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TASKETER EUROPE", 
+        "identifiantNational": "809458995", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VISIATIV SOFTWARE", 
+        "identifiantNational": "353695174", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VOCAZA", 
+        "identifiantNational": "452926918", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AVANTEAM", 
+        "identifiantNational": "450064761", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BH GROUPE", 
+        "identifiantNational": "814764049", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BRAINWAVE", 
+        "identifiantNational": "519847362", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CALIXYS", 
+        "identifiantNational": "533151536", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CASHNOWMOBILE", 
+        "identifiantNational": "801034018", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CASHSOLVE", 
+        "identifiantNational": "430033415", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CEGEDIM ACTIV", 
+        "identifiantNational": "400891586", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CARAIBEEN DE GESTION ET SERVICES INFORMATIQUE", 
+        "identifiantNational": "490486933", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CINEMECCANICA FRANCE", 
+        "identifiantNational": "399078443", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CLIK'N DO", 
+        "identifiantNational": "412640351", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CLOUD CORPORATION", 
+        "identifiantNational": "798693578", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CODINGAME", 
+        "identifiantNational": "750538613", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COHERIS", 
+        "identifiantNational": "399467927", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CULTURE TIME", 
+        "identifiantNational": "798768651", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CREATIVE INFORMATION TECHNOLOGY", 
+        "identifiantNational": "421315144", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "E-ATTESTATIONS.COM", 
+        "identifiantNational": "503829368", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ELAB", 
+        "identifiantNational": "502532773", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "E-SIMS", 
+        "identifiantNational": "811731215", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ITAPOINT", 
+        "identifiantNational": "481253987", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FACEBOOK FRANCE", 
+        "identifiantNational": "530085802", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HUB ONE MOBILITY", 
+        "identifiantNational": "414658724", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "I'CAR SYSTEMS GROUPE", 
+        "identifiantNational": "791960693", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "IMMO ONE", 
+        "identifiantNational": "478321680", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INCENTEEV", 
+        "identifiantNational": "529072563", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INDEX EDUCATION", 
+        "identifiantNational": "384351599", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INFLUANS", 
+        "identifiantNational": "803194182", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "J V S -MAIRISTEM", 
+        "identifiantNational": "328552187", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LOCALEO S.A.S.", 
+        "identifiantNational": "442720819", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MATCHUPBOX", 
+        "identifiantNational": "803767375", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MESOBLIGATIONS", 
+        "identifiantNational": "820434587", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MGDIS", 
+        "identifiantNational": "328161245", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MICROSOFT FRANCE", 
+        "identifiantNational": "327733184", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOBYDOC", 
+        "identifiantNational": "332024223", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOMINDUM", 
+        "identifiantNational": "432774164", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OIP SOLUTIONS", 
+        "identifiantNational": "802649236", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OODRIVE", 
+        "identifiantNational": "432735082", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OPTIS", 
+        "identifiantNational": "351609417", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "O.R. SYSTEM SARL", 
+        "identifiantNational": "334366390", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ORDINAL SOFTWARE", 
+        "identifiantNational": "351569538", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OZE ENERGIES", 
+        "identifiantNational": "487475279", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EXOSEC", 
+        "identifiantNational": "443819644", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "POWELL SOFTWARE", 
+        "identifiantNational": "815141874", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PRAXEDO", 
+        "identifiantNational": "479788689", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PRINCEPS", 
+        "identifiantNational": "403135783", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PYX4", 
+        "identifiantNational": "504331554", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "Q'EMOTION FRANCE SAS", 
+        "identifiantNational": "811519230", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "QLIKTECH FRANCE", 
+        "identifiantNational": "499265940", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RAIZERS", 
+        "identifiantNational": "804419901", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RESTLET", 
+        "identifiantNational": "504051764", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SALESFORCE.COM FRANCE", 
+        "identifiantNational": "483993226", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SALVIA DEVELOPPEMENT", 
+        "identifiantNational": "791960768", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOFTFLUENT", 
+        "identifiantNational": "481932697", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TOPSYS", 
+        "identifiantNational": "339357733", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SQUID SOLUTIONS", 
+        "identifiantNational": "451760573", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "STG INTERACTIVE", 
+        "identifiantNational": "428738546", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYKIO", 
+        "identifiantNational": "488183039", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TALEND", 
+        "identifiantNational": "484175252", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TELAMON", 
+        "identifiantNational": "398279893", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TELELOGOS", 
+        "identifiantNational": "323971465", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TELLMEPLUS", 
+        "identifiantNational": "529547630", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "THE BUBBLES COMPANY", 
+        "identifiantNational": "803434562", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SISTECH", 
+        "identifiantNational": "420414336", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "THEMATIC GROUPE", 
+        "identifiantNational": "790728539", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TILD", 
+        "identifiantNational": "808094247", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TORRENVAL VENTURES", 
+        "identifiantNational": "522866219", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALPHA SYSTEM", 
+        "identifiantNational": "432430304", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SC METHODE", 
+        "identifiantNational": "420833246", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "YOUSIGN", 
+        "identifiantNational": "794513986", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DASSAULT SYSTEMES", 
+        "identifiantNational": "322306440", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FINALCAD", 
+        "identifiantNational": "501388573", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FINANCE ACTIVE", 
+        "identifiantNational": "430479378", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BUSINESS & SYSTEM ARCHITECTS CONSEIL", 
+        "identifiantNational": "480446368", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FLEXERA SOFTWARE LIMITED", 
+        "identifiantNational": "507948222", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FUJITSU RUNMYPROCESS", 
+        "identifiantNational": "498803238", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GB AND SMITH ASSOCIATES", 
+        "identifiantNational": "498273010", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOSKITOS", 
+        "identifiantNational": "752697284", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PERFORMANCE VISION", 
+        "identifiantNational": "453154692", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "QUALIAC", 
+        "identifiantNational": "316393834", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAFENET FRANCE", 
+        "identifiantNational": "381225812", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAGE", 
+        "identifiantNational": "313966129", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TILKEE", 
+        "identifiantNational": "789120649", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TRACE ONE SA", 
+        "identifiantNational": "433801578", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TRAINING ORCHESTRA", 
+        "identifiantNational": "438880957", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VERTICAL M2M", 
+        "identifiantNational": "502902976", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VIAVOO", 
+        "identifiantNational": "510207186", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DENSITY", 
+        "identifiantNational": "479859456", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DIMELO", 
+        "identifiantNational": "490844743", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DISTENE", 
+        "identifiantNational": "440676500", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GESTIMUM", 
+        "identifiantNational": "478803554", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SEPULCRE POIREL MARTINE", 
+        "identifiantNational": "398878116", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NANOCLOUD SOFTWARE", 
+        "identifiantNational": "808868723", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SCALED RISK", 
+        "identifiantNational": "538807215", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SCALITY", 
+        "identifiantNational": "512955089", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DATA DYNAMIC SYSTEMS", 
+        "identifiantNational": "329324792", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GENERATIVE OBJECTS", 
+        "identifiantNational": "521317503", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SCI FORMA INTERNATIONAL", 
+        "identifiantNational": "528795263", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TRUST2CLOUD", 
+        "identifiantNational": "751890294", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BLUEPIM", 
+        "identifiantNational": "429386162", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LE DOCUMENT NUMERIQUE", 
+        "identifiantNational": "418019956", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DROPBOX FRANCE", 
+        "identifiantNational": "805016854", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ISAGRI", 
+        "identifiantNational": "327733432", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ISATECH", 
+        "identifiantNational": "326862570", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ISSENDIS", 
+        "identifiantNational": "390648731", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ITESOFT", 
+        "identifiantNational": "330265323", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "4MC", 
+        "identifiantNational": "809379415", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NETHEOS", 
+        "identifiantNational": "453023681", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NETIKA SOLUTIONS IMMOBILIERES", 
+        "identifiantNational": "412796997", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NETWORK QUALITY INTELLIGENCE", 
+        "identifiantNational": "441613759", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SERENEO", 
+        "identifiantNational": "440380392", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SERENSIA", 
+        "identifiantNational": "477550370", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SERIOUS FACTORY", 
+        "identifiantNational": "500592183", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VAL SOLUTIONS", 
+        "identifiantNational": "522501923", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CO-DECISION TECHNOLOGY", 
+        "identifiantNational": "450528427", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONTENT SQUARE", 
+        "identifiantNational": "503916033", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COZY CLOUD", 
+        "identifiantNational": "789037678", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CRYPTOLOG INTERNATIONAL", 
+        "identifiantNational": "439129164", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CYBELANGEL", 
+        "identifiantNational": "791341274", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTEMPORA", 
+        "identifiantNational": "433055340", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTERSEC", 
+        "identifiantNational": "479898561", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTRASEC", 
+        "identifiantNational": "950394668", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTUIT FRANCE SAS", 
+        "identifiantNational": "802640292", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MPHASIS WYDE", 
+        "identifiantNational": "412800039", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SATELIX", 
+        "identifiantNational": "521754549", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SATELLIZ", 
+        "identifiantNational": "524897402", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TOLEDE", 
+        "identifiantNational": "319525564", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TRIIPTIC", 
+        "identifiantNational": "522513233", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TRUSTINSOFT", 
+        "identifiantNational": "793371907", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION INVIVO", 
+        "identifiantNational": "775690191", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INVOKE", 
+        "identifiantNational": "440427904", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "IN-WEBO TECHNOLOGIES", 
+        "identifiantNational": "503562381", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NELL'ARMONIA", 
+        "identifiantNational": "503198657", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "USERCUBE", 
+        "identifiantNational": "518348529", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DATAFIRST", 
+        "identifiantNational": "334183068", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DATAKIT", 
+        "identifiantNational": "408478733", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FISCHER DAVID", 
+        "identifiantNational": "502616642", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DEFACTO", 
+        "identifiantNational": "794786731", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DELIVER.EE", 
+        "identifiantNational": "799305388", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GENESE INFORMATIQUE", 
+        "identifiantNational": "400321857", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GEOVARIANCES", 
+        "identifiantNational": "337690580", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GOLAEM", 
+        "identifiantNational": "509667556", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GOOGLE FRANCE", 
+        "identifiantNational": "443061841", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GREENSPECTOR", 
+        "identifiantNational": "528071939", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SENEF SOFT", 
+        "identifiantNational": "529974511", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "IRIUM SOFTWARE GROUP", 
+        "identifiantNational": "499927051", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NEOFI SOLUTIONS", 
+        "identifiantNational": "488351594", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SMAG", 
+        "identifiantNational": "430406918", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NEOTYS", 
+        "identifiantNational": "480255900", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SENSIOLABS", 
+        "identifiantNational": "752893842", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SENTRYO", 
+        "identifiantNational": "802913160", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UB PARTNER", 
+        "identifiantNational": "532504651", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UBER FRANCE SAS", 
+        "identifiantNational": "539454942", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "WISEMBLY", 
+        "identifiantNational": "523455566", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "WIZTOPIC", 
+        "identifiantNational": "802249946", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "WEB LIBRE CONSULTING", 
+        "identifiantNational": "752347153", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "WOOXO", 
+        "identifiantNational": "519458855", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "XAGA NETWORK", 
+        "identifiantNational": "483279477", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "XPERTEAM", 
+        "identifiantNational": "408494649", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "YOUBOOX", 
+        "identifiantNational": "533814372", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "YSEOP", 
+        "identifiantNational": "433429065", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ZUORA SERVICES LLC", 
+        "identifiantNational": "812072973", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "90TECH", 
+        "identifiantNational": "808977532", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable affaires publiques", 
+        "nom": "PARRA", 
+        "prenom": "Camille"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée de mission affaires publiques", 
+        "nom": "GARZA", 
+        "prenom": "Alice"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée de mission affaires publiques", 
+        "nom": "LANOË", 
+        "prenom": "Ingrid"
+      }
+    ], 
+    "dateCreation": "2017-11-16T17:00:29", 
+    "datePremierePublication": "2017-11-16T16:31:03", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "TECH'IN FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Délégué général", 
+        "nom": "RIVIÈRE", 
+        "prenom": "Loïc"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "DIARD", 
+        "prenom": "Bertrand"
+      }
+    ], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }, 
+            {
+              "code": "COM", 
+              "label": "Communications électroniques", 
+              "ordre": 28
+            }
+          ]
+        }, 
+        "adresse": "TECH'IN FRANCE\n13 RUE LA FAYETTE", 
+        "affiliations": [
+          {
+            "denomination": "FED IDUST ELECTR ELECTRONIQUES  COMMUNIC", 
+            "identifiantNational": "775688443", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "ORPRO", 
+          "label": "Organisation professionnelle"
+        }, 
+        "clients": [
+          {
+            "denomination": "ADEQUASYS FRANCE", 
+            "identifiantNational": "403107683", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ADMINCONTROL FRANCE", 
+            "identifiantNational": "811909258", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AGENCE FRANCAISE D'INFORMATIQUE", 
+            "identifiantNational": "322750191", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "A K I O", 
+            "identifiantNational": "421001702", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALTAVEN", 
+            "identifiantNational": "500821251", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ANAPLAN FRANCE", 
+            "identifiantNational": "792005910", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "APLON", 
+            "identifiantNational": "381386804", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "APPLIDGET", 
+            "identifiantNational": "512747676", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CLOUD IS MINE", 
+            "identifiantNational": "794633347", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARTISTOON SAS", 
+            "identifiantNational": "801629734", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASTON ITRADE FINANCE", 
+            "identifiantNational": "525108288", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASTREE SOFTWARE", 
+            "identifiantNational": "538739814", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ACTIVEEON", 
+            "identifiantNational": "500807284", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ACCESSIBLE CONSEILS SARL", 
+            "identifiantNational": "481217644", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AD SCIENCE", 
+            "identifiantNational": "482007895", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ADDENDA SOFTWARE", 
+            "identifiantNational": "328215975", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AIRBNB FRANCE", 
+            "identifiantNational": "750885410", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AKANEA DEVELOPPEMENT", 
+            "identifiantNational": "330573775", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AKUITEO", 
+            "identifiantNational": "533335303", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALCUIN", 
+            "identifiantNational": "794981050", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPE ALLO-MEDIA", 
+            "identifiantNational": "531163210", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALTISYS", 
+            "identifiantNational": "399735141", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AMADEUS", 
+            "identifiantNational": "344496252", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AMALTO TECHNOLOGIES", 
+            "identifiantNational": "484329370", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AMAZON FRANCE SERVICES SAS", 
+            "identifiantNational": "809869043", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AMETHYSTE", 
+            "identifiantNational": "379167786", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ANAKEEN", 
+            "identifiantNational": "420697971", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ANTENIA", 
+            "identifiantNational": "500933452", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "APPLE FRANCE", 
+            "identifiantNational": "322120916", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARCADE", 
+            "identifiantNational": "392153201", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SCI ARPEGE", 
+            "identifiantNational": "392554556", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AGENCE DE SERVICES ET DE PAIEMENT", 
+            "identifiantNational": "130006372", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AURA EQUIPEMENTS", 
+            "identifiantNational": "339739971", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AVENCIS", 
+            "identifiantNational": "438587511", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BEE4WIN", 
+            "identifiantNational": "809951403", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BERGER LEVRAULT", 
+            "identifiantNational": "755800646", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "B.F.H.", 
+            "identifiantNational": "331800045", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BIBOARD", 
+            "identifiantNational": "507802551", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BONITASOFT", 
+            "identifiantNational": "512854514", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BOX FRANCE SARL", 
+            "identifiantNational": "793616038", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BRAINSONIC", 
+            "identifiantNational": "448567867", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CARVIVO", 
+            "identifiantNational": "819173634", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CASSIOPAE", 
+            "identifiantNational": "429083025", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CEGID", 
+            "identifiantNational": "410218010", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CENTREON", 
+            "identifiantNational": "483494589", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EASIWARE", 
+            "identifiantNational": "508636537", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EASYVISTA", 
+            "identifiantNational": "347848947", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SELLSY", 
+            "identifiantNational": "509961074", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ECHOES LABS", 
+            "identifiantNational": "530718105", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EDATER", 
+            "identifiantNational": "497832667", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EDICIA", 
+            "identifiantNational": "444954721", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EFLUID", 
+            "identifiantNational": "788876522", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ELCIMAI FINANCIAL SOFTWARE", 
+            "identifiantNational": "423306760", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EMAILSTRATEGIE", 
+            "identifiantNational": "438994774", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ENERGIENCY", 
+            "identifiantNational": "792639098", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EPTICA", 
+            "identifiantNational": "438993966", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ESI GROUP", 
+            "identifiantNational": "381080225", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EURECIA", 
+            "identifiantNational": "487820268", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EURO DECISION", 
+            "identifiantNational": "327562286", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HBS RESEARCH", 
+            "identifiantNational": "489036152", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HISSEZ-HAUT", 
+            "identifiantNational": "804524817", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HOLY DIS", 
+            "identifiantNational": "348366535", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HORIZONTAL SOFTWARE", 
+            "identifiantNational": "520319245", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IDEOLYS", 
+            "identifiantNational": "521295162", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KEYNECTIS", 
+            "identifiantNational": "478217318", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOC ITN CONSULTANTS", 
+            "identifiantNational": "333489532", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ITIAM SYSTEMS EUROPE", 
+            "identifiantNational": "495174211", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IVALUA", 
+            "identifiantNational": "428796858", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "JLB INFORMATIQUE", 
+            "identifiantNational": "323803569", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KEYWORD", 
+            "identifiantNational": "332586528", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KIMOCE", 
+            "identifiantNational": "382863710", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KITRY", 
+            "identifiantNational": "480463413", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KONVERGENCE BUSINESS & TECHNOLOGIES", 
+            "identifiantNational": "340563378", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KOSMOS", 
+            "identifiantNational": "419223425", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LASCOM", 
+            "identifiantNational": "348107566", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LEGAL SUITE SAS", 
+            "identifiantNational": "430050336", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LMBA", 
+            "identifiantNational": "392544193", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LOGICIEL SERVICE ENTREPRISE", 
+            "identifiantNational": "328686514", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LPDR INGENIERIE", 
+            "identifiantNational": "438999682", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LUCCA", 
+            "identifiantNational": "441637691", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MEDIALOG", 
+            "identifiantNational": "345306617", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MEDIATECH GROUPE", 
+            "identifiantNational": "498581792", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MEGA INTERNATIONAL", 
+            "identifiantNational": "385185806", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "WEATHERNEWS FRANCE", 
+            "identifiantNational": "497511923", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DEVCOMWEB MICROLOGICIEL", 
+            "identifiantNational": "444878466", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NEXTOPS", 
+            "identifiantNational": "493038707", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NLIIVE", 
+            "identifiantNational": "518569736", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LEVEL5", 
+            "identifiantNational": "519797310", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NUMALIS", 
+            "identifiantNational": "814614020", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NUMVISION", 
+            "identifiantNational": "510202393", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OBEO", 
+            "identifiantNational": "485129860", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OCI URBANISME", 
+            "identifiantNational": "509182895", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ODASEVA TECHNOLOGIES", 
+            "identifiantNational": "751464264", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OPENDATASOFT", 
+            "identifiantNational": "538168329", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OXYAD SOFTWARE", 
+            "identifiantNational": "391220589", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALEA PREVENTION", 
+            "identifiantNational": "508069481", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PENBASE", 
+            "identifiantNational": "447776832", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PERFECT MEMORY", 
+            "identifiantNational": "507459113", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PITCHY BROS PROD", 
+            "identifiantNational": "799416011", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PLANISWARE", 
+            "identifiantNational": "403262082", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "POCKET RESULT", 
+            "identifiantNational": "792666562", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SERVICEPILOT TECHNOLOGIES", 
+            "identifiantNational": "439416504", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYSTEME INFORMATIQUE CLE EN MAINS", 
+            "identifiantNational": "333088185", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SIDETRADE", 
+            "identifiantNational": "430007252", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SIMPLICITE SOFTWARE", 
+            "identifiantNational": "490393519", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SINEQUA", 
+            "identifiantNational": "442599213", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SMARTHAB", 
+            "identifiantNational": "827894825", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOC NORD ELECTRONIQUE DE GESTION", 
+            "identifiantNational": "322623349", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SPLIO", 
+            "identifiantNational": "434533071", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "STORMSHIELD", 
+            "identifiantNational": "428173975", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "STREAMWIDE", 
+            "identifiantNational": "434188660", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "STRATOCORE", 
+            "identifiantNational": "533150991", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYDEV", 
+            "identifiantNational": "417800810", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNERTRADE FRANCE", 
+            "identifiantNational": "430447409", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYSTMG", 
+            "identifiantNational": "520674490", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYSTNAPS", 
+            "identifiantNational": "494589401", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYSTRAN", 
+            "identifiantNational": "334343993", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TALENTSOFT", 
+            "identifiantNational": "497941377", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TALIANCE GROUP", 
+            "identifiantNational": "803157338", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TASKETER EUROPE", 
+            "identifiantNational": "809458995", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VISIATIV SOFTWARE", 
+            "identifiantNational": "353695174", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VOCAZA", 
+            "identifiantNational": "452926918", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AVANTEAM", 
+            "identifiantNational": "450064761", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BH GROUPE", 
+            "identifiantNational": "814764049", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BRAINWAVE", 
+            "identifiantNational": "519847362", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CALIXYS", 
+            "identifiantNational": "533151536", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CASHNOWMOBILE", 
+            "identifiantNational": "801034018", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CASHSOLVE", 
+            "identifiantNational": "430033415", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CEGEDIM ACTIV", 
+            "identifiantNational": "400891586", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CARAIBEEN DE GESTION ET SERVICES INFORMATIQUE", 
+            "identifiantNational": "490486933", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CINEMECCANICA FRANCE", 
+            "identifiantNational": "399078443", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CLIK'N DO", 
+            "identifiantNational": "412640351", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CLOUD CORPORATION", 
+            "identifiantNational": "798693578", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CODINGAME", 
+            "identifiantNational": "750538613", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COHERIS", 
+            "identifiantNational": "399467927", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CULTURE TIME", 
+            "identifiantNational": "798768651", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CREATIVE INFORMATION TECHNOLOGY", 
+            "identifiantNational": "421315144", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "E-ATTESTATIONS.COM", 
+            "identifiantNational": "503829368", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ELAB", 
+            "identifiantNational": "502532773", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "E-SIMS", 
+            "identifiantNational": "811731215", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ITAPOINT", 
+            "identifiantNational": "481253987", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FACEBOOK FRANCE", 
+            "identifiantNational": "530085802", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HUB ONE MOBILITY", 
+            "identifiantNational": "414658724", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "I'CAR SYSTEMS GROUPE", 
+            "identifiantNational": "791960693", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IMMO ONE", 
+            "identifiantNational": "478321680", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INCENTEEV", 
+            "identifiantNational": "529072563", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INDEX EDUCATION", 
+            "identifiantNational": "384351599", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INFLUANS", 
+            "identifiantNational": "803194182", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "J V S -MAIRISTEM", 
+            "identifiantNational": "328552187", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LOCALEO S.A.S.", 
+            "identifiantNational": "442720819", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MATCHUPBOX", 
+            "identifiantNational": "803767375", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MESOBLIGATIONS", 
+            "identifiantNational": "820434587", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MGDIS", 
+            "identifiantNational": "328161245", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MICROSOFT FRANCE", 
+            "identifiantNational": "327733184", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MOBYDOC", 
+            "identifiantNational": "332024223", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MOMINDUM", 
+            "identifiantNational": "432774164", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OIP SOLUTIONS", 
+            "identifiantNational": "802649236", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OODRIVE", 
+            "identifiantNational": "432735082", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OPTIS", 
+            "identifiantNational": "351609417", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "O.R. SYSTEM SARL", 
+            "identifiantNational": "334366390", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ORDINAL SOFTWARE", 
+            "identifiantNational": "351569538", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OZE ENERGIES", 
+            "identifiantNational": "487475279", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EXOSEC", 
+            "identifiantNational": "443819644", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "POWELL SOFTWARE", 
+            "identifiantNational": "815141874", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PRAXEDO", 
+            "identifiantNational": "479788689", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PRINCEPS", 
+            "identifiantNational": "403135783", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PYX4", 
+            "identifiantNational": "504331554", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "Q'EMOTION FRANCE SAS", 
+            "identifiantNational": "811519230", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "QLIKTECH FRANCE", 
+            "identifiantNational": "499265940", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "RAIZERS", 
+            "identifiantNational": "804419901", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "RESTLET", 
+            "identifiantNational": "504051764", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SALESFORCE.COM FRANCE", 
+            "identifiantNational": "483993226", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SALVIA DEVELOPPEMENT", 
+            "identifiantNational": "791960768", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOFTFLUENT", 
+            "identifiantNational": "481932697", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TOPSYS", 
+            "identifiantNational": "339357733", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SQUID SOLUTIONS", 
+            "identifiantNational": "451760573", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "STG INTERACTIVE", 
+            "identifiantNational": "428738546", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYKIO", 
+            "identifiantNational": "488183039", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TALEND", 
+            "identifiantNational": "484175252", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TELAMON", 
+            "identifiantNational": "398279893", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TELELOGOS", 
+            "identifiantNational": "323971465", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TELLMEPLUS", 
+            "identifiantNational": "529547630", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "THE BUBBLES COMPANY", 
+            "identifiantNational": "803434562", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SISTECH", 
+            "identifiantNational": "420414336", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "THEMATIC GROUPE", 
+            "identifiantNational": "790728539", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TILD", 
+            "identifiantNational": "808094247", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TORRENVAL VENTURES", 
+            "identifiantNational": "522866219", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALPHA SYSTEM", 
+            "identifiantNational": "432430304", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SC METHODE", 
+            "identifiantNational": "420833246", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "YOUSIGN", 
+            "identifiantNational": "794513986", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DASSAULT SYSTEMES", 
+            "identifiantNational": "322306440", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FINALCAD", 
+            "identifiantNational": "501388573", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FINANCE ACTIVE", 
+            "identifiantNational": "430479378", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BUSINESS & SYSTEM ARCHITECTS CONSEIL", 
+            "identifiantNational": "480446368", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FLEXERA SOFTWARE LIMITED", 
+            "identifiantNational": "507948222", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FUJITSU RUNMYPROCESS", 
+            "identifiantNational": "498803238", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GB AND SMITH ASSOCIATES", 
+            "identifiantNational": "498273010", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MOSKITOS", 
+            "identifiantNational": "752697284", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PERFORMANCE VISION", 
+            "identifiantNational": "453154692", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "QUALIAC", 
+            "identifiantNational": "316393834", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SAFENET FRANCE", 
+            "identifiantNational": "381225812", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SAGE", 
+            "identifiantNational": "313966129", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TILKEE", 
+            "identifiantNational": "789120649", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRACE ONE SA", 
+            "identifiantNational": "433801578", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRAINING ORCHESTRA", 
+            "identifiantNational": "438880957", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VERTICAL M2M", 
+            "identifiantNational": "502902976", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VIAVOO", 
+            "identifiantNational": "510207186", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DENSITY", 
+            "identifiantNational": "479859456", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DIMELO", 
+            "identifiantNational": "490844743", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DISTENE", 
+            "identifiantNational": "440676500", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GESTIMUM", 
+            "identifiantNational": "478803554", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SEPULCRE POIREL MARTINE", 
+            "identifiantNational": "398878116", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NANOCLOUD SOFTWARE", 
+            "identifiantNational": "808868723", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SCALED RISK", 
+            "identifiantNational": "538807215", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SCALITY", 
+            "identifiantNational": "512955089", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DATA DYNAMIC SYSTEMS", 
+            "identifiantNational": "329324792", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GENERATIVE OBJECTS", 
+            "identifiantNational": "521317503", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SCI FORMA INTERNATIONAL", 
+            "identifiantNational": "528795263", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRUST2CLOUD", 
+            "identifiantNational": "751890294", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BLUEPIM", 
+            "identifiantNational": "429386162", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LE DOCUMENT NUMERIQUE", 
+            "identifiantNational": "418019956", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DROPBOX FRANCE", 
+            "identifiantNational": "805016854", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ISAGRI", 
+            "identifiantNational": "327733432", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ISATECH", 
+            "identifiantNational": "326862570", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ISSENDIS", 
+            "identifiantNational": "390648731", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ITESOFT", 
+            "identifiantNational": "330265323", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "4MC", 
+            "identifiantNational": "809379415", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NETHEOS", 
+            "identifiantNational": "453023681", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NETIKA SOLUTIONS IMMOBILIERES", 
+            "identifiantNational": "412796997", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NETWORK QUALITY INTELLIGENCE", 
+            "identifiantNational": "441613759", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SERENEO", 
+            "identifiantNational": "440380392", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SERENSIA", 
+            "identifiantNational": "477550370", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SERIOUS FACTORY", 
+            "identifiantNational": "500592183", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VAL SOLUTIONS", 
+            "identifiantNational": "522501923", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CO-DECISION TECHNOLOGY", 
+            "identifiantNational": "450528427", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CONTENT SQUARE", 
+            "identifiantNational": "503916033", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COZY CLOUD", 
+            "identifiantNational": "789037678", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CRYPTOLOG INTERNATIONAL", 
+            "identifiantNational": "439129164", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CYBELANGEL", 
+            "identifiantNational": "791341274", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INTEMPORA", 
+            "identifiantNational": "433055340", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INTERSEC", 
+            "identifiantNational": "479898561", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INTRASEC", 
+            "identifiantNational": "950394668", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INTUIT FRANCE SAS", 
+            "identifiantNational": "802640292", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MPHASIS WYDE", 
+            "identifiantNational": "412800039", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SATELIX", 
+            "identifiantNational": "521754549", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SATELLIZ", 
+            "identifiantNational": "524897402", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TOLEDE", 
+            "identifiantNational": "319525564", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRIIPTIC", 
+            "identifiantNational": "522513233", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRUSTINSOFT", 
+            "identifiantNational": "793371907", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION INVIVO", 
+            "identifiantNational": "775690191", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INVOKE", 
+            "identifiantNational": "440427904", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IN-WEBO TECHNOLOGIES", 
+            "identifiantNational": "503562381", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NELL'ARMONIA", 
+            "identifiantNational": "503198657", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "USERCUBE", 
+            "identifiantNational": "518348529", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DATAFIRST", 
+            "identifiantNational": "334183068", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DATAKIT", 
+            "identifiantNational": "408478733", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FISCHER DAVID", 
+            "identifiantNational": "502616642", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DEFACTO", 
+            "identifiantNational": "794786731", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DELIVER.EE", 
+            "identifiantNational": "799305388", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GENESE INFORMATIQUE", 
+            "identifiantNational": "400321857", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GEOVARIANCES", 
+            "identifiantNational": "337690580", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GOLAEM", 
+            "identifiantNational": "509667556", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GOOGLE FRANCE", 
+            "identifiantNational": "443061841", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GREENSPECTOR", 
+            "identifiantNational": "528071939", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SENEF SOFT", 
+            "identifiantNational": "529974511", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IRIUM SOFTWARE GROUP", 
+            "identifiantNational": "499927051", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NEOFI SOLUTIONS", 
+            "identifiantNational": "488351594", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SMAG", 
+            "identifiantNational": "430406918", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NEOTYS", 
+            "identifiantNational": "480255900", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SENSIOLABS", 
+            "identifiantNational": "752893842", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SENTRYO", 
+            "identifiantNational": "802913160", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UB PARTNER", 
+            "identifiantNational": "532504651", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UBER FRANCE SAS", 
+            "identifiantNational": "539454942", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "WISEMBLY", 
+            "identifiantNational": "523455566", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "WIZTOPIC", 
+            "identifiantNational": "802249946", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "WEB LIBRE CONSULTING", 
+            "identifiantNational": "752347153", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "WOOXO", 
+            "identifiantNational": "519458855", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "XAGA NETWORK", 
+            "identifiantNational": "483279477", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "XPERTEAM", 
+            "identifiantNational": "408494649", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "YOUBOOX", 
+            "identifiantNational": "533814372", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "YSEOP", 
+            "identifiantNational": "433429065", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ZUORA SERVICES LLC", 
+            "identifiantNational": "812072973", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "90TECH", 
+            "identifiantNational": "808977532", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75009", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable affaires publiques", 
+            "nom": "PARRA", 
+            "prenom": "Camille"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chargée de mission affaires publiques", 
+            "nom": "GARZA", 
+            "prenom": "Alice"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chargée de mission affaires publiques", 
+            "nom": "LANOË", 
+            "prenom": "Ingrid"
+          }
+        ], 
+        "dateCreation": "2017-11-16T16:31:03", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "TECH'IN FRANCE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Délégué général", 
+            "nom": "RIVIÈRE", 
+            "prenom": "Loïc"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "DIARD", 
+            "prenom": "Bertrand"
+          }
+        ], 
+        "emailDeContact": "l.riviere@techinfrance.fr", 
+        "identifiantNational": "489305367", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/1232039/", 
+        "lienPageTwitter": "https://twitter.com/TECHINFrance?lang=fr", 
+        "lienSiteWeb": "http://www.techinfrance.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "01 40 32 45 90", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }, 
+            {
+              "code": "COM", 
+              "label": "Communications électroniques", 
+              "ordre": 28
+            }
+          ]
+        }, 
+        "adresse": "TECH'IN FRANCE\n13 RUE LA FAYETTE", 
+        "affiliations": [
+          {
+            "denomination": "FED IDUST ELECTR ELECTRONIQUES  COMMUNIC", 
+            "identifiantNational": "775688443", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "ORPRO", 
+          "label": "Organisation professionnelle"
+        }, 
+        "clients": [
+          {
+            "denomination": "ADEQUASYS FRANCE", 
+            "identifiantNational": "403107683", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ADMINCONTROL FRANCE", 
+            "identifiantNational": "811909258", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AGENCE FRANCAISE D'INFORMATIQUE", 
+            "identifiantNational": "322750191", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "A K I O", 
+            "identifiantNational": "421001702", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALTAVEN", 
+            "identifiantNational": "500821251", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ANAPLAN FRANCE", 
+            "identifiantNational": "792005910", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "APLON", 
+            "identifiantNational": "381386804", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "APPLIDGET", 
+            "identifiantNational": "512747676", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CLOUD IS MINE", 
+            "identifiantNational": "794633347", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARTISTOON SAS", 
+            "identifiantNational": "801629734", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASTON ITRADE FINANCE", 
+            "identifiantNational": "525108288", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASTREE SOFTWARE", 
+            "identifiantNational": "538739814", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ACTIVEEON", 
+            "identifiantNational": "500807284", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ACCESSIBLE CONSEILS SARL", 
+            "identifiantNational": "481217644", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AD SCIENCE", 
+            "identifiantNational": "482007895", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ADDENDA SOFTWARE", 
+            "identifiantNational": "328215975", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AIRBNB FRANCE", 
+            "identifiantNational": "750885410", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AKANEA DEVELOPPEMENT", 
+            "identifiantNational": "330573775", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AKUITEO", 
+            "identifiantNational": "533335303", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALCUIN", 
+            "identifiantNational": "794981050", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPE ALLO-MEDIA", 
+            "identifiantNational": "531163210", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALTISYS", 
+            "identifiantNational": "399735141", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AMADEUS", 
+            "identifiantNational": "344496252", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AMALTO TECHNOLOGIES", 
+            "identifiantNational": "484329370", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AMAZON FRANCE SERVICES SAS", 
+            "identifiantNational": "809869043", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AMETHYSTE", 
+            "identifiantNational": "379167786", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ANAKEEN", 
+            "identifiantNational": "420697971", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ANTENIA", 
+            "identifiantNational": "500933452", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "APPLE FRANCE", 
+            "identifiantNational": "322120916", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARCADE", 
+            "identifiantNational": "392153201", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SCI ARPEGE", 
+            "identifiantNational": "392554556", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AGENCE DE SERVICES ET DE PAIEMENT", 
+            "identifiantNational": "130006372", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AURA EQUIPEMENTS", 
+            "identifiantNational": "339739971", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AVENCIS", 
+            "identifiantNational": "438587511", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BEE4WIN", 
+            "identifiantNational": "809951403", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BERGER LEVRAULT", 
+            "identifiantNational": "755800646", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "B.F.H.", 
+            "identifiantNational": "331800045", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BIBOARD", 
+            "identifiantNational": "507802551", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BONITASOFT", 
+            "identifiantNational": "512854514", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BOX FRANCE SARL", 
+            "identifiantNational": "793616038", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BRAINSONIC", 
+            "identifiantNational": "448567867", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CARVIVO", 
+            "identifiantNational": "819173634", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CASSIOPAE", 
+            "identifiantNational": "429083025", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CEGID", 
+            "identifiantNational": "410218010", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CENTREON", 
+            "identifiantNational": "483494589", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EASIWARE", 
+            "identifiantNational": "508636537", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EASYVISTA", 
+            "identifiantNational": "347848947", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SELLSY", 
+            "identifiantNational": "509961074", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ECHOES LABS", 
+            "identifiantNational": "530718105", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EDATER", 
+            "identifiantNational": "497832667", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EDICIA", 
+            "identifiantNational": "444954721", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EFLUID", 
+            "identifiantNational": "788876522", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ELCIMAI FINANCIAL SOFTWARE", 
+            "identifiantNational": "423306760", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EMAILSTRATEGIE", 
+            "identifiantNational": "438994774", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ENERGIENCY", 
+            "identifiantNational": "792639098", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EPTICA", 
+            "identifiantNational": "438993966", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ESI GROUP", 
+            "identifiantNational": "381080225", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EURECIA", 
+            "identifiantNational": "487820268", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EURO DECISION", 
+            "identifiantNational": "327562286", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HBS RESEARCH", 
+            "identifiantNational": "489036152", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HISSEZ-HAUT", 
+            "identifiantNational": "804524817", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HOLY DIS", 
+            "identifiantNational": "348366535", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HORIZONTAL SOFTWARE", 
+            "identifiantNational": "520319245", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IDEOLYS", 
+            "identifiantNational": "521295162", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KEYNECTIS", 
+            "identifiantNational": "478217318", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOC ITN CONSULTANTS", 
+            "identifiantNational": "333489532", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ITIAM SYSTEMS EUROPE", 
+            "identifiantNational": "495174211", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IVALUA", 
+            "identifiantNational": "428796858", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "JLB INFORMATIQUE", 
+            "identifiantNational": "323803569", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KEYWORD", 
+            "identifiantNational": "332586528", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KIMOCE", 
+            "identifiantNational": "382863710", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KITRY", 
+            "identifiantNational": "480463413", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KONVERGENCE BUSINESS & TECHNOLOGIES", 
+            "identifiantNational": "340563378", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "KOSMOS", 
+            "identifiantNational": "419223425", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LASCOM", 
+            "identifiantNational": "348107566", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LEGAL SUITE SAS", 
+            "identifiantNational": "430050336", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LMBA", 
+            "identifiantNational": "392544193", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LOGICIEL SERVICE ENTREPRISE", 
+            "identifiantNational": "328686514", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LPDR INGENIERIE", 
+            "identifiantNational": "438999682", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LUCCA", 
+            "identifiantNational": "441637691", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MEDIALOG", 
+            "identifiantNational": "345306617", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MEDIATECH GROUPE", 
+            "identifiantNational": "498581792", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MEGA INTERNATIONAL", 
+            "identifiantNational": "385185806", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "WEATHERNEWS FRANCE", 
+            "identifiantNational": "497511923", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DEVCOMWEB MICROLOGICIEL", 
+            "identifiantNational": "444878466", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NEXTOPS", 
+            "identifiantNational": "493038707", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NLIIVE", 
+            "identifiantNational": "518569736", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LEVEL5", 
+            "identifiantNational": "519797310", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NUMALIS", 
+            "identifiantNational": "814614020", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NUMVISION", 
+            "identifiantNational": "510202393", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OBEO", 
+            "identifiantNational": "485129860", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OCI URBANISME", 
+            "identifiantNational": "509182895", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ODASEVA TECHNOLOGIES", 
+            "identifiantNational": "751464264", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OPENDATASOFT", 
+            "identifiantNational": "538168329", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OXYAD SOFTWARE", 
+            "identifiantNational": "391220589", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALEA PREVENTION", 
+            "identifiantNational": "508069481", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PENBASE", 
+            "identifiantNational": "447776832", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PERFECT MEMORY", 
+            "identifiantNational": "507459113", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PITCHY BROS PROD", 
+            "identifiantNational": "799416011", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PLANISWARE", 
+            "identifiantNational": "403262082", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "POCKET RESULT", 
+            "identifiantNational": "792666562", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SERVICEPILOT TECHNOLOGIES", 
+            "identifiantNational": "439416504", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYSTEME INFORMATIQUE CLE EN MAINS", 
+            "identifiantNational": "333088185", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SIDETRADE", 
+            "identifiantNational": "430007252", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SIMPLICITE SOFTWARE", 
+            "identifiantNational": "490393519", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SINEQUA", 
+            "identifiantNational": "442599213", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SMARTHAB", 
+            "identifiantNational": "827894825", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOC NORD ELECTRONIQUE DE GESTION", 
+            "identifiantNational": "322623349", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SPLIO", 
+            "identifiantNational": "434533071", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "STORMSHIELD", 
+            "identifiantNational": "428173975", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "STREAMWIDE", 
+            "identifiantNational": "434188660", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "STRATOCORE", 
+            "identifiantNational": "533150991", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYDEV", 
+            "identifiantNational": "417800810", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNERTRADE FRANCE", 
+            "identifiantNational": "430447409", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYSTMG", 
+            "identifiantNational": "520674490", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYSTNAPS", 
+            "identifiantNational": "494589401", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYSTRAN", 
+            "identifiantNational": "334343993", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TALENTSOFT", 
+            "identifiantNational": "497941377", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TALIANCE GROUP", 
+            "identifiantNational": "803157338", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TASKETER EUROPE", 
+            "identifiantNational": "809458995", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VISIATIV SOFTWARE", 
+            "identifiantNational": "353695174", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VOCAZA", 
+            "identifiantNational": "452926918", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AVANTEAM", 
+            "identifiantNational": "450064761", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BH GROUPE", 
+            "identifiantNational": "814764049", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BRAINWAVE", 
+            "identifiantNational": "519847362", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CALIXYS", 
+            "identifiantNational": "533151536", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CASHNOWMOBILE", 
+            "identifiantNational": "801034018", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CASHSOLVE", 
+            "identifiantNational": "430033415", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CEGEDIM ACTIV", 
+            "identifiantNational": "400891586", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CARAIBEEN DE GESTION ET SERVICES INFORMATIQUE", 
+            "identifiantNational": "490486933", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CINEMECCANICA FRANCE", 
+            "identifiantNational": "399078443", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CLIK'N DO", 
+            "identifiantNational": "412640351", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CLOUD CORPORATION", 
+            "identifiantNational": "798693578", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CODINGAME", 
+            "identifiantNational": "750538613", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COHERIS", 
+            "identifiantNational": "399467927", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CULTURE TIME", 
+            "identifiantNational": "798768651", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CREATIVE INFORMATION TECHNOLOGY", 
+            "identifiantNational": "421315144", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "E-ATTESTATIONS.COM", 
+            "identifiantNational": "503829368", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ELAB", 
+            "identifiantNational": "502532773", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "E-SIMS", 
+            "identifiantNational": "811731215", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ITAPOINT", 
+            "identifiantNational": "481253987", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FACEBOOK FRANCE", 
+            "identifiantNational": "530085802", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HUB ONE MOBILITY", 
+            "identifiantNational": "414658724", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "I'CAR SYSTEMS GROUPE", 
+            "identifiantNational": "791960693", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IMMO ONE", 
+            "identifiantNational": "478321680", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INCENTEEV", 
+            "identifiantNational": "529072563", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INDEX EDUCATION", 
+            "identifiantNational": "384351599", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INFLUANS", 
+            "identifiantNational": "803194182", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "J V S -MAIRISTEM", 
+            "identifiantNational": "328552187", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LOCALEO S.A.S.", 
+            "identifiantNational": "442720819", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MATCHUPBOX", 
+            "identifiantNational": "803767375", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MESOBLIGATIONS", 
+            "identifiantNational": "820434587", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MGDIS", 
+            "identifiantNational": "328161245", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MICROSOFT FRANCE", 
+            "identifiantNational": "327733184", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MOBYDOC", 
+            "identifiantNational": "332024223", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MOMINDUM", 
+            "identifiantNational": "432774164", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OIP SOLUTIONS", 
+            "identifiantNational": "802649236", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OODRIVE", 
+            "identifiantNational": "432735082", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OPTIS", 
+            "identifiantNational": "351609417", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "O.R. SYSTEM SARL", 
+            "identifiantNational": "334366390", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ORDINAL SOFTWARE", 
+            "identifiantNational": "351569538", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OZE ENERGIES", 
+            "identifiantNational": "487475279", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EXOSEC", 
+            "identifiantNational": "443819644", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "POWELL SOFTWARE", 
+            "identifiantNational": "815141874", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PRAXEDO", 
+            "identifiantNational": "479788689", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PRINCEPS", 
+            "identifiantNational": "403135783", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PYX4", 
+            "identifiantNational": "504331554", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "Q'EMOTION FRANCE SAS", 
+            "identifiantNational": "811519230", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "QLIKTECH FRANCE", 
+            "identifiantNational": "499265940", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "RAIZERS", 
+            "identifiantNational": "804419901", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "RESTLET", 
+            "identifiantNational": "504051764", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SALESFORCE.COM FRANCE", 
+            "identifiantNational": "483993226", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SALVIA DEVELOPPEMENT", 
+            "identifiantNational": "791960768", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOFTFLUENT", 
+            "identifiantNational": "481932697", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TOPSYS", 
+            "identifiantNational": "339357733", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SQUID SOLUTIONS", 
+            "identifiantNational": "451760573", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "STG INTERACTIVE", 
+            "identifiantNational": "428738546", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYKIO", 
+            "identifiantNational": "488183039", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TALEND", 
+            "identifiantNational": "484175252", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TELAMON", 
+            "identifiantNational": "398279893", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TELELOGOS", 
+            "identifiantNational": "323971465", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TELLMEPLUS", 
+            "identifiantNational": "529547630", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "THE BUBBLES COMPANY", 
+            "identifiantNational": "803434562", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SISTECH", 
+            "identifiantNational": "420414336", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "THEMATIC GROUPE", 
+            "identifiantNational": "790728539", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TILD", 
+            "identifiantNational": "808094247", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TORRENVAL VENTURES", 
+            "identifiantNational": "522866219", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALPHA SYSTEM", 
+            "identifiantNational": "432430304", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SC METHODE", 
+            "identifiantNational": "420833246", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "YOUSIGN", 
+            "identifiantNational": "794513986", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DASSAULT SYSTEMES", 
+            "identifiantNational": "322306440", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FINALCAD", 
+            "identifiantNational": "501388573", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FINANCE ACTIVE", 
+            "identifiantNational": "430479378", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BUSINESS & SYSTEM ARCHITECTS CONSEIL", 
+            "identifiantNational": "480446368", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FLEXERA SOFTWARE LIMITED", 
+            "identifiantNational": "507948222", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FUJITSU RUNMYPROCESS", 
+            "identifiantNational": "498803238", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GB AND SMITH ASSOCIATES", 
+            "identifiantNational": "498273010", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MOSKITOS", 
+            "identifiantNational": "752697284", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PERFORMANCE VISION", 
+            "identifiantNational": "453154692", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "QUALIAC", 
+            "identifiantNational": "316393834", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SAFENET FRANCE", 
+            "identifiantNational": "381225812", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SAGE", 
+            "identifiantNational": "313966129", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TILKEE", 
+            "identifiantNational": "789120649", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRACE ONE SA", 
+            "identifiantNational": "433801578", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRAINING ORCHESTRA", 
+            "identifiantNational": "438880957", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VERTICAL M2M", 
+            "identifiantNational": "502902976", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VIAVOO", 
+            "identifiantNational": "510207186", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DENSITY", 
+            "identifiantNational": "479859456", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DIMELO", 
+            "identifiantNational": "490844743", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DISTENE", 
+            "identifiantNational": "440676500", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GESTIMUM", 
+            "identifiantNational": "478803554", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SEPULCRE POIREL MARTINE", 
+            "identifiantNational": "398878116", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NANOCLOUD SOFTWARE", 
+            "identifiantNational": "808868723", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SCALED RISK", 
+            "identifiantNational": "538807215", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SCALITY", 
+            "identifiantNational": "512955089", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DATA DYNAMIC SYSTEMS", 
+            "identifiantNational": "329324792", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GENERATIVE OBJECTS", 
+            "identifiantNational": "521317503", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SCI FORMA INTERNATIONAL", 
+            "identifiantNational": "528795263", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRUST2CLOUD", 
+            "identifiantNational": "751890294", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BLUEPIM", 
+            "identifiantNational": "429386162", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LE DOCUMENT NUMERIQUE", 
+            "identifiantNational": "418019956", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DROPBOX FRANCE", 
+            "identifiantNational": "805016854", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ISAGRI", 
+            "identifiantNational": "327733432", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ISATECH", 
+            "identifiantNational": "326862570", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ISSENDIS", 
+            "identifiantNational": "390648731", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ITESOFT", 
+            "identifiantNational": "330265323", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "4MC", 
+            "identifiantNational": "809379415", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NETHEOS", 
+            "identifiantNational": "453023681", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NETIKA SOLUTIONS IMMOBILIERES", 
+            "identifiantNational": "412796997", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NETWORK QUALITY INTELLIGENCE", 
+            "identifiantNational": "441613759", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SERENEO", 
+            "identifiantNational": "440380392", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SERENSIA", 
+            "identifiantNational": "477550370", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SERIOUS FACTORY", 
+            "identifiantNational": "500592183", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VAL SOLUTIONS", 
+            "identifiantNational": "522501923", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CO-DECISION TECHNOLOGY", 
+            "identifiantNational": "450528427", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CONTENT SQUARE", 
+            "identifiantNational": "503916033", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COZY CLOUD", 
+            "identifiantNational": "789037678", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CRYPTOLOG INTERNATIONAL", 
+            "identifiantNational": "439129164", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CYBELANGEL", 
+            "identifiantNational": "791341274", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INTEMPORA", 
+            "identifiantNational": "433055340", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INTERSEC", 
+            "identifiantNational": "479898561", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INTRASEC", 
+            "identifiantNational": "950394668", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INTUIT FRANCE SAS", 
+            "identifiantNational": "802640292", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MPHASIS WYDE", 
+            "identifiantNational": "412800039", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SATELIX", 
+            "identifiantNational": "521754549", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SATELLIZ", 
+            "identifiantNational": "524897402", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TOLEDE", 
+            "identifiantNational": "319525564", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRIIPTIC", 
+            "identifiantNational": "522513233", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRUSTINSOFT", 
+            "identifiantNational": "793371907", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION INVIVO", 
+            "identifiantNational": "775690191", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INVOKE", 
+            "identifiantNational": "440427904", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IN-WEBO TECHNOLOGIES", 
+            "identifiantNational": "503562381", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NELL'ARMONIA", 
+            "identifiantNational": "503198657", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "USERCUBE", 
+            "identifiantNational": "518348529", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DATAFIRST", 
+            "identifiantNational": "334183068", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DATAKIT", 
+            "identifiantNational": "408478733", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FISCHER DAVID", 
+            "identifiantNational": "502616642", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DEFACTO", 
+            "identifiantNational": "794786731", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DELIVER.EE", 
+            "identifiantNational": "799305388", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GENESE INFORMATIQUE", 
+            "identifiantNational": "400321857", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GEOVARIANCES", 
+            "identifiantNational": "337690580", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GOLAEM", 
+            "identifiantNational": "509667556", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GOOGLE FRANCE", 
+            "identifiantNational": "443061841", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GREENSPECTOR", 
+            "identifiantNational": "528071939", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SENEF SOFT", 
+            "identifiantNational": "529974511", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "IRIUM SOFTWARE GROUP", 
+            "identifiantNational": "499927051", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NEOFI SOLUTIONS", 
+            "identifiantNational": "488351594", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SMAG", 
+            "identifiantNational": "430406918", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NEOTYS", 
+            "identifiantNational": "480255900", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SENSIOLABS", 
+            "identifiantNational": "752893842", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SENTRYO", 
+            "identifiantNational": "802913160", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UB PARTNER", 
+            "identifiantNational": "532504651", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UBER FRANCE SAS", 
+            "identifiantNational": "539454942", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "WISEMBLY", 
+            "identifiantNational": "523455566", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "WIZTOPIC", 
+            "identifiantNational": "802249946", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "WEB LIBRE CONSULTING", 
+            "identifiantNational": "752347153", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "WOOXO", 
+            "identifiantNational": "519458855", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "XAGA NETWORK", 
+            "identifiantNational": "483279477", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "XPERTEAM", 
+            "identifiantNational": "408494649", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "YOUBOOX", 
+            "identifiantNational": "533814372", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "YSEOP", 
+            "identifiantNational": "433429065", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ZUORA SERVICES LLC", 
+            "identifiantNational": "812072973", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "90TECH", 
+            "identifiantNational": "808977532", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75009", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable affaires publiques", 
+            "nom": "PARRA", 
+            "prenom": "Camille"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chargée de mission affaires publiques", 
+            "nom": "GARZA", 
+            "prenom": "Alice"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chargée de mission affaires publiques", 
+            "nom": "LANOË", 
+            "prenom": "Ingrid"
+          }
+        ], 
+        "dateCreation": "2017-11-16T16:32:44", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "TECH'IN FRANCE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Délégué général", 
+            "nom": "RIVIÈRE", 
+            "prenom": "Loïc"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "DIARD", 
+            "prenom": "Bertrand"
+          }
+        ], 
+        "emailDeContact": "l.riviere@techinfrance.fr", 
+        "identifiantNational": "489305367", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/1232039/", 
+        "lienPageTwitter": "https://twitter.com/TECHINFrance?lang=fr", 
+        "lienSiteWeb": "http://www.techinfrance.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "01 40 32 45 90", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
+    "identifiantNational": "489305367", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/1232039/", 
+    "lienPageTwitter": "https://twitter.com/TECHINFrance?lang=fr", 
+    "lienSiteWeb": "http://www.techinfrance.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "01 40 32 45 90", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/489305367.json", 
     "ville": "PARIS"
   }, 
   {
