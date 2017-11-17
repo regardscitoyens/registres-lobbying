@@ -1874,6 +1874,86 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "AMGEN SAS\n20 QUAI DU POINT DU JOUR\nCS 10096", 
+    "affiliations": [
+      {
+        "denomination": "LES ENTREPRISES DU MEDICAMENT", 
+        "identifiantNational": "784668543", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92650", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Affaires publiques et gouvernementales", 
+        "nom": "ALOSI", 
+        "prenom": "Jean-Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Value Access & Policy", 
+        "nom": "RUPPRECHT", 
+        "prenom": "Frédéric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "VP General Manager", 
+        "nom": "MONIN", 
+        "prenom": "Jean"
+      }
+    ], 
+    "dateCreation": "2017-11-17T10:17:33", 
+    "datePremierePublication": "2017-11-17T10:17:33", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "AMGEN SAS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "VP General Manager", 
+        "nom": "MONIN", 
+        "prenom": "Jean"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "377998679", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/377998679.json", 
+    "ville": "BOULOGNE BILLANCOURT CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -13328,6 +13408,178 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/187500020.json", 
     "ville": "PARIS CEDEX 17"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "5 avenue des Prés\nCS 20029", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "94266", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "DEVIN", 
+        "prenom": "Eric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable communication", 
+        "nom": "MOIZAN", 
+        "prenom": "Vincent"
+      }
+    ], 
+    "dateCreation": "2017-11-17T09:56:29", 
+    "datePremierePublication": "2017-11-17T09:56:29", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "CERTIBRUIT", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "DEVIN", 
+        "prenom": "Eric"
+      }
+    ], 
+    "emailDeContact": "contact@certibruit.fr", 
+    "historique": [], 
+    "identifiantNational": "W943003115", 
+    "lienSiteWeb": "www.certibruit.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "RNA", 
+    "url_json": "http://www.hatvp.fr/agora/W943003115.json", 
+    "ville": "FRESNES"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ETRANGER", 
+          "label": "Affaires étrangères, coopération internationale", 
+          "ordre": 1
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }
+      ]
+    }, 
+    "adresse": "CGPME AUVERGNE RHONE ALPES\r\n55 RUE SERGENT MICHEL BERTHET", 
+    "affiliations": [
+      {
+        "denomination": "CONFED GENERALE PETITES MOYENNES ENTREPR", 
+        "identifiantNational": "316809367", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "69009", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "BLACHON", 
+        "prenom": "Lauriane"
+      }
+    ], 
+    "dateCreation": "2017-11-17T11:12:21", 
+    "datePremierePublication": "2017-11-17T11:12:21", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "CGPME AUVERGNE RHONE ALPES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "TURCAS", 
+        "prenom": "François"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire général", 
+        "nom": "AMPRINO", 
+        "prenom": "Cyril"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "820475952", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/820475952.json", 
+    "ville": "LYON"
   }, 
   {
     "activites": {
@@ -61829,6 +62081,100 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/552059024.json", 
     "ville": "COURBEVOIE"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "MIGRA", 
+          "label": "Questions migratoires", 
+          "ordre": 24
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "1299 Pennsylvania Ave\nSuite 400\nWashington, DC\n20004", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "AUONG", 
+      "label": "Autres organisations non gouvernementales"
+    }, 
+    "clients": [], 
+    "codePostal": "20004", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice FRANCE", 
+        "nom": "RODER", 
+        "prenom": "Friederike"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice adjointe FRANCE", 
+        "nom": "HERVIEU", 
+        "prenom": "Annabel"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée de plaidoyer", 
+        "nom": "KURKJIAN", 
+        "prenom": "Maé"
+      }
+    ], 
+    "dateCreation": "2017-11-17T11:30:26", 
+    "datePremierePublication": "2017-11-17T11:30:26", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "THE ONE CAMPAIGN", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice FRANCE", 
+        "nom": "RODER", 
+        "prenom": "Friederike"
+      }
+    ], 
+    "emailDeContact": "friederike.roder@one.org", 
+    "historique": [], 
+    "identifiantNational": "528967714", 
+    "lienPageFacebook": "https://www.facebook.com/ONE/", 
+    "lienPageTwitter": "https://twitter.com/ONECampaign", 
+    "lienSiteWeb": "https://www.one.org/fr/", 
+    "pays": "ETATS-UNIS", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "+33140641730", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/528967714.json", 
+    "ville": "Washington DC"
   }, 
   {
     "activites": {
