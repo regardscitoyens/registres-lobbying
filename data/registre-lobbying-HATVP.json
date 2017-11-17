@@ -15273,19 +15273,13 @@
         "prenom": "Alain"
       }, 
       {
-        "civilite": "MME", 
-        "fonction": "Vice Présidente Affaires Publiques & Communication", 
-        "nom": "DE KERLEAU", 
-        "prenom": "Emmanuelle"
-      }, 
-      {
         "civilite": "M", 
         "fonction": "Directeur Affaires Publiques", 
         "nom": "BERTON", 
         "prenom": "Benoist"
       }
     ], 
-    "dateCreation": "2017-10-27T11:28:55", 
+    "dateCreation": "2017-11-17T14:46:55", 
     "datePremierePublication": "2017-10-25T09:02:03", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -15387,6 +15381,125 @@
           }
         ], 
         "dateCreation": "2017-10-25T09:02:03", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "COCA-COLA EUROPEAN PARTNERS FRANCE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "P.D.G", 
+            "nom": "LAMBRECHT", 
+            "prenom": "Ben"
+          }
+        ], 
+        "identifiantNational": "343688016", 
+        "lienSiteWeb": "https://www.cokecce.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0158002600", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "ISSY LES MOULINEAUX"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "CONSO", 
+              "label": "Concurrence, consommation", 
+              "ordre": 6
+            }, 
+            {
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "COCA COLA EUROPEAN PARTNERS FRANCE\r\nCCEP FRANCE\r\n9 CHEMIN DE BRETAGNE\r\nCS 80050 CS 80050", 
+        "affiliations": [
+          {
+            "denomination": "ASS NATIONALE IND. AGRO ALIMENTAIRES", 
+            "identifiantNational": "302664784", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BRF", 
+            "identifiantNational": "808456214", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION DES ANNONCEURS", 
+            "identifiantNational": "784669533", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ILEC", 
+            "identifiantNational": "798379723", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INSTITUT DE L'ECONOMIE CIRCULAIRE", 
+            "identifiantNational": "790867493", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRANSPARENCY INTERNATIONAL FRANCE", 
+            "identifiantNational": "425138393", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "92130", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Responsable Affaires Publiques & diversité", 
+            "nom": "HARRARI", 
+            "prenom": "Alain"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Vice Présidente Affaires Publiques & Communication", 
+            "nom": "DE KERLEAU", 
+            "prenom": "Emmanuelle"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Affaires Publiques", 
+            "nom": "BERTON", 
+            "prenom": "Benoist"
+          }
+        ], 
+        "dateCreation": "2017-10-27T11:28:55", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": false, 
         "denomination": "COCA-COLA EUROPEAN PARTNERS FRANCE", 
@@ -35885,108 +35998,6 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/562033068.json", 
     "ville": "ISSY LES MOULINEAUX CEDEX 9"
-  }, 
-  {
-    "activites": {
-      "listNiveauIntervention": [
-        {
-          "code": "NATIONAL", 
-          "label": "National", 
-          "ordre": 2
-        }
-      ], 
-      "listSecteursActivites": [
-        {
-          "code": "CONSO", 
-          "label": "Concurrence, consommation", 
-          "ordre": 6
-        }, 
-        {
-          "code": "ENTREPRISE", 
-          "label": "Gouvernance d’entreprise", 
-          "ordre": 14
-        }, 
-        {
-          "code": "NUMERIQUE", 
-          "label": "Numérique", 
-          "ordre": 19
-        }, 
-        {
-          "code": "PROREG", 
-          "label": "Professions réglementées", 
-          "ordre": 22
-        }, 
-        {
-          "code": "TRANSPORTS", 
-          "label": "Transports, logistique", 
-          "ordre": 29
-        }
-      ]
-    }, 
-    "adresse": "JEANTET AARPI\r\n87 89\r\n87 AVENUE KLEBER", 
-    "affiliations": [
-      {
-        "denomination": "ASSOCIATION DES AVOCATS LOBBYISTES", 
-        "identifiantNational": "W751210486", 
-        "typeIdentifiantNational": "RNA"
-      }
-    ], 
-    "categorieOrganisation": {
-      "categorie": "AVO_CONS", 
-      "code": "AVCAB", 
-      "label": "Cabinet d’avocats"
-    }, 
-    "clients": [
-      {
-        "denomination": "YOU2YOU", 
-        "identifiantNational": "813538238", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "denomination": "SMALLBUSINESSACT.COM", 
-        "identifiantNational": "510605090", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "denomination": "44 GALERIES LAFAYETTE - 44 GL", 
-        "identifiantNational": "552116329", 
-        "typeIdentifiantNational": "SIREN"
-      }
-    ], 
-    "codePostal": "75116", 
-    "collaborateurs": [
-      {
-        "civilite": "M", 
-        "nom": "PORTIER", 
-        "prenom": "Philippe"
-      }
-    ], 
-    "dateCreation": "2017-09-19T11:31:25", 
-    "datePremierePublication": "2017-09-19T11:31:25", 
-    "declarationOrgaAppartenance": true, 
-    "declarationTiers": true, 
-    "denomination": "JEANTET AARPI", 
-    "dirigeants": [
-      {
-        "civilite": "M", 
-        "fonction": "ASSOCIE GERANT", 
-        "nom": "PORTIER", 
-        "prenom": "Philippe"
-      }
-    ], 
-    "emailDeContact": "pportier@jeantet.fr", 
-    "historique": [], 
-    "identifiantNational": "784657884", 
-    "lienPageLinkedin": "https://fr.linkedin.com/company/jeantet---avocats", 
-    "lienSiteWeb": "http://www.jeantet.fr", 
-    "pays": "FRANCE", 
-    "publierMonAdresseEmail": true, 
-    "publierMonAdressePhysique": true, 
-    "publierMonTelephoneDeContact": true, 
-    "telephoneDeContact": "0145058057", 
-    "typeIdentifiantNational": "SIREN", 
-    "url_json": "http://www.hatvp.fr/agora/784657884.json", 
-    "ville": "PARIS"
   }, 
   {
     "activites": {
@@ -72973,6 +72984,144 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/803247956.json", 
     "ville": "RUEIL MALMAISON"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "SECURITE", 
+          "label": "Défense, sécurité", 
+          "ordre": 7
+        }, 
+        {
+          "code": "PROPINT", 
+          "label": "Propriété intellectuelle", 
+          "ordre": 23
+        }
+      ]
+    }, 
+    "adresse": "VERBA ET RES\r\nLE SURENA\r\n5 QUAI MARCEL DASSAULT", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [
+      {
+        "denomination": "AIRBUS DS SLC", 
+        "identifiantNational": "523940971", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AGENCE NATIONALE SECURITE SYSTEMES INFORMATION", 
+        "identifiantNational": "130007669", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BULL SAS", 
+        "identifiantNational": "642058739", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MICROSOFT FRANCE", 
+        "identifiantNational": "327733184", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TREND MICRO FRANCE", 
+        "identifiantNational": "411389968", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CCI FRANCE", 
+        "identifiantNational": "187500020", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AMOSSYS", 
+        "identifiantNational": "493348890", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DCNS", 
+        "identifiantNational": "441133808", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AUSY", 
+        "identifiantNational": "352905707", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FIREEYE UK LTD", 
+        "identifiantNational": "750974867", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA POSTE", 
+        "identifiantNational": "356000000", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "POLE D EXCELLENCE CYBER", 
+        "identifiantNational": "822406526", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PWC HOLDINGS FRANCE", 
+        "identifiantNational": "809710403", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "92150", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur du CyberCercle", 
+        "nom": "GAIGNARD-PILLIET", 
+        "prenom": "Bénédicte"
+      }
+    ], 
+    "dateCreation": "2017-11-17T16:52:51", 
+    "datePremierePublication": "2017-11-17T16:52:51", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "VERBA ET RES", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "GROZELIER", 
+        "prenom": "Isabelle"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "802045336", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/802045336.json", 
+    "ville": "SURESNES"
   }, 
   {
     "activites": {
