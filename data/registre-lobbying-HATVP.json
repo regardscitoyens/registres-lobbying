@@ -12808,6 +12808,136 @@
           "code": "EUROPEEN", 
           "label": "Européen", 
           "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "MEDIA", 
+          "label": "Médias, industries culturelles", 
+          "ordre": 18
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "COM", 
+          "label": "Communications électroniques", 
+          "ordre": 28
+        }
+      ]
+    }, 
+    "adresse": "BOUYGUES TELECOM\r\nBOUYGUES TELECOM ENTREPRISES\r\n37 39\r\n37 RUE BOISSIERE", 
+    "affiliations": [
+      {
+        "denomination": "FEDER FRANCAISE TELECOMS COMMUNICATIONS ELECTRONIQUES", 
+        "identifiantNational": "502086325", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75773", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "DGA secrétaire général", 
+        "nom": "CASAS", 
+        "prenom": "Didier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général Délégué", 
+        "nom": "VIEL", 
+        "prenom": "Richard"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président Directeur Général", 
+        "nom": "ROUSSAT", 
+        "prenom": "Olivier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "DGA opérations techniques", 
+        "nom": "LEGRAND", 
+        "prenom": "Yves"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des affaires réglementaires", 
+        "nom": "DE TOURNADRE", 
+        "prenom": "Hervé"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des affaires publiques", 
+        "nom": "COLOMBANI", 
+        "prenom": "Anthony"
+      }
+    ], 
+    "dateCreation": "2017-11-18T15:54:43", 
+    "datePremierePublication": "2017-11-18T15:54:43", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "BOUYGUES TELECOM", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président Directeur Général", 
+        "nom": "ROUSSAT", 
+        "prenom": "Olivier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général Délégué", 
+        "nom": "VIEL", 
+        "prenom": "Richard"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "397480930", 
+    "lienSiteWeb": "https://www.bouyguestelecom.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/397480930.json", 
+    "ville": "PARIS CEDEX 16"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
         }, 
         {
           "code": "MONDIAL", 
