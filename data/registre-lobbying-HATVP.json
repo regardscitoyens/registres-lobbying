@@ -10391,6 +10391,703 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }
+      ]
+    }, 
+    "adresse": "13 rue Auber\n75009 Paris", 
+    "affiliations": [
+      {
+        "denomination": "MOUVEMENT ENTREPRISE FRANCE INTERNATIONA", 
+        "identifiantNational": "378236376", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PARIS EUROPLACE", 
+        "identifiantNational": "393769252", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS  A F E C E I", 
+        "identifiantNational": "428419287", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "AXELTIS", 
+        "identifiantNational": "484516901", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "B CAPITAL", 
+        "identifiantNational": "399223437", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED", 
+        "identifiantNational": "812914463", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BANQUE PRIVEE 1818", 
+        "identifiantNational": "306063355", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BANQUE NEUFLIZE OBC", 
+        "identifiantNational": "552003261", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BANQUE NOMURA FRANCE", 
+        "identifiantNational": "317496446", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BANQUE PALATINE", 
+        "identifiantNational": "542104245", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HSBC BANK PLC", 
+        "identifiantNational": "315431734", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTINET EUROPE LIMITED", 
+        "identifiantNational": "492016738", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTER EXPANSION - FONGEPAR", 
+        "identifiantNational": "538045964", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AMUNDI INTERMEDIATION", 
+        "identifiantNational": "352020200", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "APICIL INVEST SA", 
+        "identifiantNational": "504921396", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ARKEA DIRECT BANK", 
+        "identifiantNational": "384288890", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AUREL BGC", 
+        "identifiantNational": "652051178", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AXA EPARGNE ENTREPRISE", 
+        "identifiantNational": "428191027", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AXA INVESTMENT MANAGERS IF", 
+        "identifiantNational": "414875575", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EXOE", 
+        "identifiantNational": "492940499", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FINAVEO & ASSOCIES", 
+        "identifiantNational": "512179680", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FUNDQUEST ADVISOR", 
+        "identifiantNational": "398663401", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GFI SECURITIES LIMITED", 
+        "identifiantNational": "484895560", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE DE BOURSE GILBERT DUPONT", 
+        "identifiantNational": "472500503", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPAMA EPARGNE SALARIALE", 
+        "identifiantNational": "428768352", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HPC", 
+        "identifiantNational": "352177141", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EOS VENTURE", 
+        "identifiantNational": "753153204", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UBS LIMITED SUCCURSALE DE FRANCE", 
+        "identifiantNational": "500512983", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UBS SECURITIES FRANCE SA", 
+        "identifiantNational": "682010095", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BOURSE DIRECT ET BOURSE DISCOUNT", 
+        "identifiantNational": "408790608", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CREDIT AGRICOLE SA", 
+        "identifiantNational": "784608416", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CREDIT MUTUEL ARKEA", 
+        "identifiantNational": "775577018", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CREDIT SUISSE (LUXEMBOURG) S.A.", 
+        "identifiantNational": "808392104", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DESCARTES TRADING", 
+        "identifiantNational": "450828074", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EDMOND DE ROTHSCHILD (FRANCE)", 
+        "identifiantNational": "572037026", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ENGIE GLOBAL MARKETS", 
+        "identifiantNational": "437982937", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EXANE", 
+        "identifiantNational": "342040268", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SELECTION 1818", 
+        "identifiantNational": "519995450", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE GENERALE", 
+        "identifiantNational": "552120222", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SQUARE GLOBAL LIMITED", 
+        "identifiantNational": "824444467", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "STANDARD CHARTERED BANK", 
+        "identifiantNational": "502395858", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "STATE STREET BANQUE SA", 
+        "identifiantNational": "381728724", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BARCLAYS BANK PLC", 
+        "identifiantNational": "381066281", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BINCKBANK N.V.", 
+        "identifiantNational": "495193849", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BNP PARIBAS ARBITRAGE", 
+        "identifiantNational": "394895833", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BNP PARIBAS DEALING SERVICES", 
+        "identifiantNational": "454084237", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CH.COMMERCE INDUSTRIE LIMOGES HTE VIENNE", 
+        "identifiantNational": "188708010", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE AUXILIAIRE D'ETUDES ET D'INVESTISSEMENTS MOBILIERS", 
+        "identifiantNational": "732007877", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "JOH. BERENBERG GOSSLER & CO", 
+        "identifiantNational": "487653578", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "JP MORGAN SECURITIES PLC", 
+        "identifiantNational": "437497589", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "KEPLER CHEUVREUX", 
+        "identifiantNational": "413064841", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA FRANCAISE BANK", 
+        "identifiantNational": "793724873", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BANQUE CENTRALE DE COMPENSATION", 
+        "identifiantNational": "692032485", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CREDIT LYONNAIS", 
+        "identifiantNational": "954509741", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LEONTEQ SECURITIES (EUROPE) GMBH", 
+        "identifiantNational": "532193414", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LOMBARD ODIER (EUROPE) S.A.", 
+        "identifiantNational": "803905157", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EXANE DERIVATIVES", 
+        "identifiantNational": "491294567", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EXCLUSIVE PARTNERS", 
+        "identifiantNational": "518935713", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TRADITION SECURITIES AND FUTURES", 
+        "identifiantNational": "342994688", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TSAF OTC", 
+        "identifiantNational": "450959341", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ARFINCO", 
+        "identifiantNational": "488683061", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BNP PARIBAS SECURITIES SERVICES", 
+        "identifiantNational": "552108011", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BPCE", 
+        "identifiantNational": "493455042", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BRED BANQUE POPULAIRE", 
+        "identifiantNational": "552091795", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK", 
+        "identifiantNational": "304187701", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CA INDOSUEZ WEALTH (FRANCE)", 
+        "identifiantNational": "572171635", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CACEIS CORPORATE TRUST (CACEIS CT)", 
+        "identifiantNational": "439430976", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CREDIT INDUSTRIEL ET COMMERCIAL", 
+        "identifiantNational": "542016381", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CITIGROUP GLOBAL MARKETS LIMITED", 
+        "identifiantNational": "408398311", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CLARESCO BOURSE", 
+        "identifiantNational": "424965234", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LOUIS CAPITAL MARKETS UK LLP", 
+        "identifiantNational": "505283515", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LYXOR INTERMEDIATION", 
+        "identifiantNational": "517865598", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MAINFIRST BANK AKTIENGESELLSCHAFT", 
+        "identifiantNational": "538446444", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MARIGNY CAPITAL", 
+        "identifiantNational": "790309736", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOSAIC FINANCE", 
+        "identifiantNational": "514146315", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MORGAN STANLEY FRANCE", 
+        "identifiantNational": "420318206", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NEXO CAPITAL", 
+        "identifiantNational": "753856772", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OCTO FINANCES SA", 
+        "identifiantNational": "383214103", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ODA FUTURES", 
+        "identifiantNational": "790085112", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ODDO CONTREPARTIE", 
+        "identifiantNational": "378406581", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OFI INVESTMENT SOLUTIONS", 
+        "identifiantNational": "394252415", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ORIENT FINANCE", 
+        "identifiantNational": "401975289", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PORTZAMPARC SOCIETE DE BOURSE", 
+        "identifiantNational": "786001339", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "POWERNEXT SA", 
+        "identifiantNational": "438750440", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GOLDMAN SACHS PARIS INC ET CIE", 
+        "identifiantNational": "342131547", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNICREDIT BANK AG", 
+        "identifiantNational": "389505975", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "WISEED", 
+        "identifiantNational": "504355520", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CARAX", 
+        "identifiantNational": "423790864", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CDC PLACEMENT", 
+        "identifiantNational": "392142030", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CM-CIC EPARGNE SALARIALE", 
+        "identifiantNational": "692020878", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CMC MARKETS UK PLC", 
+        "identifiantNational": "525225918", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMPAGNIE FINANCIERE JACQUES COEUR", 
+        "identifiantNational": "450920384", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COPARTIS", 
+        "identifiantNational": "420625238", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CREDIT AGRICOLE TITRES", 
+        "identifiantNational": "317781128", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CREDIT SUISSE SECURITES (EUROPE) LIMITED", 
+        "identifiantNational": "428170476", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DEUTSCHE BANK AKTIENGESELLSCHAFT", 
+        "identifiantNational": "310327481", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EASYBOURSE", 
+        "identifiantNational": "484014410", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EPEX SPOT", 
+        "identifiantNational": "508010501", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EQUITIM", 
+        "identifiantNational": "500933635", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROCLEAR FRANCE", 
+        "identifiantNational": "542058086", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EURONEXT PARIS SA", 
+        "identifiantNational": "343406732", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MARCHE DE TITRES-FRANCE (MTS FRANCE)", 
+        "identifiantNational": "429921588", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NATIXIS", 
+        "identifiantNational": "542044524", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NATIXIS ASSET MANAGEMENT FINANCE", 
+        "identifiantNational": "479989238", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NORTIA INVEST", 
+        "identifiantNational": "532446598", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ODDO ET CIE", 
+        "identifiantNational": "652027384", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OPERA TRADING CAPITAL", 
+        "identifiantNational": "433998085", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PRADO EPARGNE", 
+        "identifiantNational": "338573918", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PROCAPITAL", 
+        "identifiantNational": "428677900", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PROREALTIME", 
+        "identifiantNational": "499355444", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RAYMOND JAMES EURO EQUITIES", 
+        "identifiantNational": "439196445", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "REGARDBTP", 
+        "identifiantNational": "451292312", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "REGULATION PARTNERS", 
+        "identifiantNational": "534572813", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ROTHSCHILD ET CIE BANQUE", 
+        "identifiantNational": "323317032", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAXO BANQUE (FRANCE)", 
+        "identifiantNational": "483632501", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SG OPTION EUROPE", 
+        "identifiantNational": "341369833", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SICAV ON LINE", 
+        "identifiantNational": "423973494", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PAREL", 
+        "identifiantNational": "387640923", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "GIORDANO", 
+        "prenom": "Stéphane"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "DE LAUZUN", 
+        "prenom": "Pierre"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général Adjoint", 
+        "nom": "DE SAINT MARS", 
+        "prenom": "Bertrand"
+      }
+    ], 
+    "dateCreation": "2017-11-20T17:14:47", 
+    "datePremierePublication": "2017-11-20T17:14:47", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "ASSOCIATION FRANCAISE DES MARCHES FINANCIERS AMAFI", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "GIORDANO", 
+        "prenom": "Stéphane"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général", 
+        "nom": "DE LAUZUN", 
+        "prenom": "Pierre"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général Adjoint", 
+        "nom": "DE SAINT MARS", 
+        "prenom": "Bertrand"
+      }
+    ], 
+    "emailDeContact": "info@amafi.fr", 
+    "historique": [], 
+    "identifiantNational": "W751085070", 
+    "lienPageTwitter": "https://twitter.com/amafi_fr", 
+    "lienSiteWeb": "http://amafi.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "01 53 83 00 70", 
+    "typeIdentifiantNational": "RNA", 
+    "url_json": "http://www.hatvp.fr/agora/W751085070.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -11434,6 +12131,269 @@
     "telephoneDeContact": "0142335104", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/775660087.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }
+      ]
+    }, 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [
+      {
+        "denomination": "ENI GAS & POWER FRANCE", 
+        "identifiantNational": "451225692", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LAMPIRIS FRANCE", 
+        "identifiantNational": "518984992", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GAZ DE PARIS", 
+        "identifiantNational": "510764335", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE D'APPROVISIONNEMENT ET DE VENTE D'ENERGIES", 
+        "identifiantNational": "530609668", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ENERCOOP", 
+        "identifiantNational": "484223094", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OUI ENERGY", 
+        "identifiantNational": "824763536", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DIRECT ENERGIE", 
+        "identifiantNational": "442395448", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire générale", 
+        "nom": "CARPENTIER", 
+        "prenom": "Fiona"
+      }
+    ], 
+    "dateCreation": "2017-11-20T17:02:06", 
+    "datePremierePublication": "2017-11-20T17:02:06", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "ASSOCIATION NATIONALE DES OPERATEURS DETAILLANTS EN ENERGIE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "CHONÉ", 
+        "prenom": "Fabien"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "W751178527", 
+    "lienSiteWeb": "www.anode-asso.org", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": false, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "RNA", 
+    "url_json": "http://www.hatvp.fr/agora/W751178527.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "C/o Anthenor\n4, rue Marbeuf", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [
+      {
+        "denomination": "MEDTRONIC FRANCE", 
+        "identifiantNational": "722008232", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ABBOTT FRANCE", 
+        "identifiantNational": "602950206", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "3M FRANCE", 
+        "identifiantNational": "542078555", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALLERGAN FRANCE", 
+        "identifiantNational": "312856917", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BOSTON SCIENTIFIC", 
+        "identifiantNational": "329938245", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BECTON DICKINSON FRANCE", 
+        "identifiantNational": "056501711", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EDWARDS LIFESCIENCES SAS", 
+        "identifiantNational": "429487507", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GUERBET FRANCE", 
+        "identifiantNational": "789526555", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ETHICON", 
+        "identifiantNational": "612030619", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PHILIPS FRANCE", 
+        "identifiantNational": "402805527", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ST JUDE MEDICAL FRANCE SAS", 
+        "identifiantNational": "398043356", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SMITH ET NEPHEW SAS", 
+        "identifiantNational": "577150840", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "W L GORE ET ASSOCIES", 
+        "identifiantNational": "302638929", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire général délégué", 
+        "nom": "DE ROMANCE", 
+        "prenom": "Timothé"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "SZWARCENSZTEIN", 
+        "prenom": "Karine"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Vice-Présidente", 
+        "nom": "BIRON", 
+        "prenom": "Noëlle"
+      }
+    ], 
+    "dateCreation": "2017-11-20T17:47:55", 
+    "datePremierePublication": "2017-11-20T17:47:55", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "ASSOCIATION POUR LA PROMOTION DE L'INNOVATION DES DISPOSITIFS MEDICAUX APIDIM.", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "SZWARCENSZTEIN", 
+        "prenom": "Karine"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Vice-Présidente", 
+        "nom": "BIRON", 
+        "prenom": "Noëlle"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "FOREST", 
+        "prenom": "Jérémie"
+      }
+    ], 
+    "emailDeContact": "contact@apidim.org", 
+    "historique": [], 
+    "identifiantNational": "W751184083", 
+    "lienSiteWeb": "http://apidim.org/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0142275337", 
+    "typeIdentifiantNational": "RNA", 
+    "url_json": "http://www.hatvp.fr/agora/W751184083.json", 
     "ville": "PARIS"
   }, 
   {
@@ -14864,6 +15824,239 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/785388356.json", 
     "ville": "LEVALLOIS PERRET"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "COMMERCE", 
+          "label": "Commerce extérieur", 
+          "ordre": 5
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "CHAMBRE SYNDICALE DE L ALUMINIUM\r\nAFA\r\nPARIS 16\r\n17 RUE DE L AMIRAL HAMELIN", 
+    "affiliations": [
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "784668618", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "TRIMET FRANCE", 
+        "identifiantNational": "519029573", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAPA PROFILES ALBI", 
+        "identifiantNational": "392165650", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAPA BUILDEX TOULOUSE", 
+        "identifiantNational": "451224877", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FLANDRIA ALUMINIUM", 
+        "identifiantNational": "380424200", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSTELLIUM NEUF BRISACH", 
+        "identifiantNational": "807641360", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAPA PROFILES NORD OUEST", 
+        "identifiantNational": "448596361", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAPA PROFILES PUGET", 
+        "identifiantNational": "312757974", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALUMINIUM FRANCE EXTRUSION SAINT FLORENTIN", 
+        "identifiantNational": "352610646", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALUMINIUM FRANCE EXTRUSION HAM", 
+        "identifiantNational": "792808545", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EXTOL FRANCE", 
+        "identifiantNational": "753426295", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALPINE ALUMINIUM", 
+        "identifiantNational": "812576957", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FIVES SOLIOS", 
+        "identifiantNational": "699806675", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MONTUPET", 
+        "identifiantNational": "542050794", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AUBERT & DUVAL", 
+        "identifiantNational": "380342808", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PRAXAIR PHP SAS", 
+        "identifiantNational": "487625758", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALUMINIA", 
+        "identifiantNational": "803015635", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PROFILS SYSTEMES", 
+        "identifiantNational": "340757764", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALUMINIUM DUNKERQUE", 
+        "identifiantNational": "321970782", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSTELLIUM ISSOIRE", 
+        "identifiantNational": "672014081", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSTELLIUM USSEL", 
+        "identifiantNational": "322847724", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "C-TEC CONSTELLIUM TECHNOLOGY CENTER", 
+        "identifiantNational": "348366410", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSTELLIUM MONTREUIL JUIGNE", 
+        "identifiantNational": "712032705", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSTELLIUM EXTRUSIONS FRANCE", 
+        "identifiantNational": "662032374", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALTEO GARDANNE", 
+        "identifiantNational": "410127948", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RIO TINTO FRANCE S.A.S", 
+        "identifiantNational": "562095166", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75783", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Délégué général", 
+        "nom": "MOUNIER", 
+        "prenom": "Cyrille"
+      }
+    ], 
+    "dateCreation": "2017-11-20T15:00:40", 
+    "datePremierePublication": "2017-11-20T15:00:40", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "CHAMBRE SYNDICALE DE L'ALUMINIUM", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "DELEGUE GENERAL", 
+        "nom": "MOUNIER", 
+        "prenom": "Cyrille"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT", 
+        "nom": "FAURE", 
+        "prenom": "Jean-Francois"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "VICE PRESIDENT", 
+        "nom": "BECK", 
+        "prenom": "Yann"
+      }
+    ], 
+    "emailDeContact": "afa@aluminium.fr", 
+    "historique": [], 
+    "identifiantNational": "502934029", 
+    "lienSiteWeb": "http://www.aluminium.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/502934029.json", 
+    "ville": "PARIS CEDEX 16"
   }, 
   {
     "activites": {
@@ -53677,6 +54870,11 @@
         "denomination": "CONSEIL NATION ORDRE ARCHITECT", 
         "identifiantNational": "784356354", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS FRANCAISE CONTRE LES MYOPATHIES", 
+        "identifiantNational": "775609571", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "codePostal": "75007", 
@@ -53765,7 +54963,7 @@
         "prenom": "Amanda"
       }
     ], 
-    "dateCreation": "2017-10-09T17:26:27", 
+    "dateCreation": "2017-11-20T16:11:33", 
     "datePremierePublication": "2017-08-17T15:13:56", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -54527,6 +55725,274 @@
           }
         ], 
         "dateCreation": "2017-10-06T11:09:35", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "SEANCE PUBLIQUE", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente", 
+            "nom": "FANDRE", 
+            "prenom": "Capucine"
+          }
+        ], 
+        "identifiantNational": "438568610", 
+        "lienPageFacebook": "https://www.facebook.com/seancepublique/", 
+        "lienPageLinkedin": "https://www.linkedin.com/company-beta/1333956/", 
+        "lienPageTwitter": "https://twitter.com/Seance_Publique?lang=fr", 
+        "lienSiteWeb": "http://www.seance-publique.com/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0145445095", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "SEANCE PUBLIQUE\n2-4, RUE DE SAINT SIMON", 
+        "affiliations": [
+          {
+            "denomination": "ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES (AFCL)", 
+            "identifiantNational": "H000000001", 
+            "typeIdentifiantNational": "HATVP"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AVO_CONS", 
+          "code": "COCAB", 
+          "label": "Cabinet de conseil"
+        }, 
+        "clients": [
+          {
+            "denomination": "SYSTEME U CENTRALE NATIONALE", 
+            "identifiantNational": "304602956", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PEUGEOT SA", 
+            "identifiantNational": "552100554", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GADOL OPTIC 2000", 
+            "identifiantNational": "326980018", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SANEF", 
+            "identifiantNational": "632050019", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NEXEM", 
+            "identifiantNational": "817664659", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CENTR ETUD DOCUMENTA DU SUCRE", 
+            "identifiantNational": "784668816", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS INTERPROF DES FRUITS & LEGUMES FRAIS", 
+            "identifiantNational": "308647395", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNEDIC", 
+            "identifiantNational": "775671878", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION PROFESSIONNELLE DES ENTREPRISES DE L EAU", 
+            "identifiantNational": "784717068", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDENE SERVICES", 
+            "identifiantNational": "652027863", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CENTRE FRANCAIS DES FONDATIONS", 
+            "identifiantNational": "444560080", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ELEPHANT VERT FRANCE", 
+            "identifiantNational": "808276315", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INSTIT RADIOPROTECTION SURETE NUCLEAIRE", 
+            "identifiantNational": "440546018", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CONFEDERATION GENERALE DES PLANTEURS DE BETTERAVES (CGB)", 
+            "identifiantNational": "H000000009", 
+            "typeIdentifiantNational": "HATVP"
+          }, 
+          {
+            "denomination": "AGENCE NAT GESTION DECHETS RADIOACTIFS", 
+            "identifiantNational": "390199669", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS UNION FRANCAISE DE L'ELECTRICITE", 
+            "identifiantNational": "432492007", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION DES SYNDICATS DE L IMMOBILIER", 
+            "identifiantNational": "512536467", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COMITE NAT INTERP POMME DE TER", 
+            "identifiantNational": "310838198", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INSTITUT NATIONAL DE L'ENVIRONNEMENT INDUSTRIEL ET DES RISQUES", 
+            "identifiantNational": "381984921", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CONSEIL NATION ORDRE ARCHITECT", 
+            "identifiantNational": "784356354", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75007", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente", 
+            "nom": "FANDRE", 
+            "prenom": "Capucine"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Conseil", 
+            "nom": "DE DURFORT", 
+            "prenom": "Guillemette"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Parlement", 
+            "nom": "JULLIEN", 
+            "prenom": "Murielle"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Consultant sénior", 
+            "nom": "MORILLION", 
+            "prenom": "Clément"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "", 
+            "nom": "CHARPENTIER", 
+            "prenom": "Thibault"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "", 
+            "nom": "GERMOND", 
+            "prenom": "Michel"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "", 
+            "nom": "GARROUSTE", 
+            "prenom": "Gilles"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "", 
+            "nom": "BERANGER", 
+            "prenom": "Estelle"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "", 
+            "nom": "NEVEU", 
+            "prenom": "Alexandre"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "", 
+            "nom": "HUNTER", 
+            "prenom": "Aliénor"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "", 
+            "nom": "THARAUX", 
+            "prenom": "Margaux"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "", 
+            "nom": "D'ABRIGEON", 
+            "prenom": "Marion"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "", 
+            "nom": "PASQUIER DE SOLAN", 
+            "prenom": "Gaëlle"
+          }, 
+          {
+            "civilite": "MME", 
+            "nom": "XAYASOMBATH", 
+            "prenom": "Amanda"
+          }
+        ], 
+        "dateCreation": "2017-10-09T17:26:27", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": true, 
         "denomination": "SEANCE PUBLIQUE", 
@@ -55718,6 +57184,315 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/487650632.json", 
     "ville": "BOIS COLOMBES"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "SUEZ EAU FRANCE\nTOUR CB21 \n16 PLACE DE L IRIS\n", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION PROFESSIONNELLE DES ENTREPRISES DE L EAU", 
+        "identifiantNational": "784717068", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT DE LA GESTION DELEGUEE", 
+        "identifiantNational": "407693837", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92040", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "GOURAULT", 
+        "prenom": "Anne"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "CAMUS", 
+        "prenom": "Betrrand"
+      }
+    ], 
+    "dateCreation": "2017-11-20T18:00:01", 
+    "datePremierePublication": "2017-11-20T18:00:01", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "SUEZ EAU FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "CAMUS", 
+        "prenom": "Bertrand"
+      }
+    ], 
+    "emailDeContact": "direction.relations.institutionnelles@suez.com", 
+    "historique": [], 
+    "identifiantNational": "410034607", 
+    "lienPageTwitter": "https://twitter.com/suezFR?lang=fr", 
+    "lienSiteWeb": "https://www.suez.com/fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/410034607.json", 
+    "ville": "PARIS LA DEFENSE CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "SUEZ GROUPE\nTOUR CB21 \n16 PLACE DE L IRIS\n", 
+    "affiliations": [
+      {
+        "denomination": "INSTITUT DE LA GESTION DELEGUEE", 
+        "identifiantNational": "407693837", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT DE L'ECONOMIE CIRCULAIRE", 
+        "identifiantNational": "790867493", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSO FRANCAI ENTREPRIS PRIVEES", 
+        "identifiantNational": "326943016", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92040", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Déléguée aux Relations institutionnelles", 
+        "nom": "GOURAULT", 
+        "prenom": "Anne"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur du Développement et des Relations Institutionnelles", 
+        "nom": "FERNIOT", 
+        "prenom": "Benjamin"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Déléguée aux Relations Institutionnelles Recyclage et Valorisation France", 
+        "nom": "MARTIN", 
+        "prenom": "Isabelle"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Déléguée aux Relations Institutionnelles France", 
+        "nom": "MEGDER", 
+        "prenom": "Nora"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué aux Relations Institutionnelles Recyclage et Valorisation France", 
+        "nom": "HUIN", 
+        "prenom": "Arthur"
+      }
+    ], 
+    "dateCreation": "2017-11-20T17:59:04", 
+    "datePremierePublication": "2017-11-20T17:59:04", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "SUEZ GROUPE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "CHAUSSADE", 
+        "prenom": "Jean-Louis"
+      }
+    ], 
+    "emailDeContact": "direction.relations.institutionnelles@suez.com", 
+    "historique": [], 
+    "identifiantNational": "410118608", 
+    "lienPageTwitter": "https://twitter.com/suez?lang=fr", 
+    "lienSiteWeb": "https://www.suez.com/fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/410118608.json", 
+    "ville": "PARIS LA DEFENSE CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "SUEZ RV FRANCE\nTOUR CB 21\n16 PLACE DE L'IRIS", 
+    "affiliations": [
+      {
+        "denomination": "FEDERAT NAT ACTIVITE DECHET", 
+        "identifiantNational": "784360182", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION DES ENTREPRISES DU RECYCLAGE", 
+        "identifiantNational": "784358749", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT DE LA GESTION DELEGUEE", 
+        "identifiantNational": "407693837", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92040", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "GOURAULT", 
+        "prenom": "Anne"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice déléguée aux Relations institutionnelles Recyclage et Valorisation France", 
+        "nom": "MARTIN", 
+        "prenom": "Isabelle"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué aux Relations Institutionnelles Recyclage et Valorisation France", 
+        "nom": "HUIN", 
+        "prenom": "Arthur"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "MAILLARD", 
+        "prenom": "Philippe"
+      }
+    ], 
+    "dateCreation": "2017-11-20T18:02:06", 
+    "datePremierePublication": "2017-11-20T18:02:06", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "SUEZ RV FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "MAILLARD", 
+        "prenom": "Philippe"
+      }
+    ], 
+    "emailDeContact": "direction.relations.institutionnelles@suez.com", 
+    "historique": [], 
+    "identifiantNational": "775690035", 
+    "lienPageTwitter": "https://twitter.com/suezFR?lang=fr", 
+    "lienSiteWeb": "https://www.suez.com/fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/775690035.json", 
+    "ville": "PARIS LA DEFENSE CEDEX"
   }, 
   {
     "activites": {
@@ -69234,6 +71009,543 @@
     "telephoneDeContact": "01 43 41 71 72", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/410168512.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "UNION DES ENTREPRISES DE PROXIMITE\r\n53 RUE AMPERE", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "CONFEDERAT ARTISANAT PETITE ENT BATIMENT", 
+        "identifiantNational": "775682107", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONFEDERATION GENERALE ALIMENTAT.DETAIL", 
+        "identifiantNational": "784717225", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONFED NAT ARTISAN DES METIER ET SERVICE", 
+        "identifiantNational": "784409211", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION NATIONALE DES PROFESSIONS LIBERALES", 
+        "identifiantNational": "302991591", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75017", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire général", 
+        "nom": "BURBAN", 
+        "prenom": "Pierre"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable des relations parlementaires", 
+        "nom": "NOTE", 
+        "prenom": "Thérèse"
+      }
+    ], 
+    "dateCreation": "2017-11-20T18:55:00", 
+    "datePremierePublication": "2017-11-20T18:55:00", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "UNION DES ENTREPRISES DE PROXIMITE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "GRISET", 
+        "prenom": "Alain"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "1er Vice-Président en charge des affaires sociales, des relations du travail et de la parité", 
+        "nom": "LIEBUS", 
+        "prenom": "Patrick"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "2e Vice-Président en charge des affaires économiques et fiscales, du développement durable et des territoires", 
+        "nom": "CHASSANG", 
+        "prenom": "Michel"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "3e Vice-Président en charge de l'éducation, de l'orientation et de la formation", 
+        "nom": "MAUVIGNEY", 
+        "prenom": "Joël"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "4e Vice-Président en charge des affaires européennes", 
+        "nom": "MARTIN", 
+        "prenom": "Pierre"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire général", 
+        "nom": "BURBAN", 
+        "prenom": "Pierre"
+      }
+    ], 
+    "emailDeContact": "u2p@u2p-france.fr", 
+    "historique": [], 
+    "identifiantNational": "349681098", 
+    "lienPageFacebook": "https://fr-fr.facebook.com/U2P-Union-des-entreprises-de-proximit%C3%A9-1497575987179168/", 
+    "lienPageTwitter": "https://twitter.com/U2P_france", 
+    "lienSiteWeb": "http://u2p-france.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0147633131", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/349681098.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }
+      ]
+    }, 
+    "adresse": "UAE \nc/o Anthenor Public Affairs\n4, rue Marbeuf", 
+    "affiliations": [
+      {
+        "denomination": "INSTITUT FILTRATION TECHNIQUE SEPARATIVE", 
+        "identifiantNational": "322790403", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIAT TECHNIQUE ENERGIE ENVIRONNEMENT", 
+        "identifiantNational": "315062786", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS SCIENTIFIQUE TECH EAU ENVIRON", 
+        "identifiantNational": "784717050", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DIRIGEANTS COMMERCIAUX DE FRANCE", 
+        "identifiantNational": "395238397", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION DE LA VENTE DIRECT", 
+        "identifiantNational": "784856064", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ARPP AUTORITE DE REGULATION PROFESSIONNELLE DE LA PUBLICITE", 
+        "identifiantNational": "307287193", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AFNOR CERTIFICATION", 
+        "identifiantNational": "479076002", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS INGEN CHAUFF VENTIL FR", 
+        "identifiantNational": "775676331", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "SYNDI", 
+      "label": "Syndicat"
+    }, 
+    "clients": [
+      {
+        "denomination": "RICHARDOT GERARD", 
+        "identifiantNational": "403887904", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TALASSA", 
+        "identifiantNational": "492442991", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AQUA SOFT LORRAINE", 
+        "identifiantNational": "329464176", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC DE TRAITEMENT DES EAUX DU VAR", 
+        "identifiantNational": "420830390", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE DE TRAITEMENT DES EAUX ET D'INSTALLATION DE PISCINES", 
+        "identifiantNational": "324347970", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPEMENT DES CONCESSIONNAIRES INDEPENDANTS CONFIRMES", 
+        "identifiantNational": "797490158", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CASTALIE", 
+        "identifiantNational": "532029600", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CULLIGAN FRANCE", 
+        "identifiantNational": "478658503", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AQUA CLIM SERVICES", 
+        "identifiantNational": "817795792", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "S.E.C. LINDSAY", 
+        "identifiantNational": "086150216", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TECHN'EAU 38", 
+        "identifiantNational": "421633801", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BRITA WASSER FILTER SYSTEME FRANCE", 
+        "identifiantNational": "383917101", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CIELTER", 
+        "identifiantNational": "450469010", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DAVIDS RAYMOND ROBERT", 
+        "identifiantNational": "399599711", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AM VITALI", 
+        "identifiantNational": "400124988", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EAU CONCEPT DEVELOPPEMENT", 
+        "identifiantNational": "479980864", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "E.C.M.L", 
+        "identifiantNational": "482694833", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AAA SOFT'EAU", 
+        "identifiantNational": "388015497", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROPEAN WATER TREATMENT", 
+        "identifiantNational": "394137095", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "KINETICO - FRANCE", 
+        "identifiantNational": "385167697", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OUEST CONSEILS ET TRAITEMENT DES EAUX", 
+        "identifiantNational": "429337082", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAINOPURE", 
+        "identifiantNational": "382798437", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOFRADE", 
+        "identifiantNational": "324127430", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ESCO FRANCE", 
+        "identifiantNational": "414982942", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ETATRON FRANCE", 
+        "identifiantNational": "533998761", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PENTAIR WATER FRANCE SAS", 
+        "identifiantNational": "410617914", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BWT FRANCE", 
+        "identifiantNational": "562110619", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMPAGNIE DES SALINS DU MIDI ET DES SALINES DE L'EST", 
+        "identifiantNational": "412431744", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOTCO", 
+        "identifiantNational": "415363100", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "WATERBOSS EUROPE", 
+        "identifiantNational": "519058820", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AQUA FILTRES", 
+        "identifiantNational": "392443560", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INN'EAUVA", 
+        "identifiantNational": "818153157", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AQUA TEMPS-TRAITEMENT EAUX MIDI PYRENEES SERVICE", 
+        "identifiantNational": "410363709", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VERSEAUX", 
+        "identifiantNational": "498381151", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAS H2 EAUX AZUR", 
+        "identifiantNational": "439912114", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AFFINAGE DES EAUX CULLIGAN AUBE", 
+        "identifiantNational": "380424382", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE DE TRAITEMENT DES EAUX ET PISCINES DU QUERCY", 
+        "identifiantNational": "433952991", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LE HAVRE TRAITEMENT DES EAUX", 
+        "identifiantNational": "412970469", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LOIRE ET SEINE TRAITEMENT DES EAUX", 
+        "identifiantNational": "332150523", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HYGIEAU SUD", 
+        "identifiantNational": "440070654", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RAFF", 
+        "identifiantNational": "663820140", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "M.F. PISCINES", 
+        "identifiantNational": "480569540", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA GENERALE WATER", 
+        "identifiantNational": "492150859", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GENERALE D'ECO AFFINAGE", 
+        "identifiantNational": "391960739", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AQUATECH", 
+        "identifiantNational": "349261669", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ML2A", 
+        "identifiantNational": "518673249", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AQUION", 
+        "identifiantNational": "813620507", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FRANFINANCE LOCATION", 
+        "identifiantNational": "314975806", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CA CONSUMER FINANCE", 
+        "identifiantNational": "542097522", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Secrétariat général", 
+        "nom": "SCHNEIDER", 
+        "prenom": "Vincent"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétariat général", 
+        "nom": "PAOLI", 
+        "prenom": "Ludivine"
+      }
+    ], 
+    "dateCreation": "2017-11-20T16:40:28", 
+    "datePremierePublication": "2017-11-20T16:40:28", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "UNION ENTREPRENEURS D'AFFINAGE DE L'EAU", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "SCELLES", 
+        "prenom": "Patrick"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-président", 
+        "nom": "DUTHILLEUX", 
+        "prenom": "Didier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-président", 
+        "nom": "DE MOL", 
+        "prenom": "Guy"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Trésorier", 
+        "nom": "LEPETIT", 
+        "prenom": "Marc"
+      }
+    ], 
+    "emailDeContact": "contact@uae.fr", 
+    "historique": [], 
+    "identifiantNational": "439818493", 
+    "lienPageFacebook": "https://www.facebook.com/jetraitemoneau/", 
+    "lienPageTwitter": "https://twitter.com/uae_france", 
+    "lienSiteWeb": "http://www.uae.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0787815357", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/439818493.json", 
     "ville": "PARIS"
   }, 
   {
