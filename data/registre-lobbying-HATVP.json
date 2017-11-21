@@ -28454,6 +28454,75 @@
       ], 
       "listSecteursActivites": [
         {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }
+      ]
+    }, 
+    "adresse": "FEDERATION NATIONALE BOIS\r\n6 RUE FRANCOIS 1ER", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "BERWICK", 
+        "prenom": "Caroline"
+      }
+    ], 
+    "dateCreation": "2017-11-21T18:25:56", 
+    "datePremierePublication": "2017-11-21T18:25:56", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "FEDERATION NATIONALE DU BOIS (FNB)", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "SIAT", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général", 
+        "nom": "DOUZAIN-DIDIER", 
+        "prenom": "Nicolas"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "784178014", 
+    "lienSiteWeb": "http://www.fnbois.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0156695200", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784178014.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
           "code": "FINANCE", 
           "label": "Banques, assurances, secteur financier", 
           "ordre": 4
