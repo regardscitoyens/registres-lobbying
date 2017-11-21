@@ -10391,6 +10391,86 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "SPORTS", 
+          "label": "Sports, loisirs, tourisme", 
+          "ordre": 27
+        }
+      ]
+    }, 
+    "adresse": "SYNDICAT DES PROFESSIONNELS DE LA LOCATION MEUBLEE\n4, rue Marbeuf", 
+    "affiliations": [
+      {
+        "denomination": "UNION NATIONALE POUR LA PROMOTION ET LE DEVELOPPPEMENT DE LA LOCATION DE VACANCES", 
+        "identifiantNational": "W751216334", 
+        "typeIdentifiantNational": "RNA"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "SYNDI", 
+      "label": "Syndicat"
+    }, 
+    "clients": [], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétariat Général", 
+        "nom": "PAOLI", 
+        "prenom": "Ludivine"
+      }
+    ], 
+    "dateCreation": "2017-11-21T09:22:18", 
+    "datePremierePublication": "2017-11-21T09:22:18", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ASSOCIATION DES PROFESSIONNELS DE LA LOCATION MEUBLEE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "CHOPARD LALLIER", 
+        "prenom": "Claude"
+      }
+    ], 
+    "emailDeContact": "contact@splm-france.fr", 
+    "historique": [], 
+    "identifiantNational": "752423392", 
+    "lienSiteWeb": "http://www.splm-france.fr/fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/752423392.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
