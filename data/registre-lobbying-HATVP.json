@@ -10479,6 +10479,261 @@
           "code": "EUROPEEN", 
           "label": "Européen", 
           "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }
+      ]
+    }, 
+    "adresse": "c/o Communication & Institutions\n32 Rue Notre Dame des Victoires", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [
+      {
+        "denomination": "CALIF SOLUTIONS", 
+        "identifiantNational": "514615921", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COM'PUBLICS", 
+        "identifiantNational": "398995142", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EURALIA FRANCE", 
+        "identifiantNational": "813024361", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROMEDIATIONS SARL", 
+        "identifiantNational": "400662284", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTEREL", 
+        "identifiantNational": "352280416", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EURL LUC DOMERGUE CONSULTANT", 
+        "identifiantNational": "414529289", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AFFAIRES PUBLIQUES CONSULTANTS", 
+        "identifiantNational": "479189235", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "A.I.2.P", 
+        "identifiantNational": "413728676", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "APCO WORLDWIDE", 
+        "identifiantNational": "408747368", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ANTHENOR PUBLIC AFFAIRS", 
+        "identifiantNational": "450089107", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ARCTURUS FRANCE", 
+        "identifiantNational": "443058854", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ATLAS PUBLIC AFFAIRS", 
+        "identifiantNational": "522058106", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BOURY TALLON & ASSOCIES", 
+        "identifiantNational": "502999626", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BRUNSWICK", 
+        "identifiantNational": "432373082", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BURSON-MARSTELLER I&E", 
+        "identifiantNational": "331233940", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CLAI", 
+        "identifiantNational": "413660606", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DOMAINES PUBLICS", 
+        "identifiantNational": "500633722", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROPEENNE DE CONSEIL ET COMMUNICATION SA", 
+        "identifiantNational": "331409144", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FAIRVALUE CORPORATE COMMUNICATION", 
+        "identifiantNational": "481518843", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "G PLUS EUROPE LIMITED", 
+        "identifiantNational": "539152157", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GRAYLING FRANCE", 
+        "identifiantNational": "330005620", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CABINET SCHELL", 
+        "identifiantNational": "H000000038", 
+        "typeIdentifiantNational": "HATVP"
+      }, 
+      {
+        "denomination": "HOPSCOTCH", 
+        "identifiantNational": "437582927", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SEANCE PUBLIQUE", 
+        "identifiantNational": "438568610", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TBWA GROUPE", 
+        "identifiantNational": "682005079", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMMUNICATION & INSTITUTIONS", 
+        "identifiantNational": "340388479", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHAMBRE COMMERCE & INDUSTRIE PAU BEARN", 
+        "identifiantNational": "186400024", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LYSIOS", 
+        "identifiantNational": "447525452", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDIATION & ARGUMENTS", 
+        "identifiantNational": "413929803", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NEXTEP", 
+        "identifiantNational": "421468018", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75002", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "ALEXANDRE", 
+        "prenom": "Fabrice"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "BOUVIER", 
+        "prenom": "Nicolas"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Vice-Présidente", 
+        "nom": "FANDRE", 
+        "prenom": "Capucine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "DE MONTESQUIOU", 
+        "prenom": "Alexandre"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "TALLON", 
+        "prenom": "Pascal"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire Générale", 
+        "nom": "DUBOIS-COLINEAU", 
+        "prenom": "Agnès"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Trésorier", 
+        "nom": "LUNEAU", 
+        "prenom": "Aristide"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "ALEXANDRE", 
+        "prenom": "Fabrice"
+      }
+    ], 
+    "dateCreation": "2017-11-22T16:40:57", 
+    "datePremierePublication": "2017-11-22T16:40:57", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES (AFCL)", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "ALEXANDRE", 
+        "prenom": "Fabrice"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "H000000001", 
+    "lienSiteWeb": "http://www.afcl.net/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "HATVP", 
+    "url_json": "http://www.hatvp.fr/agora/H000000001.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
         }, 
         {
           "code": "MONDIAL", 
@@ -14467,6 +14722,249 @@
     "telephoneDeContact": "+33157780000", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/437580160.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "CARTON ONDULE DE FRANCE\r\nC O F\r\n4 6\r\n4 RUE BORROMEE", 
+    "affiliations": [
+      {
+        "denomination": "REVIPAC", 
+        "identifiantNational": "390766343", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DE L INTERSECTEUR PAPIER CARTON", 
+        "identifiantNational": "820154060", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSEIL NATIONAL DE L'EMBALLAGE", 
+        "identifiantNational": "415136787", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LES PRODUCTEURS DE LEGUMES DE FRANCE", 
+        "identifiantNational": "304154198", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION PRO FRANCE", 
+        "identifiantNational": "523645299", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GALIA", 
+        "identifiantNational": "332173665", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "SYNDI", 
+      "label": "Syndicat"
+    }, 
+    "clients": [
+      {
+        "denomination": "SOCIETE NORMANDE DE CARTON ONDULE", 
+        "identifiantNational": "572090793", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EMBALLAGES LAURENT SAS", 
+        "identifiantNational": "725620736", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SA PAPETERIES D'ESPALY", 
+        "identifiantNational": "585950298", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE GUADELOUPEENNE DE CARTON ONDULE", 
+        "identifiantNational": "308428663", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAICA PACK TRANSFORMATEURS", 
+        "identifiantNational": "652820523", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SEYFERT CHAMPAGNE SAS", 
+        "identifiantNational": "808490080", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SEYFERT FOREZ", 
+        "identifiantNational": "808489694", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SMURFIT KAPPA FRANCE", 
+        "identifiantNational": "493254908", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DS SMITH PACKAGING SUD OUEST", 
+        "identifiantNational": "611820564", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DS SMITH PACKAGING VELIN", 
+        "identifiantNational": "305750580", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DS SMITH PACKAGING CONSUMER", 
+        "identifiantNational": "766500011", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EMIN LEYDIER", 
+        "identifiantNational": "413464595", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROPAC CARTONNERIE ATLANTIQUE", 
+        "identifiantNational": "444636674", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROPAC CARTONNERIE DE ROUEN", 
+        "identifiantNational": "450680947", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROPAC CARTONNERIE SAVOIE", 
+        "identifiantNational": "444636658", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DS SMITH PACKAGING ATLANTIQUE", 
+        "identifiantNational": "352398796", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DS SMITH PACKAGING BRETAGNE", 
+        "identifiantNational": "317216950", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DS SMITH PACKAGING CONTOIRE-HAMEL", 
+        "identifiantNational": "621720424", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DS SMITH PACKAGING NORD-EST", 
+        "identifiantNational": "508031523", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DS SMITH PACKAGING NORMANDIE", 
+        "identifiantNational": "317238004", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DS SMITH PACKAGING SUD-EST", 
+        "identifiantNational": "377514609", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE MEDITERRANEENNE D'EMBALLAGES", 
+        "identifiantNational": "642049936", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PAPETERIES CARTONNERIES LACAUX", 
+        "identifiantNational": "757500863", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAICA PACK FRANCE", 
+        "identifiantNational": "632039988", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SEYFERT PROVENCE SAS", 
+        "identifiantNational": "808490155", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SMURFIT KAPPA AGRIPACK", 
+        "identifiantNational": "391615127", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75015", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "DESBOUIS", 
+        "prenom": "Kareen"
+      }
+    ], 
+    "dateCreation": "2017-11-22T15:41:14", 
+    "datePremierePublication": "2017-11-22T15:41:14", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "CARTON ONDULE DE FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT", 
+        "nom": "ARNAULT", 
+        "prenom": "Bertrand"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "DELEGUEE GENERALE", 
+        "nom": "DESBOUIS", 
+        "prenom": "Kareen"
+      }
+    ], 
+    "emailDeContact": "contact@cartononduledefrance.org", 
+    "historique": [], 
+    "identifiantNational": "775675820", 
+    "lienPageTwitter": "https://twitter.com/CartonOnduleFR", 
+    "lienSiteWeb": "https://www.cartononduledefrance.org/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0145631330", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/775675820.json", 
     "ville": "PARIS"
   }, 
   {
@@ -21868,6 +22366,155 @@
     "publierMonTelephoneDeContact": true, 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/432778108.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }
+      ]
+    }, 
+    "adresse": "ENERCOOP\n16/18 QUAI DE LA LOIRE", 
+    "affiliations": [
+      {
+        "denomination": "COMITE LIAISON ENERGIES RENOUVELABLES", 
+        "identifiantNational": "352400436", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FRANCE ENERGIE EOLIENNE", 
+        "identifiantNational": "432446649", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MAITRES OUVRAGES PUBLICS", 
+        "identifiantNational": "347762114", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FRANCE HYDRO ELECTRICITE GPAE ECOWATT", 
+        "identifiantNational": "420030967", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION ELECTRICITE AUTONOME FRANCAISE EAF", 
+        "identifiantNational": "333223923", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION  ENERGIE PARTAGEE", 
+        "identifiantNational": "529402406", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ENERPLAN", 
+        "identifiantNational": "344808902", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION NATIONALE DES OPERATEURS DETAILLANTS EN ENERGIE", 
+        "identifiantNational": "W751178527", 
+        "typeIdentifiantNational": "RNA"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRENEURS SOCIAUX", 
+        "identifiantNational": "520067786", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FINANSOL FINANCE ET SOLIDARITE", 
+        "identifiantNational": "409218765", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75019", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Responsable des relations institutionnelles", 
+        "nom": "FERRARI", 
+        "prenom": "Albert"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice du pôle coopération", 
+        "nom": "CARREY-CONTE", 
+        "prenom": "Fanélie"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente du Conseil d'Administration d'Enercoop", 
+        "nom": "ALBIZZATI", 
+        "prenom": "Amandine"
+      }
+    ], 
+    "dateCreation": "2017-11-22T12:36:03", 
+    "datePremierePublication": "2017-11-22T12:36:03", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ENERCOOP", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "SOULIAS", 
+        "prenom": "Emmanuel"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "484223094", 
+    "lienPageFacebook": "https://www.facebook.com/electriciteverte/", 
+    "lienPageLinkedin": "https://fr.linkedin.com/company/enercoop", 
+    "lienPageTwitter": "https://twitter.com/enercoop_scic", 
+    "lienSiteWeb": "http://www.enercoop.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/484223094.json", 
     "ville": "PARIS"
   }, 
   {
@@ -54154,6 +54801,132 @@
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }
+      ]
+    }, 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COIND", 
+      "label": "Consultant indépendant"
+    }, 
+    "clients": [
+      {
+        "denomination": "COGEDIM PARIS METROPOLE", 
+        "identifiantNational": "319293916", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "92100", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Consultant indépendant", 
+        "nom": "ROLLET", 
+        "prenom": "Aymeric"
+      }
+    ], 
+    "dateCreation": "2017-11-22T18:59:54", 
+    "datePremierePublication": "2017-11-22T15:30:20", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "ROLLET AYMERIC HUBERT HENRI FRANCOIS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Consultant indépendant", 
+        "nom": "ROLLET", 
+        "prenom": "Aymeric"
+      }
+    ], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }
+          ]
+        }, 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "AVO_CONS", 
+          "code": "COIND", 
+          "label": "Consultant indépendant"
+        }, 
+        "clients": [
+          {
+            "denomination": "COGEDIM PARIS METROPOLE", 
+            "identifiantNational": "319293916", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "92100", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Consultant indépendant", 
+            "nom": "ROLLET", 
+            "prenom": "Aymeric"
+          }
+        ], 
+        "dateCreation": "2017-11-22T15:30:20", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": true, 
+        "denomination": "ROLLET AYMERIC HUBERT HENRI FRANCOIS", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Consultant indépendant", 
+            "nom": "ROLLET", 
+            "prenom": "Aymeric"
+          }
+        ], 
+        "identifiantNational": "490423712", 
+        "lienPageLinkedin": "https://www.linkedin.com/in/aymeric-rollet-8b171b1/", 
+        "lienPageTwitter": "https://twitter.com/ARollet", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": false, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "BOULOGNE BILLANCOURT"
+      }
+    ], 
+    "identifiantNational": "490423712", 
+    "lienPageLinkedin": "https://www.linkedin.com/in/aymeric-rollet-8b171b1/", 
+    "lienPageTwitter": "https://twitter.com/ARollet", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": false, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/490423712.json", 
+    "ville": "BOULOGNE BILLANCOURT"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
         }, 
         {
           "code": "NATIONAL", 
@@ -57257,6 +58030,11 @@
         "denomination": "ASSOCIATION DES FOURNISSEURS DE TABACS A FUMER", 
         "identifiantNational": "821297355", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION FABRIC. PROTECT PROPRIETE INDUST.", 
+        "identifiantNational": "784668709", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "categorieOrganisation": {
@@ -57286,7 +58064,7 @@
         "prenom": "Julia"
       }
     ], 
-    "dateCreation": "2017-09-11T10:47:09", 
+    "dateCreation": "2017-11-22T17:49:10", 
     "datePremierePublication": "2017-09-11T10:47:09", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -57299,7 +58077,115 @@
         "prenom": "Dior"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "PROPINT", 
+              "label": "Propriété intellectuelle", 
+              "ordre": 23
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "SOC NAL EXPLOIT INDUST TABAC ALLUMETTE\r\n143 BOULEVARD ROMAIN ROLLAND", 
+        "affiliations": [
+          {
+            "denomination": "UNION PATRONALE DEPARMENTALE - MEDEF PARIS", 
+            "identifiantNational": "398327098", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS FOURNISSEURS DE CIGARES EN FRANCE", 
+            "identifiantNational": "332139732", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION DES FOURNISSEURS DE TABACS A FUMER", 
+            "identifiantNational": "821297355", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "75014", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Responsable des Affaires Publiques", 
+            "nom": "JULIAN", 
+            "prenom": "Adrien"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Senior EU Corporate Affairs Manager", 
+            "nom": "ROUQUETTE", 
+            "prenom": "Clémence"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chargée des Affaires Publiques", 
+            "nom": "FENART", 
+            "prenom": "Julia"
+          }
+        ], 
+        "dateCreation": "2017-09-11T10:47:09", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "SOCIETE NATIONALE D'EXPLOITATION INDUSTRIELLE DES TABACS ET ALLUMETTES", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente", 
+            "nom": "DECUPPER", 
+            "prenom": "Dior"
+          }
+        ], 
+        "identifiantNational": "331355263", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "331355263", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": false, 
