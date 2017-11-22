@@ -43991,6 +43991,85 @@
       ], 
       "listSecteursActivites": [
         {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "MSD VACCINS\r\nSPMSD PASTEUR VACCINS SANOFI PASTE\r\n162 AVENUE JEAN JAURES", 
+    "affiliations": [
+      {
+        "denomination": "LES ENTREPRISES DU MEDICAMENT", 
+        "identifiantNational": "784668543", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "69007", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Responsable Affaires Gouvernementales", 
+        "nom": "GOLDGEWICHT", 
+        "prenom": "Anthony"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Affaires Publiques et Communication", 
+        "nom": "ERHARD", 
+        "prenom": "Bruno"
+      }
+    ], 
+    "dateCreation": "2017-11-22T11:32:04", 
+    "datePremierePublication": "2017-11-22T11:32:04", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "MSD VACCINS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "SCHIEVER", 
+        "prenom": "Cyril"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "392032934", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/392032934.json", 
+    "ville": "LYON"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
           "code": "FINANCE", 
           "label": "Banques, assurances, secteur financier", 
           "ordre": 4
