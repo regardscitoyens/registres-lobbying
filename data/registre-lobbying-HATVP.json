@@ -13758,6 +13758,114 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "BOIRON\r\n2 AVENUE DE L OUEST LYONNAIS", 
+    "affiliations": [
+      {
+        "denomination": "LES ENTREPRISES DU MEDICAMENT", 
+        "identifiantNational": "784668543", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AFIPA", 
+        "identifiantNational": "451446553", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYND INDUST MEDICAM VETERIN REACTIF", 
+        "identifiantNational": "423203645", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "69510", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable des affaires publiques", 
+        "nom": "BELSKY", 
+        "prenom": "Mélanie"
+      }, 
+      {
+        "civilite": "MME", 
+        "nom": "BELSKY", 
+        "prenom": "Mélanie"
+      }
+    ], 
+    "dateCreation": "2017-11-23T10:52:37", 
+    "datePremierePublication": "2017-11-23T10:52:37", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "BOIRON", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "BOIRON", 
+        "prenom": "Christian"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice générale déléguée", 
+        "nom": "POINSOT", 
+        "prenom": "Valérie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général délégué - Pharmacien Responsable", 
+        "nom": "BAYSSAT", 
+        "prenom": "Jean-Christophe"
+      }
+    ], 
+    "emailDeContact": "melanie.belsky@boiron.fr", 
+    "historique": [], 
+    "identifiantNational": "967504697", 
+    "lienSiteWeb": "http://www.boiron.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0478456316", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/967504697.json", 
+    "ville": "MESSIMY"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -17921,6 +18029,135 @@
     "telephoneDeContact": "0144181455", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/398995142.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "SECURITE", 
+          "label": "Défense, sécurité", 
+          "ordre": 7
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }
+      ]
+    }, 
+    "adresse": "COMMISSARIAT A ENERGIE ATOMIQUE\r\nCEA\r\nLE PONANT D BATIMENT\r\n25 RUE LEBLANC", 
+    "affiliations": [
+      {
+        "denomination": "ASS RELATIONS AVEC POUVOIRS PUBLICS", 
+        "identifiantNational": "480217165", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FORUM ATOMIQUE INDUSTRIEL FRANCAIS - FAIF -", 
+        "identifiantNational": "309020071", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_PUB", 
+      "code": "EPAIC", 
+      "label": "Etablissement public exerçant une activité industrielle et commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75015", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "VIGOUROUX", 
+        "prenom": "Jean-Pierre"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "chargé d'affaires publiques", 
+        "nom": "LAVEISSIERE", 
+        "prenom": "Stéphane"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "chargé d'affaires publiques", 
+        "nom": "REMIAT", 
+        "prenom": "Bruno"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "directrice financière et des programmes", 
+        "nom": "RAVON-BERENGUER", 
+        "prenom": "Marie-Astrid"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "directeur des applications militaires", 
+        "nom": "GELEZNIKOFF", 
+        "prenom": "François"
+      }
+    ], 
+    "dateCreation": "2017-11-23T11:31:51", 
+    "datePremierePublication": "2017-11-23T11:31:51", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur général", 
+        "nom": "VERWAERDE", 
+        "prenom": "Daniel"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur général-adjoint", 
+        "nom": "GEGOUT", 
+        "prenom": "Christophe"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "775685019", 
+    "lienPageTwitter": "https://twitter.com/cea_recherche", 
+    "lienSiteWeb": "http://www.cea.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/775685019.json", 
     "ville": "PARIS"
   }, 
   {
@@ -54919,6 +55156,162 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/490423712.json", 
     "ville": "BOULOGNE BILLANCOURT"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "COMMERCE", 
+          "label": "Commerce extérieur", 
+          "ordre": 5
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "ROQUETTE FRERES\r\n1 RUE DE LA HAUTE LOGE", 
+    "affiliations": [
+      {
+        "denomination": "UNION SYNDIC INDUSTRIE PRODUITS AMYLACES", 
+        "identifiantNational": "784203861", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYND INDUST CHIMIQUE ORGANIQUE SYNTHESE", 
+        "identifiantNational": "784668444", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION CHIMIE DU VEGETAL", 
+        "identifiantNational": "508402542", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT FRANCAIS DES MATERIAUX AGROSOURCES", 
+        "identifiantNational": "789936804", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYND NAL INDUSTRIE NUTRITION ANIMALE", 
+        "identifiantNational": "784312589", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNIDEN", 
+        "identifiantNational": "434856894", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION INDUSTRIES ET AGRO-RESSOURCES", 
+        "identifiantNational": "489228908", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS UTILISATEURS TRANSPORTS FRET", 
+        "identifiantNational": "393985890", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSO FRANCAI ENTREPRIS PRIVEES", 
+        "identifiantNational": "326943016", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYND NAT PRODUCTEURS ALCOOL AGRICOLE", 
+        "identifiantNational": "784178113", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "62136", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Affaires Publiques Groupe", 
+        "nom": "RUPP-DAHLEM", 
+        "prenom": "Christophe"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des Relations Extérieures", 
+        "nom": "EMPINET", 
+        "prenom": "Marie-Laure"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable Affaires Publiques", 
+        "nom": "DUPUTEL", 
+        "prenom": "Cécile"
+      }
+    ], 
+    "dateCreation": "2017-11-23T12:16:31", 
+    "datePremierePublication": "2017-11-23T12:16:31", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ROQUETTE FRERES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "GILSON", 
+        "prenom": "Jean-Marc"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "357200054", 
+    "lienSiteWeb": "http://www.roquette.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/357200054.json", 
+    "ville": "LESTREM"
   }, 
   {
     "activites": {
