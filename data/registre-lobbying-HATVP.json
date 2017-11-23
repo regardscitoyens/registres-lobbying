@@ -13628,6 +13628,163 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }
+      ]
+    }, 
+    "adresse": "BNP PARIBAS\r\nHELLO BANK!\r\n16 BD DES ITALIENS", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION BANCAIRE FRANCAISE", 
+        "identifiantNational": "434987582", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PARIS EUROPLACE", 
+        "identifiantNational": "393769252", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS PROFESSIONNELLE BANQUES", 
+        "identifiantNational": "775675887", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSO FRANCAI ENTREPRIS PRIVEES", 
+        "identifiantNational": "326943016", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS FRANCAISE PROFESSIONNELS DES TITRES", 
+        "identifiantNational": "400427910", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président du Conseil d'Administration", 
+        "nom": "LEMIERRE", 
+        "prenom": "Jean"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général adjoint", 
+        "nom": "LABORDE", 
+        "prenom": "Thierry"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général adjoint", 
+        "nom": "PAPIASSE", 
+        "prenom": "Alain"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Ressources humaines", 
+        "nom": "MARTRENCHAR", 
+        "prenom": "Yves"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Affaires fiscales", 
+        "nom": "COMOLET-TIRMAN", 
+        "prenom": "Christian"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice du réseau de la banque de détail en France", 
+        "nom": "CAPOBIANCO", 
+        "prenom": "Marie-Claire"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable des relations institutionnelles - Banque de détail France", 
+        "nom": "BERTONNAUD", 
+        "prenom": "Laurent"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Affaires institutionnelles", 
+        "nom": "SANTINI", 
+        "prenom": "Jean-Jacques"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Affaires publiques France", 
+        "nom": "ROUSSEAU", 
+        "prenom": "Philippe-Olivier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Direction des Affaires publiques France", 
+        "nom": "D'ETIGNY", 
+        "prenom": "Hubert"
+      }
+    ], 
+    "dateCreation": "2017-11-23T12:59:42", 
+    "datePremierePublication": "2017-11-23T12:59:42", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "BNP PARIBAS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général délégué", 
+        "nom": "BORDENAVE", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur, Directeur Général", 
+        "nom": "BONNAFÉ", 
+        "prenom": "Jean-Laurent"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "662042449", 
+    "lienPageFacebook": "https://www.facebook.com/mabanque.bnpparibas", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/bnp-paribas", 
+    "lienPageTwitter": "https://twitter.com/BNPParibas", 
+    "lienSiteWeb": "https://group.bnpparibas/", 
+    "pays": "", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/662042449.json", 
+    "ville": "PARIS 9"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
@@ -20558,7 +20715,7 @@
         "prenom": "Jean-Marc"
       }
     ], 
-    "dateCreation": "2017-11-07T15:55:59", 
+    "dateCreation": "2017-11-23T16:19:51", 
     "datePremierePublication": "2017-11-07T15:55:59", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -20571,7 +20728,151 @@
         "prenom": "Anne-Marie"
       }
     ], 
-    "historique": [], 
+    "emailDeContact": "contact@ordre-sages-femmes.fr", 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "EDUCATION", 
+              "label": "Education, enseignement supérieur, formation", 
+              "ordre": 9
+            }, 
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "PROREG", 
+              "label": "Professions réglementées", 
+              "ordre": 22
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }, 
+            {
+              "code": "SOCIETE", 
+              "label": "Questions de société", 
+              "ordre": 26
+            }
+          ]
+        }, 
+        "adresse": "168 RUE DE GRENELLE", 
+        "affiliations": [
+          {
+            "denomination": "GYNECOLOGIE SANS FRONTIERE", 
+            "identifiantNational": "433299179", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS MEDECINE RECHERCHE EN AFRIQUE", 
+            "identifiantNational": "438971426", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS NALE DES  ETUDIANTS SAGES FEMMES", 
+            "identifiantNational": "491765848", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOCIETE FRANCAISE DE TELEMEDECINE ANTEL (SFT ANTEL)", 
+            "identifiantNational": "533650412", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COMITE DE LIAISON DES INSTITUTIONS ORDINALES - CLIO", 
+            "identifiantNational": "W751189349", 
+            "typeIdentifiantNational": "RNA"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "ORPRO", 
+          "label": "Organisation professionnelle"
+        }, 
+        "clients": [], 
+        "codePostal": "75007", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente", 
+            "nom": "CURAT", 
+            "prenom": "Anne-Marie"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Vice-Présidente", 
+            "nom": "BENOIT TRUONG CANH", 
+            "prenom": "Marianne"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Vice-Présidente", 
+            "nom": "DERRENDINGER", 
+            "prenom": "Isabelle"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Trésorière", 
+            "nom": "COPONAT", 
+            "prenom": "Sylvaine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Responsable des relations institutionnelles et des affaires européennes", 
+            "nom": "DELAHAYE", 
+            "prenom": "Jean-Marc"
+          }
+        ], 
+        "dateCreation": "2017-11-07T15:55:59", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "CONSEIL NATIONAL ORDRE DES SAGES FEMMES", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente", 
+            "nom": "CURAT", 
+            "prenom": "Anne-Marie"
+          }
+        ], 
+        "identifiantNational": "784401549", 
+        "lienPageTwitter": "https://twitter.com/CNOSF", 
+        "lienSiteWeb": "http://www.ordre-sages-femmes.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0145518250", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "784401549", 
     "lienPageTwitter": "https://twitter.com/CNOSF", 
     "lienSiteWeb": "http://www.ordre-sages-femmes.fr/", 
@@ -22727,7 +23028,7 @@
         "prenom": "Amandine"
       }
     ], 
-    "dateCreation": "2017-11-22T12:36:03", 
+    "dateCreation": "2017-11-23T14:12:15", 
     "datePremierePublication": "2017-11-22T12:36:03", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -22740,7 +23041,154 @@
         "prenom": "Emmanuel"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "CONSO", 
+              "label": "Concurrence, consommation", 
+              "ordre": 6
+            }, 
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }
+          ]
+        }, 
+        "adresse": "ENERCOOP\n16/18 QUAI DE LA LOIRE", 
+        "affiliations": [
+          {
+            "denomination": "COMITE LIAISON ENERGIES RENOUVELABLES", 
+            "identifiantNational": "352400436", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FRANCE ENERGIE EOLIENNE", 
+            "identifiantNational": "432446649", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MAITRES OUVRAGES PUBLICS", 
+            "identifiantNational": "347762114", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FRANCE HYDRO ELECTRICITE GPAE ECOWATT", 
+            "identifiantNational": "420030967", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION ELECTRICITE AUTONOME FRANCAISE EAF", 
+            "identifiantNational": "333223923", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION  ENERGIE PARTAGEE", 
+            "identifiantNational": "529402406", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ENERPLAN", 
+            "identifiantNational": "344808902", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION NATIONALE DES OPERATEURS DETAILLANTS EN ENERGIE", 
+            "identifiantNational": "W751178527", 
+            "typeIdentifiantNational": "RNA"
+          }, 
+          {
+            "denomination": "MOUVEMENT DES ENTREPRENEURS SOCIAUX", 
+            "identifiantNational": "520067786", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FINANSOL FINANCE ET SOLIDARITE", 
+            "identifiantNational": "409218765", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "75019", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Responsable des relations institutionnelles", 
+            "nom": "FERRARI", 
+            "prenom": "Albert"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice du pôle coopération", 
+            "nom": "CARREY-CONTE", 
+            "prenom": "Fanélie"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente du Conseil d'Administration d'Enercoop", 
+            "nom": "ALBIZZATI", 
+            "prenom": "Amandine"
+          }
+        ], 
+        "dateCreation": "2017-11-22T12:36:03", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "ENERCOOP", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "SOULIAS", 
+            "prenom": "Emmanuel"
+          }
+        ], 
+        "identifiantNational": "484223094", 
+        "lienPageFacebook": "https://www.facebook.com/electriciteverte/", 
+        "lienPageLinkedin": "https://fr.linkedin.com/company/enercoop", 
+        "lienPageTwitter": "https://twitter.com/enercoop_scic", 
+        "lienSiteWeb": "http://www.enercoop.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "484223094", 
     "lienPageFacebook": "https://www.facebook.com/electriciteverte/", 
     "lienPageLinkedin": "https://fr.linkedin.com/company/enercoop", 
@@ -33114,6 +33562,127 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ETRANGER", 
+          "label": "Affaires étrangères, coopération internationale", 
+          "ordre": 1
+        }, 
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "ENTREPRISE", 
+          "label": "Gouvernance d’entreprise", 
+          "ordre": 14
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }
+      ]
+    }, 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "75003", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "GIRE", 
+        "prenom": "Pierre-Jean"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire Général", 
+        "nom": "ABD EL FATAH", 
+        "prenom": "Samir"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "MLINDASSE", 
+        "prenom": "Hamissi"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "DARGERY", 
+        "prenom": "Sylvain"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Administratrice", 
+        "nom": "GIRE", 
+        "prenom": "Anne"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "BOUKHERS", 
+        "prenom": "Jean-Michel"
+      }
+    ], 
+    "dateCreation": "2017-11-23T14:14:15", 
+    "datePremierePublication": "2017-11-23T14:14:15", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "FONDS POUR LA GOUVERNANCE MONDIALE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "GIRE", 
+        "prenom": "Pierre-Jean"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "751296260", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": false, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/751296260.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
@@ -38883,13 +39452,13 @@
     "collaborateurs": [
       {
         "civilite": "M", 
-        "fonction": "Directeur associé du pôle affaires publiques", 
+        "fonction": "Consultant associé", 
         "nom": "BREGEON", 
         "prenom": "Jean-François"
       }, 
       {
         "civilite": "MME", 
-        "fonction": "Consultante associée", 
+        "fonction": "Directrice associée du pôle affaires publiques", 
         "nom": "DE SOOS", 
         "prenom": "Florence"
       }, 
@@ -38919,6 +39488,7 @@
       }, 
       {
         "civilite": "M", 
+        "fonction": "consultant", 
         "nom": "NOUVION", 
         "prenom": "Arnaud"
       }, 
@@ -38929,7 +39499,7 @@
         "prenom": "Guillaume"
       }
     ], 
-    "dateCreation": "2017-09-01T17:04:46", 
+    "dateCreation": "2017-11-23T13:26:22", 
     "datePremierePublication": "2017-08-31T17:46:53", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": true, 
@@ -39105,6 +39675,194 @@
           }
         ], 
         "dateCreation": "2017-08-31T17:46:53", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": true, 
+        "denomination": "IMAGE 7", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Président Directeur Général", 
+            "nom": "MEAUX", 
+            "prenom": "Anne"
+          }
+        ], 
+        "identifiantNational": "532572112", 
+        "lienSiteWeb": "http://www.image7.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0153707470", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }, 
+            {
+              "code": "MEDIA", 
+              "label": "Médias, industries culturelles", 
+              "ordre": 18
+            }, 
+            {
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }
+          ]
+        }, 
+        "adresse": "IMAGE 7\r\n3 RUE JACQUES BINGEN", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [
+          {
+            "denomination": "GOOGLE FRANCE", 
+            "identifiantNational": "443061841", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CHAMBRE NATIONALE DES PROPRIETAIRES", 
+            "identifiantNational": "784311870", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARKEA CAPITAL", 
+            "identifiantNational": "420761512", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PERNOD RICARD", 
+            "identifiantNational": "582041943", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LA CONFEDERATION NATIONALE DES BURALISTES DE FRANCE", 
+            "identifiantNational": "784359796", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNDICAT NATIONAL DE L'EDITION", 
+            "identifiantNational": "784285066", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION METIERS & INDUSTRIES HOTELLERIE", 
+            "identifiantNational": "784357857", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CNCC SERVICES", 
+            "identifiantNational": "338812571", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNDICAT NATIONAL DE LA PRESSE JUDICIAIRE", 
+            "identifiantNational": "489895268", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION NATIONALE CINEMAS FRAN", 
+            "identifiantNational": "784359200", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BETCLIC EXPEKT EVEREST", 
+            "identifiantNational": "812649796", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75017", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur associé du pôle affaires publiques", 
+            "nom": "BREGEON", 
+            "prenom": "Jean-François"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante associée", 
+            "nom": "DE SOOS", 
+            "prenom": "Florence"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "consultante", 
+            "nom": "BURGAUD", 
+            "prenom": "Delphine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "consultant", 
+            "nom": "BROQUET", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "consultante", 
+            "nom": "BRZEZINSKA", 
+            "prenom": "Matylda"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "consultant", 
+            "nom": "CHEYROUZE", 
+            "prenom": "Gilles"
+          }, 
+          {
+            "civilite": "M", 
+            "nom": "NOUVION", 
+            "prenom": "Arnaud"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "consultant", 
+            "nom": "RESSOT", 
+            "prenom": "Guillaume"
+          }
+        ], 
+        "dateCreation": "2017-09-01T17:04:46", 
         "declarationOrgaAppartenance": false, 
         "declarationTiers": true, 
         "denomination": "IMAGE 7", 
@@ -51985,6 +52743,140 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/775678584.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }
+      ]
+    }, 
+    "adresse": "NATIXIS\r\nIMMEUBLE ARCADE DE SEINE\r\n30 AVENUE PIERRE MENDES FRANCE", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION BANCAIRE FRANCAISE", 
+        "identifiantNational": "434987582", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS PROFESSIONNELLE BANQUES", 
+        "identifiantNational": "775675887", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS FRANCAISE ENTREPRISES INVESTISSEMENT", 
+        "identifiantNational": "348036278", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS FRANCAISE PROFESSIONNELS DES TITRES", 
+        "identifiantNational": "400427910", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSO FRANCAI ENTREPRIS PRIVEES", 
+        "identifiantNational": "326943016", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "THE FINANCIAL MARKETS ASSOCIATION", 
+        "identifiantNational": "400998993", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OBSERVATOIRE RESPONS SOCIETALE ENTREPR", 
+        "identifiantNational": "434130829", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LE CERCLE DES ECONOMISTES SAS", 
+        "identifiantNational": "818873002", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION D'ECONOMIE FINANCIERE", 
+        "identifiantNational": "351445002", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ICC-FRANCE CONSEIL", 
+        "identifiantNational": "418716825", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT LOUIS BACHELIER", 
+        "identifiantNational": "508151735", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CREDIMPEX FRANCE", 
+        "identifiantNational": "326019205", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75646", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Head of Public Affairs", 
+        "nom": "ASSELOT", 
+        "prenom": "Sophie"
+      }
+    ], 
+    "dateCreation": "2017-11-23T18:50:06", 
+    "datePremierePublication": "2017-11-23T18:50:06", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "NATIXIS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "MIGNON", 
+        "prenom": "Laurent"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "542044524", 
+    "lienSiteWeb": "https://www.natixis.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/542044524.json", 
+    "ville": "PARIS CEDEX 13"
   }, 
   {
     "activites": {
@@ -78453,5 +79345,240 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/512686064.json", 
     "ville": "MONTPELLIER"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "YLIOS RID INTERNATIONAL\r\nIT GROUP & YLIOS\r\n29 RUE VERNET", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COCAB", 
+      "label": "Cabinet de conseil"
+    }, 
+    "clients": [
+      {
+        "denomination": "FEDERATION DE LA FORMATION PROFESSIONNEL", 
+        "identifiantNational": "398542571", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GILEAD SCIENCES", 
+        "identifiantNational": "391360971", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Partner", 
+        "nom": "ADEL", 
+        "prenom": "Joshua"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice du pôle Influence", 
+        "nom": "GOLOUBTZOFF", 
+        "prenom": "Alexia"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant", 
+        "nom": "HOCHÉ", 
+        "prenom": "Benjamin"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant", 
+        "nom": "CHAOUCHE", 
+        "prenom": "Soliman"
+      }
+    ], 
+    "dateCreation": "2017-11-23T19:24:42", 
+    "datePremierePublication": "2017-11-23T18:47:27", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "YLIOS RID INTERNATIONAL", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Partner", 
+        "nom": "ADEL", 
+        "prenom": "Joshua"
+      }
+    ], 
+    "emailDeContact": "jadel@ylios.com", 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }, 
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "YLIOS RID INTERNATIONAL\r\nIT GROUP & YLIOS\r\n29 RUE VERNET", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "AVO_CONS", 
+          "code": "COCAB", 
+          "label": "Cabinet de conseil"
+        }, 
+        "clients": [
+          {
+            "denomination": "FEDERATION DE LA FORMATION PROFESSIONNEL", 
+            "identifiantNational": "398542571", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GILEAD SCIENCES", 
+            "identifiantNational": "391360971", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRANSPORT ET INFRASTRUCTURES GAZ FRANCE", 
+            "identifiantNational": "095580841", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75008", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Partner", 
+            "nom": "ADEL", 
+            "prenom": "Joshua"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice du pôle Influence", 
+            "nom": "GOLOUBTZOFF", 
+            "prenom": "Alexia"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Consultant", 
+            "nom": "HOCHÉ", 
+            "prenom": "Benjamin"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Consultant", 
+            "nom": "CHAOUCHE", 
+            "prenom": "Soliman"
+          }
+        ], 
+        "dateCreation": "2017-11-23T18:47:27", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": true, 
+        "denomination": "YLIOS RID INTERNATIONAL", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Partner", 
+            "nom": "ADEL", 
+            "prenom": "Joshua"
+          }
+        ], 
+        "emailDeContact": "jadel@ylios.com", 
+        "identifiantNational": "389548678", 
+        "lienPageLinkedin": "https://www.linkedin.com/company-beta/914747/", 
+        "lienPageTwitter": "https://twitter.com/YliosConsulting", 
+        "lienSiteWeb": "http://www.ylios.com/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0180400363", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
+    "identifiantNational": "389548678", 
+    "lienPageLinkedin": "https://www.linkedin.com/company-beta/914747/", 
+    "lienPageTwitter": "https://twitter.com/YliosConsulting", 
+    "lienSiteWeb": "http://www.ylios.com/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0180400363", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/389548678.json", 
+    "ville": "PARIS"
   }
 ]
