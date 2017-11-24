@@ -56538,13 +56538,18 @@
         "typeIdentifiantNational": "SIREN"
       }, 
       {
-        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
-        "identifiantNational": "775347453", 
+        "denomination": "AFEP", 
+        "identifiantNational": "391358363", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
-        "denomination": "AFEP", 
-        "identifiantNational": "391358363", 
+        "denomination": "UNION PATRONALE DEPARMENTALE - MEDEF PARIS", 
+        "identifiantNational": "398327098", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LE CERCLE DE L'INDUSTRIE", 
+        "identifiantNational": "394192389", 
         "typeIdentifiantNational": "SIREN"
       }
     ], 
@@ -56558,11 +56563,6 @@
     "collaborateurs": [
       {
         "civilite": "M", 
-        "nom": "DECHELOTTE", 
-        "prenom": "Michel"
-      }, 
-      {
-        "civilite": "M", 
         "fonction": "Directeur Affaires Institutionnelles", 
         "nom": "DECHELOTTE", 
         "prenom": "Michel"
@@ -56572,14 +56572,9 @@
         "fonction": "Conseiller diplomatique", 
         "nom": "PORTAL", 
         "prenom": "David"
-      }, 
-      {
-        "civilite": "M", 
-        "nom": "PORTAL", 
-        "prenom": "David"
       }
     ], 
-    "dateCreation": "2017-10-16T17:54:33", 
+    "dateCreation": "2017-11-24T11:50:55", 
     "datePremierePublication": "2017-10-16T17:54:33", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -56592,7 +56587,124 @@
         "prenom": "Philippe"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "COMMERCE", 
+              "label": "Commerce extérieur", 
+              "ordre": 5
+            }, 
+            {
+              "code": "SECURITE", 
+              "label": "Défense, sécurité", 
+              "ordre": 7
+            }, 
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "SAFRAN\r\n2 BD DU GENERAL MARTIAL VALIN", 
+        "affiliations": [
+          {
+            "denomination": "GROUPEMENT INDUSTR FSES AERONAUT SPACIAL", 
+            "identifiantNational": "784668394", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+            "identifiantNational": "775347453", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AFEP", 
+            "identifiantNational": "391358363", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "75015", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "nom": "DECHELOTTE", 
+            "prenom": "Michel"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Affaires Institutionnelles", 
+            "nom": "DECHELOTTE", 
+            "prenom": "Michel"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Conseiller diplomatique", 
+            "nom": "PORTAL", 
+            "prenom": "David"
+          }, 
+          {
+            "civilite": "M", 
+            "nom": "PORTAL", 
+            "prenom": "David"
+          }
+        ], 
+        "dateCreation": "2017-10-16T17:54:33", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "SAFRAN", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "PETITCOLIN", 
+            "prenom": "Philippe"
+          }
+        ], 
+        "identifiantNational": "562082909", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "562082909", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": false, 
@@ -74378,8 +74490,8 @@
     ], 
     "categorieOrganisation": {
       "categorie": "ORGA_REP", 
-      "code": "SYNDI", 
-      "label": "Syndicat"
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
     }, 
     "clients": [
       {
@@ -74514,7 +74626,7 @@
         "prenom": "Delphine"
       }
     ], 
-    "dateCreation": "2017-11-14T15:56:08", 
+    "dateCreation": "2017-11-24T12:17:56", 
     "datePremierePublication": "2017-11-14T15:56:08", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -74533,7 +74645,223 @@
         "prenom": "Eugénia"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "UNION INDUS PROTECT PLANT UIPP\n2 RUE DENFERT ROCHEREAU\n", 
+        "affiliations": [
+          {
+            "denomination": "UNION INDUSTRIES CHIMIQUES", 
+            "identifiantNational": "784358855", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "SYNDI", 
+          "label": "Syndicat"
+        }, 
+        "clients": [
+          {
+            "denomination": "ADAMA FRANCE", 
+            "identifiantNational": "349428532", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARYSTA LIFESCIENCE FRANCE", 
+            "identifiantNational": "302203914", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BAYER SAS", 
+            "identifiantNational": "562038893", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BASF FRANCE SAS", 
+            "identifiantNational": "542069158", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DOW AGROSCIENCES DISTRIBUTION", 
+            "identifiantNational": "433934072", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DUPONT SOLUTIONS (FRANCE) SAS", 
+            "identifiantNational": "492951306", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MONSANTO SAS", 
+            "identifiantNational": "420019812", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BELCHIM CROP PROTECTION", 
+            "identifiantNational": "432267805", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UPL FRANCE", 
+            "identifiantNational": "752099010", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CERTIS EUROPE BV", 
+            "identifiantNational": "440341360", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CHEMINOVA AGRO FRANCE", 
+            "identifiantNational": "352320279", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DE SANGOSSE", 
+            "identifiantNational": "300163896", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GOWAN FRANCE SAS", 
+            "identifiantNational": "520833054", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NUFARM", 
+            "identifiantNational": "552029068", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PHILAGRO FRANCE", 
+            "identifiantNational": "389150582", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PHYTEUROP", 
+            "identifiantNational": "666580352", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SAPEC AGRO FRANCE", 
+            "identifiantNational": "808539936", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SBM DEVELOPPEMENT", 
+            "identifiantNational": "399189224", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SUMI AGRO FRANCE", 
+            "identifiantNational": "408602639", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ACTION PIN", 
+            "identifiantNational": "399412683", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRADI AGRI SA", 
+            "identifiantNational": "313821365", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNGENTA FRANCE SAS", 
+            "identifiantNational": "443716832", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "92660", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des affaires réglementaires & juridiques", 
+            "nom": "MICHEL", 
+            "prenom": "Philippe"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Générale", 
+            "nom": "POMMARET", 
+            "prenom": "Eugénia"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice de la communication et des affaires publiques", 
+            "nom": "GUEY", 
+            "prenom": "Delphine"
+          }
+        ], 
+        "dateCreation": "2017-11-14T15:56:08", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "UNION INDUS PROTECT PLANT UIPP", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "KERFANT", 
+            "prenom": "Nicolas"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Générale", 
+            "nom": "POMMARET", 
+            "prenom": "Eugénia"
+          }
+        ], 
+        "identifiantNational": "785308420", 
+        "lienSiteWeb": "http://www.uipp.org", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "BOULOGNE CEDEX"
+      }
+    ], 
     "identifiantNational": "785308420", 
     "lienSiteWeb": "http://www.uipp.org", 
     "pays": "FRANCE", 
