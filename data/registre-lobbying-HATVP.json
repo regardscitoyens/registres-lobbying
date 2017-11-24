@@ -15433,6 +15433,243 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "SPORTS", 
+          "label": "Sports, loisirs, tourisme", 
+          "ordre": 27
+        }
+      ]
+    }, 
+    "adresse": "CERTIVEA\r\nCERTIVEA\r\n10 AU 12\r\n4 AV RECTEUR POINCARE", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION HQE", 
+        "identifiantNational": "414472167", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SMART BUILDINGS ALLIANCE FOR SMART CITIES", 
+        "identifiantNational": "803905694", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [
+      {
+        "denomination": "CERWAY", 
+        "identifiantNational": "797611084", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75016", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice executive", 
+        "nom": "ROFORT STORA", 
+        "prenom": "Viviane"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des partenariats et des relations extérieures", 
+        "nom": "QUERRY", 
+        "prenom": "Eric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "NOSSENT", 
+        "prenom": "Patrick"
+      }
+    ], 
+    "dateCreation": "2017-11-24T19:25:01", 
+    "datePremierePublication": "2017-11-24T19:25:01", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "CERTIVEA", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "NOSSENT", 
+        "prenom": "Patrick"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "489857987", 
+    "lienSiteWeb": "https://www.certivea.fr/", 
+    "pays": "", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/489857987.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ETRANGER", 
+          "label": "Affaires étrangères, coopération internationale", 
+          "ordre": 1
+        }, 
+        {
+          "code": "COMMERCE", 
+          "label": "Commerce extérieur", 
+          "ordre": 5
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }
+      ]
+    }, 
+    "adresse": "CERWAY\r\n4 AV RECTEUR POINCARE", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION HQE", 
+        "identifiantNational": "414472167", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT ENTREPRISE FRANCE INTERNATIONA", 
+        "identifiantNational": "378236376", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75016", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "NOSSENT", 
+        "prenom": "Patrick"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice executive", 
+        "nom": "RAMPELBERG", 
+        "prenom": "Carole-Emilie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Développement", 
+        "nom": "COTORA", 
+        "prenom": "Cosmin"
+      }
+    ], 
+    "dateCreation": "2017-11-24T19:20:57", 
+    "datePremierePublication": "2017-11-24T19:20:57", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "CERWAY", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "NOSSENT", 
+        "prenom": "Patrick"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "797611084", 
+    "pays": "", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/797611084.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
@@ -24013,6 +24250,134 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/542107651.json", 
     "ville": "PARIS LA DEFENSE CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "ENGIE ENERGIE SERVICES\r\nCOFELY RESEAUX ; COFELY SERVICES ;\r\n1 PL DES DEGRES", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION DES SERVICES ENERGIE ENVIRONNEMENT", 
+        "identifiantNational": "384882577", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYND PRO ENTR MULTISERV IMMO FACIL MANAG", 
+        "identifiantNational": "432067205", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION  FRANCAISE DES PROFESSIONNELS DE LA GEOTHERMIE", 
+        "identifiantNational": "525271565", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS UNION FRANCAISE DE L'ELECTRICITE", 
+        "identifiantNational": "432492007", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92800", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "DIRECTEUR DES RELATIONS INSTITUTIONNELLES COFELY", 
+        "nom": "GUYARD", 
+        "prenom": "Pierre"
+      }
+    ], 
+    "dateCreation": "2017-11-24T15:28:11", 
+    "datePremierePublication": "2017-11-24T15:28:11", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ENGIE ENERGIE SERVICES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT DU CONSEIL D'ADMINISTRATION", 
+        "nom": "MONGIN", 
+        "prenom": "Pierre"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "DIRECTEUR GENERAL", 
+        "nom": "BRUEL", 
+        "prenom": "Franck"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "DIRECTEUR GENERAL BU NORTH SOUTH AND EASTERN EUROPE", 
+        "nom": "JACOLIN", 
+        "prenom": "Etienne"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "DIRECTEUR GENERAL BU FRANCE RESEAUX", 
+        "nom": "MARTIN", 
+        "prenom": "Frederic"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "DIRECTEUR GENERAL BU ENGIE AFRIQUE", 
+        "nom": "BENSASSON", 
+        "prenom": "Bruno"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "DIRECTEUR GENERAL ENGIE COFELY", 
+        "nom": "MONEGER", 
+        "prenom": "Jean-Pierre"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "552046955", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/552046955.json", 
+    "ville": "PUTEAUX"
   }, 
   {
     "activites": {
@@ -33549,6 +33914,96 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/784717068.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "SPORTS", 
+          "label": "Sports, loisirs, tourisme", 
+          "ordre": 27
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "FLIXBUS FRANCE SARL\r\n50 QUAI CHARLES PASQUA", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION NATIONALE TRANSPORT VOYAGEURS", 
+        "identifiantNational": "393264379", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92300", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "DECARD", 
+        "prenom": "Olivier"
+      }
+    ], 
+    "dateCreation": "2017-11-24T14:59:14", 
+    "datePremierePublication": "2017-11-24T14:59:14", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "FLIXBUS FRANCE SARL", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Head of Institutional Relations", 
+        "nom": "DECARD", 
+        "prenom": "Olivier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Gérant France FlixBus Sarl", 
+        "nom": "LEFRANC-MORIN", 
+        "prenom": "Yvan"
+      }
+    ], 
+    "emailDeContact": "olivier.decard@flixbus.fr", 
+    "historique": [], 
+    "identifiantNational": "812167005", 
+    "lienSiteWeb": "https://www.flixbus.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/812167005.json", 
+    "ville": "LEVALLOIS PERRET"
   }, 
   {
     "activites": {
@@ -79614,6 +80069,245 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/802045336.json", 
     "ville": "SURESNES"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }, 
+        {
+          "code": "SOCIETE", 
+          "label": "Questions de société", 
+          "ordre": 26
+        }
+      ]
+    }, 
+    "affiliations": [
+      {
+        "denomination": "ARPP AUTORITE DE REGULATION PROFESSIONNELLE DE LA PUBLICITE", 
+        "identifiantNational": "307287193", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "INTERPROFESSION DES VINS DE BERGERAC ET DURAS", 
+        "identifiantNational": "781641329", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE INTERPROFESSIONNEL VIN D'ALSACE", 
+        "identifiantNational": "778904706", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSEIL INTERPROF DU VIN DE BORDEAUX", 
+        "identifiantNational": "781846092", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BUREAU INTERPROF.DES VINS DE BOURGOGNE", 
+        "identifiantNational": "378184758", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTER BEAUJOLAIS", 
+        "identifiantNational": "779759935", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTERPROFESSION DES VINS DU VAL DE LOIRE", 
+        "identifiantNational": "429164072", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BUREAU INTERPROFESSIONNEL VINS DU CENTRE", 
+        "identifiantNational": "402946016", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTERPROFESSION DES VINS AOC COTES RHONE", 
+        "identifiantNational": "783204001", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE INTERPROF DU VIN DE CHAMPAGNE", 
+        "identifiantNational": "780385829", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSEIL INTERPROF VINS APPELA LANGUEDOC", 
+        "identifiantNational": "399153386", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSEIL INTERPROFESSIONNEL VINS PROVENCE", 
+        "identifiantNational": "451070197", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSEIL INTERPROF. VINS DU ROUSSILLON", 
+        "identifiantNational": "434341103", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTERPROFESSION DES VINS DU SUD OUEST FRANCE", 
+        "identifiantNational": "387577851", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE NATIONAL DU PINEAU", 
+        "identifiantNational": "322007543", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE INTERPROFESSIONNEL VINS DU JURA", 
+        "identifiantNational": "418116752", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE INTERPROF DES VINS DE SAVOIE", 
+        "identifiantNational": "432480952", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ANIVIN DE FRANCE", 
+        "identifiantNational": "328427745", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION INTERPROFESSIONNELLE DES VINS DE PAYS DU SUD-EST DE LA FRANCE INTERVINS SUD-EST", 
+        "identifiantNational": "513558494", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONFEDERATION DES VINS IGP DE FRANCE", 
+        "identifiantNational": "304348857", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONF NAT PROD VINS EAUX DE VIE", 
+        "identifiantNational": "321410078", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CIVC CONS INTERPRO.VINS CORSE", 
+        "identifiantNational": "305835845", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTER OC INTERPROFESSION DES VINS DE PAYS D'OC", 
+        "identifiantNational": "489331314", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION DES MAISONS ET MARQUES DE VIN", 
+        "identifiantNational": "434848578", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE INTERPROF VIN APPELLATION ORIGINE", 
+        "identifiantNational": "448179333", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VIGNERONS INDEPENDANTS DE FRANCE", 
+        "identifiantNational": "419902887", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONFEDERATION DES COOPERATIVES VINICOLES DE FRANCE - VIGNERONS COOPERATEURS DE FRANCE", 
+        "identifiantNational": "302990700", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75001", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "FORGEAU", 
+        "prenom": "Joel"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Déléguée générale", 
+        "nom": "LEPRESLE", 
+        "prenom": "Krystel"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable des relations institutionnelles", 
+        "nom": "PIOT", 
+        "prenom": "Stephanie"
+      }
+    ], 
+    "dateCreation": "2017-11-24T14:27:40", 
+    "datePremierePublication": "2017-11-24T14:27:40", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "VIN ET SOCIETE", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "DELEGUEE GENERALE", 
+        "nom": "LEPRESLE", 
+        "prenom": "Krystel"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT", 
+        "nom": "FORGEAU", 
+        "prenom": "Joel"
+      }
+    ], 
+    "emailDeContact": "contact@vinetsociete.fr", 
+    "historique": [], 
+    "identifiantNational": "500328570", 
+    "lienPageTwitter": "https://twitter.com/vinetsociete", 
+    "lienSiteWeb": "http://www.vinetsociete.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": false, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/500328570.json", 
+    "ville": "PARIS"
   }, 
   {
     "activites": {
