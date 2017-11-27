@@ -12578,6 +12578,99 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "SOCIETE", 
+          "label": "Questions de société", 
+          "ordre": 26
+        }
+      ]
+    }, 
+    "adresse": "ASS FONDATION CRESUS D INITIATIVE\r\n25 RUE DE LAUSANNE\r\nBP 8", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "67064", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président Fondation CRESUS", 
+        "nom": "KIEHL", 
+        "prenom": "Jean-Louis"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur Fondation CRESUS", 
+        "nom": "PEKKIP", 
+        "prenom": "Maxime"
+      }
+    ], 
+    "dateCreation": "2017-11-27T16:28:07", 
+    "datePremierePublication": "2017-11-27T16:28:07", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "ASSOCIATION POUR LA FONDATION CRESUS D INITIATIVE ECONOMIQUE ET SOCIALES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président de la Fondation CRESUS", 
+        "nom": "KIEHL", 
+        "prenom": "Jean-Louis"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "511317976", 
+    "lienPageFacebook": "https://www.facebook.com/AssoCRESUS/", 
+    "lienPageLinkedin": "https://fr.linkedin.com/in/jean-louis-kiehl-2a683217", 
+    "lienPageTwitter": "https://twitter.com/assocresus", 
+    "lienSiteWeb": "http://www.cresusalsace.org/cresus-en-action/fondation-cresus.html", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "03 90 22 11 30", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/511317976.json", 
+    "ville": "STRASBOURG CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
@@ -13413,6 +13506,102 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }, 
+        {
+          "code": "SOCIETE", 
+          "label": "Questions de société", 
+          "ordre": 26
+        }
+      ]
+    }, 
+    "adresse": "AVEC MODERATION\r\n9 BOULEVARD MALESHERBES", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "CAPITANT", 
+        "prenom": "Alexis"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "SABRIE", 
+        "prenom": "Pascal"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire général", 
+        "nom": "HENNON", 
+        "prenom": "Armand"
+      }
+    ], 
+    "dateCreation": "2017-11-27T16:53:42", 
+    "datePremierePublication": "2017-11-27T16:53:42", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "AVEC MODERATION", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "SABRIÉ", 
+        "prenom": "Pascal"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "393501812", 
+    "lienSiteWeb": "http://www.avecmoderation.org/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0153438075", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/393501812.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -13620,6 +13809,82 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/572093920.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }
+      ]
+    }, 
+    "adresse": "AXA FRANCE VIE\r\n313 TERRASSES DE L ARCHE", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION FRANCAISE DE L ASSURANCE (FFA)", 
+        "identifiantNational": "784409013", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92727", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable Affaires Publiques", 
+        "nom": "RIVÉ", 
+        "prenom": "Emmanuelle"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Affaires Publiques", 
+        "nom": "MARCK", 
+        "prenom": "Hubert"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée Affaires Publiques", 
+        "nom": "PRAT", 
+        "prenom": "Anne-Gaëlle"
+      }
+    ], 
+    "dateCreation": "2017-11-27T16:57:05", 
+    "datePremierePublication": "2017-11-27T16:57:05", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "AXA FRANCE VIE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "PDG", 
+        "nom": "DE PERETTI", 
+        "prenom": "Jacques"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "310499959", 
+    "lienSiteWeb": "", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/310499959.json", 
+    "ville": "NANTERRE CEDEX"
   }, 
   {
     "activites": {
@@ -18429,6 +18694,218 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "COMMERCE", 
+          "label": "Commerce extérieur", 
+          "ordre": 5
+        }, 
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "PROPINT", 
+          "label": "Propriété intellectuelle", 
+          "ordre": 23
+        }
+      ]
+    }, 
+    "adresse": "COMITE INTERPROF VIN APPELLATION ORIGI\r\n12 RUE SAINTE ANNE", 
+    "affiliations": [
+      {
+        "denomination": "STRATEGIE COMMUNICATION COLLECTIVES", 
+        "identifiantNational": "444873640", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "COMITE INTERPROFESSIONNEL VIN D'ALSACE", 
+        "identifiantNational": "778904706", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTERPROFESSION DES VINS DE BERGERAC ET DURAS", 
+        "identifiantNational": "781641329", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTER BEAUJOLAIS", 
+        "identifiantNational": "779759935", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTERPROFESSION DES VINS DU VAL DE LOIRE", 
+        "identifiantNational": "429164072", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BUREAU INTERPROFESSIONNEL VINS DU CENTRE", 
+        "identifiantNational": "402946016", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTERPROFESSION DES VINS AOC COTES RHONE", 
+        "identifiantNational": "783204001", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSEIL INTERPROF VINS APPELA LANGUEDOC", 
+        "identifiantNational": "399153386", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSEIL INTERPROFESSIONNEL VINS PROVENCE", 
+        "identifiantNational": "451070197", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSEIL INTERPROF. VINS DU ROUSSILLON", 
+        "identifiantNational": "434341103", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTERPROFESSION DES VINS DU SUD OUEST FRANCE", 
+        "identifiantNational": "387577851", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE INTERPROFESSIONNEL VINS DU JURA", 
+        "identifiantNational": "418116752", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE INTERPROF DES VINS DE SAVOIE", 
+        "identifiantNational": "432480952", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CIVC CONS INTERPRO.VINS CORSE", 
+        "identifiantNational": "305835845", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ANIVIN DE FRANCE", 
+        "identifiantNational": "328427745", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION INTERPROFESSIONNELLE DES VINS DE PAYS DU SUD-EST DE LA FRANCE INTERVINS SUD-EST", 
+        "identifiantNational": "513558494", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSEIL INTERPROF DU VIN DE BORDEAUX", 
+        "identifiantNational": "781846092", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BUREAU INTERPROF.DES VINS DE BOURGOGNE", 
+        "identifiantNational": "378184758", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE INTERPROF DU VIN DE CHAMPAGNE", 
+        "identifiantNational": "780385829", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE NATIONAL DU PINEAU", 
+        "identifiantNational": "322007543", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTER OC INTERPROFESSION DES VINS DE PAYS D'OC", 
+        "identifiantNational": "489331314", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BUREAU NATIONAL INTERPR COGNAC", 
+        "identifiantNational": "775563455", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BUREAU NATION INTERPROF ARMAG", 
+        "identifiantNational": "776999955", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75001", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "AGOSTINI", 
+        "prenom": "Jérôme"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur Adjoint", 
+        "nom": "FRANJUS-GUIGUES", 
+        "prenom": "Dorothée"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable Economie", 
+        "nom": "IMBERTI", 
+        "prenom": "Marie-Henriette"
+      }
+    ], 
+    "dateCreation": "2017-11-27T14:37:58", 
+    "datePremierePublication": "2017-11-27T14:37:58", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "COMITE INTERPROF VIN APPELLATION ORIGINE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "BARILLERE", 
+        "prenom": "Jean-Marie"
+      }
+    ], 
+    "emailDeContact": "cniv@cniv.asso.fr", 
+    "historique": [], 
+    "identifiantNational": "448179333", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0153299280", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/448179333.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -23142,6 +23619,802 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/432778108.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "CITEO - SREP\n50 BOULEVARD HAUSSMANN", 
+    "affiliations": [
+      {
+        "denomination": "PRO EUROPE s.p.r.l", 
+        "identifiantNational": "H527920546", 
+        "typeIdentifiantNational": "HATVP"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [
+      {
+        "denomination": "ADELPHE", 
+        "identifiantNational": "390913010", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Générale Adjointe", 
+        "nom": "POIVERT", 
+        "prenom": "Géraldine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Affaires Publiques", 
+        "nom": "FURET", 
+        "prenom": "Nicolas"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Relations Institutionnelles", 
+        "nom": "ISAAC-GEORGES", 
+        "prenom": "Guilhem"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée de mission Relations Institutionnelles", 
+        "nom": "COLOMER", 
+        "prenom": "Perrine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Conseiller Spécial", 
+        "nom": "LECONTE", 
+        "prenom": "Johann"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des Opérations Territoriales", 
+        "nom": "LEGAY", 
+        "prenom": "Sophie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable développement territorial et Dom", 
+        "nom": "REVENEAU", 
+        "prenom": "Pierre"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice du Pilotage et de la Planification", 
+        "nom": "LOUVEL", 
+        "prenom": "Anne-Sophie"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable des Affaires Européennes", 
+        "nom": "LANGE", 
+        "prenom": "Alexandra"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Régional", 
+        "nom": "HENAUX", 
+        "prenom": "Pascal"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Régional", 
+        "nom": "LE CLECH", 
+        "prenom": "Olivier"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Régionale", 
+        "nom": "LEUTHY MOLINA", 
+        "prenom": "Christine"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Régionale", 
+        "nom": "NEUMANN", 
+        "prenom": "Laure"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Régionale", 
+        "nom": "PODDEVIN", 
+        "prenom": "Laure"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Régional", 
+        "nom": "QUEMIN", 
+        "prenom": "Richard"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Régional", 
+        "nom": "QUINTARD", 
+        "prenom": "Frédéric"
+      }
+    ], 
+    "dateCreation": "2017-11-27T19:10:49", 
+    "datePremierePublication": "2017-11-27T17:53:31", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "ECO EMBALLAGES SA", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "HORNAIN", 
+        "prenom": "Jean"
+      }
+    ], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }
+          ]
+        }, 
+        "adresse": "CITEO - SREP\n50 BOULEVARD HAUSSMANN", 
+        "affiliations": [
+          {
+            "denomination": "PRO EUROPE s.p.r.l", 
+            "identifiantNational": "H527920546", 
+            "typeIdentifiantNational": "HATVP"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [
+          {
+            "denomination": "ADELPHE", 
+            "identifiantNational": "390913010", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75009", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "MANDATAIRE OPERATIONNEL", 
+            "nom": "DENOYES", 
+            "prenom": "Stéphan"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice générale Adjointe", 
+            "nom": "POIVERT", 
+            "prenom": "Géraldine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Affaires Publiques", 
+            "nom": "FURET", 
+            "prenom": "Nicolas"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Relations Institutionnelles", 
+            "nom": "ISAAC-GEORGES", 
+            "prenom": "Guilhem"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Charges de mission Relations Institutionnelles", 
+            "nom": "COLOMER", 
+            "prenom": "Perrine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Conseiller Spécial", 
+            "nom": "LECONTE", 
+            "prenom": "Johann"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice des Opérations Territoriales", 
+            "nom": "LEGAY", 
+            "prenom": "Sophie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Responsable développement territorial et Dom", 
+            "nom": "REVENEAU", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice du Pilotage et de la Planification", 
+            "nom": "LOUVEL", 
+            "prenom": "Anne-Sophie"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable des Affaires Européennes", 
+            "nom": "LANGE", 
+            "prenom": "Alexandra"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Régional", 
+            "nom": "HENAUX", 
+            "prenom": "Pascal"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Régional", 
+            "nom": "LE CLECH", 
+            "prenom": "Olivier"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Régionale", 
+            "nom": "LEUTHY MOLINA", 
+            "prenom": "Christine"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Régionale", 
+            "nom": "NEUMANN", 
+            "prenom": "Laure"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Régionale", 
+            "nom": "PODDEVIN", 
+            "prenom": "Laure"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Régional", 
+            "nom": "QUEMIN", 
+            "prenom": "Richard"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Régional", 
+            "nom": "QUINTARD", 
+            "prenom": "Frédéric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "DEMEURE IT LATTE", 
+            "prenom": "François"
+          }
+        ], 
+        "dateCreation": "2017-11-27T17:53:31", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "ECO EMBALLAGES SA", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "HORNAIN", 
+            "prenom": "Jean"
+          }
+        ], 
+        "identifiantNational": "388380073", 
+        "lienSiteWeb": "http://www.citeo.com", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }
+          ]
+        }, 
+        "adresse": "CITEO - SREP\n50 BOULEVARD HAUSSMANN", 
+        "affiliations": [
+          {
+            "denomination": "PRO EUROPE s.p.r.l", 
+            "identifiantNational": "H527920546", 
+            "typeIdentifiantNational": "HATVP"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [
+          {
+            "denomination": "ADELPHE", 
+            "identifiantNational": "390913010", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75009", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice générale Adjointe", 
+            "nom": "POIVERT", 
+            "prenom": "Géraldine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Affaires Publiques", 
+            "nom": "FURET", 
+            "prenom": "Nicolas"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Relations Institutionnelles", 
+            "nom": "ISAAC-GEORGES", 
+            "prenom": "Guilhem"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Charges de mission Relations Institutionnelles", 
+            "nom": "COLOMER", 
+            "prenom": "Perrine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Conseiller Spécial", 
+            "nom": "LECONTE", 
+            "prenom": "Johann"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice des Opérations Territoriales", 
+            "nom": "LEGAY", 
+            "prenom": "Sophie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Responsable développement territorial et Dom", 
+            "nom": "REVENEAU", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice du Pilotage et de la Planification", 
+            "nom": "LOUVEL", 
+            "prenom": "Anne-Sophie"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable des Affaires Européennes", 
+            "nom": "LANGE", 
+            "prenom": "Alexandra"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Régional", 
+            "nom": "HENAUX", 
+            "prenom": "Pascal"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Régional", 
+            "nom": "LE CLECH", 
+            "prenom": "Olivier"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Régionale", 
+            "nom": "LEUTHY MOLINA", 
+            "prenom": "Christine"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Régionale", 
+            "nom": "NEUMANN", 
+            "prenom": "Laure"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Régionale", 
+            "nom": "PODDEVIN", 
+            "prenom": "Laure"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Régional", 
+            "nom": "QUEMIN", 
+            "prenom": "Richard"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Régional", 
+            "nom": "QUINTARD", 
+            "prenom": "Frédéric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "DEMEURE IT LATTE", 
+            "prenom": "François"
+          }
+        ], 
+        "dateCreation": "2017-11-27T18:02:53", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "ECO EMBALLAGES SA", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "HORNAIN", 
+            "prenom": "Jean"
+          }
+        ], 
+        "identifiantNational": "388380073", 
+        "lienSiteWeb": "http://www.citeo.com", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }
+          ]
+        }, 
+        "adresse": "CITEO - SREP\n50 BOULEVARD HAUSSMANN", 
+        "affiliations": [
+          {
+            "denomination": "PRO EUROPE s.p.r.l", 
+            "identifiantNational": "H527920546", 
+            "typeIdentifiantNational": "HATVP"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [
+          {
+            "denomination": "ADELPHE", 
+            "identifiantNational": "390913010", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75009", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice générale Adjointe", 
+            "nom": "POIVERT", 
+            "prenom": "Géraldine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Affaires Publiques", 
+            "nom": "FURET", 
+            "prenom": "Nicolas"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Relations Institutionnelles", 
+            "nom": "ISAAC-GEORGES", 
+            "prenom": "Guilhem"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Charges de mission Relations Institutionnelles", 
+            "nom": "COLOMER", 
+            "prenom": "Perrine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Conseiller Spécial", 
+            "nom": "LECONTE", 
+            "prenom": "Johann"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice des Opérations Territoriales", 
+            "nom": "LEGAY", 
+            "prenom": "Sophie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Responsable développement territorial et Dom", 
+            "nom": "REVENEAU", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice du Pilotage et de la Planification", 
+            "nom": "LOUVEL", 
+            "prenom": "Anne-Sophie"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable des Affaires Européennes", 
+            "nom": "LANGE", 
+            "prenom": "Alexandra"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Régional", 
+            "nom": "HENAUX", 
+            "prenom": "Pascal"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Régional", 
+            "nom": "LE CLECH", 
+            "prenom": "Olivier"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Régionale", 
+            "nom": "LEUTHY MOLINA", 
+            "prenom": "Christine"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Régionale", 
+            "nom": "NEUMANN", 
+            "prenom": "Laure"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Régionale", 
+            "nom": "PODDEVIN", 
+            "prenom": "Laure"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Régional", 
+            "nom": "QUEMIN", 
+            "prenom": "Richard"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Régional", 
+            "nom": "QUINTARD", 
+            "prenom": "Frédéric"
+          }
+        ], 
+        "dateCreation": "2017-11-27T18:07:05", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "ECO EMBALLAGES SA", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "HORNAIN", 
+            "prenom": "Jean"
+          }
+        ], 
+        "identifiantNational": "388380073", 
+        "lienSiteWeb": "http://www.citeo.com", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
+    "identifiantNational": "388380073", 
+    "lienSiteWeb": "http://www.citeo.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/388380073.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }
+      ]
+    }, 
+    "adresse": "ELECTRICITE DE FRANCE\r\n22 30 PARIS 8\r\n22 AVENUE DE WAGRAM", 
+    "affiliations": [
+      {
+        "denomination": "ASS UNION FRANCAISE DE L'ELECTRICITE", 
+        "identifiantNational": "432492007", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNDICAT DES ENERGIES RENOUVELABLES", 
+        "identifiantNational": "419710280", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LE CERCLE DE L'INDUSTRIE", 
+        "identifiantNational": "394192389", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75382", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur en charge de la coordination exécutive et des relations gouvernementales", 
+        "nom": "PERRA", 
+        "prenom": "Alexandre"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Affaires publiques", 
+        "nom": "LE THIEC", 
+        "prenom": "Bertrand"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice adjointe des Affaires publiques", 
+        "nom": "LOY", 
+        "prenom": "Véronique"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Régulations", 
+        "nom": "BRUEL", 
+        "prenom": "Patrice"
+      }
+    ], 
+    "dateCreation": "2017-11-27T18:37:40", 
+    "datePremierePublication": "2017-11-27T18:37:40", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ELECTRICITE DE FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président- Directeur Général", 
+        "nom": "LEVY", 
+        "prenom": "Jean-Bernard"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "552081317", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/552081317.json", 
+    "ville": "PARIS CEDEX 08"
   }, 
   {
     "activites": {
@@ -45943,6 +47216,120 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/399315613.json", 
     "ville": "NANTERRE CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }
+      ]
+    }, 
+    "adresse": "MEUBLES IKEA FRANCE\r\nIKEA\r\n425 RUE HENRI BARBUSSE", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION PROFESSIONNELLE DES RESPONSABLES DES RELATIONS AVEC LES POUVOIRS PUBLICS - ARPP", 
+        "identifiantNational": "W751074197", 
+        "typeIdentifiantNational": "RNA"
+      }, 
+      {
+        "denomination": "FEDERATION ENTREPRISES VENTE A DISTANCE", 
+        "identifiantNational": "784854994", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHAMBRE COMMERCE SUEDOISE EN FRANCE", 
+        "identifiantNational": "784358368", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PERFORMANCE INVEST FIABILITE ECON", 
+        "identifiantNational": "321702755", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDER FRANCA NEGOCE AMEUBLE EQUIP MAISON", 
+        "identifiantNational": "314388992", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "78370", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Affaires publiques", 
+        "nom": "CHANDEZE", 
+        "prenom": "Virginie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Senior Public Affairs advisor", 
+        "nom": "DEYRIES", 
+        "prenom": "Pierre"
+      }
+    ], 
+    "dateCreation": "2017-11-27T14:54:38", 
+    "datePremierePublication": "2017-11-27T14:54:38", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "MEUBLES IKEA FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "President Directeur General", 
+        "nom": "KADNAR", 
+        "prenom": "Walter"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "351745724", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/351745724.json", 
+    "ville": "PLAISIR"
   }, 
   {
     "activites": {
@@ -76927,6 +78314,332 @@
     "telephoneDeContact": "0142849500", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/488509191.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "PROREG", 
+          "label": "Professions réglementées", 
+          "ordre": 22
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "UNION NATIONALE DES PROFESSIONS LIBERALES\n46 BOULEVARD DE LA TOUR MAUBOURG", 
+    "affiliations": [
+      {
+        "denomination": "UNION DES ENTREPRISES DE PROXIMITE", 
+        "identifiantNational": "349681098", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75007", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "CHASSANG", 
+        "prenom": "Michel"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire générale", 
+        "nom": "MOLITOR", 
+        "prenom": "Estelle"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "trésorier", 
+        "nom": "BERGEAU", 
+        "prenom": "Alain"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice Président", 
+        "nom": "PICON", 
+        "prenom": "Michel"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice Président", 
+        "nom": "GAERTNER", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice Président", 
+        "nom": "SALA", 
+        "prenom": "Yannick"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Fiscaliste", 
+        "nom": "DE LONGEVIALLE", 
+        "prenom": "Fabrice"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé de mission", 
+        "nom": "CARIBAULT", 
+        "prenom": "David"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président de la Commission Retraite et Prévoyance", 
+        "nom": "DECALF", 
+        "prenom": "Yves"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente de la Commission des affaires sociales", 
+        "nom": "GONDARD ARGENTI", 
+        "prenom": "Marie-Françoise"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président de la Commission des affaires fiscales et économiques", 
+        "nom": "RAYNAL", 
+        "prenom": "Denis"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Déléguée Générale", 
+        "nom": "MERCIER", 
+        "prenom": "Chirine"
+      }
+    ], 
+    "dateCreation": "2017-11-27T17:06:24", 
+    "datePremierePublication": "2017-11-27T16:45:07", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "UNION NATIONALE DES PROFESSIONS LIBERALES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT", 
+        "nom": "CHASSANG", 
+        "prenom": "Michel"
+      }
+    ], 
+    "emailDeContact": "presidence@unapl.fr", 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "PROREG", 
+              "label": "Professions réglementées", 
+              "ordre": 22
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "UNION NAL DES PROFESSIONS LIBERALES\r\n46 BOULEVARD DE LA TOUR MAUBOURG", 
+        "affiliations": [
+          {
+            "denomination": "UNION DES ENTREPRISES DE PROXIMITE", 
+            "identifiantNational": "349681098", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "ORPRO", 
+          "label": "Organisation professionnelle"
+        }, 
+        "clients": [], 
+        "codePostal": "75007", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Déléguée générale", 
+            "nom": "MERCIER", 
+            "prenom": "Chirine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "CHASSANG", 
+            "prenom": "Michel"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Secrétaire générale", 
+            "nom": "MOLITOR", 
+            "prenom": "Estelle"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "trésorier", 
+            "nom": "BERGEAU", 
+            "prenom": "Alain"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Vice Président", 
+            "nom": "PICON", 
+            "prenom": "Michel"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Vice Président", 
+            "nom": "GAERTNER", 
+            "prenom": "Philippe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Vice Président", 
+            "nom": "SALA", 
+            "prenom": "Yannick"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Fiscaliste", 
+            "nom": "DE LONGEVIALLE", 
+            "prenom": "Fabrice"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Chargé de mission", 
+            "nom": "CARIBAULT", 
+            "prenom": "David"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président de la Commission Retraite et Prévoyance", 
+            "nom": "DECALF", 
+            "prenom": "Yves"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente de la Commission des affaires sociales", 
+            "nom": "GONDARD ARGENTI", 
+            "prenom": "Marie-Françoise"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président de la Commission des affaires fiscales et économiques", 
+            "nom": "RAYNAL", 
+            "prenom": "Denis"
+          }
+        ], 
+        "dateCreation": "2017-11-27T16:45:07", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "UNION NATIONALE DES PROFESSIONS LIBERALES", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "PRESIDENT", 
+            "nom": "CHASSANG", 
+            "prenom": "Michel"
+          }
+        ], 
+        "emailDeContact": "presidence@unapl.fr", 
+        "identifiantNational": "302991591", 
+        "lienPageFacebook": "https://www.facebook.com/unapl", 
+        "lienPageTwitter": "https://twitter.com/unapl_officiel", 
+        "lienSiteWeb": "http://www.unapl.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "01 44 11 31 50", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
+    "identifiantNational": "302991591", 
+    "lienPageFacebook": "https://www.facebook.com/unapl", 
+    "lienPageTwitter": "https://twitter.com/unapl_officiel", 
+    "lienSiteWeb": "http://www.unapl.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "01 44 11 31 50", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/302991591.json", 
     "ville": "PARIS"
   }, 
   {
