@@ -40607,6 +40607,91 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }
+      ]
+    }, 
+    "adresse": "INSTITUT DES AVOCATS CONSEILS FISCAUX\r\n9 RUE DU CHEVALIER DE SAINT GEORGE", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION NATIONALE DROIT ENTREPRISE", 
+        "identifiantNational": "775589252", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPEMENT FRANCAIS DE L'ASSOCIATION FISCALE INTERNATIONALE", 
+        "identifiantNational": "799832076", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "BORNHAUSER", 
+        "prenom": "Marc"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice administrative", 
+        "nom": "DERRIEN", 
+        "prenom": "Fabienne"
+      }
+    ], 
+    "dateCreation": "2017-11-27T10:03:36", 
+    "datePremierePublication": "2017-11-27T10:03:36", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "INSTITUT DES AVOCATS CONSEILS FISCAUX", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "BORNHAUSER", 
+        "prenom": "Marc"
+      }
+    ], 
+    "emailDeContact": "contactiacf@iacf.fr", 
+    "historique": [], 
+    "identifiantNational": "784856924", 
+    "lienPageFacebook": "https://www.facebook.com/InstitutIACF/?ref=aymt_homepage_panel", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/iacf/?trk=biz-companies-cym", 
+    "lienPageTwitter": "https://twitter.com/InstitutIACF", 
+    "lienSiteWeb": "http://www.iacf.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0142601018", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784856924.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
@@ -40655,7 +40740,7 @@
         "prenom": "Olivier"
       }
     ], 
-    "dateCreation": "2017-11-13T14:13:44", 
+    "dateCreation": "2017-11-27T11:18:00", 
     "datePremierePublication": "2017-11-03T14:53:33", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -40738,6 +40823,83 @@
           }
         ], 
         "identifiantNational": "562033068", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "ISSY LES MOULINEAUX CEDEX 9"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "JANSSEN CILAG\r\nJANSSEN\r\n1 RUE CAMILLE DESMOULINS\r\nTSA 91003", 
+        "affiliations": [
+          {
+            "denomination": "ASS GPE INT POUR PHARMACIE DE RECHERCHE", 
+            "identifiantNational": "401255468", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LES ENTREPRISES DU MEDICAMENT", 
+            "identifiantNational": "784668543", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LABORATOIRES INTERNATIONAUX DE RECHERCHE", 
+            "identifiantNational": "424399004", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "92787", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur affaires gouvernementales", 
+            "nom": "GRUMEL", 
+            "prenom": "Olivier"
+          }
+        ], 
+        "dateCreation": "2017-11-13T14:13:44", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "JANSSEN CILAG", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente", 
+            "nom": "QUILÈS", 
+            "prenom": "Emmanuelle"
+          }
+        ], 
+        "identifiantNational": "562033068", 
+        "lienPageTwitter": "", 
+        "lienSiteWeb": "http://www.janssen.com/france/", 
         "pays": "FRANCE", 
         "publierMonAdresseEmail": false, 
         "publierMonAdressePhysique": true, 
