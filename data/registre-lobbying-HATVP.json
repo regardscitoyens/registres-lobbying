@@ -19669,6 +19669,102 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }
+      ]
+    }, 
+    "adresse": "CONFEDERATION NATIONALE CREDIT MUTUEL\r\n88 90\r\n88 RUE CARDINET", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION BANCAIRE FRANCAISE", 
+        "identifiantNational": "434987582", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COOP FR LES ENTREPRISES COOPERATIVES", 
+        "identifiantNational": "317165728", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS  A F E C E I", 
+        "identifiantNational": "428419287", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "75017", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président du conseil d'administration", 
+        "nom": "THERY", 
+        "prenom": "Nicolas"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable des affaires publiques", 
+        "nom": "LESEUL", 
+        "prenom": "Gerard"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé des relations avec le parlement", 
+        "nom": "MORVAN", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "DURAND", 
+        "prenom": "Pascal"
+      }
+    ], 
+    "dateCreation": "2017-11-28T11:42:25", 
+    "datePremierePublication": "2017-11-28T11:42:25", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "CONFEDERATION NATIONALE CREDIT MUTUEL", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "DIRECTEUR GENERAL", 
+        "nom": "DURAND", 
+        "prenom": "Pascal"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "784646689", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784646689.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -30045,6 +30141,463 @@
     "telephoneDeContact": "0145482844", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/784311821.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }
+      ]
+    }, 
+    "adresse": "FEDERATION ENTREP COMMERCE DISTRIBUTIO\r\n12 RUE EULER", 
+    "affiliations": [
+      {
+        "denomination": "MOUVEMENT ENTREPRISE FRANCE INTERNATIONA", 
+        "identifiantNational": "378236376", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUV ENTREPRI FRANCE MEDEF ILE DE FRANCE", 
+        "identifiantNational": "784717423", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF RHONE ALPES", 
+        "identifiantNational": "300986403", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSEIL DU COMMERCE DE FRANCE", 
+        "identifiantNational": "784856528", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ARPP - ASSOCIA RELATION POUVOIRS PUBLICS", 
+        "identifiantNational": "437989395", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTERPROFESSION NATIONALE PORCINE", 
+        "identifiantNational": "448608067", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTERBEV", 
+        "identifiantNational": "378355929", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS INTERPROF DES FRUITS & LEGUMES FRAIS", 
+        "identifiantNational": "308647395", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION INTERPROFESSIONNELLE DE LA BANANE", 
+        "identifiantNational": "790971329", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE NAT INTERP POMME DE TER", 
+        "identifiantNational": "310838198", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC AGRICULTEURS FRANCE", 
+        "identifiantNational": "784364259", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FRANCE FILIERE PECHE", 
+        "identifiantNational": "525093639", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION DES ENTREPRISES DES OUTRE-MER", 
+        "identifiantNational": "393411855", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "SOC ETS BENSOUSSAN COMPTOIR D'ORIENT", 
+        "identifiantNational": "313424640", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BAILLY SA", 
+        "identifiantNational": "562027623", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LOUIS DELHAIZE SA", 
+        "identifiantNational": "820078707", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA VIE CLAIRE", 
+        "identifiantNational": "632000014", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LUDERIX INTERNATIONAL", 
+        "identifiantNational": "310635347", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CENTRE DISTRIBUTION ALIMENTAIRE DU S. O.", 
+        "identifiantNational": "592780043", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NORMA SARL", 
+        "identifiantNational": "352739411", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE D'EXPLOITATION DE LA GRANDE EPICERIE DE PARIS", 
+        "identifiantNational": "380356592", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MARKS AND SPENCER FRANCE LIMITED", 
+        "identifiantNational": "530021799", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DISTRIBUTION CASINO FRANCE", 
+        "identifiantNational": "428268023", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FRANCAP DISTRIBUTION", 
+        "identifiantNational": "331087593", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ELECTRO DEPOT FRANCE", 
+        "identifiantNational": "433744539", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RELATIONS MARCHANDISES SERVICES DISTRIBU", 
+        "identifiantNational": "304352768", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DECATHLON FRANCE", 
+        "identifiantNational": "500569405", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MIGROS FRANCE", 
+        "identifiantNational": "384393195", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "METRO CASH & CARRY FRANCE", 
+        "identifiantNational": "399315613", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LIDL", 
+        "identifiantNational": "343262622", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GALERIES LAFAYETTE HAUSSMANN - GL HAUSSMANN", 
+        "identifiantNational": "572062594", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AUCHAN HOLDING", 
+        "identifiantNational": "476180625", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PICARD SURGELES", 
+        "identifiantNational": "784939688", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYSTEME U CENTRALE NATIONALE", 
+        "identifiantNational": "304602956", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COLRUYT RETAIL FRANCE", 
+        "identifiantNational": "789139789", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALDI", 
+        "identifiantNational": "399227990", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TRANSGOURMET OPERATIONS", 
+        "identifiantNational": "433927332", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CARREFOUR", 
+        "identifiantNational": "652014051", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BOULANGER", 
+        "identifiantNational": "347384570", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DARTY HOLDINGS", 
+        "identifiantNational": "531295285", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MAXIMO", 
+        "identifiantNational": "403206964", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NICOLAS DIRECT", 
+        "identifiantNational": "343093464", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "S.A.V SCHIEVER", 
+        "identifiantNational": "439792227", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPE 20", 
+        "identifiantNational": "304720667", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ACTION FRANCE", 
+        "identifiantNational": "753308238", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE D'EXPLOITATION PROVENCIA", 
+        "identifiantNational": "326521002", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYSTEME U - CENTRALE REGIONALE EST", 
+        "identifiantNational": "946051018", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MONOPRIX", 
+        "identifiantNational": "552018020", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ETABLISSEMENTS SEGUREL ET FILS", 
+        "identifiantNational": "302204235", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DISTRIBUTION ALIMENTAIRE PARISIENNE", 
+        "identifiantNational": "954200101", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BJORG BONNETERRE ET COMPAGNIE", 
+        "identifiantNational": "970502761", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TANG FRERES", 
+        "identifiantNational": "306243833", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RALLYE", 
+        "identifiantNational": "054500574", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "CREYSSEL", 
+        "prenom": "Jacques"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice de la communication", 
+        "nom": "BAYRE", 
+        "prenom": "Frédérique"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé de mission Affaires publiques", 
+        "nom": "SAUVAGNARGUES", 
+        "prenom": "Antoine"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des affaires publiques", 
+        "nom": "ROGNONI", 
+        "prenom": "Cécile"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur des Affaires Générales et Relations adhérents", 
+        "nom": "CARCY DOS SANTOS", 
+        "prenom": "Guylaine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur affaires sociales, emploi, formation", 
+        "nom": "GIROUDET", 
+        "prenom": "Renaud"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable Emploi-Formation", 
+        "nom": "TROADEC", 
+        "prenom": "Caroline"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur développement durable, RSE, questions financières", 
+        "nom": "JOGUET", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable environnement-transport", 
+        "nom": "BASCLET", 
+        "prenom": "Giulia"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice de l'action territoriale", 
+        "nom": "GRIMAULT", 
+        "prenom": "Virginie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur de l'agriculture", 
+        "nom": "BEYLER", 
+        "prenom": "Hugues"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice qualité", 
+        "nom": "TAFOURNEL", 
+        "prenom": "Emilie"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des études", 
+        "nom": "SENAND", 
+        "prenom": "Isabelle"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des Affaires publiques Européennes", 
+        "nom": "PROUZET", 
+        "prenom": "Emilie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Policy Advisor", 
+        "nom": "BOUYERON", 
+        "prenom": "Julien"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable Initiative Clause Sociale", 
+        "nom": "HOMMEY", 
+        "prenom": "Carole"
+      }
+    ], 
+    "dateCreation": "2017-11-28T10:37:58", 
+    "datePremierePublication": "2017-11-28T10:37:58", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "FEDERATION ENTREP COMMERCE DISTRIBUTION", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président de la FCD", 
+        "nom": "BOURIEZ", 
+        "prenom": "François"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué général", 
+        "nom": "CREYSSEL", 
+        "prenom": "Jacques"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "784855876", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/808811/", 
+    "lienPageTwitter": "https://twitter.com/FCDfrance", 
+    "lienSiteWeb": "http://www.fcd.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784855876.json", 
     "ville": "PARIS"
   }, 
   {
@@ -46587,6 +47140,118 @@
           "code": "EUROPEEN", 
           "label": "Européen", 
           "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "PROPINT", 
+          "label": "Propriété intellectuelle", 
+          "ordre": 23
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "LILLY FRANCE\r\n24 BOULEVARD VITAL BOUHOT\r\nCS 50004", 
+    "affiliations": [
+      {
+        "denomination": "LES ENTREPRISES DU MEDICAMENT", 
+        "identifiantNational": "784668543", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS GPE INT POUR PHARMACIE DE RECHERCHE", 
+        "identifiantNational": "401255468", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LABORATOIRES INTERNATIONAUX DE RECHERCHE", 
+        "identifiantNational": "424399004", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92521", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice de la communication et des affaires publiques", 
+        "nom": "DELVOLVÉ-ROSSET", 
+        "prenom": "Véronique"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "président directeur général", 
+        "nom": "LECHANTEUR", 
+        "prenom": "Marcel"
+      }
+    ], 
+    "dateCreation": "2017-11-28T11:59:18", 
+    "datePremierePublication": "2017-11-28T11:59:18", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "LILLY FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "président directeur général", 
+        "nom": "LECHANTEUR", 
+        "prenom": "Marcel"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "609849153", 
+    "lienPageTwitter": "", 
+    "lienSiteWeb": "https://www.lilly.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "01 55 49 34 34", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/609849153.json", 
+    "ville": "NEUILLY SUR SEINE CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
         }, 
         {
           "code": "MONDIAL", 
@@ -54886,6 +55551,95 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }
+      ]
+    }, 
+    "adresse": "NEW AREVA HOLDING\r\nTOUR AREVA\r\n1 PLACE JEAN MILLIER", 
+    "affiliations": [
+      {
+        "denomination": "LE CERCLE DE L'INDUSTRIE", 
+        "identifiantNational": "394192389", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92400", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Affaires publiques", 
+        "nom": "LAFERRÈRE", 
+        "prenom": "Armand"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des Affaires publiques France", 
+        "nom": "AUGÉ", 
+        "prenom": "Morgane"
+      }
+    ], 
+    "dateCreation": "2017-11-28T10:32:50", 
+    "datePremierePublication": "2017-11-28T10:32:50", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "NEW AREVA HOLDING", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "VARIN", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "KNOCHE", 
+        "prenom": "Philippe"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "330956871", 
+    "lienPageFacebook": "https://www.facebook.com/arevafrance/?ref=bookmarks", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/3901/", 
+    "lienPageTwitter": "https://twitter.com/AREVAofficial?lang=en", 
+    "lienSiteWeb": "https://www.new.areva.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/330956871.json", 
+    "ville": "COURBEVOIE"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -55964,6 +56718,154 @@
     "publierMonTelephoneDeContact": true, 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/302979075.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }
+      ]
+    }, 
+    "adresse": "PARIS EUROPLACE\r\nPALAIS DE LA BOURSE\r\nPLACE DE LA BOURSE", 
+    "affiliations": [
+      {
+        "denomination": "ASSO FRANCAISE INVESTISSEURS EN CAPITAL", 
+        "identifiantNational": "349165779", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE VALEURS MOYENNES EUROP MIDDLENEXT", 
+        "identifiantNational": "344513916", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [
+      {
+        "denomination": "BANQUE DE FRANCE", 
+        "identifiantNational": "572104891", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CAISSE DES DEPOTS ET CONSIGNATIONS", 
+        "identifiantNational": "180020026", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHAMBRE DE COMMERCE ET D INDUSTRIE DE REGION PARIS ILE DE FRANCE", 
+        "identifiantNational": "130017270", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROCLEAR FRANCE", 
+        "identifiantNational": "542058086", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EURONEXT PARIS SA", 
+        "identifiantNational": "343406732", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMMUNE DE PARIS", 
+        "identifiantNational": "217500016", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "REGION ILE DE FRANCE", 
+        "identifiantNational": "237500079", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75002", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Chargée de mission", 
+        "nom": "DELFRAYSSI", 
+        "prenom": "Carine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué général", 
+        "nom": "DE BRESSON", 
+        "prenom": "Arnaud"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire général", 
+        "nom": "PITHON", 
+        "prenom": "Alain"
+      }
+    ], 
+    "dateCreation": "2017-11-28T11:43:22", 
+    "datePremierePublication": "2017-11-28T11:43:22", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "PARIS EUROPLACE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Délégué général", 
+        "nom": "DE BRESSON", 
+        "prenom": "Arnaud"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire général", 
+        "nom": "PITHON", 
+        "prenom": "Alain"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice générale, Pôle FINANCE INNOVATION", 
+        "nom": "DURIEUX", 
+        "prenom": "Joëlle"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "MESTRALLET", 
+        "prenom": "Gérard"
+      }
+    ], 
+    "emailDeContact": "", 
+    "historique": [], 
+    "identifiantNational": "393769252", 
+    "lienPageLinkedin": "https://fr.linkedin.com/company/paris-europlace", 
+    "lienPageTwitter": "https://twitter.com/europlace", 
+    "lienSiteWeb": "http://paris-europlace.com/fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/393769252.json", 
     "ville": "PARIS"
   }, 
   {
