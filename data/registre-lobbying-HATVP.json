@@ -30827,11 +30827,6 @@
     "adresse": "FEDERATION ENTREP COMMERCE DISTRIBUTIO\r\n12 RUE EULER", 
     "affiliations": [
       {
-        "denomination": "MOUVEMENT ENTREPRISE FRANCE INTERNATIONA", 
-        "identifiantNational": "378236376", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
         "denomination": "MOUV ENTREPRI FRANCE MEDEF ILE DE FRANCE", 
         "identifiantNational": "784717423", 
         "typeIdentifiantNational": "SIREN"
@@ -30889,6 +30884,11 @@
       {
         "denomination": "FEDERATION DES ENTREPRISES DES OUTRE-MER", 
         "identifiantNational": "393411855", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "784668618", 
         "typeIdentifiantNational": "SIREN"
       }
     ], 
@@ -31197,7 +31197,7 @@
         "prenom": "Carole"
       }
     ], 
-    "dateCreation": "2017-11-28T10:37:58", 
+    "dateCreation": "2017-11-29T11:21:49", 
     "datePremierePublication": "2017-11-28T10:37:58", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -31216,7 +31216,462 @@
         "prenom": "Jacques"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "code": "CONSO", 
+              "label": "Concurrence, consommation", 
+              "ordre": 6
+            }, 
+            {
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }
+          ]
+        }, 
+        "adresse": "FEDERATION ENTREP COMMERCE DISTRIBUTIO\r\n12 RUE EULER", 
+        "affiliations": [
+          {
+            "denomination": "MOUVEMENT ENTREPRISE FRANCE INTERNATIONA", 
+            "identifiantNational": "378236376", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MOUV ENTREPRI FRANCE MEDEF ILE DE FRANCE", 
+            "identifiantNational": "784717423", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MEDEF RHONE ALPES", 
+            "identifiantNational": "300986403", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CONSEIL DU COMMERCE DE FRANCE", 
+            "identifiantNational": "784856528", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARPP - ASSOCIA RELATION POUVOIRS PUBLICS", 
+            "identifiantNational": "437989395", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INTERPROFESSION NATIONALE PORCINE", 
+            "identifiantNational": "448608067", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INTERBEV", 
+            "identifiantNational": "378355929", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS INTERPROF DES FRUITS & LEGUMES FRAIS", 
+            "identifiantNational": "308647395", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION INTERPROFESSIONNELLE DE LA BANANE", 
+            "identifiantNational": "790971329", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COMITE NAT INTERP POMME DE TER", 
+            "identifiantNational": "310838198", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOC AGRICULTEURS FRANCE", 
+            "identifiantNational": "784364259", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FRANCE FILIERE PECHE", 
+            "identifiantNational": "525093639", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION DES ENTREPRISES DES OUTRE-MER", 
+            "identifiantNational": "393411855", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "ORPRO", 
+          "label": "Organisation professionnelle"
+        }, 
+        "clients": [
+          {
+            "denomination": "SOC ETS BENSOUSSAN COMPTOIR D'ORIENT", 
+            "identifiantNational": "313424640", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BAILLY SA", 
+            "identifiantNational": "562027623", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LOUIS DELHAIZE SA", 
+            "identifiantNational": "820078707", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LA VIE CLAIRE", 
+            "identifiantNational": "632000014", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LUDERIX INTERNATIONAL", 
+            "identifiantNational": "310635347", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CENTRE DISTRIBUTION ALIMENTAIRE DU S. O.", 
+            "identifiantNational": "592780043", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NORMA SARL", 
+            "identifiantNational": "352739411", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOCIETE D'EXPLOITATION DE LA GRANDE EPICERIE DE PARIS", 
+            "identifiantNational": "380356592", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MARKS AND SPENCER FRANCE LIMITED", 
+            "identifiantNational": "530021799", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DISTRIBUTION CASINO FRANCE", 
+            "identifiantNational": "428268023", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FRANCAP DISTRIBUTION", 
+            "identifiantNational": "331087593", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ELECTRO DEPOT FRANCE", 
+            "identifiantNational": "433744539", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "RELATIONS MARCHANDISES SERVICES DISTRIBU", 
+            "identifiantNational": "304352768", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DECATHLON FRANCE", 
+            "identifiantNational": "500569405", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MIGROS FRANCE", 
+            "identifiantNational": "384393195", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "METRO CASH & CARRY FRANCE", 
+            "identifiantNational": "399315613", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LIDL", 
+            "identifiantNational": "343262622", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GALERIES LAFAYETTE HAUSSMANN - GL HAUSSMANN", 
+            "identifiantNational": "572062594", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "AUCHAN HOLDING", 
+            "identifiantNational": "476180625", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PICARD SURGELES", 
+            "identifiantNational": "784939688", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYSTEME U CENTRALE NATIONALE", 
+            "identifiantNational": "304602956", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COLRUYT RETAIL FRANCE", 
+            "identifiantNational": "789139789", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALDI", 
+            "identifiantNational": "399227990", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRANSGOURMET OPERATIONS", 
+            "identifiantNational": "433927332", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CARREFOUR", 
+            "identifiantNational": "652014051", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BOULANGER", 
+            "identifiantNational": "347384570", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DARTY HOLDINGS", 
+            "identifiantNational": "531295285", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MAXIMO", 
+            "identifiantNational": "403206964", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NICOLAS DIRECT", 
+            "identifiantNational": "343093464", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "S.A.V SCHIEVER", 
+            "identifiantNational": "439792227", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPE 20", 
+            "identifiantNational": "304720667", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ACTION FRANCE", 
+            "identifiantNational": "753308238", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SOCIETE D'EXPLOITATION PROVENCIA", 
+            "identifiantNational": "326521002", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYSTEME U - CENTRALE REGIONALE EST", 
+            "identifiantNational": "946051018", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MONOPRIX", 
+            "identifiantNational": "552018020", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ETABLISSEMENTS SEGUREL ET FILS", 
+            "identifiantNational": "302204235", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DISTRIBUTION ALIMENTAIRE PARISIENNE", 
+            "identifiantNational": "954200101", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BJORG BONNETERRE ET COMPAGNIE", 
+            "identifiantNational": "970502761", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TANG FRERES", 
+            "identifiantNational": "306243833", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "RALLYE", 
+            "identifiantNational": "054500574", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75008", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "nom": "CREYSSEL", 
+            "prenom": "Jacques"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice de la communication", 
+            "nom": "BAYRE", 
+            "prenom": "Frédérique"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Chargé de mission Affaires publiques", 
+            "nom": "SAUVAGNARGUES", 
+            "prenom": "Antoine"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice des affaires publiques", 
+            "nom": "ROGNONI", 
+            "prenom": "Cécile"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur des Affaires Générales et Relations adhérents", 
+            "nom": "CARCY DOS SANTOS", 
+            "prenom": "Guylaine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur affaires sociales, emploi, formation", 
+            "nom": "GIROUDET", 
+            "prenom": "Renaud"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable Emploi-Formation", 
+            "nom": "TROADEC", 
+            "prenom": "Caroline"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur développement durable, RSE, questions financières", 
+            "nom": "JOGUET", 
+            "prenom": "Philippe"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable environnement-transport", 
+            "nom": "BASCLET", 
+            "prenom": "Giulia"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice de l'action territoriale", 
+            "nom": "GRIMAULT", 
+            "prenom": "Virginie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur de l'agriculture", 
+            "nom": "BEYLER", 
+            "prenom": "Hugues"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice qualité", 
+            "nom": "TAFOURNEL", 
+            "prenom": "Emilie"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice des études", 
+            "nom": "SENAND", 
+            "prenom": "Isabelle"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice des Affaires publiques Européennes", 
+            "nom": "PROUZET", 
+            "prenom": "Emilie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Policy Advisor", 
+            "nom": "BOUYERON", 
+            "prenom": "Julien"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable Initiative Clause Sociale", 
+            "nom": "HOMMEY", 
+            "prenom": "Carole"
+          }
+        ], 
+        "dateCreation": "2017-11-28T10:37:58", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "FEDERATION ENTREP COMMERCE DISTRIBUTION", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président de la FCD", 
+            "nom": "BOURIEZ", 
+            "prenom": "François"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Délégué général", 
+            "nom": "CREYSSEL", 
+            "prenom": "Jacques"
+          }
+        ], 
+        "identifiantNational": "784855876", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/808811/", 
+        "lienPageTwitter": "https://twitter.com/FCDfrance", 
+        "lienSiteWeb": "http://www.fcd.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "784855876", 
     "lienPageLinkedin": "https://www.linkedin.com/company/808811/", 
     "lienPageTwitter": "https://twitter.com/FCDfrance", 
@@ -36459,6 +36914,78 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/812167005.json", 
     "ville": "LEVALLOIS PERRET"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "FONDATION ENTREPR BRISTOL MYERS SQUIBB\r\n3 RUE JOSEPH MONIER", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "FONDA", 
+      "label": "Fondation"
+    }, 
+    "clients": [], 
+    "codePostal": "92500", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire Générale", 
+        "nom": "VAIARELLI", 
+        "prenom": "Valerie"
+      }, 
+      {
+        "civilite": "MME", 
+        "nom": "LECHERTIER", 
+        "prenom": "Laure"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "BARLAND", 
+        "prenom": "Jean-Christophe"
+      }
+    ], 
+    "dateCreation": "2017-11-29T10:13:14", 
+    "datePremierePublication": "2017-11-29T10:13:14", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "FONDATION D'ENTREPRISE BRISTOL-MYERS SQUIBB POUR LA RECHERCHE EN IMMUNO-ONCOLOGIE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT DU CONSEIL D'ADMINISTRATION", 
+        "nom": "BARLAND", 
+        "prenom": "Jean-Christophe"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "829846419", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/829846419.json", 
+    "ville": "RUEIL MALMAISON"
   }, 
   {
     "activites": {
@@ -43381,6 +43908,96 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/784856924.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }
+      ]
+    }, 
+    "adresse": "INTEL CORPORATION SAS\r\nLES MONTALETS\r\nIMMEUBLE LES MONTALETS\r\n2 RUE DE PARIS", 
+    "affiliations": [
+      {
+        "denomination": "ALLIANCE FRANCAISE DES INDUSTRIES DU NUMERIQUE", 
+        "identifiantNational": "438608630", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALLIANCE DES COMPOSANTS ET SYSTEMES POUR L'INDUSTRIE ELECTRONIQUE", 
+        "identifiantNational": "798778965", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92196", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Politique Industrielle", 
+        "nom": "PINON", 
+        "prenom": "Marie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "President", 
+        "nom": "NEGRE", 
+        "prenom": "Stéphane"
+      }
+    ], 
+    "dateCreation": "2017-11-29T11:45:35", 
+    "datePremierePublication": "2017-11-29T11:45:35", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "INTEL CORPORATION SAS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "NEGRE", 
+        "prenom": "Stéphane"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "302456199", 
+    "lienSiteWeb": "http://www.intel.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/302456199.json", 
+    "ville": "MEUDON CEDEX"
   }, 
   {
     "activites": {
@@ -64730,6 +65347,499 @@
           "code": "EUROPEEN", 
           "label": "Européen", 
           "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "SYND L INDUSTRIE DIAGNOSTIC IN VITRO\r\n6EME ETAGE\r\n7 RUE MARIOTTE", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION FR DES INDUSTRIES DE SANTE", 
+        "identifiantNational": "481770725", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "L UNION", 
+        "identifiantNational": "525177986", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "ALERE SAS", 
+        "identifiantNational": "533658993", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BRUKER FRANCE", 
+        "identifiantNational": "311020911", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHROMAGAR", 
+        "identifiantNational": "391293834", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DIAGAM FRANCE", 
+        "identifiantNational": "403716947", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DIASOURCE IMMUNOASSAYS S.A", 
+        "identifiantNational": "498875087", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "A. MENARINI DIAGNOSTICS FRANCE SARL", 
+        "identifiantNational": "451309082", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AAZ PRODUCTIONS-LE MATERIEL BIOMEDICAL", 
+        "identifiantNational": "309044451", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ABBOTT FRANCE", 
+        "identifiantNational": "602950206", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AVALUN", 
+        "identifiantNational": "799055520", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BECKMAN COULTER FRANCE", 
+        "identifiantNational": "632043071", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE BIOLABO", 
+        "identifiantNational": "317398832", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BIOMERIEUX SA", 
+        "identifiantNational": "673620399", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BIOSYNEX", 
+        "identifiantNational": "481075703", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CEPHEID HBDC", 
+        "identifiantNational": "512057993", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CISBIO BIOASSAYS", 
+        "identifiantNational": "519954986", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CURETIS FRANCE SARL", 
+        "identifiantNational": "822952511", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DIAGAST", 
+        "identifiantNational": "343445375", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DIASORIN SA", 
+        "identifiantNational": "410392971", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DIASYS DISTRIBUTION FRANCE", 
+        "identifiantNational": "381851591", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DINNO SANTE", 
+        "identifiantNational": "384436457", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ELITECH CLINICAL SYSTEMS SAS", 
+        "identifiantNational": "318365228", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROBIO", 
+        "identifiantNational": "622018554", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FUJIREBIO FRANCE", 
+        "identifiantNational": "391320504", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GRIFOLS FRANCE", 
+        "identifiantNational": "424942209", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HALIODX", 
+        "identifiantNational": "805269271", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HOLOGIC FRANCE SARL", 
+        "identifiantNational": "418221859", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HORIBA ABX SAS", 
+        "identifiantNational": "328031042", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HYPHEN BIOMED", 
+        "identifiantNational": "421645979", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "IMMUNODIAGNOSTIC SYSTEMS FRANCE", 
+        "identifiantNational": "328517685", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "IMMUCOR FRANCE", 
+        "identifiantNational": "499883197", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "IMMUNOTECH", 
+        "identifiantNational": "322904079", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LIFESCAN", 
+        "identifiantNational": "330202334", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MAGNISENSE SE", 
+        "identifiantNational": "529334807", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MERIDIAN BIOSCIENCE EUROPE", 
+        "identifiantNational": "399548585", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GENEWAVE", 
+        "identifiantNational": "440278539", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NG BIOTECH", 
+        "identifiantNational": "752130831", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ORTHO-CLINICAL DIAGNOSTICS FRANCE", 
+        "identifiantNational": "801393984", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PATHOQUEST", 
+        "identifiantNational": "524876059", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PERKINELMER", 
+        "identifiantNational": "692031115", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "QIAGEN FRANCE SAS", 
+        "identifiantNational": "407836949", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "RANDOX LABORATORIES LIMITED", 
+        "identifiantNational": "382632651", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ROCHE DIAGNOSTICS FRANCE", 
+        "identifiantNational": "380484766", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SANOFI-AVENTIS FRANCE", 
+        "identifiantNational": "403335904", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SEBIA", 
+        "identifiantNational": "672041902", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SFRI", 
+        "identifiantNational": "453866824", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SIEMENS HEALTHCARE SAS", 
+        "identifiantNational": "810794800", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOBIODA", 
+        "identifiantNational": "304775554", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DIAGNOSTICA STAGO", 
+        "identifiantNational": "305151409", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYSMEX FRANCE", 
+        "identifiantNational": "429963002", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "THE BINDING SITE GROUP LIMITED", 
+        "identifiantNational": "511379141", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "THERADIAG SA.", 
+        "identifiantNational": "339685612", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "THERMO FISHER DIAGNOSTICS", 
+        "identifiantNational": "955510003", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TOSOH EUROPE", 
+        "identifiantNational": "352925390", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VEDALAB", 
+        "identifiantNational": "382394559", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT DE BIOTECHNOLOGIES JACQUES BOY", 
+        "identifiantNational": "332627074", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MAST DIAGNOSTIC", 
+        "identifiantNational": "393642517", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CEZANNE", 
+        "identifiantNational": "432032712", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "WERFEN", 
+        "identifiantNational": "562010264", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CENTRE EUROPEEN DE BIOTECHNOLOGIE", 
+        "identifiantNational": "324378074", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BECTON DICKINSON FRANCE", 
+        "identifiantNational": "056501711", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BIO-RAD", 
+        "identifiantNational": "449990712", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PERIE MEDICAL PHARMA", 
+        "identifiantNational": "538177015", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DELPHARM BIOTECH", 
+        "identifiantNational": "789030715", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DIAMECAL", 
+        "identifiantNational": "513981381", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HUMAN BIOLOGICAL BANKS", 
+        "identifiantNational": "514243773", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDIMARK EUROPE SARL", 
+        "identifiantNational": "401812946", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE NISSE ENVIRONNEMENT", 
+        "identifiantNational": "500633177", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "S.INTER SA", 
+        "identifiantNational": "318760378", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SUBRA S.A.", 
+        "identifiantNational": "306536434", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ARVATO SERVICES HEALTHCARE FRANCE SAS", 
+        "identifiantNational": "413473117", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BERGERIE DE LA COMBE AUX LOUPS", 
+        "identifiantNational": "311109458", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GENOMIC HEALTH FRANCE", 
+        "identifiantNational": "792451965", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ACCELERATE DIAGNOSTICS SARL", 
+        "identifiantNational": "820369320", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EMOSIS", 
+        "identifiantNational": "808205025", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INTERACTIVE BIOSOFTWARE", 
+        "identifiantNational": "495402281", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ETABLISSEMENT FRANCAIS DU SANG", 
+        "identifiantNational": "428822852", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75017", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "CAMPAGNE", 
+        "prenom": "Elisabeth"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Adjoint Directeur général", 
+        "nom": "BOULVIN BORDET", 
+        "prenom": "Caroline"
+      }
+    ], 
+    "dateCreation": "2017-11-29T12:22:05", 
+    "datePremierePublication": "2017-11-29T12:22:05", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "SYNDICAT DE L INDUSTRIE DU DIAGNOSTIC IN VITRO", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "BAVEREL", 
+        "prenom": "Alain"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur Générale", 
+        "nom": "CAMPAGNE", 
+        "prenom": "Elisabeth"
+      }
+    ], 
+    "emailDeContact": "ecampagne@sidiv.fr", 
+    "historique": [], 
+    "identifiantNational": "502725955", 
+    "lienSiteWeb": "http://www.sidiv.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0140700012", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/502725955.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
         }
       ], 
       "listSecteursActivites": [
@@ -79456,6 +80566,187 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/784358855.json", 
     "ville": "PUTEAUX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "SPORTS", 
+          "label": "Sports, loisirs, tourisme", 
+          "ordre": 27
+        }
+      ]
+    }, 
+    "adresse": "UNION METIERS & INDUSTRIES HOTELLERIE\r\n22 RUE D ANJOU", 
+    "affiliations": [
+      {
+        "denomination": "GROUPEMENT DES PROFESSIONS DE SERVICES", 
+        "identifiantNational": "477942114", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONFEDERATION GENERALE ALIMENTAT.DETAIL", 
+        "identifiantNational": "784717225", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONFEDERATION DES PETITES ET MOYENNES ENTREPRISES", 
+        "identifiantNational": "303215016", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "784668618", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "SYNDI", 
+      "label": "Syndicat"
+    }, 
+    "clients": [], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "directrice du service des affaires juridiques, réglementaires et européennes", 
+        "nom": "BESSE", 
+        "prenom": "Julie"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "directrice de la communication et des relations institutionnelles", 
+        "nom": "MISSONIER", 
+        "prenom": "Gaelle"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "directeur des affaires économiques, fiscales", 
+        "nom": "DOLLE", 
+        "prenom": "Vincent"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "directrice des affaires sociales et de la formation professionnelle", 
+        "nom": "MARANINCHI", 
+        "prenom": "Antonia"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "directeur général", 
+        "nom": "DELTERME", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "vice-président", 
+        "nom": "BECAM", 
+        "prenom": "Hervé"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "président branche Hôtellerie", 
+        "nom": "DUC", 
+        "prenom": "Laurent"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "président branche restauration", 
+        "nom": "JAN", 
+        "prenom": "Hubert"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "président branche saisonniers", 
+        "nom": "GRÉGOIRE", 
+        "prenom": "Thierry"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "président branche cafés, brasseries, monde de la nuit", 
+        "nom": "LUTSE", 
+        "prenom": "Laurent"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "membre du directoire", 
+        "nom": "BEDU", 
+        "prenom": "Michel"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "membre du directoire", 
+        "nom": "BANQUET D'ORX", 
+        "prenom": "Jean-Marc"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "président umih Prestige", 
+        "nom": "LAURE", 
+        "prenom": "Christophe"
+      }
+    ], 
+    "dateCreation": "2017-11-29T11:52:19", 
+    "datePremierePublication": "2017-11-29T11:52:19", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "UNION METIERS & INDUSTRIES HOTELLERIE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "président", 
+        "nom": "HEGUY", 
+        "prenom": "Roland"
+      }
+    ], 
+    "emailDeContact": "umih@umih.fr", 
+    "historique": [], 
+    "identifiantNational": "784357857", 
+    "lienPageFacebook": "https://www.facebook.com/UMIH.France/", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/6426280/", 
+    "lienPageTwitter": "https://twitter.com/UMIH_France", 
+    "lienSiteWeb": "http://www.umih.fr/fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0144941994", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784357857.json", 
+    "ville": "PARIS"
   }, 
   {
     "activites": {
