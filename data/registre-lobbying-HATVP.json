@@ -2182,9 +2182,15 @@
         "fonction": "Chargée de plaidoyer Discriminations", 
         "nom": "HESLOUIN", 
         "prenom": "Julie"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Générale", 
+        "nom": "BRIGOT-VILAIN", 
+        "prenom": "Sylvie"
       }
     ], 
-    "dateCreation": "2017-11-28T17:08:33", 
+    "dateCreation": "2017-11-29T12:32:11", 
     "datePremierePublication": "2017-11-28T17:08:33", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -2203,7 +2209,197 @@
         "prenom": "Sylvie"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ETRANGER", 
+              "label": "Affaires étrangères, coopération internationale", 
+              "ordre": 1
+            }, 
+            {
+              "code": "SECURITE", 
+              "label": "Défense, sécurité", 
+              "ordre": 7
+            }, 
+            {
+              "code": "JUSTICE", 
+              "label": "Justice", 
+              "ordre": 16
+            }, 
+            {
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }, 
+            {
+              "code": "MIGRA", 
+              "label": "Questions migratoires", 
+              "ordre": 24
+            }
+          ]
+        }, 
+        "adresse": "AMNESTY INTERNATIONAL SECTION FRANCAIS\r\nPARIS 19\r\n76 BOULEVARD DE LA VILLETTE", 
+        "affiliations": [
+          {
+            "denomination": "ASS NAT ASSIST FRONTIERES ETRANGERS", 
+            "identifiantNational": "383136157", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CENTRE PRIMO LEVI", 
+            "identifiantNational": "401121355", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COALITION FRANC.COUR PENALE INTERNATION", 
+            "identifiantNational": "429082357", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COMITE CHARTE DEONTOLOGIE ORGAN SOCIALES HUMANITAIRES", 
+            "identifiantNational": "404452062", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PLATEFORME ONG FRANCAISES PALESTINE", 
+            "identifiantNational": "433238037", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION NATIONALE DES ORGANISMES FAISANT APPEL AUX GENEROSITES", 
+            "identifiantNational": "497918375", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COMMISSION NAT CONSULTATIVE DROITS HOMME", 
+            "identifiantNational": "110000197", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_NON_GOUV", 
+          "code": "ASSOC", 
+          "label": "Association"
+        }, 
+        "clients": [], 
+        "codePostal": "75940", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Chargé de plaidoyer Armes et Justice internationale", 
+            "nom": "ELLUIN", 
+            "prenom": "Aymeric"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chargée de plaidoyer Entreprises et droits humains", 
+            "nom": "GAGNIER", 
+            "prenom": "Sabine"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chargée de plaidoyer \"Libertés\"", 
+            "nom": "CURIS", 
+            "prenom": "Dominique"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chargée de plaidoyer programme Libertés", 
+            "nom": "ROUX", 
+            "prenom": "Katia"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Responsable du Programme Protection des populations", 
+            "nom": "DUBOST", 
+            "prenom": "Jean-François"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Coordinateur plaidoyer/Advocacy officer", 
+            "nom": "ALBRIEUX", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable des relations extérieures", 
+            "nom": "CASTAGNOS-SEN", 
+            "prenom": "Anne"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente", 
+            "nom": "BLANC", 
+            "prenom": "Camille"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Vice-Présidente", 
+            "nom": "COUDRIOU", 
+            "prenom": "Cécile"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Responsable du programme Libertés", 
+            "nom": "KRAMEYER", 
+            "prenom": "Nicolas"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chargée de plaidoyer Discriminations", 
+            "nom": "HESLOUIN", 
+            "prenom": "Julie"
+          }
+        ], 
+        "dateCreation": "2017-11-28T17:08:33", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "AMNESTY INTERNATIONAL SECTION FRANCAISE", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente", 
+            "nom": "BLANC", 
+            "prenom": "Camille"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Générale", 
+            "nom": "BRIGOT-VILAIN", 
+            "prenom": "Sylvie"
+          }
+        ], 
+        "identifiantNational": "308238401", 
+        "lienPageFacebook": "https://www.facebook.com/amnestyfr", 
+        "lienSiteWeb": "https://www.amnesty.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0153386565", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS CEDEX 19"
+      }
+    ], 
     "identifiantNational": "308238401", 
     "lienPageFacebook": "https://www.facebook.com/amnestyfr", 
     "lienSiteWeb": "https://www.amnesty.fr/", 
@@ -3993,6 +4189,11 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -4067,7 +4268,7 @@
         "prenom": "Cyrille"
       }
     ], 
-    "dateCreation": "2017-11-06T17:06:15", 
+    "dateCreation": "2017-11-29T15:15:31", 
     "datePremierePublication": "2017-10-24T12:21:44", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -4298,6 +4499,123 @@
             "fonction": "Trésorier", 
             "nom": "AUDIBERT", 
             "prenom": "Cyril"
+          }
+        ], 
+        "identifiantNational": "449491091", 
+        "lienSiteWeb": "https://www.camionpizza.org", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "MARSEILLE"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "code": "CONSO", 
+              "label": "Concurrence, consommation", 
+              "ordre": 6
+            }, 
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "EDUCATION", 
+              "label": "Education, enseignement supérieur, formation", 
+              "ordre": 9
+            }, 
+            {
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }
+          ]
+        }, 
+        "adresse": "FNAPCM\nMAISON DES ARTISANS\n7 BOULEVARD PEBRE", 
+        "affiliations": [
+          {
+            "denomination": "CONFEDERATION GENERALE ALIMENTAT.DETAIL", 
+            "identifiantNational": "784717225", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "ORPRO", 
+          "label": "Organisation professionnelle"
+        }, 
+        "clients": [], 
+        "codePostal": "13008", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "GARCIA", 
+            "prenom": "Luc-Gaston"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président honoraire", 
+            "nom": "SPOSITO", 
+            "prenom": "Francis"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente adjointe, déléguée Bretagne - Pays de la Loire", 
+            "nom": "SUDRE", 
+            "prenom": "Isabelle"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Délégué ville de Marseille", 
+            "nom": "AUDIBERT", 
+            "prenom": "Cyrille"
+          }
+        ], 
+        "dateCreation": "2017-11-06T17:06:15", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "ASS FED NAT ARTISANS PIZZA CAMION MAGAS", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "GARCIA", 
+            "prenom": "Luc-Gaston"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente adjointe", 
+            "nom": "SUDRE", 
+            "prenom": "Isabelle"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président honoraire", 
+            "nom": "SPOSITO", 
+            "prenom": "Francis"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Trésorier", 
+            "nom": "AUDIBERT", 
+            "prenom": "Cyrille"
           }
         ], 
         "identifiantNational": "449491091", 
@@ -17551,6 +17869,92 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "PROREG", 
+          "label": "Professions réglementées", 
+          "ordre": 22
+        }
+      ]
+    }, 
+    "adresse": "CHBRE NALE CONSEIL INVEST FINANCIER (CNIF)\n103 Boulevard Haussmann", 
+    "affiliations": [
+      {
+        "denomination": "UNION NATIONALE DES PROFESSIONS LIBERALES", 
+        "identifiantNational": "302991591", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Déléguée générale", 
+        "nom": "DECAUDIN", 
+        "prenom": "Elizabeth"
+      }
+    ], 
+    "dateCreation": "2017-11-29T16:54:17", 
+    "datePremierePublication": "2017-11-29T16:54:17", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "CHAMBRE NALE CONSEILLERS INVESTISSEMENT FINANCIER", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "FANTUZ", 
+        "prenom": "Stéphane"
+      }
+    ], 
+    "emailDeContact": "contact@cncif.org", 
+    "historique": [], 
+    "identifiantNational": "489247676", 
+    "lienPageLinkedin": "https://www.linkedin.com/showcase/18009111/", 
+    "lienSiteWeb": "https://www.cncef.org/cncif/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/489247676.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
@@ -26376,6 +26780,167 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/552046955.json", 
     "ville": "PUTEAUX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "MEDIA", 
+          "label": "Médias, industries culturelles", 
+          "ordre": 18
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "ERNST & YOUNG SOCIETE D' AVOCATS\r\nPARIS LA DEFENSE 1 1 A 2\r\n1 PL DES SAISONS", 
+    "affiliations": [
+      {
+        "denomination": "INSTITUT DES AVOCATS CONSEILS FISCAUX", 
+        "identifiantNational": "784856924", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHAMBRE DE COMMERCE AMERICAINE EN FRANCE - AMERICAN CHAMBER OF COMMERCE IN FRANCE", 
+        "identifiantNational": "W751038014", 
+        "typeIdentifiantNational": "RNA"
+      }, 
+      {
+        "denomination": "ASSO DES AVOCATS CONSEILS D'ENTREPRISE", 
+        "identifiantNational": "775698202", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OBSERVATOIRE DE L'IMMATERIEL", 
+        "identifiantNational": "508293677", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CEDANTS & REPRENEURS D'AFFAIRES", 
+        "identifiantNational": "344857230", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE PROVENCE COTE D AZUR", 
+        "identifiantNational": "524498896", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION DES JURISTES FRANCAIS ET ALLEMANDS - AJFA", 
+        "identifiantNational": "W751011225", 
+        "typeIdentifiantNational": "RNA"
+      }, 
+      {
+        "denomination": "ASSOCIATION DES AVOCATS FISCALISTES", 
+        "identifiantNational": "W062006396", 
+        "typeIdentifiantNational": "RNA"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "AVCAB", 
+      "label": "Cabinet d’avocats"
+    }, 
+    "clients": [
+      {
+        "denomination": "BRITISH AMERICAN TOBACCO FRANCE", 
+        "identifiantNational": "303765630", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EXXONMOBIL CHEMICAL FRANCE", 
+        "identifiantNational": "352170013", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AIRBNB FRANCE", 
+        "identifiantNational": "750885410", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "92400", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "DE BROSSES", 
+        "prenom": "Véronique"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Avocat associé", 
+        "nom": "FOUREL", 
+        "prenom": "Eric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Associé-Responsable national secteur \"Economie Sociale et Solidaire\"", 
+        "nom": "DUTHEIL", 
+        "prenom": "Philippe-Henri"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Avocat associé", 
+        "nom": "LIEB", 
+        "prenom": "Jean-Pierre"
+      }
+    ], 
+    "dateCreation": "2017-11-29T17:12:17", 
+    "datePremierePublication": "2017-11-29T17:12:17", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "ERNST & YOUNG SOCIETE D' AVOCATS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "FOUREL", 
+        "prenom": "Eric"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "448683789", 
+    "pays": "", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/448683789.json", 
+    "ville": "COURBEVOIE"
   }, 
   {
     "activites": {
@@ -38406,6 +38971,108 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "Groupement des industries de l'équipement électrique, du contrôle-commande et des services associés (Gimélec)\n17 rue de l'Amiral Hamelin", 
+    "affiliations": [
+      {
+        "denomination": "FED IDUST ELECTR ELECTRONIQUES  COMMUNIC", 
+        "identifiantNational": "775688443", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "SYNDI", 
+      "label": "Syndicat"
+    }, 
+    "clients": [], 
+    "codePostal": "75783", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général", 
+        "nom": "DE FLEURIEU", 
+        "prenom": "Antoine"
+      }
+    ], 
+    "dateCreation": "2017-11-29T22:23:07", 
+    "datePremierePublication": "2017-11-29T22:23:07", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "GROUP IND MAT EQUIP ELEC ELECT", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "REMONT", 
+        "prenom": "Luc"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général", 
+        "nom": "DE FLEURIEU", 
+        "prenom": "Antoine"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "305061855", 
+    "lienPageLinkedin": "https://www.linkedin.com/company-beta/3182633/", 
+    "lienPageTwitter": "https://twitter.com/gimelec", 
+    "lienSiteWeb": "http://www.gimelec.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/305061855.json", 
+    "ville": "PARIS cedex 16"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -45006,6 +45673,112 @@
       ], 
       "listSecteursActivites": [
         {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }
+      ]
+    }, 
+    "adresse": "LA BANQUE POSTALE\r\nPARIS 6\r\n115 RUE DE SEVRES", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION BANCAIRE FRANCAISE", 
+        "identifiantNational": "434987582", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PARIS EUROPLACE", 
+        "identifiantNational": "393769252", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75275", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président du Directoire", 
+        "nom": "WEBER", 
+        "prenom": "Rémy"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur financier et Directeur des affaires publiques", 
+        "nom": "LUSTMAN", 
+        "prenom": "Florence"
+      }
+    ], 
+    "dateCreation": "2017-11-29T17:46:25", 
+    "datePremierePublication": "2017-11-29T17:46:25", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "LA BANQUE POSTALE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président du Directoire", 
+        "nom": "WEBER", 
+        "prenom": "Rémy"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Membre du Directoire - Secrétaire général", 
+        "nom": "BLANCO", 
+        "prenom": "Tony"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Membre du Directoire - Directeur général de la banque commerciale et de l'assurance", 
+        "nom": "BATAVE", 
+        "prenom": "Marc"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Membre du Directoire - Directrice générale du Réseau, Directrice déléguée des services financiers", 
+        "nom": "BOURN", 
+        "prenom": "Anne-Laure"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "421100645", 
+    "lienPageFacebook": "https://www.facebook.com/labanquepostale", 
+    "lienPageLinkedin": "https://fr.linkedin.com/company/la-banque-postale", 
+    "lienPageTwitter": "https://twitter.com/labanquepostale", 
+    "lienSiteWeb": "https://www.labanquepostale.fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/421100645.json", 
+    "ville": "PARIS CEDEX 06"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
           "code": "CONSO", 
           "label": "Concurrence, consommation", 
           "ordre": 6
@@ -45277,6 +46050,107 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/356000000.json", 
     "ville": "PARIS 15"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "LABORATOIRE GLAXOSMITHKLINE\n23 RUE FRANCOIS JACOB\n", 
+    "affiliations": [
+      {
+        "denomination": "LES ENTREPRISES DU MEDICAMENT", 
+        "identifiantNational": "784668543", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LABORATOIRES INTERNATIONAUX DE RECHERCHE", 
+        "identifiantNational": "424399004", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92500", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "BROCHARD", 
+        "prenom": "Jean-François"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président, Directeur des Affaires Economiques et Gouvernementales", 
+        "nom": "BAIL", 
+        "prenom": "Jean-Noël"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Affaires publiques et veille stratégique", 
+        "nom": "KUHNMUNCH", 
+        "prenom": "Emmanuelle"
+      }
+    ], 
+    "dateCreation": "2017-11-29T17:00:15", 
+    "datePremierePublication": "2017-11-29T17:00:15", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "LABORATOIRE GLAXOSMITHKLINE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "BROCHARD", 
+        "prenom": "Jean-François"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "642041362", 
+    "lienSiteWeb": "https://fr.gsk.com/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/642041362.json", 
+    "ville": "RUEIL-MALMAISON"
   }, 
   {
     "activites": {
@@ -57251,6 +58125,75 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }
+      ]
+    }, 
+    "adresse": "NATIXIS LEASE\r\nBAIL MATERIEL\r\n30 AVENUE PIERRE MENDES FRANCE", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION FRANCAISE DES SOCIETES FINANCIERES ASF", 
+        "identifiantNational": "W751004754", 
+        "typeIdentifiantNational": "RNA"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75646", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Contact opérationnel", 
+        "nom": "FEKIR", 
+        "prenom": "Stephane"
+      }
+    ], 
+    "dateCreation": "2017-11-29T15:33:26", 
+    "datePremierePublication": "2017-11-29T15:33:26", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "NATIXIS LEASE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "DIRECTEUR GENERAL", 
+        "nom": "TRUPIN", 
+        "prenom": "Didier"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "379155369", 
+    "lienSiteWeb": "http://www.lease.natixis.com/lease/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/379155369.json", 
+    "ville": "PARIS CEDEX 13"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -57303,7 +58246,7 @@
         "prenom": "Morgane"
       }
     ], 
-    "dateCreation": "2017-11-28T10:32:50", 
+    "dateCreation": "2017-11-29T18:20:54", 
     "datePremierePublication": "2017-11-28T10:32:50", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -57311,18 +58254,105 @@
     "dirigeants": [
       {
         "civilite": "M", 
-        "fonction": "Président", 
-        "nom": "VARIN", 
+        "fonction": "Directeur Général", 
+        "nom": "KNOCHE", 
         "prenom": "Philippe"
       }, 
       {
         "civilite": "M", 
-        "fonction": "Directeur Général", 
-        "nom": "KNOCHE", 
+        "fonction": "Président du Conseil d'administration", 
+        "nom": "VARIN", 
         "prenom": "Philippe"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }
+          ]
+        }, 
+        "adresse": "NEW AREVA HOLDING\r\nTOUR AREVA\r\n1 PLACE JEAN MILLIER", 
+        "affiliations": [
+          {
+            "denomination": "LE CERCLE DE L'INDUSTRIE", 
+            "identifiantNational": "394192389", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "92400", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Affaires publiques", 
+            "nom": "LAFERRÈRE", 
+            "prenom": "Armand"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice des Affaires publiques France", 
+            "nom": "AUGÉ", 
+            "prenom": "Morgane"
+          }
+        ], 
+        "dateCreation": "2017-11-28T10:32:50", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "NEW AREVA HOLDING", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "VARIN", 
+            "prenom": "Philippe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "KNOCHE", 
+            "prenom": "Philippe"
+          }
+        ], 
+        "identifiantNational": "330956871", 
+        "lienPageFacebook": "https://www.facebook.com/arevafrance/?ref=bookmarks", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/3901/", 
+        "lienPageTwitter": "https://twitter.com/AREVAofficial?lang=en", 
+        "lienSiteWeb": "https://www.new.areva.com", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "COURBEVOIE"
+      }
+    ], 
     "identifiantNational": "330956871", 
     "lienPageFacebook": "https://www.facebook.com/arevafrance/?ref=bookmarks", 
     "lienPageLinkedin": "https://www.linkedin.com/company/3901/", 
@@ -65918,6 +66948,177 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }, 
+        {
+          "code": "PROREG", 
+          "label": "Professions réglementées", 
+          "ordre": 22
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "SYNDICAT DES BIOLOGISTES\r\nSDBIO\r\n11 RUE DE FLEURUS", 
+    "affiliations": [
+      {
+        "denomination": "UNION NATIONALE DES PROFESSIONS LIBERALES", 
+        "identifiantNational": "302991591", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75006", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "président", 
+        "nom": "BLANCHECOTTE", 
+        "prenom": "François"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "secrétaire général", 
+        "nom": "PONS", 
+        "prenom": "Jean-Louis"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "vice-président", 
+        "nom": "DUBERTRAND", 
+        "prenom": "Jean-Marc"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "vice-président", 
+        "nom": "DUGIMONT", 
+        "prenom": "Jean-Charles"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "vice-président", 
+        "nom": "ROUSSET-ROUVIERE", 
+        "prenom": "Bruno"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "trésorier", 
+        "nom": "MARTIN", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "trésorier adjoint", 
+        "nom": "GUINARD", 
+        "prenom": "Francis"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "secrétaire général adjoint", 
+        "nom": "ROSTAIN", 
+        "prenom": "Bruno"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "membre du bureau", 
+        "nom": "AIM", 
+        "prenom": "Georges"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "membre du bureau", 
+        "nom": "BERNARD", 
+        "prenom": "Dominique"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "membre du bureau", 
+        "nom": "DOERMANN", 
+        "prenom": "Henry-Pierre"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "membre du bureau", 
+        "nom": "FERRET", 
+        "prenom": "Geneviève"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "membre du bureau", 
+        "nom": "GAUTHIER", 
+        "prenom": "Bruno"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "membre du bureau", 
+        "nom": "HUC", 
+        "prenom": "Xavier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "membre du bureau", 
+        "nom": "LOQUET", 
+        "prenom": "Boris"
+      }
+    ], 
+    "dateCreation": "2017-11-29T17:01:48", 
+    "datePremierePublication": "2017-11-29T17:01:48", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "SYNDICAT DES BIOLOGISTES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "président", 
+        "nom": "BLANCHECOTTE", 
+        "prenom": "François"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "784451130", 
+    "lienPageFacebook": "https://www.facebook.com/Syndicatdbio-187153788033635/", 
+    "lienPageTwitter": "https://twitter.com/SyndicatDBio", 
+    "lienSiteWeb": "https://www.sdbio.eu/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0153638500", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784451130.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -73098,6 +74299,175 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }
+      ]
+    }, 
+    "adresse": "TEREOS PARTICIPATIONS\r\n11 RUE PASTEUR", 
+    "affiliations": [
+      {
+        "denomination": "CENTRE D'ETUDES ET DE DOCUMENTATION DU SUCRE", 
+        "identifiantNational": "824875926", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION SYNDIC INDUSTRIE PRODUITS AMYLACES", 
+        "identifiantNational": "784203861", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYND NAT PRODUCTEURS ALCOOL AGRICOLE", 
+        "identifiantNational": "784178113", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS NATIONALE IND. AGRO ALIMENTAIRES", 
+        "identifiantNational": "302664784", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COOP DE FRANCE", 
+        "identifiantNational": "784179665", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT TECHNIQUE DE LA BETTERAVE I.T.B.", 
+        "identifiantNational": "784855447", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE NAT INTERP POMME DE TER", 
+        "identifiantNational": "310838198", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYND NAT PRODUCT ADDIT", 
+        "identifiantNational": "784312548", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS INTERPRO BETTERAVE SUCRE - AIBS", 
+        "identifiantNational": "452400724", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION CHIMIE DU VEGETAL", 
+        "identifiantNational": "508402542", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPE D'ETUDE DES PROTEINES VEGETALES (G.E.P.V.)", 
+        "identifiantNational": "W922007687", 
+        "typeIdentifiantNational": "RNA"
+      }, 
+      {
+        "denomination": "UNION NAT GRT DISTILLERIE ALCOOL", 
+        "identifiantNational": "784178782", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "02390", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable Affaires Publiques", 
+        "nom": "MORENVILLEZ", 
+        "prenom": "Claire"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable Affaires Publiques pour les secteurs sucre, amidon, fécule et luzerne", 
+        "nom": "ESTEVE", 
+        "prenom": "Morgane"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Affaires Réglementaires Alcool/Ethanol", 
+        "nom": "CORRE", 
+        "prenom": "Valérie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Affaires Publiques", 
+        "nom": "DELPECH", 
+        "prenom": "Raphael"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable Affaires Publiques", 
+        "nom": "PERRETTE", 
+        "prenom": "Laurent"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président du Directoire", 
+        "nom": "DUVAL", 
+        "prenom": "Alexis"
+      }
+    ], 
+    "dateCreation": "2017-11-29T15:15:02", 
+    "datePremierePublication": "2017-11-29T15:15:02", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "TEREOS PARTICIPATIONS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président du Directoire", 
+        "nom": "DUVAL", 
+        "prenom": "Alexis"
+      }
+    ], 
+    "emailDeContact": "infotereos@tereos.com", 
+    "historique": [], 
+    "identifiantNational": "444413058", 
+    "lienPageFacebook": "https://www.facebook.com/groupetereos/", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/411667/", 
+    "lienPageTwitter": "https://twitter.com/tereos", 
+    "lienSiteWeb": "https://tereos.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "03 28 38 79 30", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/444413058.json", 
+    "ville": "ORIGNY SAINTE BENOITE"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
@@ -74544,6 +75914,112 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/380780262.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }
+      ]
+    }, 
+    "adresse": "TOTAL MARKETING SERVICES\r\nTOUR TOTAL\r\n24 COURS MICHELET", 
+    "affiliations": [
+      {
+        "denomination": "ASSOC FR DU GAZ NATUREL POUR VEHICULES", 
+        "identifiantNational": "399808237", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION FRANCAISE DE NORMALISATION", 
+        "identifiantNational": "775724818", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS EUROPEEN VEHICULE ELECTRIQ ROUTIERS", 
+        "identifiantNational": "381166792", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION FRANCAISE INDUSTRIES PETROLIERES", 
+        "identifiantNational": "784668527", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION INDUSTRIES CHIMIQUES", 
+        "identifiantNational": "784358855", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92800", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Relations Institutionnelles", 
+        "nom": "DE FEYDEAU", 
+        "prenom": "Thierry"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Réglementation & Advocacy", 
+        "nom": "MANUELLI", 
+        "prenom": "Pascal"
+      }
+    ], 
+    "dateCreation": "2017-11-29T17:31:41", 
+    "datePremierePublication": "2017-11-29T17:31:41", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "TOTAL MARKETING SERVICES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président Directeur Général", 
+        "nom": "NGUER", 
+        "prenom": "Momar"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "542034921", 
+    "lienSiteWeb": "http://www.total.com/fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0141354000", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/542034921.json", 
+    "ville": "PUTEAUX"
   }, 
   {
     "activites": {
@@ -85207,6 +86683,143 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/752328328.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "UPA DE REGION GRAND EST\r\n45 RUE CHABAUD", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "CAPEB GRAND EST", 
+        "identifiantNational": "823873450", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONFEDERATION GENERALE DE L ALIMENTATION EN DETAIL GRAND EST", 
+        "identifiantNational": "828444471", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CNAMS GRAND EST", 
+        "identifiantNational": "H467583075", 
+        "typeIdentifiantNational": "HATVP"
+      }, 
+      {
+        "denomination": "UNAPL REGION GRAND EST", 
+        "identifiantNational": "H230350392", 
+        "typeIdentifiantNational": "HATVP"
+      }
+    ], 
+    "codePostal": "51100", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire Générale", 
+        "nom": "CADET", 
+        "prenom": "Christine"
+      }
+    ], 
+    "dateCreation": "2017-11-29T16:20:39", 
+    "datePremierePublication": "2017-11-29T16:20:39", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "UPA DE REGION GRAND EST", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "HENRY", 
+        "prenom": "Paul"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "STALTER", 
+        "prenom": "Bernard"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "MOUTON", 
+        "prenom": "Jean-Louis"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "ZORGNIOTTI", 
+        "prenom": "Joseph"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "NOSAL", 
+        "prenom": "Christian"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire Générale", 
+        "nom": "CADET", 
+        "prenom": "Christine"
+      }
+    ], 
+    "emailDeContact": "grandest@u2p-france.fr", 
+    "historique": [], 
+    "identifiantNational": "821988698", 
+    "lienPageTwitter": "", 
+    "lienSiteWeb": "", 
+    "pays": "", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0389236565", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/821988698.json", 
+    "ville": "REIMS"
   }, 
   {
     "activites": {
