@@ -17781,6 +17781,116 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "COM", 
+          "label": "Communications électroniques", 
+          "ordre": 28
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "CDISCOUNT\r\nCDISCOUNT CDISCOUNT COM CDISCOUNT PRO\r\n120 126\r\n120 QUAI DE BACALAN\r\nCS 11584", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION ENTREPRISES VENTE A DISTANCE", 
+        "identifiantNational": "784854994", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNDICAT DES REGIES INTERNET", 
+        "identifiantNational": "482600806", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [
+      {
+        "denomination": "CASINO GUICHARD-PERRACHON", 
+        "identifiantNational": "554501171", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "33067", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur adjoint aux Relations extérieures du groupe Casino", 
+        "nom": "FECHNER", 
+        "prenom": "Jean-Luc"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire Générale", 
+        "nom": "EVEN", 
+        "prenom": "Marie"
+      }
+    ], 
+    "dateCreation": "2017-12-01T09:50:42", 
+    "datePremierePublication": "2017-12-01T09:50:42", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "CDISCOUNT", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "GRENIER", 
+        "prenom": "Emmanuel"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "424059822", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/424059822.json", 
+    "ville": "BORDEAUX CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -21318,6 +21428,189 @@
     "telephoneDeContact": "0144181455", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/398995142.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "COMFLUENCE\r\n17 BOULEVARD MALESHERBES", 
+    "affiliations": [
+      {
+        "denomination": "MOUV ENTREPRI FRANCE MEDEF ILE DE FRANCE", 
+        "identifiantNational": "784717423", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COCAB", 
+      "label": "Cabinet de conseil"
+    }, 
+    "clients": [
+      {
+        "denomination": "AXEMA", 
+        "identifiantNational": "515186724", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CARTE BLANCHE PARTENAIRES", 
+        "identifiantNational": "379301518", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE NATIONALE TERRITORIALE MNT", 
+        "identifiantNational": "775678584", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE INTEGRANCE", 
+        "identifiantNational": "340359900", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GILEAD SCIENCES", 
+        "identifiantNational": "391360971", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MUTUELLE GENERALE EDUCATION NATIONALE", 
+        "identifiantNational": "775685399", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHAMBRE SYND REPARTITION PHARMACEUTIQUE", 
+        "identifiantNational": "333593556", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FRANCE BOIS INDUSTRIE ENTREPRISES", 
+        "identifiantNational": "530583145", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYMOP", 
+        "identifiantNational": "785425810", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BRISTOL MYERS SQUIBB", 
+        "identifiantNational": "562011742", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNTEC INGENIERIE", 
+        "identifiantNational": "384718839", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION FRANCAISE DE NORMALISATION", 
+        "identifiantNational": "775724818", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur de pôle affaires publiques", 
+        "nom": "RONDEL", 
+        "prenom": "Christophe"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "consultante", 
+        "nom": "MONFORT", 
+        "prenom": "Pauline"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante", 
+        "nom": "REDONNET", 
+        "prenom": "Lucie"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Consultante", 
+        "nom": "AZAIS", 
+        "prenom": "Constance"
+      }
+    ], 
+    "dateCreation": "2017-12-01T12:02:49", 
+    "datePremierePublication": "2017-12-01T12:02:49", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "COMFLUENCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Associé - Co-fondateur", 
+        "nom": "RIPOULL", 
+        "prenom": "Jérôme"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Associé - Co-fondateur", 
+        "nom": "LAMKIN", 
+        "prenom": "Vincent"
+      }
+    ], 
+    "emailDeContact": "christophe.rondel@comfluence.fr", 
+    "historique": [], 
+    "identifiantNational": "509796249", 
+    "lienPageLinkedin": "", 
+    "lienPageTwitter": "", 
+    "lienSiteWeb": "http://www.comfluence.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "06 42 05 93 76", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/509796249.json", 
     "ville": "PARIS"
   }, 
   {
@@ -26631,11 +26924,6 @@
         "typeIdentifiantNational": "SIREN"
       }, 
       {
-        "denomination": "TRANSDEV", 
-        "identifiantNational": "542104377", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
         "denomination": "BANQUE NEUFLIZE OBC", 
         "identifiantNational": "552003261", 
         "typeIdentifiantNational": "SIREN"
@@ -26671,7 +26959,7 @@
         "prenom": "Anne Sophie"
       }
     ], 
-    "dateCreation": "2017-11-30T15:56:43", 
+    "dateCreation": "2017-12-01T12:05:35", 
     "datePremierePublication": "2017-11-30T15:56:43", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": true, 
@@ -26684,7 +26972,159 @@
         "prenom": "Éric"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }, 
+            {
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "AVO_CONS", 
+          "code": "COCAB", 
+          "label": "Cabinet de conseil"
+        }, 
+        "clients": [
+          {
+            "denomination": "FEDER NATIO CAISS EPARG PREVO", 
+            "identifiantNational": "429351208", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNITED BISCUITS FRANCE", 
+            "identifiantNational": "856801519", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "L'ASSOCIATION DE L'ECONOMIE NUMERIQUE", 
+            "identifiantNational": "322387945", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HI MEDIA", 
+            "identifiantNational": "418093761", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FRANCE BOISSONS", 
+            "identifiantNational": "642028609", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HEINEKEN ENTREPRISE", 
+            "identifiantNational": "414842062", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "VEOLIA EAU - COMPAGNIE GENERALE DES EAUX", 
+            "identifiantNational": "572025526", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRANSDEV", 
+            "identifiantNational": "542104377", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "BANQUE NEUFLIZE OBC", 
+            "identifiantNational": "552003261", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LECOQ-VALLON & FERON-POLONI", 
+            "identifiantNational": "397866658", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HI CAB", 
+            "identifiantNational": "530869171", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75001", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "nom": "LAPLANTIF", 
+            "prenom": "Éric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur", 
+            "nom": "LECA", 
+            "prenom": "Daniel"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Consultante", 
+            "nom": "PALA MASSONI", 
+            "prenom": "Anne Sophie"
+          }
+        ], 
+        "dateCreation": "2017-11-30T15:56:43", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": true, 
+        "denomination": "E2L CONSULTING", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Associé", 
+            "nom": "LAPLANTIF", 
+            "prenom": "Éric"
+          }
+        ], 
+        "identifiantNational": "484841333", 
+        "lienSiteWeb": "http://www.e2lconsulting.fr", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": false, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "484841333", 
     "lienSiteWeb": "http://www.e2lconsulting.fr", 
     "pays": "FRANCE", 
@@ -79222,6 +79662,96 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }
+      ]
+    }, 
+    "adresse": "TOTAL MARKETING FRANCE\r\n562 AVENUE DU PARC DE L ILE", 
+    "affiliations": [
+      {
+        "denomination": "UNION FRANCAISE INDUSTRIES PETROLIERES", 
+        "identifiantNational": "784668527", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EVOLEN", 
+        "identifiantNational": "534585419", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONSEIL NATIONAL PROFESSIONS AUTOMOBILE", 
+        "identifiantNational": "775688450", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIAT TECHNIQUE ENERGIE ENVIRONNEMENT", 
+        "identifiantNational": "315062786", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION ROUTIERE DE FRANCE", 
+        "identifiantNational": "784361701", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92029", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "VOVK", 
+        "prenom": "Alexis"
+      }
+    ], 
+    "dateCreation": "2017-12-01T09:45:11", 
+    "datePremierePublication": "2017-12-01T09:45:11", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "TOTAL MARKETING FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "VOVK", 
+        "prenom": "Alexis"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "531680445", 
+    "lienSiteWeb": "http://www.total.com/fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0141354000", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/531680445.json", 
+    "ville": "NANTERRE CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }, 
         {
           "code": "EUROPEEN", 
@@ -79412,7 +79942,7 @@
         "prenom": "Regis"
       }
     ], 
-    "dateCreation": "2017-11-30T19:11:13", 
+    "dateCreation": "2017-12-01T09:59:47", 
     "datePremierePublication": "2017-11-30T18:18:51", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -79541,9 +80071,126 @@
         "publierMonTelephoneDeContact": true, 
         "typeIdentifiantNational": "SIREN", 
         "ville": "COURBEVOIE"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "TOTAL PETROCHEMICALS FRANCE\r\nLA DEFENSE 6\r\n2 PLACE JEAN MILLIER", 
+        "affiliations": [
+          {
+            "denomination": "LENICA", 
+            "identifiantNational": "822597118", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION CHIMIE DU VEGETAL", 
+            "identifiantNational": "508402542", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION ALLIANCE CHIMIE RECYCLAGE", 
+            "identifiantNational": "752862474", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNDICAT CHIMIE ORGANIQUE DE BASE", 
+            "identifiantNational": "784669046", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION DES INDUSTRIES CHIMIQUES LORRAINE", 
+            "identifiantNational": "414005223", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION INDUSTRIES CHIMIQUES DE NORMANDIE", 
+            "identifiantNational": "404314965", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "92400", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "PRESIDENT DIRECTEUR GENERAL", 
+            "nom": "CHARTON", 
+            "prenom": "Michel"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "DIRECTEUR RELATIONS INSTITUTIONNELLES FRANCE", 
+            "nom": "ALTHOFFER", 
+            "prenom": "Regis"
+          }
+        ], 
+        "dateCreation": "2017-11-30T19:11:13", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "TOTAL PETROCHEMICALS FRANCE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "PRESIDENT DU CONSEIL D'ADMINISTRATION ET DIRECTEUR GENERAL", 
+            "nom": "CHARTON", 
+            "prenom": "Michel"
+          }
+        ], 
+        "identifiantNational": "428891113", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "COURBEVOIE"
       }
     ], 
     "identifiantNational": "428891113", 
+    "lienSiteWeb": "https://www.total.com/fr", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
@@ -79628,7 +80275,7 @@
         "prenom": "Regis"
       }
     ], 
-    "dateCreation": "2017-11-30T19:10:39", 
+    "dateCreation": "2017-12-01T09:59:01", 
     "datePremierePublication": "2017-11-30T18:17:55", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -79737,9 +80384,202 @@
         "publierMonTelephoneDeContact": true, 
         "typeIdentifiantNational": "SIREN", 
         "ville": "COURBEVOIE"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "TOTAL RAFFINAGE FRANCE\r\nLA DEFENSE\r\n2 PLACE JEAN MILLIER", 
+        "affiliations": [
+          {
+            "denomination": "UNION FRANCAISE INDUSTRIES PETROLIERES", 
+            "identifiantNational": "784668527", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EVOLEN", 
+            "identifiantNational": "534585419", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "92400", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "PRESIDENT DU CONSEIL D'ADMINISTRATION ET DIRECTEUR RAFFINAGE CHIMIE DE BASE EUROPE", 
+            "nom": "CHARTON", 
+            "prenom": "Michel"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "DIRECTEUR RELATIONS INSTITUTIONNELLES FRANCE", 
+            "nom": "ALTHOFFER", 
+            "prenom": "Regis"
+          }
+        ], 
+        "dateCreation": "2017-11-30T19:10:39", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "TOTAL RAFFINAGE FRANCE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "PRESIDENT DU CONSEIL D'ADMINISTRATION", 
+            "nom": "CHARTON", 
+            "prenom": "Michel"
+          }
+        ], 
+        "identifiantNational": "529221749", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "COURBEVOIE"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "TOTAL RAFFINAGE FRANCE\r\nLA DEFENSE\r\n2 PLACE JEAN MILLIER", 
+        "affiliations": [
+          {
+            "denomination": "UNION FRANCAISE INDUSTRIES PETROLIERES", 
+            "identifiantNational": "784668527", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EVOLEN", 
+            "identifiantNational": "534585419", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "92400", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "PRESIDENT DU CONSEIL D'ADMINISTRATION ET DIRECTEUR RAFFINAGE CHIMIE DE BASE EUROPE", 
+            "nom": "CHARTON", 
+            "prenom": "Michel"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "DIRECTEUR RELATIONS INSTITUTIONNELLES FRANCE", 
+            "nom": "ALTHOFFER", 
+            "prenom": "Regis"
+          }
+        ], 
+        "dateCreation": "2017-12-01T09:55:21", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "TOTAL RAFFINAGE FRANCE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "PRESIDENT DU CONSEIL D'ADMINISTRATION", 
+            "nom": "CHARTON", 
+            "prenom": "Michel"
+          }
+        ], 
+        "identifiantNational": "529221749", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "COURBEVOIE"
       }
     ], 
     "identifiantNational": "529221749", 
+    "lienSiteWeb": "https://www.total.com/fr", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
@@ -90712,6 +91552,79 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }
+      ]
+    }, 
+    "adresse": "UPRIGAZ UNION PROF INDUSTRIES PRIV GA\r\n2 PLACE JEAN MILLIER", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "92400", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "RAOUX", 
+        "prenom": "Alain"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "president", 
+        "nom": "ROMIEU", 
+        "prenom": "Michel"
+      }
+    ], 
+    "dateCreation": "2017-12-01T10:40:14", 
+    "datePremierePublication": "2017-12-01T10:40:14", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "UPRIGAZ(UNION PROF.INDUSTRIES PRIV. GAZ)", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "President", 
+        "nom": "ROMIEU", 
+        "prenom": "Michel"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "secrétaire général", 
+        "nom": "RAOUX", 
+        "prenom": "Alain"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "429801665", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/429801665.json", 
+    "ville": "COURBEVOIE"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -91288,6 +92201,79 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/802045336.json", 
     "ville": "SURESNES"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "VIIV HEALTHCARE SAS\n23 rue François Jacob", 
+    "affiliations": [
+      {
+        "denomination": "LES ENTREPRISES DU MEDICAMENT", 
+        "identifiantNational": "784668543", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92500", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur affaires publiques, relations associations de patients, communication", 
+        "nom": "FRUCTUOSO VOISIN", 
+        "prenom": "Corinne"
+      }
+    ], 
+    "dateCreation": "2017-12-01T10:25:07", 
+    "datePremierePublication": "2017-12-01T10:25:07", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "VIIV HEALTHCARE SAS", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "CYGLER", 
+        "prenom": "Barbara"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "413900382", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/413900382.json", 
+    "ville": "RUEIL- MALMAISON"
   }, 
   {
     "activites": {
