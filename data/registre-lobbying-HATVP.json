@@ -1405,6 +1405,110 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "AIR LIQUIDE FRANCE INDUSTRIE\r\n6 RUE COGNACQ JAY", 
+    "affiliations": [
+      {
+        "denomination": "CHAMBRE SYNDICA FABRICANT GAZ COMPRIME", 
+        "identifiantNational": "784359523", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION INDUSTRIES CHIMIQUES", 
+        "identifiantNational": "784358855", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION FRANCAISE POUR L'HYDROGENE ET LES PILES A COMBUSTIBLE", 
+        "identifiantNational": "419636303", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNIDEN", 
+        "identifiantNational": "434856894", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75007", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Affaires Européennes et Internationales", 
+        "nom": "SUEUR", 
+        "prenom": "Thierry"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Affaires Publiques", 
+        "nom": "SAADI", 
+        "prenom": "Régis"
+      }
+    ], 
+    "dateCreation": "2017-12-04T10:16:41", 
+    "datePremierePublication": "2017-12-04T10:16:41", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "AIR LIQUIDE FRANCE INDUSTRIE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "RICHARD", 
+        "prenom": "Louis-François"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "314119504", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/314119504.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }, 
         {
           "code": "EUROPEEN", 
@@ -25674,6 +25778,188 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/429659824.json", 
     "ville": "FOS SUR MER"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENTREPRISE", 
+          "label": "Gouvernance d’entreprise", 
+          "ordre": 14
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }
+      ]
+    }, 
+    "adresse": "CPME CORREZE\r\nCONFEDERAT PETITES MOYENNES ENTREPRISE\r\n9 BOULEVARD MIRABEAU", 
+    "affiliations": [
+      {
+        "denomination": "CONFEDERATION DES PETITES ET MOYENNES ENTREPRISES", 
+        "identifiantNational": "303215016", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "19100", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "BOUISSOUS", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "TAURISSON", 
+        "prenom": "Franck"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "CHARBONNEL", 
+        "prenom": "Christian"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "NEYRAT", 
+        "prenom": "Sébastien"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "MAILLARD", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "LEFRANC", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "GAUT", 
+        "prenom": "Christian"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "FOURNAIRON", 
+        "prenom": "Eric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "DEMAILLY", 
+        "prenom": "Alain"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "CHAMAND", 
+        "prenom": "Christophe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "BOULAUD", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Administrateur", 
+        "nom": "CAYRE", 
+        "prenom": "Françoise"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "FISCHER", 
+        "prenom": "Daniel"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "PETIT-ROUVES", 
+        "prenom": "David"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Administrateur", 
+        "nom": "MATHIEU", 
+        "prenom": "Jean-Pierre"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Administrateur", 
+        "nom": "CHANOT", 
+        "prenom": "Emmanuelle"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Administrateur", 
+        "nom": "COUDRE-BOURGEON", 
+        "prenom": "Rachel"
+      }
+    ], 
+    "dateCreation": "2017-12-04T10:49:50", 
+    "datePremierePublication": "2017-12-04T10:49:50", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "CPME CORREZE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "ANTOINE", 
+        "prenom": "Philippe"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "434255329", 
+    "lienPageFacebook": "https://www.facebook.com/CPME-Corrèze-19-323735447725204/", 
+    "lienPageTwitter": "https://twitter.com/Cpme19?lang=fr", 
+    "lienSiteWeb": "http://www.cpme19.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/434255329.json", 
+    "ville": "BRIVE LA GAILLARDE"
   }, 
   {
     "activites": {
@@ -81516,6 +81802,90 @@
     "publierMonTelephoneDeContact": true, 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/428891113.json", 
+    "ville": "COURBEVOIE"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }
+      ]
+    }, 
+    "adresse": "TOTAL RAFFINAGE CHIMIE\r\nLA DEFENSE 6\r\n2 PLACE JEAN MILLIER", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [
+      {
+        "denomination": "TOTAL PETROCHEMICALS FRANCE", 
+        "identifiantNational": "428891113", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TOTAL RAFFINAGE FRANCE", 
+        "identifiantNational": "529221749", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "92400", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "DIRECTEUR RELATIONS INSTITUTIONNELLES FRANCE", 
+        "nom": "ALTHOFFER", 
+        "prenom": "Regis"
+      }
+    ], 
+    "dateCreation": "2017-12-04T12:11:07", 
+    "datePremierePublication": "2017-12-04T12:11:07", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "TOTAL RAFFINAGE CHIMIE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT DU CONSEIL D'ADMINISTRATION ET DIRECTEUR GENERAL", 
+        "nom": "PINATEL", 
+        "prenom": "Bernard"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "692004807", 
+    "lienSiteWeb": "https://www.total.com/fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/692004807.json", 
     "ville": "COURBEVOIE"
   }, 
   {
