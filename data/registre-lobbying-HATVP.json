@@ -23865,9 +23865,15 @@
         "fonction": "Directeur des Relations Institutionnelles et Européennes", 
         "nom": "PROUX", 
         "prenom": "Dominique"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire Général", 
+        "nom": "HALNA DU FRETAY", 
+        "prenom": "Henry"
       }
     ], 
-    "dateCreation": "2017-12-01T14:34:03", 
+    "dateCreation": "2017-12-05T11:33:50", 
     "datePremierePublication": "2017-12-01T14:34:03", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -23878,10 +23884,116 @@
         "fonction": "PRESIDENT", 
         "nom": "LIEBUS", 
         "prenom": "Patrick"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "1er Vice Président Chargé des Affaires sociales", 
+        "nom": "QUENET", 
+        "prenom": "Albert"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Vice Présidente chargée des Affaires économiques", 
+        "nom": "BASILI", 
+        "prenom": "Sabine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice Président chargé du réseau", 
+        "nom": "MÉTAYER", 
+        "prenom": "Dominique"
       }
     ], 
     "emailDeContact": "d.proux@capeb.fr", 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }, 
+            {
+              "code": "PROREG", 
+              "label": "Professions réglementées", 
+              "ordre": 22
+            }
+          ]
+        }, 
+        "adresse": "CONFEDERAT ARTISANAT PETITE ENT BATIME\r\n2 RUE BERANGER", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "ORPRO", 
+          "label": "Organisation professionnelle"
+        }, 
+        "clients": [], 
+        "codePostal": "75003", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Relations Institutionnelles et Européennes", 
+            "nom": "PROUX", 
+            "prenom": "Dominique"
+          }
+        ], 
+        "dateCreation": "2017-12-01T14:34:03", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "CONFEDERAT ARTISANAT PETITE ENT BATIMENT", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "PRESIDENT", 
+            "nom": "LIEBUS", 
+            "prenom": "Patrick"
+          }
+        ], 
+        "emailDeContact": "d.proux@capeb.fr", 
+        "identifiantNational": "775682107", 
+        "lienSiteWeb": "http://www.capeb.fr", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0153605031", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "775682107", 
     "lienSiteWeb": "http://www.capeb.fr", 
     "pays": "FRANCE", 
@@ -27741,6 +27853,202 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/434079422.json", 
     "ville": "POITIERS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }
+      ]
+    }, 
+    "adresse": "DANONE\r\n17 BOULEVARD HAUSSMANN", 
+    "affiliations": [
+      {
+        "denomination": "ASSO FRANCAI ENTREPRIS PRIVEES", 
+        "identifiantNational": "326943016", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMITE FRANCE CHINE", 
+        "identifiantNational": "315982454", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75439", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Vice-Présidente Corporate Affairs", 
+        "nom": "WARGON", 
+        "prenom": "Emmanuelle"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Corporate Public Affairs Director", 
+        "nom": "DURAND-REVILLE", 
+        "prenom": "Alice"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Global public affairs director", 
+        "nom": "ETCHEBEHERE", 
+        "prenom": "Facundo"
+      }
+    ], 
+    "dateCreation": "2017-12-05T11:15:14", 
+    "datePremierePublication": "2017-12-05T11:15:14", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "DANONE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "FABER", 
+        "prenom": "Emmanuel"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "552032534", 
+    "lienSiteWeb": "http://www.danone.com/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/552032534.json", 
+    "ville": "PARIS CEDEX 09"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }
+      ]
+    }, 
+    "adresse": "DANONE PRODUITS FRAIS FRANCE\r\n150 BOULEVARD VICTOR HUGO\r\nCS 90002", 
+    "affiliations": [
+      {
+        "denomination": "FEDER NATIONAL INDUST LAITIERE", 
+        "identifiantNational": "784357741", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITU LIAISON ETUDES INDUSTR CONSOMM", 
+        "identifiantNational": "784671075", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION DES ANNONCEURS", 
+        "identifiantNational": "784669533", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNDIFRAIS", 
+        "identifiantNational": "784856130", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "93589", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "PEYRAUT", 
+        "prenom": "Laurence"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des affaires publiques", 
+        "nom": "LEBRUN", 
+        "prenom": "Perrine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable affaires publiques", 
+        "nom": "GRIS", 
+        "prenom": "Pierre-Henri"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable affaires publiques", 
+        "nom": "DE MONTVALON", 
+        "prenom": "Amandine"
+      }
+    ], 
+    "dateCreation": "2017-12-05T11:16:50", 
+    "datePremierePublication": "2017-12-05T11:16:50", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "DANONE PRODUITS FRAIS FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "EYRAUD", 
+        "prenom": "François"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "672039971", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/672039971.json", 
+    "ville": "ST OUEN CEDEX"
   }, 
   {
     "activites": {
@@ -31834,11 +32142,6 @@
     "collaborateurs": [
       {
         "civilite": "M", 
-        "nom": "FARASSE", 
-        "prenom": "François-Xavier"
-      }, 
-      {
-        "civilite": "M", 
         "fonction": "Directeur Général", 
         "nom": "SCHLESINGER", 
         "prenom": "Frederic"
@@ -31856,7 +32159,7 @@
         "prenom": "Cecile"
       }
     ], 
-    "dateCreation": "2017-12-01T16:52:50", 
+    "dateCreation": "2017-12-05T09:17:08", 
     "datePremierePublication": "2017-12-01T16:52:50", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -31875,7 +32178,127 @@
         "prenom": "Frederic"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "MEDIA", 
+              "label": "Médias, industries culturelles", 
+              "ordre": 18
+            }, 
+            {
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }, 
+            {
+              "code": "PROPINT", 
+              "label": "Propriété intellectuelle", 
+              "ordre": 23
+            }, 
+            {
+              "code": "COM", 
+              "label": "Communications électroniques", 
+              "ordre": 28
+            }
+          ]
+        }, 
+        "adresse": "EUROPE 1 TELECOMPAGNIE\r\nEUROPE 1\r\n26 B RUE FRANCOIS 1ER", 
+        "affiliations": [
+          {
+            "denomination": "LE BUREAU DE LA RADIO", 
+            "identifiantNational": "512363433", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNDICAT DES RESEAUX RADIOPHONIQUES NATIONAUX SRN", 
+            "identifiantNational": "W751137000", 
+            "typeIdentifiantNational": "RNA"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [
+          {
+            "denomination": "EUROPE 2 ENTREPRISES", 
+            "identifiantNational": "352819577", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "RFM ENTREPRISES", 
+            "identifiantNational": "405188871", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75400", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "nom": "FARASSE", 
+            "prenom": "François-Xavier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "SCHLESINGER", 
+            "prenom": "Frederic"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Secrétaire Général", 
+            "nom": "FAUCONNIER", 
+            "prenom": "Anne"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice des relations institutionnelles", 
+            "nom": "DURAND-GIRARD", 
+            "prenom": "Cecile"
+          }
+        ], 
+        "dateCreation": "2017-12-01T16:52:50", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "EUROPE 1 TELECOMPAGNIE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "LAGARDERE", 
+            "prenom": "Arnaud"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "SCHLESINGER", 
+            "prenom": "Frederic"
+          }
+        ], 
+        "identifiantNational": "542168463", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS CEDEX 08"
+      }
+    ], 
     "identifiantNational": "542168463", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": true, 
@@ -48826,6 +49249,65 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/493457741.json", 
     "ville": "PARIS CEDEX 10"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }
+      ]
+    }, 
+    "adresse": "IFP ENERGIES NOUVELLES\r\n1 AVENUE DE BOIS PREAU\r\nBP 311", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_PUB", 
+      "code": "EPAIC", 
+      "label": "Etablissement public exerçant une activité industrielle et commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92506", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable des relations institutionnelles", 
+        "nom": "SANIERE", 
+        "prenom": "Armelle"
+      }
+    ], 
+    "dateCreation": "2017-12-05T09:27:29", 
+    "datePremierePublication": "2017-12-05T09:27:29", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "IFP ENERGIES NOUVELLES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "HOUSSIN", 
+        "prenom": "Didier"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "775729155", 
+    "lienPageTwitter": "https://twitter.com/IFPENinnovation", 
+    "lienSiteWeb": "http://www.ifpenergiesnouvelles.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/775729155.json", 
+    "ville": "RUEIL MALMAISON CEDEX"
   }, 
   {
     "activites": {
@@ -65917,6 +66399,102 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "NUTRICIA NUTRITION CLINIQUE SAS\r\n150 AU 152\r\n150 BOULEVARD VICTOR HUGO", 
+    "affiliations": [
+      {
+        "denomination": "L'ALLIANCE 7", 
+        "identifiantNational": "381436666", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYND NATION INDUST TECHNOL MEDICALES", 
+        "identifiantNational": "307330845", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "93406", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "PEYRAUT", 
+        "prenom": "Laurence"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice affaires publiques", 
+        "nom": "LEBRUN", 
+        "prenom": "Perrine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable affaires publiques", 
+        "nom": "GRIS", 
+        "prenom": "Pierre-Henri"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable affaires publiques", 
+        "nom": "DE MONTVALON", 
+        "prenom": "Amandine"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des affaires réglementaires", 
+        "nom": "COPLO", 
+        "prenom": "Claire"
+      }
+    ], 
+    "dateCreation": "2017-12-05T11:19:09", 
+    "datePremierePublication": "2017-12-05T11:19:09", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "NUTRICIA NUTRITION CLINIQUE SAS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "LUDWICZAK", 
+        "prenom": "Artur"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "451229306", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/451229306.json", 
+    "ville": "ST OUEN CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "MONDIAL", 
           "label": "Mondial", 
           "ordre": 4
@@ -67397,6 +67975,90 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "RATP DEVELOPPEMENT\r\nLAC\r\nA318\r\n54 QUAI DE LA RAPEE", 
+    "affiliations": [
+      {
+        "denomination": "UNION  TRANSPORTS PUBLICS FERROVIAIRES", 
+        "identifiantNational": "784408643", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION NATIONALE TRANSPORT VOYAGEURS", 
+        "identifiantNational": "393264379", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75012", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire Générale", 
+        "nom": "RODET", 
+        "prenom": "Florence"
+      }
+    ], 
+    "dateCreation": "2017-12-05T12:01:14", 
+    "datePremierePublication": "2017-12-05T12:01:14", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "RATP DEVELOPPEMENT", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente du Directoire", 
+        "nom": "BATLLE", 
+        "prenom": "Laurence"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "389795006", 
+    "lienSiteWeb": "https://www.ratpdev.com/fr", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/389795006.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -68324,6 +68986,90 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/954506077.json", 
     "ville": "ST PRIEST CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }
+      ]
+    }, 
+    "adresse": "RETIA\r\nLA DEFENSE 6\r\n2 PLACE JEAN MILLIER", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92400", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT", 
+        "nom": "LONDICHE", 
+        "prenom": "Antoine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "CHEF DE PROJET", 
+        "nom": "CHARLOT", 
+        "prenom": "Yannick"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "CHEF DE PROJET", 
+        "nom": "MONIER", 
+        "prenom": "Philippe"
+      }
+    ], 
+    "dateCreation": "2017-12-05T12:21:57", 
+    "datePremierePublication": "2017-12-05T12:21:57", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "RETIA", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "PRESIDENT", 
+        "nom": "LONDICHE", 
+        "prenom": "Antoine"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "445115462", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/445115462.json", 
+    "ville": "COURBEVOIE"
   }, 
   {
     "activites": {
@@ -69794,6 +70540,102 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/524866241.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }
+      ]
+    }, 
+    "adresse": "SA EAUX MINERALES EVIAN\r\nDANONE EAUX FRANCE\r\n11 AVENUE GENERAL DUPAS", 
+    "affiliations": [
+      {
+        "denomination": "CHAMBRE SYND EAUX MINERALES", 
+        "identifiantNational": "784856080", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BOISSONS RAFRAICHISSANTES DE FRANCE", 
+        "identifiantNational": "430272039", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "74500", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire générale", 
+        "nom": "PEYRAUT", 
+        "prenom": "Laurence"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice affaires publiques", 
+        "nom": "LEBRUN", 
+        "prenom": "Perrine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable affaires publiques", 
+        "nom": "GRIS", 
+        "prenom": "Pierre-Henri"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable affaires publiques", 
+        "nom": "DE MONTVALON", 
+        "prenom": "Amandine"
+      }
+    ], 
+    "dateCreation": "2017-12-05T11:13:19", 
+    "datePremierePublication": "2017-12-05T11:13:19", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "SA EAUX MINERALES EVIAN", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur général", 
+        "nom": "BELIOT-ZIND", 
+        "prenom": "Cécile"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "797080850", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/797080850.json", 
+    "ville": "EVIAN LES BAINS"
   }, 
   {
     "activites": {
@@ -92402,6 +93244,138 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/308961978.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "c/o Fédération des Boulangers de la Moselle - 11 rue de la Poulue ", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "CONFEDER ARTISAN PETITES ENTREP BATIMENT", 
+        "identifiantNational": "399185263", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION DES PROFESSIONNELS DE L'ALIMENTATION ET DES METIERS DE BOUCHE (CGAD MOSELLE)", 
+        "identifiantNational": "H592994634", 
+        "typeIdentifiantNational": "HATVP"
+      }, 
+      {
+        "denomination": "UNION DEPARTEMENTALE DES PROFESSIONS LIBERALES DE MOSELLE UNAPL", 
+        "identifiantNational": "H708388941", 
+        "typeIdentifiantNational": "HATVP"
+      }, 
+      {
+        "denomination": "CNAMS 57", 
+        "identifiantNational": "H979041431", 
+        "typeIdentifiantNational": "HATVP"
+      }
+    ], 
+    "codePostal": "57070", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "MAGUIN", 
+        "prenom": "Pascal"
+      }
+    ], 
+    "dateCreation": "2017-12-05T10:17:03", 
+    "datePremierePublication": "2017-12-05T10:17:03", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "UNION PROFESSIONNELLE ARTISANALE DE MOSELLE (UPA 57)", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "MAGUIN", 
+        "prenom": "Pascal"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Vice-Présidente", 
+        "nom": "LIND", 
+        "prenom": "Liliane"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "RAMPONI", 
+        "prenom": "Armand"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "NOSAL", 
+        "prenom": "Christian"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice-Président", 
+        "nom": "PERRIER", 
+        "prenom": "Franck"
+      }
+    ], 
+    "emailDeContact": "u2p-moselle@orange.fr", 
+    "historique": [], 
+    "identifiantNational": "H346009749", 
+    "lienPageFacebook": "https://www.facebook.com/U2PMoselle/", 
+    "lienPageTwitter": "", 
+    "lienSiteWeb": "", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0387763467", 
+    "typeIdentifiantNational": "HATVP", 
+    "url_json": "http://www.hatvp.fr/agora/H346009749.json", 
+    "ville": "METZ"
   }, 
   {
     "activites": {
