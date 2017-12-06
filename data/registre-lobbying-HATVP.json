@@ -21577,13 +21577,18 @@
         "typeIdentifiantNational": "SIREN"
       }, 
       {
-        "denomination": "SDI SOCIETE DE DRAGAGE INTERNATIONAL", 
-        "identifiantNational": "343234845", 
-        "typeIdentifiantNational": "SIREN"
+        "denomination": "DEME CONCESSIONS WIND NV", 
+        "identifiantNational": "H976777739", 
+        "typeIdentifiantNational": "HATVP"
       }
     ], 
     "codePostal": "44000", 
     "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "CLERGEAU", 
+        "prenom": "Christophe"
+      }, 
       {
         "civilite": "M", 
         "fonction": "directeur général", 
@@ -21591,7 +21596,7 @@
         "prenom": "Etienne"
       }
     ], 
-    "dateCreation": "2017-10-27T15:16:06", 
+    "dateCreation": "2017-12-06T12:12:59", 
     "datePremierePublication": "2017-10-27T15:16:06", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -21611,7 +21616,152 @@
       }
     ], 
     "emailDeContact": "contact@c2strategies.fr", 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }, 
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }
+          ]
+        }, 
+        "adresse": "CHRISTOPHE CLERGEAU STRATEGIES\r\n10 RUE DE STRASBOURG", 
+        "affiliations": [
+          {
+            "denomination": "LE CLUSTER MARITIME FRANCAIS", 
+            "identifiantNational": "489847624", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "RESEAU ATLANTIC 2.0", 
+            "identifiantNational": "510377435", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [
+          {
+            "denomination": "GO CAPITAL", 
+            "identifiantNational": "445284458", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NEOEN", 
+            "identifiantNational": "508320017", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LE CLUSTER MARITIME FRANCAIS", 
+            "identifiantNational": "489847624", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRANSFERTS LANGUEDOC ROUSSILLON", 
+            "identifiantNational": "482666351", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EUROPE TECHNOLOGIES", 
+            "identifiantNational": "417784592", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DAHER AEROSPACE", 
+            "identifiantNational": "597020841", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "REGION OCCITANIE", 
+            "identifiantNational": "200053791", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SDI SOCIETE DE DRAGAGE INTERNATIONAL", 
+            "identifiantNational": "343234845", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "44000", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "directeur général", 
+            "nom": "POURCHER", 
+            "prenom": "Etienne"
+          }
+        ], 
+        "dateCreation": "2017-10-27T15:16:06", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "CHRISTOPHE CLERGEAU STRATEGIES \"C2STRATEGIES\"", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "président", 
+            "nom": "CLERGEAU", 
+            "prenom": "Christophe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "POURCHER", 
+            "prenom": "Etienne"
+          }
+        ], 
+        "emailDeContact": "contact@c2strategies.fr", 
+        "identifiantNational": "819765033", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "+33228494088", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "NANTES"
+      }
+    ], 
     "identifiantNational": "819765033", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": true, 
@@ -31145,6 +31295,92 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }
+      ]
+    }, 
+    "adresse": "ELENGY\r\n11 AVENUE MICHEL RICARD", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION FRANCAISE DU GAZ", 
+        "identifiantNational": "784854820", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92274", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "GUILLERAND", 
+        "prenom": "Stephanie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "directeur général", 
+        "nom": "JAHAN DE LESTANG", 
+        "prenom": "Martin"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "directeur commercial et stratégie", 
+        "nom": "COTIN", 
+        "prenom": "Pierre"
+      }
+    ], 
+    "dateCreation": "2017-12-06T12:25:17", 
+    "datePremierePublication": "2017-12-06T12:25:17", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ELENGY", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "JAHAN DE LESTANG", 
+        "prenom": "Martin"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "451438782", 
+    "lienPageTwitter": "", 
+    "lienSiteWeb": "", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/451438782.json", 
+    "ville": "BOIS COLOMBES CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -37303,6 +37539,75 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/798748349.json", 
     "ville": "PARIS cedex 12"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }
+      ]
+    }, 
+    "adresse": "FEDERAT PROMOTEURS IMMOBILIERS IDF\r\n106 RUE DE L UNIVERSITE", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION DES PROMOTEURS IMMOBILIERS DE FRANCE", 
+        "identifiantNational": "784312332", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75007", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Déléguée générale", 
+        "nom": "DE CROZÉ", 
+        "prenom": "Anne"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée de missions", 
+        "nom": "ADAM", 
+        "prenom": "Coralie"
+      }
+    ], 
+    "dateCreation": "2017-12-06T10:11:34", 
+    "datePremierePublication": "2017-12-06T10:11:34", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "FEDERATION DES PROMOTEURS IMMOBILIERS D'ILE DE FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "VILLAND", 
+        "prenom": "Marc"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "784669004", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784669004.json", 
+    "ville": "PARIS"
   }, 
   {
     "activites": {
@@ -75359,6 +75664,127 @@
       ], 
       "listSecteursActivites": [
         {
+          "code": "MEDIA", 
+          "label": "Médias, industries culturelles", 
+          "ordre": 18
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "PROPINT", 
+          "label": "Propriété intellectuelle", 
+          "ordre": 23
+        }, 
+        {
+          "code": "COM", 
+          "label": "Communications électroniques", 
+          "ordre": 28
+        }
+      ]
+    }, 
+    "adresse": "SOC NAL DE RADIODIFFUSION RADIO FRANCE\r\nPARIS 16\r\n116 AVENUE DU PRESIDENT KENNEDY", 
+    "affiliations": [
+      {
+        "denomination": "SYNDICAT DES MEDIAS DE SERVICE PUBLIC", 
+        "identifiantNational": "798695391", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPEMENT EDITEURS SERVICES EN LIGNE", 
+        "identifiantNational": "347769879", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AUTRE", 
+      "code": "AUORG", 
+      "label": "Autres organisations"
+    }, 
+    "clients": [], 
+    "codePostal": "75220", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des relations institutionnelles et internationales", 
+        "nom": "ZEGNA-RATA", 
+        "prenom": "Olivier"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire générale", 
+        "nom": "WIRGIN", 
+        "prenom": "Maïa"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable des relations parlementaires et européennes", 
+        "nom": "HAMON", 
+        "prenom": "François-Stéphane"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable des relations institutionnelles", 
+        "nom": "LHERMELIN", 
+        "prenom": "Marie"
+      }
+    ], 
+    "dateCreation": "2017-12-06T10:44:20", 
+    "datePremierePublication": "2017-12-06T10:44:20", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "SOCIETE NATIONALE DE RADIODIFFUSION RADIO FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président-Directeur général", 
+        "nom": "GALLET", 
+        "prenom": "Mathieu"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "326094471", 
+    "lienPageFacebook": "https://fr-fr.facebook.com/Radio-France-225248330547/", 
+    "lienPageLinkedin": "https://fr.linkedin.com/company/radio-france", 
+    "lienPageTwitter": "https://twitter.com/radiofrance", 
+    "lienSiteWeb": "http://www.radiofrance.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0156402222", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/326094471.json", 
+    "ville": "PARIS CEDEX 16"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
           "code": "ENERGIE", 
           "label": "Energie", 
           "ordre": 11
@@ -98930,6 +99356,148 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/500328570.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "VINCI\r\n1 COURS FERDINAND DE LESSEPS", 
+    "affiliations": [
+      {
+        "denomination": "ASSO FRANCAI ENTREPRIS PRIVEES", 
+        "identifiantNational": "326943016", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "784668618", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION NATIONALE DES TP - FNTP", 
+        "identifiantNational": "784359788", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ENTREPRISE GENERALES FRANCE BATI TRAVAUX", 
+        "identifiantNational": "775661937", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSO SOC FRANCAISES D AUTOR", 
+        "identifiantNational": "325951903", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [
+      {
+        "denomination": "VINCI AUTOROUTES", 
+        "identifiantNational": "512377060", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VINCI CONCESSIONS", 
+        "identifiantNational": "410001952", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EUROVIA", 
+        "identifiantNational": "348866260", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VINCI ENERGIES", 
+        "identifiantNational": "391635844", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "VINCI CONSTRUCTION", 
+        "identifiantNational": "334851664", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "92851", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Juridique", 
+        "nom": "RICHARD", 
+        "prenom": "Patrick"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président directeur général", 
+        "nom": "HUILLARD", 
+        "prenom": "Xavier"
+      }
+    ], 
+    "dateCreation": "2017-12-06T11:58:32", 
+    "datePremierePublication": "2017-12-06T11:58:32", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "VINCI", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président directeur général", 
+        "nom": "HUILLARD", 
+        "prenom": "Xavier"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "552037806", 
+    "lienSiteWeb": "http://www.vinci.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0147164000", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/552037806.json", 
+    "ville": "RUEIL MALMAISON CEDEX"
   }, 
   {
     "activites": {
