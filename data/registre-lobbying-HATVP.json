@@ -24937,7 +24937,7 @@
         "prenom": "Henry"
       }
     ], 
-    "dateCreation": "2017-12-05T11:33:50", 
+    "dateCreation": "2017-12-07T11:34:02", 
     "datePremierePublication": "2017-12-01T14:34:03", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -25056,9 +25056,122 @@
         "telephoneDeContact": "0153605031", 
         "typeIdentifiantNational": "SIREN", 
         "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }, 
+            {
+              "code": "PROREG", 
+              "label": "Professions réglementées", 
+              "ordre": 22
+            }
+          ]
+        }, 
+        "adresse": "CONFEDERAT ARTISANAT PETITE ENT BATIME\r\n2 RUE BERANGER", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "ORPRO", 
+          "label": "Organisation professionnelle"
+        }, 
+        "clients": [], 
+        "codePostal": "75003", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Relations Institutionnelles et Européennes", 
+            "nom": "PROUX", 
+            "prenom": "Dominique"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire Général", 
+            "nom": "HALNA DU FRETAY", 
+            "prenom": "Henry"
+          }
+        ], 
+        "dateCreation": "2017-12-05T11:33:50", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "CONFEDERAT ARTISANAT PETITE ENT BATIMENT", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "PRESIDENT", 
+            "nom": "LIEBUS", 
+            "prenom": "Patrick"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "1er Vice Président Chargé des Affaires sociales", 
+            "nom": "QUENET", 
+            "prenom": "Albert"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Vice Présidente chargée des Affaires économiques", 
+            "nom": "BASILI", 
+            "prenom": "Sabine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Vice Président chargé du réseau", 
+            "nom": "MÉTAYER", 
+            "prenom": "Dominique"
+          }
+        ], 
+        "emailDeContact": "d.proux@capeb.fr", 
+        "identifiantNational": "775682107", 
+        "lienSiteWeb": "http://www.capeb.fr", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0153605031", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
       }
     ], 
     "identifiantNational": "775682107", 
+    "lienPageFacebook": "", 
+    "lienPageTwitter": "https://twitter.com/capeb_fr", 
     "lienSiteWeb": "http://www.capeb.fr", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": true, 
@@ -29746,6 +29859,108 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/672039971.json", 
     "ville": "ST OUEN CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "COMMERCE", 
+          "label": "Commerce extérieur", 
+          "ordre": 5
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }
+      ]
+    }, 
+    "adresse": "ROUGE VIF DIALOGUES\n6 IMPASSE DE TOULOUSE\n", 
+    "affiliations": [
+      {
+        "denomination": "BUSINESS ACTION & STRATEGIE EUROPEENNE (BASE)", 
+        "identifiantNational": "H467201901", 
+        "typeIdentifiantNational": "HATVP"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COCAB", 
+      "label": "Cabinet de conseil"
+    }, 
+    "clients": [
+      {
+        "denomination": "GENERAL ELECTRIC INTERNATIONAL INC", 
+        "identifiantNational": "662047216", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "78000", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "CEVASCO", 
+        "prenom": "Christophe"
+      }
+    ], 
+    "dateCreation": "2017-12-07T12:26:16", 
+    "datePremierePublication": "2017-12-07T12:26:16", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "DIALOGUES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "DIRECTEUR GENERAL", 
+        "nom": "CEVASCO", 
+        "prenom": "Christophe"
+      }
+    ], 
+    "emailDeContact": "christophe.cevasco@grouperougevif.fr", 
+    "historique": [], 
+    "identifiantNational": "820315661", 
+    "lienPageLinkedin": "https://www.linkedin.com/in/christophe-cevasco-8a87b7/", 
+    "lienSiteWeb": "http://grouperougevif.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0620775934", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/820315661.json", 
+    "ville": "VERSAILLES"
   }, 
   {
     "activites": {
@@ -70515,6 +70730,111 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENTREPRISE", 
+          "label": "Gouvernance d’entreprise", 
+          "ordre": 14
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "PROREG", 
+          "label": "Professions réglementées", 
+          "ordre": 22
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "MONSIEUR PHILIPPE PORTIER\nc/o Jeantet 87 avenue Kleber", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION DES AVOCATS LOBBYISTES", 
+        "identifiantNational": "W751210486", 
+        "typeIdentifiantNational": "RNA"
+      }, 
+      {
+        "denomination": "JEANTET AARPI", 
+        "identifiantNational": "784657884", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT MONTAIGNE", 
+        "identifiantNational": "444920318", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ORDRE DES AVOCATS A LA COUR DE PARIS", 
+        "identifiantNational": "302979075", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "AVIND", 
+      "label": "Avocat indépendant"
+    }, 
+    "clients": [], 
+    "codePostal": "75116", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "PORTIER", 
+        "prenom": "Philippe"
+      }
+    ], 
+    "dateCreation": "2017-12-07T10:40:05", 
+    "datePremierePublication": "2017-12-07T10:40:05", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "PORTIER PHILIPPE PAUL AIME", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "nom": "PORTIER", 
+        "prenom": "Philippe"
+      }
+    ], 
+    "emailDeContact": "pportier@jeantet.fr", 
+    "historique": [], 
+    "identifiantNational": "380980219", 
+    "lienPageLinkedin": "https://www.linkedin.com/in/philippe-portier-3611b410/", 
+    "lienSiteWeb": "http://www.jeantet.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0145058057", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/380980219.json", 
+    "ville": "Paris"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -99119,6 +99439,130 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/752328328.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "PROREG", 
+          "label": "Professions réglementées", 
+          "ordre": 22
+        }
+      ]
+    }, 
+    "adresse": "UP\n27-29 AVENUE DES LOUVRESSES", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION PROFESSIONNELLE DES EMETTEURS DE TITRES RESTAURANT  APETR", 
+        "identifiantNational": "W751228056", 
+        "typeIdentifiantNational": "RNA"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92230", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice conformité et risques Groupe", 
+        "nom": "CANDELLA", 
+        "prenom": "Catherine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Responsable relations extérieures", 
+        "nom": "FRIGOUT", 
+        "prenom": "Gweltaz"
+      }
+    ], 
+    "dateCreation": "2017-12-07T11:39:43", 
+    "datePremierePublication": "2017-12-07T11:39:43", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "UP", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente directrice générale", 
+        "nom": "COUPET", 
+        "prenom": "Catherine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général France", 
+        "nom": "HARSCOUET", 
+        "prenom": "Jacques-Yves"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général zone Nord Ouest Europe", 
+        "nom": "LEGER", 
+        "prenom": "Bertrand"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général zone Europe Méditerranée", 
+        "nom": "ACHOUR", 
+        "prenom": "Youssef"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général zone Eurasie", 
+        "nom": "ANGLADE", 
+        "prenom": "Julien"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général Amérique du Nord et Amérique centrale", 
+        "nom": "CHAUDERLOT", 
+        "prenom": "Gaétan"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général Amérique du Sud", 
+        "nom": "PEREZ", 
+        "prenom": "Alexandre"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "642044366", 
+    "lienPageFacebook": "https://www.facebook.com/UpGroup.Coop", 
+    "lienPageLinkedin": "https://fr.linkedin.com/company/up-group", 
+    "lienPageTwitter": "https://twitter.com/UpGroup", 
+    "lienSiteWeb": "http://up-group.coop/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/642044366.json", 
+    "ville": "GENNEVILLIERS"
   }, 
   {
     "activites": {
