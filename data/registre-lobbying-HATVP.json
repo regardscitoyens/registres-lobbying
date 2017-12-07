@@ -14989,11 +14989,6 @@
         "typeIdentifiantNational": "SIREN"
       }, 
       {
-        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
-        "identifiantNational": "775347453", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
         "denomination": "PERFORMANCE INVEST FIABILITE ECON", 
         "identifiantNational": "321702755", 
         "typeIdentifiantNational": "SIREN"
@@ -15004,14 +14999,239 @@
         "typeIdentifiantNational": "SIREN"
       }, 
       {
-        "denomination": "INSTITUT DU COMMERCE", 
-        "identifiantNational": "413957143", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
         "denomination": "FEDERATION DE L'EPICERIE ET DU COMMERCE DE PROXIMITE", 
         "identifiantNational": "801316951", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION DES ANNONCEURS", 
+        "identifiantNational": "784669533", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE 84", 
+        "identifiantNational": "478364664", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "775369382", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT ENTREPRISES FRANCE LOIRE ATLAN", 
+        "identifiantNational": "786018630", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF DE TARN ET GARONNE", 
+        "identifiantNational": "310327069", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF DE L'EST PARISIEN", 
+        "identifiantNational": "424430346", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF AISNE", 
+        "identifiantNational": "780221768", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF ARTOIS", 
+        "identifiantNational": "783911795", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF BEARN ET SOULE", 
+        "identifiantNational": "782357065", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF FRANCHE COMTE", 
+        "identifiantNational": "778297143", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF SOMME", 
+        "identifiantNational": "780611364", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF HERAULT MONTPELLIER", 
+        "identifiantNational": "324684141", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUP INTERENTREPRISES DE LA REGION", 
+        "identifiantNational": "780507992", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "775347453", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF COTE D'OPALE", 
+        "identifiantNational": "524349107", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF VIENNE", 
+        "identifiantNational": "303525992", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF DOUAISIS", 
+        "identifiantNational": "783585656", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF DU VALENCIENNOIS", 
+        "identifiantNational": "783863988", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT ENTREP. DE FRANCE GIRONDE", 
+        "identifiantNational": "781847256", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS PATRONALE INTERROF HAUTE SAVOIE", 
+        "identifiantNational": "303283634", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF HAUTE-LOIRE", 
+        "identifiantNational": "402507719", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF HAUTS DE SEINE", 
+        "identifiantNational": "308290519", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "509531695", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF LYON RHONE", 
+        "identifiantNational": "779826692", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF MOSELLE", 
+        "identifiantNational": "780003554", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MVT DES ENTREPRISES DE FRANCE DU PDD", 
+        "identifiantNational": "779221076", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF SAMBRE AVESNOIS", 
+        "identifiantNational": "783747744", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "786338434", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF SEINE ET MARNE", 
+        "identifiantNational": "784999039", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION ENTREPRISES ALPES HAUTE PROVENCE", 
+        "identifiantNational": "313916009", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNIION DES ENTREPRISES DU LOIRET", 
+        "identifiantNational": "775513054", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION PATRONALE DE LA CHARENTE", 
+        "identifiantNational": "781172002", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION PATRONALE DE VAUCLUSE", 
+        "identifiantNational": "783204159", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION POUR ENTREPRISES DES B D R", 
+        "identifiantNational": "782813943", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION PATRONALE 66", 
+        "identifiantNational": "776190068", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION PATRONALE DE LA MANCHE", 
+        "identifiantNational": "318801354", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION PATRONALE DU VAR", 
+        "identifiantNational": "775713647", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF YVELINES", 
+        "identifiantNational": "798066072", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF DU VAL D'OISE", 
+        "identifiantNational": "310968474", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF DE LA DROME ET DE L'ARDECHE", 
+        "identifiantNational": "520387531", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF ALLIER", 
+        "identifiantNational": "779034172", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "784078339", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION PATRONALE DEPARMENTALE - MEDEF PARIS", 
+        "identifiantNational": "398327098", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MEDEF ESSONNE", 
+        "identifiantNational": "380096883", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GPI - CITE DES ENTREPRISES", 
+        "identifiantNational": "783805922", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE SEINE ESTUAIRE (MEDEF SEINE ESTUAIRE)", 
+        "identifiantNational": "W762003793", 
+        "typeIdentifiantNational": "RNA"
       }
     ], 
     "categorieOrganisation": {
@@ -15035,7 +15255,7 @@
         "prenom": "Franck"
       }
     ], 
-    "dateCreation": "2017-09-01T16:26:29", 
+    "dateCreation": "2017-12-07T16:28:59", 
     "datePremierePublication": "2017-09-01T16:26:29", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -15043,12 +15263,139 @@
     "dirigeants": [
       {
         "civilite": "M", 
-        "fonction": "Président exécutif", 
-        "nom": "ESPASA", 
-        "prenom": "Patrick"
+        "fonction": "Directeur général", 
+        "nom": "KHOSROVI", 
+        "prenom": "Ali"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "code": "CONSO", 
+              "label": "Concurrence, consommation", 
+              "ordre": 6
+            }, 
+            {
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }
+          ]
+        }, 
+        "adresse": "AUCHAN RETAIL FRANCE\r\nRUE MAL DE LATTRE DE TASSIGNY", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION ENTREP COMMERCE DISTRIBUTION", 
+            "identifiantNational": "784855876", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION ENTREPRISES VENTE A DISTANCE", 
+            "identifiantNational": "784854994", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+            "identifiantNational": "775347453", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PERFORMANCE INVEST FIABILITE ECON", 
+            "identifiantNational": "321702755", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERAT FRANCAISE DE LA FRANCHISE", 
+            "identifiantNational": "312067358", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INSTITUT DU COMMERCE", 
+            "identifiantNational": "413957143", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION DE L'EPICERIE ET DU COMMERCE DE PROXIMITE", 
+            "identifiantNational": "801316951", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "59170", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Responsable des relations institutionnelles", 
+            "nom": "HUGO", 
+            "prenom": "Paul"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire général", 
+            "nom": "GERETZHUBER", 
+            "prenom": "Franck"
+          }
+        ], 
+        "dateCreation": "2017-09-01T16:26:29", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "AUCHAN RETAIL FRANCE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président exécutif", 
+            "nom": "ESPASA", 
+            "prenom": "Patrick"
+          }
+        ], 
+        "identifiantNational": "481986446", 
+        "pays": "France", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "CROIX"
+      }
+    ], 
     "identifiantNational": "481986446", 
     "pays": "France", 
     "publierMonAdresseEmail": true, 
@@ -18696,6 +19043,210 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "BURSON MARSTELLER I&E\r\n32 RUE DE TREVISE", 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES (AFCL)", 
+        "identifiantNational": "H000000001", 
+        "typeIdentifiantNational": "HATVP"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COCAB", 
+      "label": "Cabinet de conseil"
+    }, 
+    "clients": [
+      {
+        "denomination": "FACEBOOK FRANCE", 
+        "identifiantNational": "530085802", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FORTUM FRANCE", 
+        "identifiantNational": "532882628", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BIOCOOP", 
+        "identifiantNational": "382891752", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALLIANCE HEALTHCARE REPARTITION", 
+        "identifiantNational": "421218132", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LIGUE NATIONALE DE RUGBY", 
+        "identifiantNational": "421223488", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SCA HYGIENE PRODUCTS", 
+        "identifiantNational": "509395109", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "THE VALSPAR (FRANCE)CORPORATION SAS", 
+        "identifiantNational": "775651466", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "PAILLIART", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "THOMAS", 
+        "prenom": "Virginie"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "CHAUCHAT", 
+        "prenom": "Marc"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "ESKENAZI", 
+        "prenom": "Marc"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "PARIZOT", 
+        "prenom": "Xavier"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "DECHOUX", 
+        "prenom": "Arnaud"
+      }, 
+      {
+        "civilite": "MME", 
+        "nom": "GOEUSSE-KOBIK", 
+        "prenom": "Marion"
+      }, 
+      {
+        "civilite": "MME", 
+        "nom": "OLIVIER", 
+        "prenom": "Agathe"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "PREVOST", 
+        "prenom": "Vincent"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "HOOLEY", 
+        "prenom": "Jonathan"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "GRANDVAL", 
+        "prenom": "Lucien"
+      }, 
+      {
+        "civilite": "MME", 
+        "nom": "LABBÉ", 
+        "prenom": "Clara"
+      }, 
+      {
+        "civilite": "MME", 
+        "nom": "FABRE", 
+        "prenom": "Corinne"
+      }
+    ], 
+    "dateCreation": "2017-12-07T17:05:25", 
+    "datePremierePublication": "2017-12-07T17:05:25", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "BURSON-MARSTELLER I&E", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "CHAUCHAT", 
+        "prenom": "Marc"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président Directeur Général", 
+        "nom": "PAILLIART", 
+        "prenom": "Philippe"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "331233940", 
+    "lienPageFacebook": "https://www.facebook.com/BursonMarsteller.ie/", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/i&e", 
+    "lienPageTwitter": "https://twitter.com/B_M_ie", 
+    "lienSiteWeb": "http://www.burson-marsteller.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "01 56 03 12 12", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/331233940.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -20869,6 +21420,160 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/181300039.json", 
     "ville": "ARLES CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "COMMERCE", 
+          "label": "Commerce extérieur", 
+          "ordre": 5
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }
+      ]
+    }, 
+    "adresse": "CHAMBRE COMMERCE INDUSTRIE HTE LOIRE\r\nVALS PRES LE PUY\r\n16 BOULEVARD DU PRESIDENT BERTRAND\r\nBP 127", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "CHAMCO", 
+      "label": "Chambre consulaire"
+    }, 
+    "clients": [], 
+    "codePostal": "43004", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "FRANCOIS", 
+        "prenom": "Bruno"
+      }
+    ], 
+    "dateCreation": "2017-12-07T16:41:54", 
+    "datePremierePublication": "2017-12-07T16:40:49", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "CHAMBRE DE COMMERCE ET D INDUSTRIE DE HAUTE LOIRE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "DOLLEANS", 
+        "prenom": "Jean Luc"
+      }
+    ], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "COMMERCE", 
+              "label": "Commerce extérieur", 
+              "ordre": 5
+            }, 
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "EDUCATION", 
+              "label": "Education, enseignement supérieur, formation", 
+              "ordre": 9
+            }, 
+            {
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }, 
+            {
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }
+          ]
+        }, 
+        "adresse": "CHAMBRE COMMERCE INDUSTRIE HTE LOIRE\r\nVALS PRES LE PUY\r\n16 BOULEVARD DU PRESIDENT BERTRAND\r\nBP 127", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "CHAMCO", 
+          "label": "Chambre consulaire"
+        }, 
+        "clients": [], 
+        "codePostal": "43004", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "FRANCOIS", 
+            "prenom": "Bruno"
+          }
+        ], 
+        "dateCreation": "2017-12-07T16:40:49", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "CHAMBRE DE COMMERCE ET D INDUSTRIE DE HAUTE LOIRE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "DOLLEANS", 
+            "prenom": "Jean Luc"
+          }
+        ], 
+        "identifiantNational": "130013139", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0471099000", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "LE PUY EN VELAY CEDEX"
+      }
+    ], 
+    "identifiantNational": "130013139", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0471099000", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/130013139.json", 
+    "ville": "LE PUY EN VELAY CEDEX"
   }, 
   {
     "activites": {
@@ -35892,6 +36597,99 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/778213108.json", 
     "ville": "DIJON CEDEX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "MEDIA", 
+          "label": "Médias, industries culturelles", 
+          "ordre": 18
+        }
+      ]
+    }, 
+    "adresse": "FEDERATION FRANCAISE DES AGENCES DE PRESSE\n24 RUE DU FAUBOURG POISSONNIERE", 
+    "affiliations": [
+      {
+        "denomination": "OBSERVATOIRE DE LA DEONTOLOGIE DE L'INFORMATION", 
+        "identifiantNational": "818119984", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "SYNDICATS DES AGENCES DE PRESSE AUDIOVISUELLES - SATEV", 
+        "identifiantNational": "H194020016", 
+        "typeIdentifiantNational": "HATVP"
+      }, 
+      {
+        "denomination": "SYNDICAT DES AGENCES DE PRESSE D'INFORMATIONS GENERALES - SAPIG", 
+        "identifiantNational": "H908970669", 
+        "typeIdentifiantNational": "HATVP"
+      }, 
+      {
+        "denomination": "SYNDICAT DES AGENCES PHOTOGRAPHIQUES D'INFORMATION ET DE REPORTAGE - SAPHIR", 
+        "identifiantNational": "H209944945", 
+        "typeIdentifiantNational": "HATVP"
+      }
+    ], 
+    "codePostal": "75010", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "GROSSET", 
+        "prenom": "Kathleen"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice générale", 
+        "nom": "BRAKA", 
+        "prenom": "Florence"
+      }
+    ], 
+    "dateCreation": "2017-12-07T16:44:38", 
+    "datePremierePublication": "2017-12-07T16:44:38", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "FEDER FR AGCES PRESSE ET INFORM AUDIOVIS", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "GROSSET", 
+        "prenom": "Kathleen"
+      }
+    ], 
+    "emailDeContact": "contact@ffap.fr", 
+    "historique": [], 
+    "identifiantNational": "784204703", 
+    "lienSiteWeb": "http://www.ffap.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0142470100", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784204703.json", 
+    "ville": "PARIS"
   }, 
   {
     "activites": {
