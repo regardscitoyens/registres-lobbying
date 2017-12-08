@@ -20007,9 +20007,15 @@
         "fonction": "Directeur de la Communication et des Relations institutionnelles", 
         "nom": "DE BERNARDI", 
         "prenom": "Vincent"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé de mission Affaires publiques ultramarines et européennes", 
+        "nom": "DUPUY", 
+        "prenom": "Pierre"
       }
     ], 
-    "dateCreation": "2017-08-04T15:20:59", 
+    "dateCreation": "2017-12-08T12:22:07", 
     "datePremierePublication": "2017-08-04T15:20:59", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -20029,7 +20035,115 @@
       }
     ], 
     "emailDeContact": "j.pardigon@ccifrance.fr", 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "COMMERCE", 
+              "label": "Commerce extérieur", 
+              "ordre": 5
+            }, 
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "EDUCATION", 
+              "label": "Education, enseignement supérieur, formation", 
+              "ordre": 9
+            }, 
+            {
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }, 
+            {
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }
+          ]
+        }, 
+        "adresse": "CCI FRANCE\r\nPARIS 17\r\nCS50071\r\n46 AVENUE DE LA GRANDE ARMEE", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "CHAMCO", 
+          "label": "Chambre consulaire"
+        }, 
+        "clients": [], 
+        "codePostal": "75858", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Relations institutionnelles", 
+            "nom": "PARDIGON", 
+            "prenom": "Jerome"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "FALCK", 
+            "prenom": "Bernard"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur de la Communication et des Relations institutionnelles", 
+            "nom": "DE BERNARDI", 
+            "prenom": "Vincent"
+          }
+        ], 
+        "dateCreation": "2017-08-04T15:20:59", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "CCI FRANCE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "GOGUET", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "FALCK", 
+            "prenom": "Bernard"
+          }
+        ], 
+        "emailDeContact": "j.pardigon@ccifrance.fr", 
+        "identifiantNational": "187500020", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/assembly-of-french-chambers-of-commerce-and-industry-acfci-", 
+        "lienPageTwitter": "https://twitter.com/ccifrance", 
+        "lienSiteWeb": "http://www.ccifrance.fr", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0140693700", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS CEDEX 17"
+      }
+    ], 
     "identifiantNational": "187500020", 
     "lienPageLinkedin": "https://www.linkedin.com/company/assembly-of-french-chambers-of-commerce-and-industry-acfci-", 
     "lienPageTwitter": "https://twitter.com/ccifrance", 
@@ -25196,9 +25310,20 @@
         "fonction": "Consultant", 
         "nom": "LE PICARD", 
         "prenom": "Nessim"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "ALEXANDRE", 
+        "prenom": "Fabrice"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Consultant", 
+        "nom": "EARD", 
+        "prenom": "Arnaud"
       }
     ], 
-    "dateCreation": "2017-10-31T12:36:23", 
+    "dateCreation": "2017-12-08T10:38:05", 
     "datePremierePublication": "2017-10-31T12:36:23", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -25211,7 +25336,195 @@
         "prenom": "Olivier"
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "code": "SPORTS", 
+              "label": "Sports, loisirs, tourisme", 
+              "ordre": 27
+            }, 
+            {
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "COMMUNICATION & INSTITUTIONS\r\n32 RUE NOTRE DAME DES VICTOIRES", 
+        "affiliations": [
+          {
+            "denomination": "ASSOCIATION FRANCAISE DES CONSEILS EN LOBBYING ET AFFAIRES PUBLIQUES (AFCL)", 
+            "identifiantNational": "H000000001", 
+            "typeIdentifiantNational": "HATVP"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "SOCIETE", 
+          "code": "SOCOM", 
+          "label": "Société commerciale"
+        }, 
+        "clients": [
+          {
+            "denomination": "SOC ENCOURAG ELEVAGE DU CHEVAL FRANCAIS", 
+            "identifiantNational": "318455698", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FRANCE GALOP", 
+            "identifiantNational": "401415500", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EOLFI", 
+            "identifiantNational": "477951644", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COMITE CHARBONNIER IMPORTATION COMMERCE", 
+            "identifiantNational": "784669418", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION FCAISE PETROLIERS INDEPENDANT", 
+            "identifiantNational": "784357717", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION FRANCAISE DE TENNIS", 
+            "identifiantNational": "775671381", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EXELTIUM", 
+            "identifiantNational": "490299989", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION PLASTURGIE ACTIVITES", 
+            "identifiantNational": "407713791", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PLASTICSEUROPE AISBL", 
+            "identifiantNational": "440032910", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION FR COMBUSTIBLES ET CARBURANTS", 
+            "identifiantNational": "389409137", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS PROMOTION COMMERCE SERVICE SPECIALIS", 
+            "identifiantNational": "303432934", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNDICAT NATIONAL PILOTES DE LIGNES", 
+            "identifiantNational": "785743246", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNDICAT SYNTEC CONSEIL MANAGEMENT", 
+            "identifiantNational": "419999206", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNIDEN", 
+            "identifiantNational": "434856894", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75002", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur associé", 
+            "nom": "ALEXANDRE", 
+            "prenom": "Fabrice"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "LE PICARD", 
+            "prenom": "Olivier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Consultant", 
+            "nom": "JASSON", 
+            "prenom": "Marc-Antoine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Consultant", 
+            "nom": "LE PICARD", 
+            "prenom": "Nessim"
+          }
+        ], 
+        "dateCreation": "2017-10-31T12:36:23", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "COMMUNICATION & INSTITUTIONS", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "LE PICARD", 
+            "prenom": "Olivier"
+          }
+        ], 
+        "identifiantNational": "340388479", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/2284982/", 
+        "lienPageTwitter": "https://twitter.com/com_inst", 
+        "lienSiteWeb": "http://www.cominst.com/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "340388479", 
     "lienPageLinkedin": "https://www.linkedin.com/company/2284982/", 
     "lienPageTwitter": "https://twitter.com/com_inst", 
@@ -25570,6 +25883,294 @@
     "telephoneDeContact": "01 45 55 00 20", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/414881821.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "ENTREPRISE", 
+          "label": "Gouvernance d’entreprise", 
+          "ordre": 14
+        }
+      ]
+    }, 
+    "adresse": "CONFED DES CHOCOLATIERS CONFIS DE FRAN\r\nCHOCOLATIERS ET CONFISEURS DE FRANCE\r\n64 RUE DE CAUMARTIN", 
+    "affiliations": [
+      {
+        "denomination": "CONFEDERATION GENERALE ALIMENTAT.DETAIL", 
+        "identifiantNational": "784717225", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION DES ENTREPRISES DE PROXIMITE", 
+        "identifiantNational": "349681098", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "GRIMMER ARTISAN CHOCOLATIER", 
+        "identifiantNational": "917320418", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ELIODOR", 
+        "identifiantNational": "391251030", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CONFISERIE DES ARCADES", 
+        "identifiantNational": "529451767", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TABOURET CHRISTOPHE MAURICE", 
+        "identifiantNational": "338225428", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHOCOLATS HAUTOT", 
+        "identifiantNational": "418423158", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MARC PIGNOT", 
+        "identifiantNational": "491199204", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "HCGC", 
+        "identifiantNational": "803725084", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "THEO BROMA", 
+        "identifiantNational": "813447760", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GENI.D SARL", 
+        "identifiantNational": "479749574", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LADY DOM", 
+        "identifiantNational": "411767981", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SARL MEUNIER CHOCOLATIER", 
+        "identifiantNational": "479185985", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DAVICO EXPLOITATION", 
+        "identifiantNational": "511254708", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ROY CHOCOLATIER", 
+        "identifiantNational": "552088254", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GOHIER SEBASTIEN", 
+        "identifiantNational": "477946677", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHATILLON CHOCOLATIER", 
+        "identifiantNational": "637320771", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHOCOLATERIE OLIVIER VIDAL", 
+        "identifiantNational": "539339366", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SARL TEMOINS", 
+        "identifiantNational": "378943039", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ETABLISSEMENTS SAUNION", 
+        "identifiantNational": "304103617", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHOCOLATS NOEL JOVY", 
+        "identifiantNational": "523797652", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DUPONT", 
+        "identifiantNational": "378718761", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "JEAN TROGNEUX LA MAISON DES BAPTEMES", 
+        "identifiantNational": "551720592", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CADIOT-BADIE", 
+        "identifiantNational": "388044612", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAS ANDRIEU", 
+        "identifiantNational": "324294735", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NEBULEUSE GOURMANDE", 
+        "identifiantNational": "811491844", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "AMARYLLIS", 
+        "identifiantNational": "414231423", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA CHOCOLATERIE ROYALE NORMANDE", 
+        "identifiantNational": "529502437", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHOCOLATERIE GONZALEZ", 
+        "identifiantNational": "479011868", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MITSUHA CHOCOLATIER", 
+        "identifiantNational": "803777424", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHONIS GABOULAUD ANNICK MARIE ALINE", 
+        "identifiantNational": "535382907", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MACAROLA", 
+        "identifiantNational": "795136928", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHOCOLATERIE A. MORIN", 
+        "identifiantNational": "500777446", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CHOCOLATERIE DANIEL STOFFEL", 
+        "identifiantNational": "718503097", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA CHOCOLATERIE", 
+        "identifiantNational": "477633804", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TOUZET DOMINIQUE", 
+        "identifiantNational": "378122956", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MONET", 
+        "identifiantNational": "351188289", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "BERGER", 
+        "identifiantNational": "478085285", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CACAO STORY", 
+        "identifiantNational": "495061061", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LE ROUX", 
+        "identifiantNational": "432431419", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LA CHOCOLATERIE THIBAUT", 
+        "identifiantNational": "379996986", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Secrétaire générale", 
+        "nom": "COLLIN", 
+        "prenom": "Sylvie"
+      }
+    ], 
+    "dateCreation": "2017-12-08T10:55:14", 
+    "datePremierePublication": "2017-12-08T10:55:14", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "CONFED DES CHOCOLATIERS CONFIS DE FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "CHAMBEAU", 
+        "prenom": "Frédéric"
+      }
+    ], 
+    "emailDeContact": "contact@chocolatiers.fr", 
+    "historique": [], 
+    "identifiantNational": "784717316", 
+    "lienPageFacebook": "https://www.facebook.com/chocolatiersconfiseursdefrance/", 
+    "lienSiteWeb": "http://www.chocolatiers.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0142851820", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784717316.json", 
     "ville": "PARIS"
   }, 
   {
@@ -71894,6 +72495,96 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/389795006.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "adresse": "REGIE AUTONOME TRANSPORTS PARISIENS\r\nPARIS 12\r\n54 QUAI DE LA RAPEE", 
+    "affiliations": [
+      {
+        "denomination": "UNION  TRANSPORTS PUBLICS FERROVIAIRES", 
+        "identifiantNational": "784408643", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_PUB", 
+      "code": "EPAIC", 
+      "label": "Etablissement public exerçant une activité industrielle et commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75599", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur en charge de la Maitrise des risques, des enjeux de sûreté et des affaires institutionnelles", 
+        "nom": "HARNOIS", 
+        "prenom": "Jérôme"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur de Cabinet de la Présidente-Directrice générale", 
+        "nom": "TIRVAUDEY", 
+        "prenom": "Paul"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des Affaires Institutionnelles", 
+        "nom": "LAURENT", 
+        "prenom": "Julien"
+      }
+    ], 
+    "dateCreation": "2017-12-08T10:05:32", 
+    "datePremierePublication": "2017-12-08T10:05:32", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
+    "dirigeants": [
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente- Directrice générale", 
+        "nom": "GUILLOUARD", 
+        "prenom": "Catherine"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "775663438", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/775663438.json", 
+    "ville": "PARIS CEDEX 12"
   }, 
   {
     "activites": {
