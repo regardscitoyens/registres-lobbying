@@ -6445,12 +6445,37 @@
     "codePostal": "75008", 
     "collaborateurs": [
       {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "GARAU", 
+        "prenom": "Jacques"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général adjoint", 
+        "nom": "GONDARD", 
+        "prenom": "Julien"
+      }, 
+      {
         "civilite": "MME", 
+        "fonction": "Directrice des relations institutionnelles", 
         "nom": "CHAUMANET", 
         "prenom": "Valérie"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "chargée de mission relations institutionnelles", 
+        "nom": "MATTEOLI", 
+        "prenom": "Véronique"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "chargée de mission relations institutionnelles", 
+        "nom": "ROBERT", 
+        "prenom": "Florence"
       }
     ], 
-    "dateCreation": "2017-09-29T14:18:11", 
+    "dateCreation": "2017-12-11T17:22:53", 
     "datePremierePublication": "2017-09-29T14:18:11", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -6464,13 +6489,113 @@
       }, 
       {
         "civilite": "M", 
-        "fonction": "Directeur Général", 
-        "nom": "MOUTOT", 
-        "prenom": "François"
+        "fonction": "Directeur général", 
+        "nom": "GARAU", 
+        "prenom": "Jacques"
       }
     ], 
     "emailDeContact": "chaumanet@apcma.fr", 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "code": "EDUCATION", 
+              "label": "Education, enseignement supérieur, formation", 
+              "ordre": 9
+            }, 
+            {
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }
+          ]
+        }, 
+        "adresse": "ASSEMBLEE PERMANENTE CHAMBRES DE METIE\r\n12 AVENUE MARCEAU", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_REP", 
+          "code": "CHAMCO", 
+          "label": "Chambre consulaire"
+        }, 
+        "clients": [], 
+        "codePostal": "75008", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "nom": "CHAUMANET", 
+            "prenom": "Valérie"
+          }
+        ], 
+        "dateCreation": "2017-09-29T14:18:11", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "ASSEMBLEE PERMANENTE CHAMBRES DE METIERS ET DE L ARTISANAT", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "STALTER", 
+            "prenom": "Bernard"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "MOUTOT", 
+            "prenom": "François"
+          }
+        ], 
+        "emailDeContact": "chaumanet@apcma.fr", 
+        "identifiantNational": "187500046", 
+        "lienPageFacebook": "https://www.facebook.com/apcmafrance/", 
+        "lienPageTwitter": "https://twitter.com/apcmafrance", 
+        "lienSiteWeb": "http://www.artisanat.fr", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "01 44 43 10 00", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "187500046", 
     "lienPageFacebook": "https://www.facebook.com/apcmafrance/", 
     "lienPageTwitter": "https://twitter.com/apcmafrance", 
@@ -21667,6 +21792,75 @@
       ], 
       "listSecteursActivites": [
         {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }
+      ]
+    }, 
+    "adresse": "CHAMBRE COMMERCE INDUSTRIE HAUTE SAONE\r\n8 RUE DES JARDINS", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "CHAMCO", 
+      "label": "Chambre consulaire"
+    }, 
+    "clients": [], 
+    "codePostal": "70200", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice générale", 
+        "nom": "ASTIER", 
+        "prenom": "Caroline"
+      }
+    ], 
+    "dateCreation": "2017-12-11T15:26:02", 
+    "datePremierePublication": "2017-12-11T15:26:02", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "CHAMBRE COMMERCE INDUSTRIE HAUTE SAONE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "QUIVOGNE", 
+        "prenom": "Jean-Luc"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice générale", 
+        "nom": "ASTIER", 
+        "prenom": "Caroline"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "187000070", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0384967100", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/187000070.json", 
+    "ville": "LURE"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }
+      ], 
+      "listSecteursActivites": [
+        {
           "code": "COMMERCE", 
           "label": "Commerce extérieur", 
           "ordre": 5
@@ -26399,6 +26593,84 @@
     "telephoneDeContact": "0142851820", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/784717316.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }
+      ]
+    }, 
+    "adresse": "CONFEDE NATIONALE BOULANGERS PATISSIE\r\n27 AVENUE D EYLAU", 
+    "affiliations": [
+      {
+        "denomination": "CONFEDERATION GENERALE ALIMENTAT.DETAIL", 
+        "identifiantNational": "784717225", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75116", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire Général", 
+        "nom": "MAUPU", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Juridique", 
+        "nom": "MACK", 
+        "prenom": "Jean-Louis"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Juriste", 
+        "nom": "CASALINI", 
+        "prenom": "Xavier"
+      }
+    ], 
+    "dateCreation": "2017-12-11T16:49:49", 
+    "datePremierePublication": "2017-12-11T16:49:49", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "CONFEDE. NATIONALE BOULANGERS PATISSIERS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "ANRACT", 
+        "prenom": "Dominique"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "784668402", 
+    "lienPageFacebook": "https://fr-fr.facebook.com/boulangercestunmetier/", 
+    "lienSiteWeb": "https://www.boulangerie.org/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "01 53 70 16 25", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784668402.json", 
     "ville": "PARIS"
   }, 
   {
@@ -35275,6 +35547,99 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/552046955.json", 
     "ville": "PUTEAUX"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }
+      ]
+    }, 
+    "adresse": "ENI GAS & POWER FRANCE\r\nENI\r\n24 RUE JACQUES IBERT\r\nCS 50001", 
+    "affiliations": [
+      {
+        "denomination": "UPRIGAZ(UNION PROF.INDUSTRIES PRIV. GAZ)", 
+        "identifiantNational": "429801665", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION NATIONALE DES OPERATEURS DETAILLANTS EN ENERGIE", 
+        "identifiantNational": "W751178527", 
+        "typeIdentifiantNational": "RNA"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "92533", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Responsable affaires institutionnelles et réglementaires", 
+        "nom": "IDIR", 
+        "prenom": "Naima"
+      }
+    ], 
+    "dateCreation": "2017-12-11T18:42:27", 
+    "datePremierePublication": "2017-12-11T18:42:27", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ENI GAS & POWER FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "FAVA", 
+        "prenom": "Daniel"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "451225692", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/451225692.json", 
+    "ville": "LEVALLOIS PERRET CEDEX"
   }, 
   {
     "activites": {
@@ -69653,6 +70018,87 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }
+      ]
+    }, 
+    "adresse": "NATIXIS INVESTMENT MANAGERS\n21 QUAI D AUSTERLITZ", 
+    "affiliations": [
+      {
+        "denomination": "ASS FRANCAISE DE LA GESTION FINANCIERE", 
+        "identifiantNational": "784362584", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75013", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "BLANCHARD", 
+        "prenom": "David"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "RABY", 
+        "prenom": "Jean"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Conformité, Risques et Audit Interne", 
+        "nom": "DELAUNAY", 
+        "prenom": "Pascal"
+      }
+    ], 
+    "dateCreation": "2017-12-11T17:07:55", 
+    "datePremierePublication": "2017-12-11T17:07:55", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "NATIXIS GLOBAL ASSET MANAGEMENT", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "RABY", 
+        "prenom": "Jean"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "453952681", 
+    "lienSiteWeb": "https://www.im.natixis.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "01 78 40 90 00", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/453952681.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
@@ -81930,6 +82376,317 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/753067768.json", 
     "ville": "BESANCON"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }
+      ]
+    }, 
+    "adresse": "SYNDIFRAIS\r\n42 RUE DE CHATEAUDUN", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [
+      {
+        "denomination": "PECHALOU", 
+        "identifiantNational": "401739917", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE ANTILLAISE DE PRODUCTION DE YAOURTS", 
+        "identifiantNational": "334807039", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SAVOIE YAOURT", 
+        "identifiantNational": "321691404", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COMPAGNIE LAITIERE DES MASCAREIGNES", 
+        "identifiantNational": "310864038", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LAITIERE DE BOURGOGNE", 
+        "identifiantNational": "819381948", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "DANONE PRODUITS FRAIS FRANCE", 
+        "identifiantNational": "672039971", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EURIAL ULTRA FRAIS", 
+        "identifiantNational": "705580108", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LAITA", 
+        "identifiantNational": "380656439", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LAITERIE SAINT PERE", 
+        "identifiantNational": "316252477", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MARIE MORIN-FRANCE", 
+        "identifiantNational": "339851933", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LE PETIT BASQUE", 
+        "identifiantNational": "399685650", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LACTALIS NESTLE ULTRA-FRAIS MARQUES", 
+        "identifiantNational": "350063384", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COOPERATIVE AGRICOLE LAITIERE \"LES MAITRES LAITIERS DU COTENTIN\"", 
+        "identifiantNational": "338154610", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LAITERIE COOPERAT ALSACIENNE ALSACE LAIT", 
+        "identifiantNational": "778731174", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LAITERIES H. TRIBALLAT", 
+        "identifiantNational": "583720644", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "YOPLAIT FRANCE", 
+        "identifiantNational": "440767549", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC NOUVELLE DES YAOURTS LITTEE", 
+        "identifiantNational": "344136247", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE DE FABRICATION DE GLACES ET DE CREMES GLACEES", 
+        "identifiantNational": "303094395", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOC LAITIERE DE MACOURIA", 
+        "identifiantNational": "443951512", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "TRIBALLAT NOYAL", 
+        "identifiantNational": "709200307", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "YEO FRAIS", 
+        "identifiantNational": "387819196", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SOCIETE LA FERMIERE", 
+        "identifiantNational": "055811996", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75009", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Déléguée Générale", 
+        "nom": "FABIEN-SOULÉ", 
+        "prenom": "Véronique"
+      }
+    ], 
+    "dateCreation": "2017-12-11T18:15:37", 
+    "datePremierePublication": "2017-12-11T18:15:37", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "SYNDIFRAIS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "SERVIERES", 
+        "prenom": "Jérôme"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Déléguée Générale", 
+        "nom": "FABIEN-SOULÉ", 
+        "prenom": "Véronique"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "784856130", 
+    "lienPageTwitter": "https://twitter.com/Syndifrais_FR?lang=fr", 
+    "lienSiteWeb": "http://www.syndifrais.com/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/784856130.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "SYNGENTA FRANCE SAS\n12 CHEMIN DE L HOBIT\n31790 ST SAUVEUR", 
+    "affiliations": [
+      {
+        "denomination": "UNION FRANCAISE DES SEMENCIERS", 
+        "identifiantNational": "518905484", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION INDUS PROTECT PLANT UIPP", 
+        "identifiantNational": "785308420", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION ENTREP POUR PROTECT SANTE JARDINS", 
+        "identifiantNational": "785683715", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION FRANCAISE DES PRODUCTEURS DE PRODUITS DE BIOCONTROLE", 
+        "identifiantNational": "793600313", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUP NAT INTERPRO SEMEN PLANT", 
+        "identifiantNational": "775657398", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "COLLECTE ET VALORATION DES DECHETS AGRICOLES", 
+        "identifiantNational": "437632177", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS AGRO EDI EUROPE", 
+        "identifiantNational": "434312849", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "31790", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des Affaires Publiques", 
+        "nom": "LEBAS", 
+        "prenom": "Marie-Cécile"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "President", 
+        "nom": "TARDIT", 
+        "prenom": "Denis"
+      }
+    ], 
+    "dateCreation": "2017-12-11T12:18:00", 
+    "datePremierePublication": "2017-12-11T12:18:00", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "SYNGENTA FRANCE SAS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "TARDIT", 
+        "prenom": "Denis"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "443716832", 
+    "lienSiteWeb": "https://www.syngenta.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/443716832.json", 
+    "ville": "Saint Sauveur"
   }, 
   {
     "activites": {
