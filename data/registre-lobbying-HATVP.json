@@ -540,6 +540,106 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }
+      ]
+    }, 
+    "adresse": "ACTION LOGEMENT GROUPE\n66 AVENUE DU MAINE", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [
+      {
+        "denomination": "ACTION LOGEMENT IMMOBILIER", 
+        "identifiantNational": "824538557", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ACTION LOGEMENT SERVICES", 
+        "identifiantNational": "824541148", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION POUR L'ACCES AUX GARANTIES LOCATIVES", 
+        "identifiantNational": "497806331", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION FONCIERE DE LOGEMENT", 
+        "identifiantNational": "443966510", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "75014", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Juridique", 
+        "nom": "DARPY", 
+        "prenom": "Christian"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice des Relations Institutionnelles", 
+        "nom": "JARRY", 
+        "prenom": "Valérie"
+      }
+    ], 
+    "dateCreation": "2017-12-15T10:26:41", 
+    "datePremierePublication": "2017-12-15T10:26:41", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "ACTION LOGEMENT GROUPE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président du Conseil d'Administration", 
+        "nom": "CHANUT", 
+        "prenom": "Jacques"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "ARBOUET", 
+        "prenom": "Bruno"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "824581623", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/824581623.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }, 
         {
           "code": "EUROPEEN", 
@@ -6804,6 +6904,95 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/449491091.json", 
     "ville": "MARSEILLE"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }
+      ]
+    }, 
+    "adresse": "ASS FEDERATION NATIONALE GROUPAMA\r\n8 A 10\r\n8 RUE D ASTORG", 
+    "affiliations": [
+      {
+        "denomination": "CONFED NAT MUTUALITE COOP ET CREDIT AGRI", 
+        "identifiantNational": "421344201", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_NON_GOUV", 
+      "code": "ASSOC", 
+      "label": "Association"
+    }, 
+    "clients": [], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "directeur de la fédération nationale Groupama", 
+        "nom": "FOSSEUX", 
+        "prenom": "Marc"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "directeur adjoint", 
+        "nom": "GIN", 
+        "prenom": "Stéphane"
+      }
+    ], 
+    "dateCreation": "2017-12-15T10:45:31", 
+    "datePremierePublication": "2017-12-15T10:45:31", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ASS FEDERATION NATIONALE GROUPAMA", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "président", 
+        "nom": "DAGÈS", 
+        "prenom": "Jean-Yves"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "directeur général", 
+        "nom": "MARTEL", 
+        "prenom": "Thierry"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "président délégué", 
+        "nom": "SCHMITT", 
+        "prenom": "François"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "453183055", 
+    "lienPageTwitter": "", 
+    "lienSiteWeb": "http://www. groupama.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0144567777", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/453183055.json", 
+    "ville": "PARIS"
   }, 
   {
     "activites": {
@@ -48455,6 +48644,11 @@
         "denomination": "EVENO PATRICK", 
         "identifiantNational": "517643870", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION FRANCAISE CAMPING CARAVANNING", 
+        "identifiantNational": "775661853", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "codePostal": "75018", 
@@ -48465,7 +48659,7 @@
         "prenom": "Patrick"
       }
     ], 
-    "dateCreation": "2017-12-12T16:59:54", 
+    "dateCreation": "2017-12-15T12:22:51", 
     "datePremierePublication": "2017-12-12T16:59:54", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": true, 
@@ -48479,7 +48673,89 @@
       }
     ], 
     "emailDeContact": "paeveno@orange.fr", 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "code": "ETRANGER", 
+              "label": "Affaires étrangères, coopération internationale", 
+              "ordre": 1
+            }, 
+            {
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }, 
+            {
+              "code": "OUTREMER", 
+              "label": "Outre-mer", 
+              "ordre": 20
+            }, 
+            {
+              "code": "SPORTS", 
+              "label": "Sports, loisirs, tourisme", 
+              "ordre": 27
+            }
+          ]
+        }, 
+        "adresse": "MONSIEUR PATRICK EVENO\n5 RUE BURQ", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "AVO_CONS", 
+          "code": "COCAB", 
+          "label": "Cabinet de conseil"
+        }, 
+        "clients": [
+          {
+            "denomination": "EVENO PATRICK", 
+            "identifiantNational": "517643870", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75018", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "nom": "EVENO", 
+            "prenom": "Patrick"
+          }
+        ], 
+        "dateCreation": "2017-12-12T16:59:54", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": true, 
+        "denomination": "EVENO PATRICK", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Ingénieur conseil", 
+            "nom": "EVENO", 
+            "prenom": "Patrick"
+          }
+        ], 
+        "emailDeContact": "paeveno@orange.fr", 
+        "identifiantNational": "517643870", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0684047720", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "identifiantNational": "517643870", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": true, 
@@ -50036,6 +50312,100 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/304262850.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }
+      ]
+    }, 
+    "affiliations": [
+      {
+        "denomination": "FEDE NAT SYNDIC EXPL AGRICOLE", 
+        "identifiantNational": "784854937", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "SYNDI", 
+      "label": "Syndicat"
+    }, 
+    "clients": [
+      {
+        "denomination": "FDSEA Cotes d'Armor (22)", 
+        "identifiantNational": "339078784", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SYNDICAT FDSEA", 
+        "identifiantNational": "429565005", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FDSEA ILLE ET VILAINE", 
+        "identifiantNational": "777749045", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FDSEA DU MORBIHAN", 
+        "identifiantNational": "777907601", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "35042", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "COUE", 
+        "prenom": "Thierry"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice", 
+        "nom": "COMBOT-MADEC", 
+        "prenom": "Fabienne"
+      }
+    ], 
+    "dateCreation": "2017-12-15T12:00:20", 
+    "datePremierePublication": "2017-12-15T12:00:20", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": true, 
+    "denomination": "FED REG SYND EXPLOIT AGRICOLE BRETAGNE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "COUE", 
+        "prenom": "Thierry"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "399989433", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": false, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/399989433.json", 
+    "ville": "RENNES"
   }, 
   {
     "activites": {
@@ -74919,6 +75289,137 @@
           "code": "EUROPEEN", 
           "label": "Européen", 
           "ordre": 3
+        }, 
+        {
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "MEDIA", 
+          "label": "Médias, industries culturelles", 
+          "ordre": 18
+        }, 
+        {
+          "code": "PROPINT", 
+          "label": "Propriété intellectuelle", 
+          "ordre": 23
+        }
+      ]
+    }, 
+    "adresse": "L OREAL\r\nKERASTASE MIZANI L OREAL PROFESSIO\r\n14 RUE ROYALE", 
+    "affiliations": [
+      {
+        "denomination": "ASSO FRANCAI ENTREPRIS PRIVEES", 
+        "identifiantNational": "326943016", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION DES ENTREPRISES  DE LA BEAUTE", 
+        "identifiantNational": "784717167", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "LE CERCLE DE L'INDUSTRIE", 
+        "identifiantNational": "394192389", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "UNION DES ANNONCEURS", 
+        "identifiantNational": "784669533", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "INSTITUT DE L ENTREPRISE", 
+        "identifiantNational": "302655154", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "SOCIETE", 
+      "code": "SOCOM", 
+      "label": "Société commerciale"
+    }, 
+    "clients": [], 
+    "codePostal": "75381", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général aux Relations Institutionnelles", 
+        "nom": "ARMAND", 
+        "prenom": "Loic Marie"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice de la Communication et des Affaires Publiques France", 
+        "nom": "FAFIN", 
+        "prenom": "Domitille"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général- Division France -", 
+        "nom": "NAVELLOU", 
+        "prenom": "Hervé"
+      }
+    ], 
+    "dateCreation": "2017-12-15T09:57:08", 
+    "datePremierePublication": "2017-12-15T09:57:08", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "L'OREAL", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président Directeur Général", 
+        "nom": "AGON", 
+        "prenom": "Jean Paul"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "632012100", 
+    "lienSiteWeb": "http://www.loreal.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/632012100.json", 
+    "ville": "PARIS CEDEX 08"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
         }
       ], 
       "listSecteursActivites": [
@@ -95173,6 +95674,105 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "PROMOTION BIERE FRANCAISE\r\n9 BOULEVARD MALESHERBES", 
+    "affiliations": [
+      {
+        "denomination": "ASS NATIONALE IND. AGRO ALIMENTAIRES", 
+        "identifiantNational": "302664784", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "COSTILHES", 
+        "prenom": "Maxime"
+      }
+    ], 
+    "dateCreation": "2017-12-15T11:50:36", 
+    "datePremierePublication": "2017-12-15T11:50:36", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "PROMOTION BIERE FRANCAISE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "COSTILHES", 
+        "prenom": "Maxime"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "LOOS", 
+        "prenom": "François"
+      }
+    ], 
+    "emailDeContact": "contact@brasseurs-de-france.com", 
+    "historique": [], 
+    "identifiantNational": "703000562", 
+    "lienPageFacebook": "https://www.facebook.com/brasseursde.france/", 
+    "lienPageLinkedin": "", 
+    "lienPageTwitter": "https://twitter.com/brasseursfrance?lang=fr", 
+    "lienSiteWeb": "http://www.brasseurs-de-france.com/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "0142662927", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/703000562.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
@@ -100864,6 +101464,93 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/438568610.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "ENERGIE", 
+          "label": "Energie", 
+          "ordre": 11
+        }, 
+        {
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }, 
+        {
+          "code": "PROREG", 
+          "label": "Professions réglementées", 
+          "ordre": 22
+        }, 
+        {
+          "code": "TRANSPORTS", 
+          "label": "Transports, logistique", 
+          "ordre": 29
+        }
+      ]
+    }, 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "AVO_CONS", 
+      "code": "COCAB", 
+      "label": "Cabinet de conseil"
+    }, 
+    "clients": [
+      {
+        "denomination": "FEDERATION NATIONALE DES TP - FNTP", 
+        "identifiantNational": "784359788", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "1050", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur", 
+        "nom": "DE BRUYN", 
+        "prenom": "Franck"
+      }
+    ], 
+    "dateCreation": "2017-12-15T10:10:18", 
+    "datePremierePublication": "2017-12-15T10:10:18", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "SIEMPRE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur", 
+        "nom": "DE BRUYN", 
+        "prenom": "Franck"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "H680739251", 
+    "pays": "BELGIQUE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": false, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "HATVP", 
+    "url_json": "http://www.hatvp.fr/agora/H680739251.json", 
+    "ville": "BRUXELLES"
   }, 
   {
     "activites": {
@@ -124890,6 +125577,130 @@
     "telephoneDeContact": "01 44 11 31 50", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "http://www.hatvp.fr/agora/302991591.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "UNION NATIONALE ENTREPRENEURS DU PAYSA\n60 TER RUE HAXO", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "ORPRO", 
+      "label": "Organisation professionnelle"
+    }, 
+    "clients": [], 
+    "codePostal": "75020", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Délegué Général", 
+        "nom": "TEILHOL", 
+        "prenom": "Jean-Philippe"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Technique Innovation Environnement", 
+        "nom": "OUBRIER", 
+        "prenom": "Irène"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice du pôle social, emploi, formation", 
+        "nom": "GORRIAS", 
+        "prenom": "Claire"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "MULLER", 
+        "prenom": "Catherine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice Président", 
+        "nom": "DENIMAL", 
+        "prenom": "Pascal"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice Président", 
+        "nom": "SIPAN", 
+        "prenom": "Jean-Marc"
+      }
+    ], 
+    "dateCreation": "2017-12-15T11:06:13", 
+    "datePremierePublication": "2017-12-15T11:06:13", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "UNION NATIONALE ENTREPRENEURS DU PAYSAGE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Délégué Général", 
+        "nom": "TEILHOL", 
+        "prenom": "Jean-Philippe"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Présidente", 
+        "nom": "MULLER", 
+        "prenom": "Catherine"
+      }
+    ], 
+    "historique": [], 
+    "identifiantNational": "303970156", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "telephoneDeContact": "01 42 33 18 82", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/303970156.json", 
     "ville": "PARIS"
   }, 
   {
