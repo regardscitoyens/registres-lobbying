@@ -129798,6 +129798,85 @@
     "activites": {
       "listNiveauIntervention": [
         {
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "UNION NAL SYND AUDIOPROTHESISTES\r\n11 RUE DE FLEURUS", 
+    "affiliations": [
+      {
+        "denomination": "UNION NATIONALE DES PROFESSIONS LIBERALES", 
+        "identifiantNational": "302991591", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CENTRE NATIONAL DES PROFESSIONS DE SANTE CNPS", 
+        "identifiantNational": "W751032258", 
+        "typeIdentifiantNational": "RNA"
+      }, 
+      {
+        "denomination": "UNION NATIONALE DES PROFESSIONNELS DE SANTE", 
+        "identifiantNational": "499631315", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_REP", 
+      "code": "SYNDI", 
+      "label": "Syndicat"
+    }, 
+    "clients": [], 
+    "codePostal": "75006", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "nom": "GODINHO", 
+        "prenom": "Luis"
+      }
+    ], 
+    "dateCreation": "2017-12-16T18:16:39", 
+    "datePremierePublication": "2017-12-16T18:16:39", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "UNION NATIONALE DES SYNDICATS D AUDIOPROTHESISTES FRANCAIS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "GODINHO", 
+        "prenom": "Luis"
+      }
+    ], 
+    "emailDeContact": "contact@unsaf.org", 
+    "historique": [], 
+    "identifiantNational": "495353096", 
+    "lienSiteWeb": "http://www.unsaf.org", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "http://www.hatvp.fr/agora/495353096.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
