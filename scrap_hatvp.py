@@ -4,8 +4,16 @@
 import os, re, json, time
 import requests
 
+imgpath = os.path.join("images", "logos-HATVP")
+for d in ["data", "images", imgpath]:
+    if not os.path.exists(d):
+        os.makedirs(d)
+
+imgfmt = lambda f: "png" if "png" in f else "jpg"
+
 data = []
-logos = {}
+done = {}
+actions = {}
 
 re_format_date = re.compile(r"(..)/(..)/(....) (..:..:..)")
 def reformat_date(obj, field):
@@ -23,8 +31,21 @@ def safe_dl(url, fail=False, retry=5):
             exit(1)
         return None
 
-for org in safe_dl("http://www.hatvp.fr/agora/stock.json", True):
-    org["url_json"] = "http://www.hatvp.fr/agora/%s.json" % org["identifiantNational"]
+hatvp = safe_dl("https://www.hatvp.fr/agora/stock.json", True)
+
+for act in hatvp[2]:
+    if "num_organisation" not in act:
+        continue
+    if act["num_organisation"] not in actions:
+        actions[act["num_organisation"]] = []
+    reformat_date(act, "publicationDate")
+    actions[act["num_organisation"]].append(act)
+
+for org in hatvp[0] + hatvp[1]:
+    if org["identifiantNational"] in done:
+        continue
+    done[org["identifiantNational"]] = True
+    org["url_json"] = "https://www.hatvp.fr/agora/%s.json" % org["identifiantNational"]
     reformat_date(org, "datePremierePublication")
     details = safe_dl(org["url_json"])
     if details:
@@ -33,6 +54,7 @@ for org in safe_dl("http://www.hatvp.fr/agora/stock.json", True):
         org.update(details["publicationCourante"])
         historique = [h for h in details["historique"] if h["dateCreation"] != org["dateCreation"]]
         org["historique"] = sorted(historique, key=lambda x: x["dateCreation"])
+        org["actions"] = sorted(actions.get(org["identifiantNational"], None), key=lambda x: x["publicationDate"])
         if "logo" in details:
             logos[org["identifiantNational"]] = {
               "data": details["logo"],
