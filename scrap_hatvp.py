@@ -54,7 +54,8 @@ for org in hatvp[0] + hatvp[1]:
         org.update(details["publicationCourante"])
         historique = [h for h in details["historique"] if h["dateCreation"] != org["dateCreation"]]
         org["historique"] = sorted(historique, key=lambda x: x["dateCreation"])
-        org["actions"] = sorted(actions.get(org["identifiantNational"], None), key=lambda x: x["publicationDate"])
+        if org["identifiantNational"] in actions:
+            org["actions"] = sorted(actions[org["identifiantNational"]], key=lambda x: x["publicationDate"])
         if "logo" in details:
             imgfile = "%s.%s" % (org["identifiantNational"], imgfmt(details["logoType"]))
             with open(os.path.join(imgpath, imgfile), "wb") as f:
