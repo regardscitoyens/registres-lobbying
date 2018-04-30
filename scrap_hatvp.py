@@ -56,15 +56,12 @@ for org in hatvp[0] + hatvp[1]:
         org["historique"] = sorted(historique, key=lambda x: x["dateCreation"])
         org["actions"] = sorted(actions.get(org["identifiantNational"], None), key=lambda x: x["publicationDate"])
         if "logo" in details:
-            logos[org["identifiantNational"]] = {
-              "data": details["logo"],
-              "type": details["logoType"]
-            }
+            imgfile = "%s.%s" % (org["identifiantNational"], imgfmt(details["logoType"]))
+            with open(os.path.join(imgpath, imgfile), "wb") as f:
+                f.write(details["logo"].decode('base64'))
     data.append(org)
 
 data = sorted(data, key=lambda x: x["denomination"])
 
 with open(os.path.join("data", "registre-lobbying-HATVP.json"), "w") as f:
     print >> f, json.dumps(data, f, indent=2, sort_keys=True, ensure_ascii=False).encode("utf-8")
-with open(os.path.join("data", "registre-lobbying-HATVP-logos.json"), "w") as f:
-    json.dump(logos, f, indent=1, sort_keys=True)
