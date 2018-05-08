@@ -1,3 +1,7 @@
 csvkit
 requests
+pyOpenSSL
+cryptography
+idna
+certifi
 virtualenvwrapper
