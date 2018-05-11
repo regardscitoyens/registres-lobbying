@@ -44,7 +44,7 @@ def safe_dl(url, fail=False, retry=5):
 
 hatvp = safe_dl("https://www.hatvp.fr/agora/stock.json", True)
 
-for act in hatvp[2]:
+for act in hatvp[1]:
     key = "num_organisation"
     if key not in act:
         key = "nom_organisation"
@@ -53,7 +53,7 @@ for act in hatvp[2]:
     reformat_date(act)
     actions[act[key]].append(act)
 
-for org in hatvp[0] + hatvp[1]:
+for org in hatvp[0]:
     if org["identifiantNational"] in done:
         continue
     done[org["identifiantNational"]] = True
