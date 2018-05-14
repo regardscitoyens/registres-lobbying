@@ -25,7 +25,8 @@ def reformat_date(obj):
       "dateDebut",
       "dateFin",
       "publicationDate",
-      "datePremierePublication"
+      "datePremierePublication",
+      "dateDernierePublicationActivite"
     ]:
         if field in obj:
             obj[field] = re_format_date.sub(_reformat_date, obj[field])
