@@ -54,6 +54,12 @@ for act in hatvp[1]:
     reformat_date(act)
     actions[act[key]].append(act)
 
+def get_debut(h):
+    for k in ["dateCreation", "dateDebut"]:
+        if k in h:
+            return h[k]
+    raise("no starting date found for %s" % h)
+
 for org in hatvp[0]:
     if org["identifiantNational"] in done:
         continue
@@ -66,8 +72,8 @@ for org in hatvp[0]:
         org.update(details["publicationCourante"])
 
         [reformat_date(h) for h in details["historique"]]
-        historique = [h for h in details["historique"] if h["dateCreation"] != org["dateCreation"]]
-        org["historique"] = sorted(historique, key=lambda x: x["dateCreation"])
+        historique = [h for h in details["historique"] if get_debut(h) != org["dateCreation"]]
+        org["historique"] = sorted(historique, key=get_debut)
 
         exercices = [e["publicationCourante"] for e in details.get("exercices", [])]
         [reformat_date(e) for e in exercices]
@@ -77,7 +83,7 @@ for org in hatvp[0]:
 
         histo_exercices = [h for e in details.get("exercices", []) for h in e.get("historique", [])]
         [reformat_date(h) for h in histo_exercices]
-        org["historique_exercices"] = sorted(histo_exercices, key=lambda x: x["dateCreation"])
+        org["historique_exercices"] = sorted(histo_exercices, key=get_debut)
 
         orgactions = actions.get(org["identifiantNational"], []) + actions.get(org["denomination"], [])
         org["resumes_actions"] = sorted(orgactions, key=lambda x: x["publicationDate"] + x["objet"])
