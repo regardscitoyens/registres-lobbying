@@ -87,7 +87,10 @@ for line in xls:
         dat = date.fromtimestamp((float(get(line, "Date d'échéance du titre d'accès"))-25569)*86400)
         rep["Date d'échéance du titre d'accès"] = "%02d/%02d/%04d" % (dat.day, dat.month, dat.year)
     except:
-        rep["Date d'échéance du titre d'accès"] = results[-1]["Date d'échéance du titre d'accès"]
+        if not rep["Date d'échéance du titre d'accès"]:
+            rep["Date d'échéance du titre d'accès"] = results[-1]["Date d'échéance du titre d'accès"]
+        else:
+            rep["Date d'échéance du titre d'accès"] = re.sub(r'(\d{4})-(\d{2})-(\d{2})', r'\3/\2/\1', rep["Date d'échéance du titre d'accès"])
     results.append(rep)
 
 print fml(headers)
