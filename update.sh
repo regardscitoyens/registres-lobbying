@@ -38,8 +38,8 @@ fi
 
 # Check HATVP
 ./scrap_hatvp.py
-if ! $DEBUG && git diff data/registre-lobbying-HATVP.json images | grep "." > /dev/null; then
-  git add images data/registre-lobbying-HATVP.json
+if ! $DEBUG && git diff data/registre-lobbying-HATVP*.json images | grep "." > /dev/null; then
+  git add images data/registre-lobbying-HATVP*.json
   git commit -m "update registre HATVP"
   git push
 fi
