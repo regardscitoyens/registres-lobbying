@@ -7048,7 +7048,13 @@
       "code": "EPAIC", 
       "label": "Etablissement public exerçant une activité industrielle et commerciale"
     }, 
-    "clients": [], 
+    "clients": [
+      {
+        "denomination": "RATP DEVELOPPEMENT", 
+        "identifiantNational": "389795006", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
     "codePostal": "75599", 
     "collaborateurs": [
       {
@@ -7080,13 +7086,18 @@
         "fonction": "Chargé d'affaires parlementaires et institutionnelles", 
         "nom": "NAHON", 
         "prenom": "John-David"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "LAURENT", 
+        "prenom": "Julien"
       }
     ], 
-    "dateCreation": "2019-03-29T17:19:40", 
-    "dateDernierePublicationActivite": "2019-04-01T10:52:09", 
+    "dateCreation": "2020-07-10T14:57:30", 
+    "dateDernierePublicationActivite": "2020-07-10T15:42:33", 
     "datePremierePublication": "2017-12-08T10:05:32", 
     "declarationOrgaAppartenance": true, 
-    "declarationTiers": false, 
+    "declarationTiers": true, 
     "denomination": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
     "dirigeants": [
       {
@@ -7804,12 +7815,357 @@
         "publicationDate": "2019-03-29T17:18:51"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé, Economie et finances, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "JA3Y2JU3", 
+                "objet": "Réforme des retraites : assurer la prise en compte des enjeux de la RATP dans le cadre du projet de réformes des retraites", 
+                "publicationDate": "2020-07-10T15:42:15"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé, Economie et finances, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "JA3Y2JU3", 
+              "objet": "Réforme des retraites : assurer la prise en compte des enjeux de la RATP dans le cadre du projet de réformes des retraites", 
+              "publicationDate": "2020-07-10T15:42:15"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement"
+                    ], 
+                    "tiers": [
+                      "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "K6VBJKGH", 
+                "objet": "Obtenir la modification de l'arrêté fixant les seuils d'examen par la commission des marchés. ", 
+                "publicationDate": "2020-07-10T15:42:33"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement"
+                  ], 
+                  "tiers": [
+                    "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "K6VBJKGH", 
+              "objet": "Obtenir la modification de l'arrêté fixant les seuils d'examen par la commission des marchés. ", 
+              "publicationDate": "2020-07-10T15:42:33"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "Garantir la sécurité d'exploitation, la continuité et le maintien d'un haut niveau de qualité de service ; assurer la cohérence économique de l'attribution des marchés ; obtenir l'adhésion des personnels de la RATP. Permettre une ouverture des données équitable et équilibrée pour tous les acteurs des mobilités. ", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)", 
+                      "RATP DEVELOPPEMENT"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "X2VRF7BV", 
+                "objet": "LOM : assurer un traitement équilibré entre opérateurs publics et privés en matière de données et de services numériques multimodaux", 
+                "publicationDate": "2020-07-10T15:41:55"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "Garantir la sécurité d'exploitation, la continuité et le maintien d'un haut niveau de qualité de service ; assurer la cohérence économique de l'attribution des marchés ; obtenir l'adhésion des personnels de la RATP. Permettre une ouverture des données équitable et équilibrée pour tous les acteurs des mobilités. ", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)", 
+                    "RATP DEVELOPPEMENT"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "X2VRF7BV", 
+              "objet": "LOM : assurer un traitement équilibré entre opérateurs publics et privés en matière de données et de services numériques multimodaux", 
+              "publicationDate": "2020-07-10T15:41:55"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "Garantir la sécurité d'exploitation, la continuité et le maintien d'un haut niveau de qualité de service; Assurer la cohérence économique de l'attribution des marchés ; Obtenir l'adhésion des personnels de la RATP. Assurer la cohérence et maintenir le haut niveau de la sûreté en Ile-de-France. ", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "KQ36B263", 
+                "objet": "LOM : adapter le cadre législatif applicable au service de sûreté interne de la RATP dans le cadre de l'ouverture à la concurrence ", 
+                "publicationDate": "2020-07-10T15:41:32"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "Garantir la sécurité d'exploitation, la continuité et le maintien d'un haut niveau de qualité de service; Assurer la cohérence économique de l'attribution des marchés ; Obtenir l'adhésion des personnels de la RATP. Assurer la cohérence et maintenir le haut niveau de la sûreté en Ile-de-France. ", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "KQ36B263", 
+              "objet": "LOM : adapter le cadre législatif applicable au service de sûreté interne de la RATP dans le cadre de l'ouverture à la concurrence ", 
+              "publicationDate": "2020-07-10T15:41:32"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "Garantir la sécurité d'exploitation, la continuité et le maintien d'un haut niveau de qualité de service; Assurer la cohérence économique de l'attribution des marchés ; Obtenir l'adhésion des personnels de la RATP. ", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "C5HAEJCV", 
+                "objet": "LOM : définir un cadre législatif et règlementaire pour l'ouverture à la concurrence des services de bus de la RATP intégrant les sujets sociaux", 
+                "publicationDate": "2020-07-10T15:41:01"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "Garantir la sécurité d'exploitation, la continuité et le maintien d'un haut niveau de qualité de service; Assurer la cohérence économique de l'attribution des marchés ; Obtenir l'adhésion des personnels de la RATP. ", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "C5HAEJCV", 
+              "objet": "LOM : définir un cadre législatif et règlementaire pour l'ouverture à la concurrence des services de bus de la RATP intégrant les sujets sociaux", 
+              "publicationDate": "2020-07-10T15:41:01"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 4972, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 200 000 euros et < 300 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 5, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2020-07-10T15:43:08"
       }, 
       {
         "dateDebut": "2020-01-01", 
@@ -8526,6 +8882,139 @@
         "publierMonTelephoneDeContact": true, 
         "typeIdentifiantNational": "SIREN", 
         "ville": "PARIS CEDEX 12"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "categorie": null, 
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "REGIE AUTONOME TRANSPORTS PARISIENS\r\nPARIS 12\r\n54 QUAI DE LA RAPEE", 
+        "affiliations": [
+          {
+            "denomination": "UNION  TRANSPORTS PUBLICS FERROVIAIRES", 
+            "identifiantNational": "784408643", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "LE CERCLE DE L'INDUSTRIE", 
+            "identifiantNational": "394192389", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS EUROPEEN VEHICULE ELECTRIQ ROUTIERS", 
+            "identifiantNational": "381166792", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "COMITE DE LIAISON DES ENTREPRISES AYANT EXERCE LEUR ELIGIBILITE", 
+            "identifiantNational": "500955331", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION DES GRANDS UTILISATEURS DE RESEAUX RADIO D'EXPLOITATION (AGURRE)", 
+            "identifiantNational": "W932004303", 
+            "typeIdentifiantNational": "RNA"
+          }, 
+          {
+            "denomination": "IMAGE 7", 
+            "identifiantNational": "532572112", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_PUB", 
+          "code": "EPAIC", 
+          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+        }, 
+        "clients": [], 
+        "codePostal": "75599", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente- Directrice générale", 
+            "nom": "GUILLOUARD", 
+            "prenom": "Catherine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur en charge de la Maitrise des risques, des enjeux de sûreté et des affaires institutionnelles", 
+            "nom": "HARNOIS", 
+            "prenom": "Jérôme"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur de Cabinet de la Présidente-Directrice générale", 
+            "nom": "TIRVAUDEY", 
+            "prenom": "Paul"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des Affaires Institutionnelles", 
+            "nom": "LAURENT", 
+            "prenom": "Julien"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Chargé d'affaires parlementaires et institutionnelles", 
+            "nom": "NAHON", 
+            "prenom": "John-David"
+          }
+        ], 
+        "dateCreation": "2019-03-29T17:19:40", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente- Directrice générale", 
+            "nom": "GUILLOUARD", 
+            "prenom": "Catherine"
+          }
+        ], 
+        "identifiantNational": "775663438", 
+        "lienPageFacebook": "https://www.facebook.com/RATPofficiel", 
+        "lienPageTwitter": "https://www.twitter.com/GroupeRATP", 
+        "lienSiteWeb": "https://www.ratp.fr/groupe-ratp", 
+        "nomUsageHatvp": "RATP", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS CEDEX 12"
       }
     ], 
     "historique_exercices": [
@@ -8554,19 +9043,98 @@
         "nombreActivite": 7, 
         "nombreSalaries": 5, 
         "publicationDate": "2019-03-29T17:18:51"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 4972, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 200 000 euros et < 300 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 5, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2020-07-10T15:43:08"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 4972, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 200 000 euros et < 300 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 5, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2020-07-10T15:10:22"
       }
     ], 
     "identifiantNational": "775663438", 
     "isActivitesPubliees": true, 
     "lienPageFacebook": "https://www.facebook.com/RATPofficiel", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/ratp/", 
     "lienPageTwitter": "https://www.twitter.com/GroupeRATP", 
-    "lienSiteWeb": "https://www.ratp.fr/groupe-ratp", 
+    "lienSiteWeb": "https://ratpgroup.com/fr", 
+    "nomUsage": "RATP", 
     "nomUsageHatvp": "RATP", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs"
+        ], 
+        "identifiantFiche": "C5HAEJCV", 
+        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
+        "num_organisation": "775663438", 
+        "objet": "LOM : définir un cadre législatif et règlementaire pour l'ouverture à la concurrence des services de bus de la RATP intégrant les sujets sociaux", 
+        "publicationDate": "2020-07-10T15:41:01"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs"
+        ], 
+        "identifiantFiche": "KQ36B263", 
+        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
+        "num_organisation": "775663438", 
+        "objet": "LOM : adapter le cadre législatif applicable au service de sûreté interne de la RATP dans le cadre de l'ouverture à la concurrence ", 
+        "publicationDate": "2020-07-10T15:41:32"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs"
+        ], 
+        "identifiantFiche": "X2VRF7BV", 
+        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
+        "num_organisation": "775663438", 
+        "objet": "LOM : assurer un traitement équilibré entre opérateurs publics et privés en matière de données et de services numériques multimodaux", 
+        "publicationDate": "2020-07-10T15:41:55"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs"
+        ], 
+        "identifiantFiche": "JA3Y2JU3", 
+        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
+        "num_organisation": "775663438", 
+        "objet": "Réforme des retraites : assurer la prise en compte des enjeux de la RATP dans le cadre du projet de réformes des retraites", 
+        "publicationDate": "2020-07-10T15:42:15"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs"
+        ], 
+        "identifiantFiche": "K6VBJKGH", 
+        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
+        "num_organisation": "775663438", 
+        "objet": "Obtenir la modification de l'arrêté fixant les seuils d'examen par la commission des marchés. ", 
+        "publicationDate": "2020-07-10T15:42:33"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775663438.json", 
     "ville": "PARIS CEDEX 12"
