@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import os, sys, re, json, time
+from collections import defaultdict
 import requests
 
 DEBUG = len(sys.argv) > 1
@@ -13,7 +14,7 @@ for d in ["data", "images", imgpath]:
 
 imgfmt = lambda f: "png" if "png" in f else "jpg"
 
-data = []
+data = defaultdict(list)
 done = {}
 actions = {}
 
@@ -101,9 +102,12 @@ for org in hatvp[0]:
             with open(os.path.join(imgpath, imgfile), "wb") as f:
                 f.write(details["logo"].decode('base64'))
 
-    data.append(org)
+    code = org["categorieOrganisation"]["categorie"]
+    #code = org["categorieOrganisation"]["code"] # use finer grain code if still too big
+    data[code].append(org)
 
-data = sorted(data, key=lambda x: x["denomination"])
 
-with open(os.path.join("data", "registre-lobbying-HATVP.json"), "w") as f:
-    print >> f, json.dumps(data, f, indent=2, sort_keys=True, ensure_ascii=False).encode("utf-8")
+for code, items in data.items():
+    items = sorted(items, key=lambda x: x["denomination"])
+    with open(os.path.join("data", "registre-lobbying-HATVP-%s.json" % code), "w") as f:
+        print >> f, json.dumps(items, f, indent=2, sort_keys=True, ensure_ascii=False).encode("utf-8")
