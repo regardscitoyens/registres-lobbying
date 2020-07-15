@@ -9083,58 +9083,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Transport de voyageurs"
-        ], 
-        "identifiantFiche": "C5HAEJCV", 
-        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
-        "num_organisation": "775663438", 
-        "objet": "LOM : définir un cadre législatif et règlementaire pour l'ouverture à la concurrence des services de bus de la RATP intégrant les sujets sociaux", 
-        "publicationDate": "2020-07-10T15:41:01"
-      }, 
-      {
-        "domainesIntervention": [
-          "Transport de voyageurs"
-        ], 
-        "identifiantFiche": "KQ36B263", 
-        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
-        "num_organisation": "775663438", 
-        "objet": "LOM : adapter le cadre législatif applicable au service de sûreté interne de la RATP dans le cadre de l'ouverture à la concurrence ", 
-        "publicationDate": "2020-07-10T15:41:32"
-      }, 
-      {
-        "domainesIntervention": [
-          "Transport de voyageurs"
-        ], 
-        "identifiantFiche": "X2VRF7BV", 
-        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
-        "num_organisation": "775663438", 
-        "objet": "LOM : assurer un traitement équilibré entre opérateurs publics et privés en matière de données et de services numériques multimodaux", 
-        "publicationDate": "2020-07-10T15:41:55"
-      }, 
-      {
-        "domainesIntervention": [
-          "Transport de voyageurs"
-        ], 
-        "identifiantFiche": "JA3Y2JU3", 
-        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
-        "num_organisation": "775663438", 
-        "objet": "Réforme des retraites : assurer la prise en compte des enjeux de la RATP dans le cadre du projet de réformes des retraites", 
-        "publicationDate": "2020-07-10T15:42:15"
-      }, 
-      {
-        "domainesIntervention": [
-          "Transport de voyageurs"
-        ], 
-        "identifiantFiche": "K6VBJKGH", 
-        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
-        "num_organisation": "775663438", 
-        "objet": "Obtenir la modification de l'arrêté fixant les seuils d'examen par la commission des marchés. ", 
-        "publicationDate": "2020-07-10T15:42:33"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775663438.json", 
     "ville": "PARIS CEDEX 12"
