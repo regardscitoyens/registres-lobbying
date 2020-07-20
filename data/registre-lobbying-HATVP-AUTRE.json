@@ -20983,7 +20983,7 @@
       }
     ], 
     "dateCreation": "2020-07-09T17:28:41", 
-    "dateDernierePublicationActivite": "2019-04-15T15:47:56", 
+    "dateDernierePublicationActivite": "2020-07-20T15:58:06", 
     "datePremierePublication": "2018-03-23T17:54:26", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -21287,12 +21287,129 @@
         "publicationDate": "2018-04-30T16:10:26"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "une rencontre avec les députés 4 rencontres avec les sénateurs", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "MACIF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Finances", 
+                  "Assurances"
+                ], 
+                "identifiantFiche": "IO3WW0Q3", 
+                "objet": "rencontrer des parlementaires sur la loi Pacte :échanges sur les sujets de transférabilité des contrats d'assurance vie et sur la mise en oeuvre des nouveaux contrats d'épargne retraite", 
+                "publicationDate": "2020-07-20T15:44:58"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "une rencontre avec les députés 4 rencontres avec les sénateurs", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "MACIF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Finances", 
+                "Assurances"
+              ], 
+              "identifiantFiche": "IO3WW0Q3", 
+              "objet": "rencontrer des parlementaires sur la loi Pacte :échanges sur les sujets de transférabilité des contrats d'assurance vie et sur la mise en oeuvre des nouveaux contrats d'épargne retraite", 
+              "publicationDate": "2020-07-20T15:44:58"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "sept rencontres avec des députés et 2 rencontres avec des sénateurs", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "MACIF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Assurances"
+                ], 
+                "identifiantFiche": "PO38FI1V", 
+                "objet": "rencontrer des parlementaires sur le sujet de la loi LOM : permettre l'accès libre aux données ( sinistres ou techniques ) des véhicules pour les assureurs", 
+                "publicationDate": "2020-07-20T15:58:06"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "sept rencontres avec des députés et 2 rencontres avec des sénateurs", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "MACIF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Assurances"
+              ], 
+              "identifiantFiche": "PO38FI1V", 
+              "objet": "rencontrer des parlementaires sur le sujet de la loi LOM : permettre l'accès libre aux données ( sinistres ou techniques ) des véhicules pour les assureurs", 
+              "publicationDate": "2020-07-20T15:58:06"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 4376, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 75 000 euros et < 100 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 2, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2020-07-20T15:49:25"
       }, 
       {
         "dateDebut": "2020-01-01", 
@@ -21543,6 +21660,19 @@
         "nombreActivite": 5, 
         "nombreSalaries": 1, 
         "publicationDate": "2018-04-30T16:09:13"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 4376, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 75 000 euros et < 100 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 2, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2020-07-20T15:49:25"
       }
     ], 
     "identifiantNational": "781452511", 
@@ -21551,7 +21681,29 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Finances", 
+          "Assurances"
+        ], 
+        "identifiantFiche": "IO3WW0Q3", 
+        "nom_organisation": "MACIF", 
+        "num_organisation": "781452511", 
+        "objet": "rencontrer des parlementaires sur la loi Pacte :échanges sur les sujets de transférabilité des contrats d'assurance vie et sur la mise en oeuvre des nouveaux contrats d'épargne retraite", 
+        "publicationDate": "2020-07-20T15:44:58"
+      }, 
+      {
+        "domainesIntervention": [
+          "Assurances"
+        ], 
+        "identifiantFiche": "PO38FI1V", 
+        "nom_organisation": "MACIF", 
+        "num_organisation": "781452511", 
+        "objet": "rencontrer des parlementaires sur le sujet de la loi LOM : permettre l'accès libre aux données ( sinistres ou techniques ) des véhicules pour les assureurs", 
+        "publicationDate": "2020-07-20T15:58:06"
+      }
+    ], 
     "sigleHatvp": "SA", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/781452511.json", 
