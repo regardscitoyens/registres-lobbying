@@ -21681,29 +21681,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Finances", 
-          "Assurances"
-        ], 
-        "identifiantFiche": "IO3WW0Q3", 
-        "nom_organisation": "MACIF", 
-        "num_organisation": "781452511", 
-        "objet": "rencontrer des parlementaires sur la loi Pacte :échanges sur les sujets de transférabilité des contrats d'assurance vie et sur la mise en oeuvre des nouveaux contrats d'épargne retraite", 
-        "publicationDate": "2020-07-20T15:44:58"
-      }, 
-      {
-        "domainesIntervention": [
-          "Assurances"
-        ], 
-        "identifiantFiche": "PO38FI1V", 
-        "nom_organisation": "MACIF", 
-        "num_organisation": "781452511", 
-        "objet": "rencontrer des parlementaires sur le sujet de la loi LOM : permettre l'accès libre aux données ( sinistres ou techniques ) des véhicules pour les assureurs", 
-        "publicationDate": "2020-07-20T15:58:06"
-      }
-    ], 
+    "resumes_actions": [], 
     "sigleHatvp": "SA", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/781452511.json", 
