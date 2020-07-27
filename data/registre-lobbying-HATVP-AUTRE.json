@@ -1010,61 +1010,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Logement"
-        ], 
-        "identifiantFiche": "FY3GADM3", 
-        "nom_organisation": "ADOMA", 
-        "num_organisation": "788058030", 
-        "objet": "Attirer l'attention d'une administration de tutelle sur des difficultés rencontrées dans l'exercice de nos missions", 
-        "publicationDate": "2020-07-24T15:27:54"
-      }, 
-      {
-        "domainesIntervention": [
-          "Logement"
-        ], 
-        "identifiantFiche": "PO38FJXV", 
-        "nom_organisation": "ADOMA", 
-        "num_organisation": "788058030", 
-        "objet": "Faciliter l’exécution des missions d’intérêt général d'Adoma", 
-        "publicationDate": "2020-07-24T15:29:17"
-      }, 
-      {
-        "domainesIntervention": [
-          "Asile", 
-          "Logement"
-        ], 
-        "identifiantFiche": "IO3WWZG3", 
-        "nom_organisation": "ADOMA", 
-        "num_organisation": "788058030", 
-        "objet": "Représentation des intérêts d’Adoma liée à ses activités en matière hébergement d'urgence généraliste et de demandeurs d'asile ", 
-        "publicationDate": "2020-07-24T15:30:46"
-      }, 
-      {
-        "domainesIntervention": [
-          "Asile", 
-          "Logement", 
-          "Immigration"
-        ], 
-        "identifiantFiche": "DC34L4R3", 
-        "nom_organisation": "ADOMA", 
-        "num_organisation": "788058030", 
-        "objet": "Faciliter le développement et la gestion des places d'hebergement", 
-        "publicationDate": "2020-07-24T15:31:43"
-      }, 
-      {
-        "domainesIntervention": [
-          "Logement"
-        ], 
-        "identifiantFiche": "4UHQDI23", 
-        "nom_organisation": "ADOMA", 
-        "num_organisation": "788058030", 
-        "objet": "Développer l'activité d'Adoma sur un territoire donné", 
-        "publicationDate": "2020-07-24T15:33:14"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/788058030.json", 
     "ville": "PARIS CEDEX 15"
