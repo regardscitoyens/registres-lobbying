@@ -9160,7 +9160,7 @@
         "typeIdentifiantNational": "SIREN"
       }, 
       {
-        "denomination": "UNION DES ANNONCEURS", 
+        "denomination": "UNION DES MARQUES", 
         "identifiantNational": "784669533", 
         "typeIdentifiantNational": "SIREN"
       }
@@ -9179,6 +9179,11 @@
       {
         "denomination": "OUI.SNCF", 
         "identifiantNational": "431810621", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "KEOLIS", 
+        "identifiantNational": "552111809", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
@@ -9237,7 +9242,7 @@
         "prenom": "Jean-Pierre"
       }
     ], 
-    "dateCreation": "2019-11-05T12:30:55", 
+    "dateCreation": "2020-07-28T12:29:19", 
     "dateDernierePublicationActivite": "2019-03-29T16:49:45", 
     "datePremierePublication": "2017-12-05T15:06:05", 
     "declarationOrgaAppartenance": true, 
@@ -13314,7 +13319,7 @@
             "typeIdentifiantNational": "SIREN"
           }, 
           {
-            "denomination": "UNION DES ANNONCEURS", 
+            "denomination": "UNION DES MARQUES", 
             "identifiantNational": "784669533", 
             "typeIdentifiantNational": "SIREN"
           }
@@ -13486,7 +13491,7 @@
             "typeIdentifiantNational": "SIREN"
           }, 
           {
-            "denomination": "UNION DES ANNONCEURS", 
+            "denomination": "UNION DES MARQUES", 
             "identifiantNational": "784669533", 
             "typeIdentifiantNational": "SIREN"
           }
@@ -13663,7 +13668,7 @@
             "typeIdentifiantNational": "SIREN"
           }, 
           {
-            "denomination": "UNION DES ANNONCEURS", 
+            "denomination": "UNION DES MARQUES", 
             "identifiantNational": "784669533", 
             "typeIdentifiantNational": "SIREN"
           }
@@ -13741,6 +13746,183 @@
           }
         ], 
         "dateCreation": "2019-11-04T14:34:53", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "SNCF", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président du directoire", 
+            "nom": "FARANDOU", 
+            "prenom": "Jean-Pierre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président délégué du directoire", 
+            "nom": "JEANTET", 
+            "prenom": "Patrick"
+          }
+        ], 
+        "identifiantNational": "808332670", 
+        "lienSiteWeb": "http://www.sncf.com/", 
+        "nomUsageHatvp": "SOCIETE NATIONALE DES CHEMINS DE FER FRANÇAIS", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "ST DENIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "categorie": null, 
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "categorie": null, 
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }, 
+            {
+              "categorie": null, 
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "SNCF\r\n2 PLACE AUX ETOILES\r\nLA PLAINE ST DENIS", 
+        "affiliations": [
+          {
+            "denomination": "AVENIR TRANSPORTS", 
+            "identifiantNational": "439476250", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "INSTITUT DE LA GESTION DELEGUEE", 
+            "identifiantNational": "407693837", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION  TRANSPORTS PUBLICS FERROVIAIRES", 
+            "identifiantNational": "784408643", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "TRANSPORT DEVELOP INTERMODALITE ENVIRON", 
+            "identifiantNational": "439721978", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNION DES MARQUES", 
+            "identifiantNational": "784669533", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_PUB", 
+          "code": "EPAIC", 
+          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+        }, 
+        "clients": [
+          {
+            "denomination": "EUROSTAR INTERNATIONAL LIMITED", 
+            "identifiantNational": "525010708", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OUI.SNCF", 
+            "identifiantNational": "431810621", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SNCF MOBILITES", 
+            "identifiantNational": "552049447", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SNCF RESEAU", 
+            "identifiantNational": "412280737", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "93210", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Président délégué du directoire", 
+            "nom": "JEANTET", 
+            "prenom": "Patrick"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire général", 
+            "nom": "VOLANT", 
+            "prenom": "Stéphane"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur de la stratégie", 
+            "nom": "POLI", 
+            "prenom": "Raphaël"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "directeur de cabinet du président du directoire", 
+            "nom": "DELALANDE", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice des affaires publiques", 
+            "nom": "GROSSETETE", 
+            "prenom": "Karine"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Conseillère parlementaire", 
+            "nom": "NION", 
+            "prenom": "Laurence"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président du directoire", 
+            "nom": "FARANDOU", 
+            "prenom": "Jean-Pierre"
+          }
+        ], 
+        "dateCreation": "2019-11-05T12:30:55", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": true, 
         "denomination": "SNCF", 

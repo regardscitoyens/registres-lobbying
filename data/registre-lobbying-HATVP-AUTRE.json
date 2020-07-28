@@ -6703,7 +6703,7 @@
         }
       ]
     }, 
-    "adresse": "SOCIETE NATIONALE IMMOBILIERE\nN 100 AU 104\n AVENUE DE FRANCE", 
+    "adresse": "CDC HABITAT\n33 avenue Pierre Mendes France\n75013 PARIS", 
     "affiliations": [
       {
         "denomination": "AMIF PARTENAIRES", 
@@ -6753,18 +6753,24 @@
       }, 
       {
         "civilite": "M", 
-        "fonction": "Directeur de cabinet du Président du Directoire", 
-        "nom": "LE DRIAN", 
-        "prenom": "Thomas"
-      }, 
-      {
-        "civilite": "M", 
         "fonction": "Directeur Général Adjoint en charge des croissances externes et des études", 
         "nom": "LAGET", 
         "prenom": "Thierry"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général Adjoint en charge des SIDOM", 
+        "nom": "POURCEL", 
+        "prenom": "Philippe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général adjoint en charge du pôle minier", 
+        "nom": "CLEMENT", 
+        "prenom": "Jean-Paul"
       }
     ], 
-    "dateCreation": "2018-01-05T17:49:19", 
+    "dateCreation": "2020-07-28T17:17:27", 
     "dateDernierePublicationActivite": "2019-03-29T16:59:56", 
     "datePremierePublication": "2018-01-05T17:49:19", 
     "declarationOrgaAppartenance": true, 
@@ -6788,15 +6794,9 @@
         "fonction": "Président du Directoire", 
         "nom": "YCHE", 
         "prenom": "André"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Directeur Général Membre du Directoire", 
-        "nom": "FLAM", 
-        "prenom": "Manuel"
       }
     ], 
-    "emailDeContact": "clestang@groupesni.fr", 
+    "emailDeContact": "chantal.lestang@cdc-habitat.fr", 
     "exercices": [
       {
         "activites": [
@@ -8661,7 +8661,156 @@
         "nombreActivite": 0
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "categorie": null, 
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }, 
+            {
+              "categorie": null, 
+              "code": "OUTREMER", 
+              "label": "Outre-mer", 
+              "ordre": 20
+            }, 
+            {
+              "categorie": null, 
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }
+          ]
+        }, 
+        "adresse": "SOCIETE NATIONALE IMMOBILIERE\nN 100 AU 104\n AVENUE DE FRANCE", 
+        "affiliations": [
+          {
+            "denomination": "AMIF PARTENAIRES", 
+            "identifiantNational": "395254659", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARPAVIE", 
+            "identifiantNational": "817797095", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARPEJ", 
+            "identifiantNational": "380160283", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ISATIS", 
+            "identifiantNational": "383247533", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CERCLE DES DIRECTEURS ET RESPONSABLES JURIDIQUES DE L'IMMOBILIER JURIDIM", 
+            "identifiantNational": "W921000873", 
+            "typeIdentifiantNational": "RNA"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations"
+        }, 
+        "clients": [
+          {
+            "denomination": "ADOMA", 
+            "identifiantNational": "788058030", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75013", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice des relations institutionnelles et des études", 
+            "nom": "FREMONT", 
+            "prenom": "Anne"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur de cabinet du Président du Directoire", 
+            "nom": "LE DRIAN", 
+            "prenom": "Thomas"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général Adjoint en charge des croissances externes et des études", 
+            "nom": "LAGET", 
+            "prenom": "Thierry"
+          }
+        ], 
+        "dateCreation": "2018-01-05T17:49:19", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "CDC HABITAT", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire Général Membre du Directoire", 
+            "nom": "MAHE", 
+            "prenom": "Vincent"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général Membre du Directoire", 
+            "nom": "CHAZELLE", 
+            "prenom": "Yves"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président du Directoire", 
+            "nom": "YCHE", 
+            "prenom": "André"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général Membre du Directoire", 
+            "nom": "FLAM", 
+            "prenom": "Manuel"
+          }
+        ], 
+        "emailDeContact": "clestang@groupesni.fr", 
+        "identifiantNational": "470801168", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/groupe-sni/", 
+        "lienPageTwitter": "https://twitter.com/groupesni", 
+        "lienSiteWeb": "http://www.groupesni.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "sigleHatvp": "SNI", 
+        "telephoneDeContact": "0155033101", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS CEDEX 13"
+      }
+    ], 
     "historique_exercices": [
       {
         "chiffreAffaire": "> = 1 000 000 euros", 
@@ -8692,9 +8841,10 @@
     ], 
     "identifiantNational": "470801168", 
     "isActivitesPubliees": true, 
-    "lienPageLinkedin": "https://www.linkedin.com/company/groupe-sni/", 
-    "lienPageTwitter": "https://twitter.com/groupesni", 
-    "lienSiteWeb": "http://www.groupesni.fr/", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/groupe-cdc-habitat.com", 
+    "lienPageTwitter": "https://twitter.com/CDC_Habitat", 
+    "lienSiteWeb": "http://www.cdc-habitat.fr/", 
+    "nomUsage": "CDC HABITAT", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
@@ -10084,9 +10234,15 @@
         "fonction": "secrétaire général", 
         "nom": "VEILLY", 
         "prenom": "Marc"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "GUERIN", 
+        "prenom": "Jacques"
       }
     ], 
-    "dateCreation": "2017-12-19T11:18:49", 
+    "dateCreation": "2020-07-28T10:19:24", 
     "dateDernierePublicationActivite": "2018-04-24T11:04:28", 
     "datePremierePublication": "2017-12-19T11:18:49", 
     "declarationOrgaAppartenance": false, 
@@ -10206,7 +10362,115 @@
         "nombreActivite": 0
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "categorie": null, 
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }, 
+            {
+              "categorie": null, 
+              "code": "PROREG", 
+              "label": "Professions réglementées", 
+              "ordre": 22
+            }
+          ]
+        }, 
+        "adresse": "CONSEIL NAL L ORDRE VETERINAIRES\r\n34 RUE BREGUET", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations"
+        }, 
+        "clients": [], 
+        "codePostal": "75011", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice de la communication", 
+            "nom": "LABOULAIS", 
+            "prenom": "Anne"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice des affaires juridiques", 
+            "nom": "KASBI", 
+            "prenom": "Sophie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Vice-président", 
+            "nom": "AVIGNON", 
+            "prenom": "Denis"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "secrétaire général", 
+            "nom": "VEILLY", 
+            "prenom": "Marc"
+          }
+        ], 
+        "dateCreation": "2017-12-19T11:18:49", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "GUERIN", 
+            "prenom": "Jacques"
+          }
+        ], 
+        "identifiantNational": "784447153", 
+        "lienPageFacebook": "https://www.facebook.com/ordredesveterinaires/", 
+        "lienPageTwitter": "https://twitter.com/OrdreVet_France", 
+        "lienSiteWeb": "https://www.veterinaire.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "historique_exercices": [
       {
         "dateDebut": "2017-07-01", 
