@@ -9243,7 +9243,7 @@
       }
     ], 
     "dateCreation": "2020-07-28T12:29:19", 
-    "dateDernierePublicationActivite": "2019-03-29T16:49:45", 
+    "dateDernierePublicationActivite": "2020-07-29T11:38:32", 
     "datePremierePublication": "2017-12-05T15:06:05", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -13068,6 +13068,2558 @@
         "publicationDate": "2019-03-29T16:50:06"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "EUROSTAR INTERNATIONAL LIMITED"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "DC34LAJ3", 
+                "objet": "Ordonnance 2019-96 : Obtenir l’inclusion du certificat de sécurité britannique d’Eurostar pour le tunnel dans les mesures de transition du Brexit\n", 
+                "publicationDate": "2020-07-29T11:37:25"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "EUROSTAR INTERNATIONAL LIMITED"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "DC34LAJ3", 
+              "objet": "Ordonnance 2019-96 : Obtenir l’inclusion du certificat de sécurité britannique d’Eurostar pour le tunnel dans les mesures de transition du Brexit\n", 
+              "publicationDate": "2020-07-29T11:37:25"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "19V07IO3", 
+                "objet": "LOM : permettre la réciprocité de l’accès aux systèmes de distribution ", 
+                "publicationDate": "2020-07-29T11:30:52"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "19V07IO3", 
+              "objet": "LOM : permettre la réciprocité de l’accès aux systèmes de distribution ", 
+              "publicationDate": "2020-07-29T11:30:52"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Sécurité nationale"
+                ], 
+                "identifiantFiche": "S0V270CH", 
+                "objet": "LOM : permettre aux agents du service interne de sécurité de la SNCF de faire usage de leur arme en cas de périple meurtrier ", 
+                "publicationDate": "2020-07-29T11:29:28"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Sécurité nationale"
+              ], 
+              "identifiantFiche": "S0V270CH", 
+              "objet": "LOM : permettre aux agents du service interne de sécurité de la SNCF de faire usage de leur arme en cas de périple meurtrier ", 
+              "publicationDate": "2020-07-29T11:29:28"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SNCF RESEAU"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Chasse", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "GJVD9AY3", 
+                "objet": "Obtenir une harmonisation des arrêtés préfectoraux de destruction, voire un arrêté ministériel de destruction dans les emprises ferroviaires des espèces de gros gibier occasionnant des collisions", 
+                "publicationDate": "2020-07-29T11:38:01"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SNCF RESEAU"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Chasse", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "GJVD9AY3", 
+              "objet": "Obtenir une harmonisation des arrêtés préfectoraux de destruction, voire un arrêté ministériel de destruction dans les emprises ferroviaires des espèces de gros gibier occasionnant des collisions", 
+              "publicationDate": "2020-07-29T11:38:01"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement"
+                    ], 
+                    "tiers": [
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "JA3YSU53", 
+                "objet": "Projet du Franchissement Urbain Pleyel : défendre la demande d'indemnisation de tous les transporteurs SNCF pour les pertes financières dues aux futures interruptions de circulation des trains.\n", 
+                "publicationDate": "2020-07-29T10:11:18"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement"
+                  ], 
+                  "tiers": [
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "JA3YSU53", 
+              "objet": "Projet du Franchissement Urbain Pleyel : défendre la demande d'indemnisation de tous les transporteurs SNCF pour les pertes financières dues aux futures interruptions de circulation des trains.\n", 
+              "publicationDate": "2020-07-29T10:11:18"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Intérieur"
+                    ], 
+                    "tiers": [
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "KUVP6ER3", 
+                "objet": "Dans le cadre de l’organisation du G7 à Biarritz, obtenir le maintien de l’ouverture de la gare de Biarritz le 23 août permettant la circulation de trains dans le sens Biarritz-Paris", 
+                "publicationDate": "2020-07-29T10:17:45"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Intérieur"
+                  ], 
+                  "tiers": [
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "KUVP6ER3", 
+              "objet": "Dans le cadre de l’organisation du G7 à Biarritz, obtenir le maintien de l’ouverture de la gare de Biarritz le 23 août permettant la circulation de trains dans le sens Biarritz-Paris", 
+              "publicationDate": "2020-07-29T10:17:45"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "IO3WFXYH", 
+                "objet": "LOM : prévoir que la fixation du nombre d’emplacements pour des vélos non démontés dans les trains est fonction des matériels utilisés et des services auxquels ils sont affectés et relève du décret", 
+                "publicationDate": "2020-07-29T10:51:46"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "IO3WFXYH", 
+              "objet": "LOM : prévoir que la fixation du nombre d’emplacements pour des vélos non démontés dans les trains est fonction des matériels utilisés et des services auxquels ils sont affectés et relève du décret", 
+              "publicationDate": "2020-07-29T10:51:46"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "EUROSTAR INTERNATIONAL LIMITED", 
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Sécurité nationale"
+                ], 
+                "identifiantFiche": "KDVSL4GH", 
+                "objet": "LOM : Obtenir la possibilité de recourir à des sociétés spécialisées pour procéder, sous le contrôle des autorités, aux contrôles de sûreté en gare du nord", 
+                "publicationDate": "2020-07-29T11:26:21"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "EUROSTAR INTERNATIONAL LIMITED", 
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Sécurité nationale"
+              ], 
+              "identifiantFiche": "KDVSL4GH", 
+              "objet": "LOM : Obtenir la possibilité de recourir à des sociétés spécialisées pour procéder, sous le contrôle des autorités, aux contrôles de sûreté en gare du nord", 
+              "publicationDate": "2020-07-29T11:26:21"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Commission nationale de l'informatique et des libertés"
+                    ], 
+                    "tiers": [
+                      "SNCF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Espionnage et surveillance"
+                ], 
+                "identifiantFiche": "SBHOT7S3", 
+                "objet": "Solliciter la CNIL pour lancer une expérimentation de « vidéo intelligente » utilisant des données biométriques\n", 
+                "publicationDate": "2020-07-29T11:27:59"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Commission nationale de l'informatique et des libertés"
+                  ], 
+                  "tiers": [
+                    "SNCF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Espionnage et surveillance"
+              ], 
+              "identifiantFiche": "SBHOT7S3", 
+              "objet": "Solliciter la CNIL pour lancer une expérimentation de « vidéo intelligente » utilisant des données biométriques\n", 
+              "publicationDate": "2020-07-29T11:27:59"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "2ZV97823", 
+                "objet": "LOM : exclure les ventes de titres de transports pour des services librement organisés des plateformes MaaS (mobility as a service) si ces services ne sont pas distribués par des tiers", 
+                "publicationDate": "2020-07-29T11:29:01"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "2ZV97823", 
+              "objet": "LOM : exclure les ventes de titres de transports pour des services librement organisés des plateformes MaaS (mobility as a service) si ces services ne sont pas distribués par des tiers", 
+              "publicationDate": "2020-07-29T11:29:01"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : Loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF RESEAU"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "5DHMCUX3", 
+                "objet": "LOM : imposer aux éditeurs de GPS de faire figurer les passages à niveau sur les cartographies ", 
+                "publicationDate": "2020-07-29T11:36:55"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : Loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF RESEAU"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "5DHMCUX3", 
+              "objet": "LOM : imposer aux éditeurs de GPS de faire figurer les passages à niveau sur les cartographies ", 
+              "publicationDate": "2020-07-29T11:36:55"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Commission nationale de l'informatique et des libertés"
+                    ], 
+                    "tiers": [
+                      "SNCF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Espionnage et surveillance"
+                ], 
+                "identifiantFiche": "C5HA7AT3", 
+                "objet": "Obtenir un accord de la CNIL sur la demande formulée d’utilisation d’outils non biométriques dans le cadre de dispositifs de « vidéo intelligente »", 
+                "publicationDate": "2020-07-29T11:28:29"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Commission nationale de l'informatique et des libertés"
+                  ], 
+                  "tiers": [
+                    "SNCF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Espionnage et surveillance"
+              ], 
+              "identifiantFiche": "C5HA7AT3", 
+              "objet": "Obtenir un accord de la CNIL sur la demande formulée d’utilisation d’outils non biométriques dans le cadre de dispositifs de « vidéo intelligente »", 
+              "publicationDate": "2020-07-29T11:28:29"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "KDVSLWGH", 
+                "objet": "LOM : inclure les abonnements dans les titres pouvant être distribués par les plateformes de MaaS (mobility as a service)", 
+                "publicationDate": "2020-07-29T11:30:22"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "KDVSLWGH", 
+              "objet": "LOM : inclure les abonnements dans les titres pouvant être distribués par les plateformes de MaaS (mobility as a service)", 
+              "publicationDate": "2020-07-29T11:30:22"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SNCF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Sécurité nationale"
+                ], 
+                "identifiantFiche": "2Y3K6Q63", 
+                "objet": "Etendre les enquêtes du SNEAS (service national des enquêtes administratives de sécurité) aux fonctions sensibles des métiers de la maintenance", 
+                "publicationDate": "2020-07-29T11:35:48"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SNCF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Sécurité nationale"
+              ], 
+              "identifiantFiche": "2Y3K6Q63", 
+              "objet": "Etendre les enquêtes du SNEAS (service national des enquêtes administratives de sécurité) aux fonctions sensibles des métiers de la maintenance", 
+              "publicationDate": "2020-07-29T11:35:48"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF (en propre)", 
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "X2VRCNKV", 
+                "objet": "Présenter le projet de rénovation de la gare du Nord et les prochaines étapes de la concertation sur ce projet", 
+                "publicationDate": "2020-07-29T10:12:46"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF (en propre)", 
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "X2VRCNKV", 
+              "objet": "Présenter le projet de rénovation de la gare du Nord et les prochaines étapes de la concertation sur ce projet", 
+              "publicationDate": "2020-07-29T10:12:46"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Environnement, énergie et mer"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "5GVTY1EH", 
+                "objet": "Obtenir une intervention de l’Etat auprès du ministère des transports luxembourgeois en vue de différer la bascule vers l’ERTMS", 
+                "publicationDate": "2020-07-29T10:13:35"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Environnement, énergie et mer"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "5GVTY1EH", 
+              "objet": "Obtenir une intervention de l’Etat auprès du ministère des transports luxembourgeois en vue de différer la bascule vers l’ERTMS", 
+              "publicationDate": "2020-07-29T10:13:35"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SNCF RESEAU"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "UYVI9FKH", 
+                "objet": "LOM : Exclure les passages à niveau privés du diagnostic de sécurité routière", 
+                "publicationDate": "2020-07-29T10:20:49"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SNCF RESEAU"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "UYVI9FKH", 
+              "objet": "LOM : Exclure les passages à niveau privés du diagnostic de sécurité routière", 
+              "publicationDate": "2020-07-29T10:20:49"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF (en propre)", 
+                      "SNCF MOBILITES", 
+                      "OUI.SNCF"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Droit de la concurrence"
+                ], 
+                "identifiantFiche": "QEVJP6QV", 
+                "objet": "LOM : préciser que les litiges relatifs à la mise en œuvre du service numérique multimodal sont de la compétence de l’autorité de la concurrence et des juridictions de droit commun ", 
+                "publicationDate": "2020-07-29T10:21:34"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF (en propre)", 
+                    "SNCF MOBILITES", 
+                    "OUI.SNCF"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Droit de la concurrence"
+              ], 
+              "identifiantFiche": "QEVJP6QV", 
+              "objet": "LOM : préciser que les litiges relatifs à la mise en œuvre du service numérique multimodal sont de la compétence de l’autorité de la concurrence et des juridictions de droit commun ", 
+              "publicationDate": "2020-07-29T10:21:34"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SNCF MOBILITES", 
+                      "OUI.SNCF"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "19V070O3", 
+                "objet": "LOM : permettre aux voyageurs utilisant les services Maas (mobility as a service) de paramétrer un compte personnel pour disposer en priorité de propositions adaptées à leur situation", 
+                "publicationDate": "2020-07-29T10:23:16"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SNCF MOBILITES", 
+                    "OUI.SNCF"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "19V070O3", 
+              "objet": "LOM : permettre aux voyageurs utilisant les services Maas (mobility as a service) de paramétrer un compte personnel pour disposer en priorité de propositions adaptées à leur situation", 
+              "publicationDate": "2020-07-29T10:23:16"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités\nARAFER : autorités de régulation des activités ferroviaires et routières (devenue ART)", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SNCF RESEAU"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Ordre administratif"
+                ], 
+                "identifiantFiche": "GJVD2PRV", 
+                "objet": "LOM : harmoniser la possibilité de faire remonter dans le temps les effets des décisions de règlement des différends de l’ARAFER avec les pratiques en vigueur dans d’autres autorités de régulation\n", 
+                "publicationDate": "2020-07-29T10:24:29"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités\nARAFER : autorités de régulation des activités ferroviaires et routières (devenue ART)", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SNCF RESEAU"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Ordre administratif"
+              ], 
+              "identifiantFiche": "GJVD2PRV", 
+              "objet": "LOM : harmoniser la possibilité de faire remonter dans le temps les effets des décisions de règlement des différends de l’ARAFER avec les pratiques en vigueur dans d’autres autorités de régulation\n", 
+              "publicationDate": "2020-07-29T10:24:29"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Affaires européennes", 
+                    "tiers": [
+                      "EUROSTAR INTERNATIONAL LIMITED"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Accords internationaux"
+                ], 
+                "identifiantFiche": "FX3C7ZM3", 
+                "objet": "Obtenir l’appui du gouvernement pour accélérer la signature d’un Traité entre : France, Royaume-Uni, Belgique et Pays-Bas, ayant trait aux contrôles juxtaposés d’immigration au départ des trains ", 
+                "publicationDate": "2020-07-29T10:12:05"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Affaires européennes", 
+                  "tiers": [
+                    "EUROSTAR INTERNATIONAL LIMITED"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Accords internationaux"
+              ], 
+              "identifiantFiche": "FX3C7ZM3", 
+              "objet": "Obtenir l’appui du gouvernement pour accélérer la signature d’un Traité entre : France, Royaume-Uni, Belgique et Pays-Bas, ayant trait aux contrôles juxtaposés d’immigration au départ des trains ", 
+              "publicationDate": "2020-07-29T10:12:05"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "KEOLIS", 
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "DC347ZC3", 
+                "objet": "LOM : Donner à l’ensemble des agents contrôleurs et vérificateurs de titres de transport des entreprises de transport de voyageurs la possibilité d’utiliser des caméras-piétons ", 
+                "publicationDate": "2020-07-29T11:29:58"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "KEOLIS", 
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "DC347ZC3", 
+              "objet": "LOM : Donner à l’ensemble des agents contrôleurs et vérificateurs de titres de transport des entreprises de transport de voyageurs la possibilité d’utiliser des caméras-piétons ", 
+              "publicationDate": "2020-07-29T11:29:58"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "9SVFNGCH", 
+                "objet": "Dans le cadre de l'ouverture à la concurrence, clarifier le périmètre des gares éligibles et les missions concernées par le transfert de compétences afin d’optimiser l’organisation des moyens\n", 
+                "publicationDate": "2020-07-29T10:08:35"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "9SVFNGCH", 
+              "objet": "Dans le cadre de l'ouverture à la concurrence, clarifier le périmètre des gares éligibles et les missions concernées par le transfert de compétences afin d’optimiser l’organisation des moyens\n", 
+              "publicationDate": "2020-07-29T10:08:35"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "K6VB7453", 
+                "objet": "LOM : exclure les ventes de titres de transports pour des services librement organisés des plateformes de MaaS (Mobility as a service)", 
+                "publicationDate": "2020-07-29T11:33:24"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "K6VB7453", 
+              "objet": "LOM : exclure les ventes de titres de transports pour des services librement organisés des plateformes de MaaS (Mobility as a service)", 
+              "publicationDate": "2020-07-29T11:33:24"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF (en propre)", 
+                      "SNCF RESEAU"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Budget", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "K6VB7QT3", 
+                "objet": "Alerter sur l’impact de nouvelles règlementations sur la trajectoire financière et donc sur la rénovation du réseau", 
+                "publicationDate": "2020-07-29T10:10:11"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF (en propre)", 
+                    "SNCF RESEAU"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Budget", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "K6VB7QT3", 
+              "objet": "Alerter sur l’impact de nouvelles règlementations sur la trajectoire financière et donc sur la rénovation du réseau", 
+              "publicationDate": "2020-07-29T10:10:11"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SNCF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "2PVX0INH", 
+                "objet": "LOM : Unifier les règles applicables aux services de sécurité internes des opérateurs de transports en matière de tarification des prestations, respect des exigences d’équité et de non-discrimination", 
+                "publicationDate": "2020-07-29T10:16:36"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SNCF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "2PVX0INH", 
+              "objet": "LOM : Unifier les règles applicables aux services de sécurité internes des opérateurs de transports en matière de tarification des prestations, respect des exigences d’équité et de non-discrimination", 
+              "publicationDate": "2020-07-29T10:16:36"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "JA3YSRQ3", 
+                "objet": "LOM : alerter sur les conséquences chiffrées d’amendements prévoyant que le nombre de stationnement sécurisés pour les vélos dans les gares est fixé en fonction du trafic de la gare", 
+                "publicationDate": "2020-07-29T11:27:25"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "JA3YSRQ3", 
+              "objet": "LOM : alerter sur les conséquences chiffrées d’amendements prévoyant que le nombre de stationnement sécurisés pour les vélos dans les gares est fixé en fonction du trafic de la gare", 
+              "publicationDate": "2020-07-29T11:27:25"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "JA3YSXQ3", 
+                "objet": "LOM : réserver la distribution de titres de transport ferroviaires aux opérateurs disposant des compétences nécessaires ", 
+                "publicationDate": "2020-07-29T11:33:55"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "JA3YSXQ3", 
+              "objet": "LOM : réserver la distribution de titres de transport ferroviaires aux opérateurs disposant des compétences nécessaires ", 
+              "publicationDate": "2020-07-29T11:33:55"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Economie et finances, Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "FX3CIPR3", 
+                "objet": "Ordonnance 2019-552 portant diverses dispositions relatives au groupe SNCF : Déterminer le nombre de membres des différents CA des sociétés anonymes formant le groupe public unifié créé au 01/01/20 ", 
+                "publicationDate": "2020-07-29T11:38:32"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Economie et finances, Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "FX3CIPR3", 
+              "objet": "Ordonnance 2019-552 portant diverses dispositions relatives au groupe SNCF : Déterminer le nombre de membres des différents CA des sociétés anonymes formant le groupe public unifié créé au 01/01/20 ", 
+              "publicationDate": "2020-07-29T11:38:32"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SNCF (en propre)", 
+                      "SNCF RESEAU", 
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "9SVFNQ9H", 
+                "objet": "LOM : renvoyer à un décret le soin de fixer les modalités d’application du numéro unique d’appel national pour les personnes à mobilité réduite ", 
+                "publicationDate": "2020-07-29T10:23:52"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SNCF (en propre)", 
+                    "SNCF RESEAU", 
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "9SVFNQ9H", 
+              "objet": "LOM : renvoyer à un décret le soin de fixer les modalités d’application du numéro unique d’appel national pour les personnes à mobilité réduite ", 
+              "publicationDate": "2020-07-29T10:23:52"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SNCF RESEAU"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "IYVNZTGV", 
+                "objet": "LOM : prévoir que le transfert des petites lignes aux régions doit être total et non pas limité au transfert de gestion", 
+                "publicationDate": "2020-07-29T10:25:07"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SNCF RESEAU"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "IYVNZTGV", 
+              "objet": "LOM : prévoir que le transfert des petites lignes aux régions doit être total et non pas limité au transfert de gestion", 
+              "publicationDate": "2020-07-29T10:25:07"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SNCF RESEAU"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "CLV17CAV", 
+                "objet": "LOM : prévoir la consultation de SNCF Réseau préalablement au transfert des petites lignes", 
+                "publicationDate": "2020-07-29T10:47:12"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SNCF RESEAU"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "CLV17CAV", 
+              "objet": "LOM : prévoir la consultation de SNCF Réseau préalablement au transfert des petites lignes", 
+              "publicationDate": "2020-07-29T10:47:12"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités ; rfn : réseau ferré national ; EF : entreprise ferroviaire", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF (en propre)", 
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "DC347BC3", 
+                "objet": "LOM : supprimer l’exception introduite à l’accès aux installations de service sur certaines portions du rfn qui réduirait le nombre d’installations accessibles aux EF, notamment en zone dense ", 
+                "publicationDate": "2020-07-29T10:59:10"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités ; rfn : réseau ferré national ; EF : entreprise ferroviaire", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF (en propre)", 
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "DC347BC3", 
+              "objet": "LOM : supprimer l’exception introduite à l’accès aux installations de service sur certaines portions du rfn qui réduirait le nombre d’installations accessibles aux EF, notamment en zone dense ", 
+              "publicationDate": "2020-07-29T10:59:10"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF (en propre)", 
+                      "OUI.SNCF"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "9SVFN49H", 
+                "objet": "LOM : mettre en place une base de données nationale, mutualisée, pour faciliter les déplacements multimodaux", 
+                "publicationDate": "2020-07-29T11:31:56"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF (en propre)", 
+                    "OUI.SNCF"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "9SVFN49H", 
+              "objet": "LOM : mettre en place une base de données nationale, mutualisée, pour faciliter les déplacements multimodaux", 
+              "publicationDate": "2020-07-29T11:31:56"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "GJVD28RV", 
+                "objet": "LOM : maintenir un lien contractuel entre le transporteur et le distributeur autorisé à vendre les titres de transports auprès des voyageurs", 
+                "publicationDate": "2020-07-29T11:32:40"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "GJVD28RV", 
+              "objet": "LOM : maintenir un lien contractuel entre le transporteur et le distributeur autorisé à vendre les titres de transports auprès des voyageurs", 
+              "publicationDate": "2020-07-29T11:32:40"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF (en propre)", 
+                      "SNCF RESEAU", 
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de fret", 
+                  "Transport de voyageurs", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "KDVSL25H", 
+                "objet": "Ordonnance 2019-552 : Déterminer les modalités juridiques, financières et comptables des nouvelles sociétés créées ou transformées au 1er janvier 2020 ", 
+                "publicationDate": "2020-07-29T10:05:38"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF (en propre)", 
+                    "SNCF RESEAU", 
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de fret", 
+                "Transport de voyageurs", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "KDVSL25H", 
+              "objet": "Ordonnance 2019-552 : Déterminer les modalités juridiques, financières et comptables des nouvelles sociétés créées ou transformées au 1er janvier 2020 ", 
+              "publicationDate": "2020-07-29T10:05:38"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM Loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Environnement, énergie et mer"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "POHZQUKH", 
+                "objet": "LOM : Définir les conditions dans lesquelles les collectivités locales pourront distribuer des billets de services librement organisés de la SNCF ", 
+                "publicationDate": "2020-07-29T10:14:30"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM Loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Environnement, énergie et mer"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "POHZQUKH", 
+              "objet": "LOM : Définir les conditions dans lesquelles les collectivités locales pourront distribuer des billets de services librement organisés de la SNCF ", 
+              "publicationDate": "2020-07-29T10:14:30"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Budget"
+                ], 
+                "identifiantFiche": "SBHOTW93", 
+                "objet": "S’assurer de l’engagement de l’Etat dans le tour de table pour le financement du prototype de TER à hydrogène", 
+                "publicationDate": "2020-07-29T10:15:14"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Budget"
+              ], 
+              "identifiantFiche": "SBHOTW93", 
+              "objet": "S’assurer de l’engagement de l’Etat dans le tour de table pour le financement du prototype de TER à hydrogène", 
+              "publicationDate": "2020-07-29T10:15:14"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Espionnage et surveillance"
+                ], 
+                "identifiantFiche": "PO387QOV", 
+                "objet": "LOM : supprimer le délai supplémentaire de 6 mois pour la généralisation de l’expérimentation des caméras-piétons pour les agents assermentés des entreprises de transport, pour débuter dès que possibl", 
+                "publicationDate": "2020-07-29T10:51:05"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Espionnage et surveillance"
+              ], 
+              "identifiantFiche": "PO387QOV", 
+              "objet": "LOM : supprimer le délai supplémentaire de 6 mois pour la généralisation de l’expérimentation des caméras-piétons pour les agents assermentés des entreprises de transport, pour débuter dès que possibl", 
+              "publicationDate": "2020-07-29T10:51:05"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SNCF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de fret", 
+                  "Transport de voyageurs", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "KDVSLJGH", 
+                "objet": "LOM : sécuriser le périmètre et les modalités d’action des agents du service interne de sécurité de la SNCF en Ile de France", 
+                "publicationDate": "2020-07-29T10:22:41"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SNCF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de fret", 
+                "Transport de voyageurs", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "KDVSLJGH", 
+              "objet": "LOM : sécuriser le périmètre et les modalités d’action des agents du service interne de sécurité de la SNCF en Ile de France", 
+              "publicationDate": "2020-07-29T10:22:41"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités\n", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SNCF RESEAU"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "2ZV97RR3", 
+                "objet": "LOM : Prévoir dans les plans locaux d'urbanisme une étude sur la possibilité de limiter les flux vers les passages à niveau\n", 
+                "publicationDate": "2020-07-29T10:18:43"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités\n", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SNCF RESEAU"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "2ZV97RR3", 
+              "objet": "LOM : Prévoir dans les plans locaux d'urbanisme une étude sur la possibilité de limiter les flux vers les passages à niveau\n", 
+              "publicationDate": "2020-07-29T10:18:43"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "5DHMOZC3", 
+                "objet": "Décret 2019-851 : Exclure le plan de maintenance actualisé de la liste des éléments à transmettre avec le transfert du matériel roulant ", 
+                "publicationDate": "2020-07-29T10:48:28"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "5DHMOZC3", 
+              "objet": "Décret 2019-851 : Exclure le plan de maintenance actualisé de la liste des éléments à transmettre avec le transfert du matériel roulant ", 
+              "publicationDate": "2020-07-29T10:48:28"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités ; EF : entreprise ferroviaire ; RFN : réseau ferré national ; GI : gestionnaire d'infrastructure", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SNCF (en propre)", 
+                      "SNCF RESEAU"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de fret", 
+                  "Transport de voyageurs", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "4UHQRS5V", 
+                "objet": "LOM : réduire le champ des dérogations en matière de licence d’EF en excluant le rfn,et à défaut, autoriser la prescription par le GI des conditions d’accès applicables faute de licence d'EF", 
+                "publicationDate": "2020-07-29T11:25:41"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités ; EF : entreprise ferroviaire ; RFN : réseau ferré national ; GI : gestionnaire d'infrastructure", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SNCF (en propre)", 
+                    "SNCF RESEAU"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de fret", 
+                "Transport de voyageurs", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "4UHQRS5V", 
+              "objet": "LOM : réduire le champ des dérogations en matière de licence d’EF en excluant le rfn,et à défaut, autoriser la prescription par le GI des conditions d’accès applicables faute de licence d'EF", 
+              "publicationDate": "2020-07-29T11:25:41"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "SNCF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de fret", 
+                  "Transport de voyageurs", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "19V07K93", 
+                "objet": "Ordonnance 2019-552 : Déterminer le régime juridique des biens propriété de SNCF ou propriété de l’Etat mais transférés en gestion à SNCF", 
+                "publicationDate": "2020-07-29T10:07:01"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "SNCF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de fret", 
+                "Transport de voyageurs", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "19V07K93", 
+              "objet": "Ordonnance 2019-552 : Déterminer le régime juridique des biens propriété de SNCF ou propriété de l’Etat mais transférés en gestion à SNCF", 
+              "publicationDate": "2020-07-29T10:07:01"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LOM : loi d'orientation des mobilités", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "KEOLIS", 
+                      "SNCF MOBILITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "19V07CO3", 
+                "objet": "LOM : alerter sur les conséquences chiffrées d’un amendement imposant l’équipement des véhicules de transports collectifs de dispositifs localisant les passages à niveau", 
+                "publicationDate": "2020-07-29T11:26:52"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LOM : loi d'orientation des mobilités", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "KEOLIS", 
+                    "SNCF MOBILITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "19V07CO3", 
+              "objet": "LOM : alerter sur les conséquences chiffrées d’un amendement imposant l’équipement des véhicules de transports collectifs de dispositifs localisant les passages à niveau", 
+              "publicationDate": "2020-07-29T11:26:52"
+            }
+          }
+        ], 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
@@ -14000,7 +16552,39 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Infrastructures"
+        ], 
+        "identifiantFiche": "DC34LAJ3", 
+        "nom_organisation": "SNCF", 
+        "num_organisation": "808332670", 
+        "objet": "Ordonnance 2019-96 : Obtenir l’inclusion du certificat de sécurité britannique d’Eurostar pour le tunnel dans les mesures de transition du Brexit\n", 
+        "publicationDate": "2020-07-29T11:37:25"
+      }, 
+      {
+        "domainesIntervention": [
+          "Chasse", 
+          "Infrastructures"
+        ], 
+        "identifiantFiche": "GJVD9AY3", 
+        "nom_organisation": "SNCF", 
+        "num_organisation": "808332670", 
+        "objet": "Obtenir une harmonisation des arrêtés préfectoraux de destruction, voire un arrêté ministériel de destruction dans les emprises ferroviaires des espèces de gros gibier occasionnant des collisions", 
+        "publicationDate": "2020-07-29T11:38:01"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs"
+        ], 
+        "identifiantFiche": "FX3CIPR3", 
+        "nom_organisation": "SNCF", 
+        "num_organisation": "808332670", 
+        "objet": "Ordonnance 2019-552 portant diverses dispositions relatives au groupe SNCF : Déterminer le nombre de membres des différents CA des sociétés anonymes formant le groupe public unifié créé au 01/01/20 ", 
+        "publicationDate": "2020-07-29T11:38:32"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/808332670.json", 
     "ville": "ST DENIS"

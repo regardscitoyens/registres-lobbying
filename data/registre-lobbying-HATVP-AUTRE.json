@@ -10243,7 +10243,7 @@
       }
     ], 
     "dateCreation": "2020-07-28T10:19:24", 
-    "dateDernierePublicationActivite": "2018-04-24T11:04:28", 
+    "dateDernierePublicationActivite": "2020-07-29T14:29:59", 
     "datePremierePublication": "2017-12-19T11:18:49", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -10346,20 +10346,232 @@
         "publicationDate": "2019-03-29T15:14:54"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionMeneeAutre": "organisation d'un événement", 
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Autres : à préciser", 
+                      "Envoyer des pétitions, lettres ouvertes, tracts", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles", 
+                      "Convenir pour un tiers d'une entrevue avec le titulaire d'une charge publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "K6VB7KT3", 
+                "objet": "Alerter le législateur sur le délitement du maillage vétérinaire dans les territoires ruraux", 
+                "publicationDate": "2020-07-29T14:29:59"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionMeneeAutre": "organisation d'un événement", 
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Autres : à préciser", 
+                    "Envoyer des pétitions, lettres ouvertes, tracts", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles", 
+                    "Convenir pour un tiers d'une entrevue avec le titulaire d'une charge publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Agriculture"
+              ], 
+              "identifiantFiche": "K6VB7KT3", 
+              "objet": "Alerter le législateur sur le délitement du maillage vétérinaire dans les territoires ruraux", 
+              "publicationDate": "2020-07-29T14:29:59"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "2EHLAOCV", 
+                "objet": "Attirer l'attention de l'exécutif sur le dossier de la gestion de la douleur en élevage", 
+                "publicationDate": "2020-07-29T14:26:44"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Agriculture"
+              ], 
+              "identifiantFiche": "2EHLAOCV", 
+              "objet": "Attirer l'attention de l'exécutif sur le dossier de la gestion de la douleur en élevage", 
+              "publicationDate": "2020-07-29T14:26:44"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "5GVTYWEH", 
+                "objet": "Positionner le vétérinaire comme sentinelle pour les animaux, l'homme et l'environnement", 
+                "publicationDate": "2020-07-29T14:24:47"
+              }, 
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "5GVTYWEH", 
+                "objet": "Positionner le vétérinaire comme sentinelle pour les animaux, l'homme et l'environnement", 
+                "publicationDate": "2020-07-29T14:20:37"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Agriculture"
+              ], 
+              "identifiantFiche": "5GVTYWEH", 
+              "objet": "Positionner le vétérinaire comme sentinelle pour les animaux, l'homme et l'environnement", 
+              "publicationDate": "2020-07-29T14:24:47"
+            }
+          }
+        ], 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 4417, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 75 000 euros et < 100 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 3, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2020-07-29T15:56:11"
       }, 
       {
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9463, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 75 000 euros et < 100 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 0, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2020-07-29T14:31:17"
       }
     ], 
     "historique": [
@@ -10495,6 +10707,54 @@
         "nombreActivite": 0, 
         "nombreSalaries": 5, 
         "publicationDate": "2019-03-29T15:14:54"
+      }, 
+      {
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 4417, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 75 000 euros et < 100 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 3, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2020-07-29T15:56:11"
+      }, 
+      {
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 4417, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 75 000 euros et < 100 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 3, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2020-07-29T14:31:31"
+      }, 
+      {
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9463, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 75 000 euros et < 100 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2020-07-29T14:31:17"
+      }, 
+      {
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9463, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 75 000 euros et < 100 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2020-07-29T14:31:05"
       }
     ], 
     "identifiantNational": "784447153", 
@@ -10506,7 +10766,38 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Agriculture"
+        ], 
+        "identifiantFiche": "5GVTYWEH", 
+        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
+        "num_organisation": "784447153", 
+        "objet": "Positionner le vétérinaire comme sentinelle pour les animaux, l'homme et l'environnement", 
+        "publicationDate": "2020-07-29T14:24:47"
+      }, 
+      {
+        "domainesIntervention": [
+          "Agriculture"
+        ], 
+        "identifiantFiche": "2EHLAOCV", 
+        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
+        "num_organisation": "784447153", 
+        "objet": "Attirer l'attention de l'exécutif sur le dossier de la gestion de la douleur en élevage", 
+        "publicationDate": "2020-07-29T14:26:44"
+      }, 
+      {
+        "domainesIntervention": [
+          "Agriculture"
+        ], 
+        "identifiantFiche": "K6VB7KT3", 
+        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
+        "num_organisation": "784447153", 
+        "objet": "Alerter le législateur sur le délitement du maillage vétérinaire dans les territoires ruraux", 
+        "publicationDate": "2020-07-29T14:29:59"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/784447153.json", 
     "ville": "PARIS"
@@ -12436,7 +12727,7 @@
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 4518, 
-        "noActivite": false, 
+        "noActivite": true, 
         "nombreActivite": 0
       }, 
       {
