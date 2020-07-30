@@ -6771,7 +6771,7 @@
       }
     ], 
     "dateCreation": "2020-07-28T17:17:27", 
-    "dateDernierePublicationActivite": "2019-03-29T16:59:56", 
+    "dateDernierePublicationActivite": "2020-07-30T18:02:34", 
     "datePremierePublication": "2018-01-05T17:49:19", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -8645,12 +8645,383 @@
         "publicationDate": "2019-03-29T17:01:25"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CDC HABITAT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement"
+                ], 
+                "identifiantFiche": "C5HA7SQ3", 
+                "objet": "loi ELAN : établir un bilan d'étape sur les conséquences de la loi sur le secteur du logement social et obtenir une évolution de l'organisation territoriale ", 
+                "publicationDate": "2020-07-30T18:01:35"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CDC HABITAT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement"
+              ], 
+              "identifiantFiche": "C5HA7SQ3", 
+              "objet": "loi ELAN : établir un bilan d'étape sur les conséquences de la loi sur le secteur du logement social et obtenir une évolution de l'organisation territoriale ", 
+              "publicationDate": "2020-07-30T18:01:35"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Aménagement du territoire, ruralité et collectivités territoriales"
+                    ], 
+                    "tiers": [
+                      "CDC HABITAT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement", 
+                  "Collectivités territoriales"
+                ], 
+                "identifiantFiche": "KQ367A8H", 
+                "objet": "loi ELAN : établir un bilan d'étape sur les conséquences de la loi pour les organismes de logements sociaux afin de favoriser le développement des opérations en cœurs de ville ", 
+                "publicationDate": "2020-07-30T18:01:00"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Aménagement du territoire, ruralité et collectivités territoriales"
+                  ], 
+                  "tiers": [
+                    "CDC HABITAT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement", 
+                "Collectivités territoriales"
+              ], 
+              "identifiantFiche": "KQ367A8H", 
+              "objet": "loi ELAN : établir un bilan d'étape sur les conséquences de la loi pour les organismes de logements sociaux afin de favoriser le développement des opérations en cœurs de ville ", 
+              "publicationDate": "2020-07-30T18:01:00"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Outre-mer"
+                    ], 
+                    "tiers": [
+                      "CDC HABITAT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement", 
+                  "Construction", 
+                  "Développement économique des outre-mer"
+                ], 
+                "identifiantFiche": "SQV77OIV", 
+                "objet": "Faire évoluer la politique du logement des Outre-mer pour s'adapter aux nouveaux besoins", 
+                "publicationDate": "2020-07-30T18:02:34"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Outre-mer"
+                  ], 
+                  "tiers": [
+                    "CDC HABITAT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement", 
+                "Construction", 
+                "Développement économique des outre-mer"
+              ], 
+              "identifiantFiche": "SQV77OIV", 
+              "objet": "Faire évoluer la politique du logement des Outre-mer pour s'adapter aux nouveaux besoins", 
+              "publicationDate": "2020-07-30T18:02:34"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Logement"
+                    ], 
+                    "tiers": [
+                      "CDC HABITAT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement"
+                ], 
+                "identifiantFiche": "IYVNZW7V", 
+                "objet": "loi ELAN : établir un bilan d'étape sur les conséquences de la loi et proposer des pistes d'amélioration pour les organismes de logements sociaux", 
+                "publicationDate": "2020-07-30T18:02:04"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Logement"
+                  ], 
+                  "tiers": [
+                    "CDC HABITAT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement"
+              ], 
+              "identifiantFiche": "IYVNZW7V", 
+              "objet": "loi ELAN : établir un bilan d'étape sur les conséquences de la loi et proposer des pistes d'amélioration pour les organismes de logements sociaux", 
+              "publicationDate": "2020-07-30T18:02:04"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement"
+                    ], 
+                    "tiers": [
+                      "CDC HABITAT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement", 
+                  "Construction"
+                ], 
+                "identifiantFiche": "JA3YSQY3", 
+                "objet": "Obtenir la prise en compte du logement social vulnérable outre-mer dans le plan séisme Antilles dans le cadre de l'élaboration de la 3ème phase du plan", 
+                "publicationDate": "2020-07-30T17:59:23"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement"
+                  ], 
+                  "tiers": [
+                    "CDC HABITAT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement", 
+                "Construction"
+              ], 
+              "identifiantFiche": "JA3YSQY3", 
+              "objet": "Obtenir la prise en compte du logement social vulnérable outre-mer dans le plan séisme Antilles dans le cadre de l'élaboration de la 3ème phase du plan", 
+              "publicationDate": "2020-07-30T17:59:23"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement"
+                    ], 
+                    "tiers": [
+                      "CDC HABITAT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement", 
+                  "Construction"
+                ], 
+                "identifiantFiche": "2EHLACTV", 
+                "objet": "Faire évoluer l'organisation du secteur du logement social en outre-mer et obtenir l'évolution des normes techniques de construction", 
+                "publicationDate": "2020-07-30T18:00:14"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement"
+                  ], 
+                  "tiers": [
+                    "CDC HABITAT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement", 
+                "Construction"
+              ], 
+              "identifiantFiche": "2EHLACTV", 
+              "objet": "Faire évoluer l'organisation du secteur du logement social en outre-mer et obtenir l'évolution des normes techniques de construction", 
+              "publicationDate": "2020-07-30T18:00:14"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 5481, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 6, 
+        "nombreSalaries": 7, 
+        "publicationDate": "2020-07-30T18:05:40"
       }, 
       {
         "dateDebut": "2020-01-01", 
@@ -8837,6 +9208,19 @@
         "nombreActivite": 19, 
         "nombreSalaries": 7, 
         "publicationDate": "2019-03-29T17:01:25"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 5481, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 6, 
+        "nombreSalaries": 7, 
+        "publicationDate": "2020-07-30T18:05:40"
       }
     ], 
     "identifiantNational": "470801168", 
@@ -8849,7 +9233,73 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Logement", 
+          "Construction"
+        ], 
+        "identifiantFiche": "JA3YSQY3", 
+        "nom_organisation": "CDC HABITAT", 
+        "num_organisation": "470801168", 
+        "objet": "Obtenir la prise en compte du logement social vulnérable outre-mer dans le plan séisme Antilles dans le cadre de l'élaboration de la 3ème phase du plan", 
+        "publicationDate": "2020-07-30T17:59:23"
+      }, 
+      {
+        "domainesIntervention": [
+          "Logement", 
+          "Construction"
+        ], 
+        "identifiantFiche": "2EHLACTV", 
+        "nom_organisation": "CDC HABITAT", 
+        "num_organisation": "470801168", 
+        "objet": "Faire évoluer l'organisation du secteur du logement social en outre-mer et obtenir l'évolution des normes techniques de construction", 
+        "publicationDate": "2020-07-30T18:00:14"
+      }, 
+      {
+        "domainesIntervention": [
+          "Logement", 
+          "Collectivités territoriales"
+        ], 
+        "identifiantFiche": "KQ367A8H", 
+        "nom_organisation": "CDC HABITAT", 
+        "num_organisation": "470801168", 
+        "objet": "loi ELAN : établir un bilan d'étape sur les conséquences de la loi pour les organismes de logements sociaux afin de favoriser le développement des opérations en cœurs de ville ", 
+        "publicationDate": "2020-07-30T18:01:00"
+      }, 
+      {
+        "domainesIntervention": [
+          "Logement"
+        ], 
+        "identifiantFiche": "C5HA7SQ3", 
+        "nom_organisation": "CDC HABITAT", 
+        "num_organisation": "470801168", 
+        "objet": "loi ELAN : établir un bilan d'étape sur les conséquences de la loi sur le secteur du logement social et obtenir une évolution de l'organisation territoriale ", 
+        "publicationDate": "2020-07-30T18:01:35"
+      }, 
+      {
+        "domainesIntervention": [
+          "Logement"
+        ], 
+        "identifiantFiche": "IYVNZW7V", 
+        "nom_organisation": "CDC HABITAT", 
+        "num_organisation": "470801168", 
+        "objet": "loi ELAN : établir un bilan d'étape sur les conséquences de la loi et proposer des pistes d'amélioration pour les organismes de logements sociaux", 
+        "publicationDate": "2020-07-30T18:02:04"
+      }, 
+      {
+        "domainesIntervention": [
+          "Logement", 
+          "Construction", 
+          "Développement économique des outre-mer"
+        ], 
+        "identifiantFiche": "SQV77OIV", 
+        "nom_organisation": "CDC HABITAT", 
+        "num_organisation": "470801168", 
+        "objet": "Faire évoluer la politique du logement des Outre-mer pour s'adapter aux nouveaux besoins", 
+        "publicationDate": "2020-07-30T18:02:34"
+      }
+    ], 
     "sigleHatvp": "SNI", 
     "telephoneDeContact": "0155033101", 
     "typeIdentifiantNational": "SIREN", 
@@ -10766,38 +11216,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Agriculture"
-        ], 
-        "identifiantFiche": "5GVTYWEH", 
-        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
-        "num_organisation": "784447153", 
-        "objet": "Positionner le vétérinaire comme sentinelle pour les animaux, l'homme et l'environnement", 
-        "publicationDate": "2020-07-29T14:24:47"
-      }, 
-      {
-        "domainesIntervention": [
-          "Agriculture"
-        ], 
-        "identifiantFiche": "2EHLAOCV", 
-        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
-        "num_organisation": "784447153", 
-        "objet": "Attirer l'attention de l'exécutif sur le dossier de la gestion de la douleur en élevage", 
-        "publicationDate": "2020-07-29T14:26:44"
-      }, 
-      {
-        "domainesIntervention": [
-          "Agriculture"
-        ], 
-        "identifiantFiche": "K6VB7KT3", 
-        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
-        "num_organisation": "784447153", 
-        "objet": "Alerter le législateur sur le délitement du maillage vétérinaire dans les territoires ruraux", 
-        "publicationDate": "2020-07-29T14:29:59"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/784447153.json", 
     "ville": "PARIS"
@@ -21346,9 +21765,21 @@
       "listNiveauIntervention": [
         {
           "categorie": null, 
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "categorie": null, 
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "categorie": null, 
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
         }
       ], 
       "listSecteursActivites": [
@@ -21388,8 +21819,8 @@
         "prenom": "Béatrice"
       }
     ], 
-    "dateCreation": "2019-03-29T10:51:10", 
-    "dateDernierePublicationActivite": "2019-03-29T12:28:46", 
+    "dateCreation": "2020-07-30T16:50:32", 
+    "dateDernierePublicationActivite": "2020-07-30T17:23:16", 
     "datePremierePublication": "2018-01-16T11:08:08", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -21484,6 +21915,60 @@
         "publicationDate": "2019-03-29T14:38:47"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
+                    ], 
+                    "tiers": [
+                      "LA MONDIALE GROUPE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Assurances"
+                ], 
+                "identifiantFiche": "5GVTYKOH", 
+                "objet": "Permettre la réassurance d'un PER vers un autre pour diversifier les risques entre plans, dégager une marge de manoeuvre en solvabilité, et investir dans les actifs type actions finançant l'économie.", 
+                "publicationDate": "2020-07-30T17:23:16"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
+                  ], 
+                  "tiers": [
+                    "LA MONDIALE GROUPE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Assurances"
+              ], 
+              "identifiantFiche": "5GVTYKOH", 
+              "objet": "Permettre la réassurance d'un PER vers un autre pour diversifier les risques entre plans, dégager une marge de manoeuvre en solvabilité, et investir dans les actifs type actions finançant l'économie.", 
+              "publicationDate": "2020-07-30T17:23:16"
+            }
+          }
+        ], 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
@@ -21630,6 +22115,75 @@
         "publierMonAdressePhysique": true, 
         "publierMonTelephoneDeContact": true, 
         "telephoneDeContact": "01 76 60 90 06", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "Paris"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }
+          ]
+        }, 
+        "adresse": "AG2R LA MONDIALE\n104-110 Boulevard Haussmann\n75008 Paris", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION FRANCAISE DE L ASSURANCE (FFA)", 
+            "identifiantNational": "784409013", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION DES ASSUREURS MUTUALISTES", 
+            "identifiantNational": "822879201", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations"
+        }, 
+        "clients": [], 
+        "codePostal": "75008", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur des relations extérieures", 
+            "nom": "SAILLARD", 
+            "prenom": "Béatrice"
+          }
+        ], 
+        "dateCreation": "2019-03-29T10:51:10", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "LA MONDIALE GROUPE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "RENAUDIN", 
+            "prenom": "André"
+          }
+        ], 
+        "identifiantNational": "445331192", 
+        "lienSiteWeb": "https://www.ag2rlamondiale.fr/", 
+        "nomUsageHatvp": "AG2R LA MONDIALE", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
         "typeIdentifiantNational": "SIREN", 
         "ville": "Paris"
       }
