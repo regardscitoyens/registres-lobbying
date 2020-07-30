@@ -16552,39 +16552,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Infrastructures"
-        ], 
-        "identifiantFiche": "DC34LAJ3", 
-        "nom_organisation": "SNCF", 
-        "num_organisation": "808332670", 
-        "objet": "Ordonnance 2019-96 : Obtenir l’inclusion du certificat de sécurité britannique d’Eurostar pour le tunnel dans les mesures de transition du Brexit\n", 
-        "publicationDate": "2020-07-29T11:37:25"
-      }, 
-      {
-        "domainesIntervention": [
-          "Chasse", 
-          "Infrastructures"
-        ], 
-        "identifiantFiche": "GJVD9AY3", 
-        "nom_organisation": "SNCF", 
-        "num_organisation": "808332670", 
-        "objet": "Obtenir une harmonisation des arrêtés préfectoraux de destruction, voire un arrêté ministériel de destruction dans les emprises ferroviaires des espèces de gros gibier occasionnant des collisions", 
-        "publicationDate": "2020-07-29T11:38:01"
-      }, 
-      {
-        "domainesIntervention": [
-          "Transport de voyageurs"
-        ], 
-        "identifiantFiche": "FX3CIPR3", 
-        "nom_organisation": "SNCF", 
-        "num_organisation": "808332670", 
-        "objet": "Ordonnance 2019-552 portant diverses dispositions relatives au groupe SNCF : Déterminer le nombre de membres des différents CA des sociétés anonymes formant le groupe public unifié créé au 01/01/20 ", 
-        "publicationDate": "2020-07-29T11:38:32"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/808332670.json", 
     "ville": "ST DENIS"

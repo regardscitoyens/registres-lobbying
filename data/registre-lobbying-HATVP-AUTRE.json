@@ -12723,12 +12723,17 @@
         "publicationDate": "2019-04-08T11:37:15"
       }, 
       {
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 4518, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": true, 
-        "nombreActivite": 0
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2020-07-30T10:28:23"
       }, 
       {
         "dateDebut": "2020-01-01", 
@@ -12977,6 +12982,19 @@
         "nombreActivite": 0, 
         "nombreSalaries": 3, 
         "publicationDate": "2019-04-08T11:36:23"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 4518, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": true, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2020-07-30T10:28:23"
       }
     ], 
     "identifiantNational": "349974931", 
