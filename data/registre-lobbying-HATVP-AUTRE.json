@@ -9233,73 +9233,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Logement", 
-          "Construction"
-        ], 
-        "identifiantFiche": "JA3YSQY3", 
-        "nom_organisation": "CDC HABITAT", 
-        "num_organisation": "470801168", 
-        "objet": "Obtenir la prise en compte du logement social vulnérable outre-mer dans le plan séisme Antilles dans le cadre de l'élaboration de la 3ème phase du plan", 
-        "publicationDate": "2020-07-30T17:59:23"
-      }, 
-      {
-        "domainesIntervention": [
-          "Logement", 
-          "Construction"
-        ], 
-        "identifiantFiche": "2EHLACTV", 
-        "nom_organisation": "CDC HABITAT", 
-        "num_organisation": "470801168", 
-        "objet": "Faire évoluer l'organisation du secteur du logement social en outre-mer et obtenir l'évolution des normes techniques de construction", 
-        "publicationDate": "2020-07-30T18:00:14"
-      }, 
-      {
-        "domainesIntervention": [
-          "Logement", 
-          "Collectivités territoriales"
-        ], 
-        "identifiantFiche": "KQ367A8H", 
-        "nom_organisation": "CDC HABITAT", 
-        "num_organisation": "470801168", 
-        "objet": "loi ELAN : établir un bilan d'étape sur les conséquences de la loi pour les organismes de logements sociaux afin de favoriser le développement des opérations en cœurs de ville ", 
-        "publicationDate": "2020-07-30T18:01:00"
-      }, 
-      {
-        "domainesIntervention": [
-          "Logement"
-        ], 
-        "identifiantFiche": "C5HA7SQ3", 
-        "nom_organisation": "CDC HABITAT", 
-        "num_organisation": "470801168", 
-        "objet": "loi ELAN : établir un bilan d'étape sur les conséquences de la loi sur le secteur du logement social et obtenir une évolution de l'organisation territoriale ", 
-        "publicationDate": "2020-07-30T18:01:35"
-      }, 
-      {
-        "domainesIntervention": [
-          "Logement"
-        ], 
-        "identifiantFiche": "IYVNZW7V", 
-        "nom_organisation": "CDC HABITAT", 
-        "num_organisation": "470801168", 
-        "objet": "loi ELAN : établir un bilan d'étape sur les conséquences de la loi et proposer des pistes d'amélioration pour les organismes de logements sociaux", 
-        "publicationDate": "2020-07-30T18:02:04"
-      }, 
-      {
-        "domainesIntervention": [
-          "Logement", 
-          "Construction", 
-          "Développement économique des outre-mer"
-        ], 
-        "identifiantFiche": "SQV77OIV", 
-        "nom_organisation": "CDC HABITAT", 
-        "num_organisation": "470801168", 
-        "objet": "Faire évoluer la politique du logement des Outre-mer pour s'adapter aux nouveaux besoins", 
-        "publicationDate": "2020-07-30T18:02:34"
-      }
-    ], 
+    "resumes_actions": [], 
     "sigleHatvp": "SNI", 
     "telephoneDeContact": "0155033101", 
     "typeIdentifiantNational": "SIREN", 
