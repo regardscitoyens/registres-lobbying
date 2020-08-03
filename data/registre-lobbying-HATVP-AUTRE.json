@@ -5398,6 +5398,14 @@
         "exerciceId": 8162, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2020-08-01", 
+        "dateFin": "2021-07-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11061, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
