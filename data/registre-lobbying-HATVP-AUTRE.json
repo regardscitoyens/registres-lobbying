@@ -11200,6 +11200,12 @@
         }, 
         {
           "categorie": null, 
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "categorie": null, 
           "code": "ECONOMIE", 
           "label": "Economie", 
           "ordre": 8
@@ -11267,6 +11273,21 @@
         "denomination": "FEDERATION NATIONALE TIERS CONFIANCE", 
         "identifiantNational": "439456534", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPT FR DE L'INDUSTRIE DE L'INFORMATIO", 
+        "identifiantNational": "318949609", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION FRANCAISE DES CORRESPONDANTS A LA PROTECTION DES DONNEES A CARACTERE PERSONNEL", 
+        "identifiantNational": "503314353", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION INTERNATIONALE DE GOUVERNANCE DU CACHET", 
+        "identifiantNational": "824491567", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "categorieOrganisation": {
@@ -11278,12 +11299,6 @@
     "codePostal": "75001", 
     "collaborateurs": [
       {
-        "civilite": "M", 
-        "fonction": "Secrétaire général", 
-        "nom": "HAZARD", 
-        "prenom": "Christophe"
-      }, 
-      {
         "civilite": "MME", 
         "fonction": "Responsable des affaires juridiques", 
         "nom": "AMAN", 
@@ -11291,59 +11306,9 @@
       }, 
       {
         "civilite": "M", 
-        "fonction": "Juriste", 
-        "nom": "ROSE", 
-        "prenom": "Nicolas"
-      }, 
-      {
-        "civilite": "MME", 
-        "fonction": "Secrétaire", 
-        "nom": "BOURHIS", 
-        "prenom": "Carole"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Secrétaire juridique", 
-        "nom": "D'ESPALUNGUE", 
-        "prenom": "François-Régis"
-      }, 
-      {
-        "civilite": "MME", 
-        "fonction": "Juriste", 
-        "nom": "TODOS", 
-        "prenom": "Irina"
-      }
-    ], 
-    "dateCreation": "2020-02-24T09:47:14", 
-    "dateDernierePublicationActivite": "2019-04-01T16:57:31", 
-    "datePremierePublication": "2018-04-16T14:50:34", 
-    "declarationOrgaAppartenance": true, 
-    "declarationTiers": false, 
-    "denomination": "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM", 
-    "dirigeants": [
-      {
-        "civilite": "M", 
-        "fonction": "Chargé de mission", 
-        "nom": "GENESTE", 
-        "prenom": "Victor"
-      }, 
-      {
-        "civilite": "MME", 
-        "fonction": "Chargée de mission", 
-        "nom": "PRINTEMS", 
-        "prenom": "Françoise"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Secrétaire", 
-        "nom": "MARQUET-PAQUIER", 
-        "prenom": "Thierry"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Chargé de mission", 
-        "nom": "DUBUJADOUX", 
-        "prenom": "Bertrand"
+        "fonction": "Vice-Président", 
+        "nom": "DENFER", 
+        "prenom": "Thomas"
       }, 
       {
         "civilite": "M", 
@@ -11352,16 +11317,42 @@
         "prenom": "Philippe"
       }, 
       {
+        "civilite": "M", 
+        "fonction": "Secrétaire", 
+        "nom": "MARQUET PAQUIER", 
+        "prenom": "Thierry"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé de mission", 
+        "nom": "GENESTE", 
+        "prenom": "Victor"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Chargé de mission", 
+        "nom": "DUBUJADOUX", 
+        "prenom": "Bertrand"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée de mission", 
+        "nom": "PRINTEMS", 
+        "prenom": "Françoise"
+      }
+    ], 
+    "dateCreation": "2020-08-17T09:51:39", 
+    "dateDernierePublicationActivite": "2020-08-17T09:45:56", 
+    "datePremierePublication": "2018-04-16T14:50:34", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM", 
+    "dirigeants": [
+      {
         "civilite": "MME", 
         "fonction": "Présidente", 
         "nom": "JONVAL", 
         "prenom": "Sophie"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Vice-Président", 
-        "nom": "DENFER", 
-        "prenom": "Thomas"
       }
     ], 
     "exercices": [
@@ -11998,6 +11989,430 @@
         "publicationDate": "2019-04-01T16:58:32"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Collaborateur du Président de la République", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Justice, Economie et finances, Outre-mer"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Professions réglementées", 
+                  "Développement économique des outre-mer", 
+                  "Economie des outre-mer", 
+                  "Institutions des outre-mer"
+                ], 
+                "identifiantFiche": "FX3CJW9H", 
+                "objet": "Nominations et installation des greffiers de commerce dans les tribunaux mixtes de commerce des départements d'outre-mer", 
+                "publicationDate": "2020-08-17T09:44:58"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Collaborateur du Président de la République", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Justice, Economie et finances, Outre-mer"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Professions réglementées", 
+                "Développement économique des outre-mer", 
+                "Economie des outre-mer", 
+                "Institutions des outre-mer"
+              ], 
+              "identifiantFiche": "FX3CJW9H", 
+              "objet": "Nominations et installation des greffiers de commerce dans les tribunaux mixtes de commerce des départements d'outre-mer", 
+              "publicationDate": "2020-08-17T09:44:58"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Justice"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Taxes", 
+                  "Professions réglementées", 
+                  "Justice civile"
+                ], 
+                "identifiantFiche": "2EHL6CO3", 
+                "objet": "Suppression de l'article 27 bis du projet de loi de finances 2020 visant à instaurer une contribution à l'accès au droit et à la justice", 
+                "publicationDate": "2020-08-17T09:44:13"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Justice"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Taxes", 
+                "Professions réglementées", 
+                "Justice civile"
+              ], 
+              "identifiantFiche": "2EHL6CO3", 
+              "objet": "Suppression de l'article 27 bis du projet de loi de finances 2020 visant à instaurer une contribution à l'accès au droit et à la justice", 
+              "publicationDate": "2020-08-17T09:44:13"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Justice"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Professions réglementées", 
+                  "Moralisation/Transparence", 
+                  "Justice civile", 
+                  "Institutions judiciaires"
+                ], 
+                "identifiantFiche": "K6VBN56V", 
+                "objet": "Assujettissement de la profession aux obligations de lutte contre le blanchiment d'argent et de lutte contre le terrorisme", 
+                "publicationDate": "2020-08-17T09:43:18"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Justice"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Professions réglementées", 
+                "Moralisation/Transparence", 
+                "Justice civile", 
+                "Institutions judiciaires"
+              ], 
+              "identifiantFiche": "K6VBN56V", 
+              "objet": "Assujettissement de la profession aux obligations de lutte contre le blanchiment d'argent et de lutte contre le terrorisme", 
+              "publicationDate": "2020-08-17T09:43:18"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Justice, Economie et finances"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Professions réglementées", 
+                  "PME/TPE", 
+                  "Aides aux entreprises"
+                ], 
+                "identifiantFiche": "KQ365NKV", 
+                "objet": "Articles 1 et 2 Loi Pacte: Mettre à disposition de l'Etat l'expertise et les outils de la profession dans la perspective de l'organisme unique numérique et le registre général des entreprises", 
+                "publicationDate": "2020-08-17T09:45:56"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Justice, Economie et finances"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Professions réglementées", 
+                "PME/TPE", 
+                "Aides aux entreprises"
+              ], 
+              "identifiantFiche": "KQ365NKV", 
+              "objet": "Articles 1 et 2 Loi Pacte: Mettre à disposition de l'Etat l'expertise et les outils de la profession dans la perspective de l'organisme unique numérique et le registre général des entreprises", 
+              "publicationDate": "2020-08-17T09:45:56"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Collaborateur du Président de la République", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Justice"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Justice civile"
+                ], 
+                "identifiantFiche": "JA3YNKWH", 
+                "objet": "Participation aux travaux préparatoires du décret d'application sur les conditions technique pour la mise en œuvre de l'open data des décisions de justice", 
+                "publicationDate": "2020-08-17T09:42:41"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Collaborateur du Président de la République", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Justice"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Justice civile"
+              ], 
+              "identifiantFiche": "JA3YNKWH", 
+              "objet": "Participation aux travaux préparatoires du décret d'application sur les conditions technique pour la mise en œuvre de l'open data des décisions de justice", 
+              "publicationDate": "2020-08-17T09:42:41"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Justice"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Professions réglementées"
+                ], 
+                "identifiantFiche": "2Y3KTIT3", 
+                "objet": "Modification de l'article R.741-10 du code de commerce relatif aux conditions pour être membre du Conseil national", 
+                "publicationDate": "2020-08-17T09:41:57"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Justice"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Professions réglementées"
+              ], 
+              "identifiantFiche": "2Y3KTIT3", 
+              "objet": "Modification de l'article R.741-10 du code de commerce relatif aux conditions pour être membre du Conseil national", 
+              "publicationDate": "2020-08-17T09:41:57"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Justice"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Professions réglementées"
+                ], 
+                "identifiantFiche": "SQV759N3", 
+                "objet": "Publication d'un arrêté portant approbation du règlement national du Conseil national des greffiers des TC intitulé \" Règles professionnelles des greffiers des tribunaux de commerce\"", 
+                "publicationDate": "2020-08-17T09:41:06"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Justice"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Professions réglementées"
+              ], 
+              "identifiantFiche": "SQV759N3", 
+              "objet": "Publication d'un arrêté portant approbation du règlement national du Conseil national des greffiers des TC intitulé \" Règles professionnelles des greffiers des tribunaux de commerce\"", 
+              "publicationDate": "2020-08-17T09:41:06"
+            }
+          }
+        ], 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
@@ -12836,6 +13251,216 @@
         "publierMonTelephoneDeContact": false, 
         "typeIdentifiantNational": "SIREN", 
         "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "categorie": null, 
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "ETRANGER", 
+              "label": "Affaires étrangères, coopération internationale", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "categorie": null, 
+              "code": "JUSTICE", 
+              "label": "Justice", 
+              "ordre": 16
+            }, 
+            {
+              "categorie": null, 
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }, 
+            {
+              "categorie": null, 
+              "code": "OUTREMER", 
+              "label": "Outre-mer", 
+              "ordre": 20
+            }, 
+            {
+              "categorie": null, 
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }, 
+            {
+              "categorie": null, 
+              "code": "PROREG", 
+              "label": "Professions réglementées", 
+              "ordre": 22
+            }
+          ]
+        }, 
+        "adresse": "CONSEIL NATIONAL GREFFIERS TRIBUNAUX C\r\n29 RUE DANIELLE CASANOVA", 
+        "affiliations": [
+          {
+            "denomination": "FONDATION POUR LE DROIT CONTINENTAL", 
+            "identifiantNational": "507793149", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CAVOM CAISSE ALLOC VIEIL OFF M", 
+            "identifiantNational": "317781441", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CHAMBRE NATIONALE DES PROFESSIONS LIBERALES CNPL", 
+            "identifiantNational": "W751045200", 
+            "typeIdentifiantNational": "RNA"
+          }, 
+          {
+            "denomination": "ASSO HAUT CONSEIL DES PROFESSIONS DU DROIT", 
+            "identifiantNational": "537772675", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CENTRE D'INFORMATION SUR LA PREVENTION DES DIFFICULTES DES ENTREPRISES CIP NATIONAL", 
+            "identifiantNational": "W751183734", 
+            "typeIdentifiantNational": "RNA"
+          }, 
+          {
+            "denomination": "FEDERATION NATIONALE TIERS CONFIANCE", 
+            "identifiantNational": "439456534", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations"
+        }, 
+        "clients": [], 
+        "codePostal": "75001", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire général", 
+            "nom": "HAZARD", 
+            "prenom": "Christophe"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable des affaires juridiques", 
+            "nom": "AMAN", 
+            "prenom": "Karla"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Juriste", 
+            "nom": "ROSE", 
+            "prenom": "Nicolas"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Secrétaire", 
+            "nom": "BOURHIS", 
+            "prenom": "Carole"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire juridique", 
+            "nom": "D'ESPALUNGUE", 
+            "prenom": "François-Régis"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Juriste", 
+            "nom": "TODOS", 
+            "prenom": "Irina"
+          }
+        ], 
+        "dateCreation": "2020-02-24T09:47:14", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Chargé de mission", 
+            "nom": "GENESTE", 
+            "prenom": "Victor"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chargée de mission", 
+            "nom": "PRINTEMS", 
+            "prenom": "Françoise"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire", 
+            "nom": "MARQUET-PAQUIER", 
+            "prenom": "Thierry"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Chargé de mission", 
+            "nom": "DUBUJADOUX", 
+            "prenom": "Bertrand"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Trésorier", 
+            "nom": "GOURLAOUEN", 
+            "prenom": "Philippe"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente", 
+            "nom": "JONVAL", 
+            "prenom": "Sophie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Vice-Président", 
+            "nom": "DENFER", 
+            "prenom": "Thomas"
+          }
+        ], 
+        "identifiantNational": "784412389", 
+        "lienSiteWeb": "http://www.cngtc.fr", 
+        "nomUsage": "CNGTC", 
+        "nomUsageHatvp": "CONSEIL NATIONAL DES GREFFIERS DES TRIBUNAUX DE COMMERCE", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
       }
     ], 
     "historique_exercices": [
@@ -12959,6 +13584,9 @@
     ], 
     "identifiantNational": "784412389", 
     "isActivitesPubliees": true, 
+    "lienPageFacebook": "https://www.facebook.com/CNGTC/", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/cngtc/", 
+    "lienPageTwitter": "https://twitter.com/cng_tc?lang=fr", 
     "lienSiteWeb": "http://www.cngtc.fr", 
     "nomUsage": "CNGTC", 
     "nomUsageHatvp": "CONSEIL NATIONAL DES GREFFIERS DES TRIBUNAUX DE COMMERCE", 
@@ -12966,7 +13594,88 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Professions réglementées"
+        ], 
+        "identifiantFiche": "SQV759N3", 
+        "nom_organisation": "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM", 
+        "num_organisation": "784412389", 
+        "objet": "Publication d'un arrêté portant approbation du règlement national du Conseil national des greffiers des TC intitulé \" Règles professionnelles des greffiers des tribunaux de commerce\"", 
+        "publicationDate": "2020-08-17T09:41:06"
+      }, 
+      {
+        "domainesIntervention": [
+          "Professions réglementées"
+        ], 
+        "identifiantFiche": "2Y3KTIT3", 
+        "nom_organisation": "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM", 
+        "num_organisation": "784412389", 
+        "objet": "Modification de l'article R.741-10 du code de commerce relatif aux conditions pour être membre du Conseil national", 
+        "publicationDate": "2020-08-17T09:41:57"
+      }, 
+      {
+        "domainesIntervention": [
+          "Justice civile"
+        ], 
+        "identifiantFiche": "JA3YNKWH", 
+        "nom_organisation": "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM", 
+        "num_organisation": "784412389", 
+        "objet": "Participation aux travaux préparatoires du décret d'application sur les conditions technique pour la mise en œuvre de l'open data des décisions de justice", 
+        "publicationDate": "2020-08-17T09:42:41"
+      }, 
+      {
+        "domainesIntervention": [
+          "Professions réglementées", 
+          "Moralisation/Transparence", 
+          "Justice civile", 
+          "Institutions judiciaires"
+        ], 
+        "identifiantFiche": "K6VBN56V", 
+        "nom_organisation": "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM", 
+        "num_organisation": "784412389", 
+        "objet": "Assujettissement de la profession aux obligations de lutte contre le blanchiment d'argent et de lutte contre le terrorisme", 
+        "publicationDate": "2020-08-17T09:43:18"
+      }, 
+      {
+        "domainesIntervention": [
+          "Taxes", 
+          "Professions réglementées", 
+          "Justice civile"
+        ], 
+        "identifiantFiche": "2EHL6CO3", 
+        "nom_organisation": "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM", 
+        "num_organisation": "784412389", 
+        "objet": "Suppression de l'article 27 bis du projet de loi de finances 2020 visant à instaurer une contribution à l'accès au droit et à la justice", 
+        "publicationDate": "2020-08-17T09:44:13"
+      }, 
+      {
+        "domainesIntervention": [
+          "Professions réglementées", 
+          "Développement économique des outre-mer", 
+          "Economie des outre-mer", 
+          "Institutions des outre-mer"
+        ], 
+        "identifiantFiche": "FX3CJW9H", 
+        "nom_organisation": "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM", 
+        "num_organisation": "784412389", 
+        "objet": "Nominations et installation des greffiers de commerce dans les tribunaux mixtes de commerce des départements d'outre-mer", 
+        "publicationDate": "2020-08-17T09:44:58"
+      }, 
+      {
+        "domainesIntervention": [
+          "Professions réglementées", 
+          "PME/TPE", 
+          "Aides aux entreprises"
+        ], 
+        "identifiantFiche": "KQ365NKV", 
+        "nom_organisation": "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM", 
+        "num_organisation": "784412389", 
+        "objet": "Articles 1 et 2 Loi Pacte: Mettre à disposition de l'Etat l'expertise et les outils de la profession dans la perspective de l'organisme unique numérique et le registre général des entreprises", 
+        "publicationDate": "2020-08-17T09:45:56"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/784412389.json", 
     "ville": "PARIS"
