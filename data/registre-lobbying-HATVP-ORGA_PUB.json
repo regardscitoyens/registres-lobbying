@@ -78,7 +78,7 @@
       }
     ], 
     "dateCreation": "2019-06-18T11:53:18", 
-    "dateDernierePublicationActivite": "2019-03-29T19:13:11", 
+    "dateDernierePublicationActivite": "2020-08-21T22:46:54", 
     "datePremierePublication": "2017-12-12T16:33:22", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -294,12 +294,85 @@
         "publicationDate": "2018-04-30T20:16:17"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Environnement, énergie et mer", 
+                      "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Commission nationale du débat public"
+                    ], 
+                    "tiers": [
+                      "AGENCE NAT GESTION DECHETS RADIOACTIFS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Déchets", 
+                  "Energie nucléaire"
+                ], 
+                "identifiantFiche": "PO389P8H", 
+                "objet": "Expression des enjeux vus de l’Andra liés à la tenue du débat public sur le PNGMDR et sur les suites qui pourraient y être données à l’issue du débat public", 
+                "publicationDate": "2020-08-21T22:46:54"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Environnement, énergie et mer", 
+                    "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Commission nationale du débat public"
+                  ], 
+                  "tiers": [
+                    "AGENCE NAT GESTION DECHETS RADIOACTIFS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Déchets", 
+                "Energie nucléaire"
+              ], 
+              "identifiantFiche": "PO389P8H", 
+              "objet": "Expression des enjeux vus de l’Andra liés à la tenue du débat public sur le PNGMDR et sur les suites qui pourraient y être données à l’issue du débat public", 
+              "publicationDate": "2020-08-21T22:46:54"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 5276, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 1, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2020-08-21T22:38:32"
       }, 
       {
         "dateDebut": "2020-01-01", 
@@ -931,6 +1004,19 @@
         "nombreActivite": 3, 
         "nombreSalaries": 4, 
         "publicationDate": "2018-04-30T20:16:17"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 5276, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2020-08-21T22:38:32"
       }
     ], 
     "identifiantNational": "390199669", 
@@ -944,7 +1030,19 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Déchets", 
+          "Energie nucléaire"
+        ], 
+        "identifiantFiche": "PO389P8H", 
+        "nom_organisation": "AGENCE NAT GESTION DECHETS RADIOACTIFS", 
+        "num_organisation": "390199669", 
+        "objet": "Expression des enjeux vus de l’Andra liés à la tenue du débat public sur le PNGMDR et sur les suites qui pourraient y être données à l’issue du débat public", 
+        "publicationDate": "2020-08-21T22:46:54"
+      }
+    ], 
     "sigleHatvp": "ANDRA", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/390199669.json", 
