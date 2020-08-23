@@ -1030,19 +1030,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Déchets", 
-          "Energie nucléaire"
-        ], 
-        "identifiantFiche": "PO389P8H", 
-        "nom_organisation": "AGENCE NAT GESTION DECHETS RADIOACTIFS", 
-        "num_organisation": "390199669", 
-        "objet": "Expression des enjeux vus de l’Andra liés à la tenue du débat public sur le PNGMDR et sur les suites qui pourraient y être données à l’issue du débat public", 
-        "publicationDate": "2020-08-21T22:46:54"
-      }
-    ], 
+    "resumes_actions": [], 
     "sigleHatvp": "ANDRA", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/390199669.json", 
