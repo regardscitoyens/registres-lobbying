@@ -15733,7 +15733,7 @@
       }
     ], 
     "dateCreation": "2020-04-07T16:41:44", 
-    "dateDernierePublicationActivite": "2020-04-08T09:32:06", 
+    "dateDernierePublicationActivite": "2020-08-24T17:38:23", 
     "datePremierePublication": "2018-09-13T11:56:57", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": true, 
@@ -18223,6 +18223,1060 @@
               "objet": "Inscrie les secteurs médico-sociaux de l’addictologie (CSAPA, CJC) et d’hébergement et soins (ACT, LHSS, LAM) à la Loi du 24 juillet 2019.", 
               "publicationDate": "2020-04-07T17:43:40"
             }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "observation": "Préparation de reprise de structures en difficulté", 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                    ], 
+                    "tiers": [
+                      "GROUPE SOS SENIORS", 
+                      "GROUPE SOS SANTE", 
+                      "GROUPE SOS SOLIDARITES", 
+                      "GROUPE SOS JEUNESSE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "19V0FSD3", 
+                "objet": "Présenter Groupe SOS ainsi que ses actions et interventions", 
+                "publicationDate": "2020-08-24T17:21:44"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "observation": "Préparation de reprise de structures en difficulté", 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                  ], 
+                  "tiers": [
+                    "GROUPE SOS SENIORS", 
+                    "GROUPE SOS SANTE", 
+                    "GROUPE SOS SOLIDARITES", 
+                    "GROUPE SOS JEUNESSE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "19V0FSD3", 
+              "objet": "Présenter Groupe SOS ainsi que ses actions et interventions", 
+              "publicationDate": "2020-08-24T17:21:44"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des débats publics, des marches, des stratégies d'influence sur internet"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Travail, emploi, formation professionnelle et dialogue social"
+                    ], 
+                    "tiers": [
+                      "GROUPE SOS SOLIDARITES", 
+                      "GROUPE SOS JEUNESSE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Handicap", 
+                  "Discriminations", 
+                  "Egalité des chances"
+                ], 
+                "identifiantFiche": "Z0V5NA83", 
+                "objet": "Présenter les actions du Groupe SOS pour l’insertion des plus éloignés de l’emploi", 
+                "publicationDate": "2020-08-24T17:22:48"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des débats publics, des marches, des stratégies d'influence sur internet"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Travail, emploi, formation professionnelle et dialogue social"
+                  ], 
+                  "tiers": [
+                    "GROUPE SOS SOLIDARITES", 
+                    "GROUPE SOS JEUNESSE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Handicap", 
+                "Discriminations", 
+                "Egalité des chances"
+              ], 
+              "identifiantFiche": "Z0V5NA83", 
+              "objet": "Présenter les actions du Groupe SOS pour l’insertion des plus éloignés de l’emploi", 
+              "publicationDate": "2020-08-24T17:22:48"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Travail, emploi, formation professionnelle et dialogue social"
+                    ], 
+                    "tiers": [
+                      "GROUPE SOS SOLIDARITES", 
+                      "GROUPE SOS JEUNESSE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Handicap", 
+                  "Discriminations", 
+                  "Egalité des chances", 
+                  "Egalité femmes/hommes"
+                ], 
+                "identifiantFiche": "2Y3KW9D3", 
+                "objet": "Mobiliser les entreprises pour l’inclusion et l’insertion professionnelle", 
+                "publicationDate": "2020-08-24T17:23:17"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Travail, emploi, formation professionnelle et dialogue social"
+                  ], 
+                  "tiers": [
+                    "GROUPE SOS SOLIDARITES", 
+                    "GROUPE SOS JEUNESSE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Handicap", 
+                "Discriminations", 
+                "Egalité des chances", 
+                "Egalité femmes/hommes"
+              ], 
+              "identifiantFiche": "2Y3KW9D3", 
+              "objet": "Mobiliser les entreprises pour l’inclusion et l’insertion professionnelle", 
+              "publicationDate": "2020-08-24T17:23:17"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "Présentation des activités du Groupe SOS et ANDES Transition Ecologique pour la loi anti-gaspillage", 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt"
+                    ], 
+                    "tiers": [
+                      "SOLIDARITE ALIMENTAIRE FRANCE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Industrie agroalimentaire", 
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "FX3CYI1H", 
+                "objet": "Présenter les actions du Groupe SOS Transition Ecologique en matière d’aide alimentaire ", 
+                "publicationDate": "2020-08-24T17:17:43"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "Présentation des activités du Groupe SOS et ANDES Transition Ecologique pour la loi anti-gaspillage", 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt"
+                  ], 
+                  "tiers": [
+                    "SOLIDARITE ALIMENTAIRE FRANCE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Industrie agroalimentaire", 
+                "Agriculture"
+              ], 
+              "identifiantFiche": "FX3CYI1H", 
+              "objet": "Présenter les actions du Groupe SOS Transition Ecologique en matière d’aide alimentaire ", 
+              "publicationDate": "2020-08-24T17:17:43"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Travail, emploi, formation professionnelle et dialogue social"
+                    ], 
+                    "tiers": [
+                      "GROUPE SOS SENIORS", 
+                      "GROUPE SOS SANTE", 
+                      "GROUPE SOS SOLIDARITES", 
+                      "GROUPE SOS JEUNESSE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Système de santé et médico-social", 
+                  "Handicap", 
+                  "Discriminations", 
+                  "Egalité des chances"
+                ], 
+                "identifiantFiche": "FX3CYC1H", 
+                "objet": "Porter les propositions du Groupe SOS en matière de réduction des inégalités sociales", 
+                "publicationDate": "2020-08-24T17:22:21"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Travail, emploi, formation professionnelle et dialogue social"
+                  ], 
+                  "tiers": [
+                    "GROUPE SOS SENIORS", 
+                    "GROUPE SOS SANTE", 
+                    "GROUPE SOS SOLIDARITES", 
+                    "GROUPE SOS JEUNESSE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Système de santé et médico-social", 
+                "Handicap", 
+                "Discriminations", 
+                "Egalité des chances"
+              ], 
+              "identifiantFiche": "FX3CYC1H", 
+              "objet": "Porter les propositions du Groupe SOS en matière de réduction des inégalités sociales", 
+              "publicationDate": "2020-08-24T17:22:21"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "Mise en œuvre du programme Cœur d'Essonne", 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "ASSOCIATION FERMES D AVENIR"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Impact de l'activité industrielle", 
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "IO3WAA6V", 
+                "objet": "Présenter le projet Sésame dans le cadre du programme Cœur d’Essonne", 
+                "publicationDate": "2020-08-24T17:14:03"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "Mise en œuvre du programme Cœur d'Essonne", 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "ASSOCIATION FERMES D AVENIR"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Impact de l'activité industrielle", 
+                "Agriculture"
+              ], 
+              "identifiantFiche": "IO3WAA6V", 
+              "objet": "Présenter le projet Sésame dans le cadre du programme Cœur d’Essonne", 
+              "publicationDate": "2020-08-24T17:14:03"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Travail, emploi, formation professionnelle et dialogue social, Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Président de la commission des affaires économiques", 
+                    "tiers": [
+                      "GROUPE SOS SOLIDARITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Droit du travail", 
+                  "Discriminations", 
+                  "Egalité des chances", 
+                  "Egalité femmes/hommes"
+                ], 
+                "identifiantFiche": "2EHL8PIV", 
+                "objet": "Présenter les actions du Groupe SOS en termes d’impact positif de l’entreprise.", 
+                "publicationDate": "2020-08-24T17:24:18"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Travail, emploi, formation professionnelle et dialogue social, Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Président de la commission des affaires économiques", 
+                  "tiers": [
+                    "GROUPE SOS SOLIDARITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Droit du travail", 
+                "Discriminations", 
+                "Egalité des chances", 
+                "Egalité femmes/hommes"
+              ], 
+              "identifiantFiche": "2EHL8PIV", 
+              "objet": "Présenter les actions du Groupe SOS en termes d’impact positif de l’entreprise.", 
+              "publicationDate": "2020-08-24T17:24:18"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "Participation au PaQte ", 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Ville, jeunesse et sport, Logement"
+                    ], 
+                    "tiers": [
+                      "GROUPE SOS SENIORS", 
+                      "GROUPE SOS SOLIDARITES", 
+                      "GROUPE SOS JEUNESSE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement", 
+                  "Handicap", 
+                  "Discriminations"
+                ], 
+                "identifiantFiche": "POHZTQQH", 
+                "objet": "Porter les propositions du Groupe SOS pour le développement économique et social des quartiers prioritaires de la ville ", 
+                "publicationDate": "2020-08-24T17:14:18"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "Participation au PaQte ", 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Ville, jeunesse et sport, Logement"
+                  ], 
+                  "tiers": [
+                    "GROUPE SOS SENIORS", 
+                    "GROUPE SOS SOLIDARITES", 
+                    "GROUPE SOS JEUNESSE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement", 
+                "Handicap", 
+                "Discriminations"
+              ], 
+              "identifiantFiche": "POHZTQQH", 
+              "objet": "Porter les propositions du Groupe SOS pour le développement économique et social des quartiers prioritaires de la ville ", 
+              "publicationDate": "2020-08-24T17:14:18"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "Mise en œuvre du PIC ", 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Haut-Commissariat aux compétences", 
+                    "tiers": [
+                      "GROUPE SOS SOLIDARITES", 
+                      "GROUPE SOS JEUNESSE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Droit du travail"
+                ], 
+                "identifiantFiche": "GJVDB203", 
+                "objet": "Participer au comité de pilotage du Plan d’Investissement dans les compétences", 
+                "publicationDate": "2020-08-24T17:14:46"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "Mise en œuvre du PIC ", 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Haut-Commissariat aux compétences", 
+                  "tiers": [
+                    "GROUPE SOS SOLIDARITES", 
+                    "GROUPE SOS JEUNESSE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Droit du travail"
+              ], 
+              "identifiantFiche": "GJVDB203", 
+              "objet": "Participer au comité de pilotage du Plan d’Investissement dans les compétences", 
+              "publicationDate": "2020-08-24T17:14:46"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Travail, emploi, formation professionnelle et dialogue social"
+                    ], 
+                    "tiers": [
+                      "GROUPE SOS SENIORS", 
+                      "GROUPE SOS SOLIDARITES", 
+                      "GROUPE SOS SANTE", 
+                      "GROUPE SOS JEUNESSE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Droit du travail"
+                ], 
+                "identifiantFiche": "S0V259FV", 
+                "objet": "Porter les propositions du Groupe SOS en matière de développement de l’économie sociale et solidaire", 
+                "publicationDate": "2020-08-24T17:23:40"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Travail, emploi, formation professionnelle et dialogue social"
+                  ], 
+                  "tiers": [
+                    "GROUPE SOS SENIORS", 
+                    "GROUPE SOS SANTE", 
+                    "GROUPE SOS SOLIDARITES", 
+                    "GROUPE SOS JEUNESSE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Droit du travail"
+              ], 
+              "identifiantFiche": "S0V259FV", 
+              "objet": "Porter les propositions du Groupe SOS en matière de développement de l’économie sociale et solidaire", 
+              "publicationDate": "2020-08-24T17:23:40"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Présidente de la Région Ile de France", 
+                    "tiers": [
+                      "GROUPE SOS SOLIDARITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Aides aux entreprises"
+                ], 
+                "identifiantFiche": "KUVP11YH", 
+                "objet": "Porter les propositions du Groupe SOS pour renforcer l’attractivité et l’emploi en Ile de France. ", 
+                "publicationDate": "2020-08-24T17:12:52"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Présidente de la Région Ile de France", 
+                  "tiers": [
+                    "GROUPE SOS SOLIDARITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Aides aux entreprises"
+              ], 
+              "identifiantFiche": "KUVP11YH", 
+              "objet": "Porter les propositions du Groupe SOS pour renforcer l’attractivité et l’emploi en Ile de France. ", 
+              "publicationDate": "2020-08-24T17:12:52"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Ville, jeunesse et sport, Logement"
+                    ], 
+                    "tiers": [
+                      "GROUPE SOS SOLIDARITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement"
+                ], 
+                "identifiantFiche": "40VEDDIH", 
+                "objet": "Présenter les activités du Groupe SOS Solidarités en matière de logement des personnes sans domicile fixe", 
+                "publicationDate": "2020-08-24T17:13:40"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Ville, jeunesse et sport, Logement"
+                  ], 
+                  "tiers": [
+                    "GROUPE SOS SOLIDARITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement"
+              ], 
+              "identifiantFiche": "40VEDDIH", 
+              "objet": "Présenter les activités du Groupe SOS Solidarités en matière de logement des personnes sans domicile fixe", 
+              "publicationDate": "2020-08-24T17:13:40"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "Référencement de l’indice et développement en France à l’International", 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
+                    ], 
+                    "tiers": [
+                      "GROUPE SOS SOLIDARITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Politique industrielle"
+                ], 
+                "identifiantFiche": "SBHO2YOV", 
+                "objet": "Présenter un projet d'indice international pour la mesure des écosystèmes d'entrepreneuriat social", 
+                "publicationDate": "2020-08-24T17:19:57"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "Référencement de l’indice et développement en France à l’International", 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
+                  ], 
+                  "tiers": [
+                    "GROUPE SOS SOLIDARITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Politique industrielle"
+              ], 
+              "identifiantFiche": "SBHO2YOV", 
+              "objet": "Présenter un projet d'indice international pour la mesure des écosystèmes d'entrepreneuriat social", 
+              "publicationDate": "2020-08-24T17:19:57"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Ville, jeunesse et sport, Culture et communication, Aménagement du territoire, ruralité et collectivités territoriales, Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Secrétaire d'Etat en charge du Numérique", 
+                    "tiers": [
+                      "1000 CAFES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Développement des territoires"
+                ], 
+                "identifiantFiche": "KDVSIBOH", 
+                "objet": "Présentation de l'initiative 1000 cafés et dans le cadre du projet de loi sur les licences IV ruralités", 
+                "publicationDate": "2020-08-24T17:19:16"
+              }, 
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Ville, jeunesse et sport, Culture et communication, Aménagement du territoire, ruralité et collectivités territoriales, Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Secrétaire d'Etat en charge du Numérique", 
+                    "tiers": [
+                      "1000 CAFES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Développement des territoires"
+                ], 
+                "identifiantFiche": "KDVSIBOH", 
+                "objet": "Présentation de l'initiative 1000 cafés et dans le cadre du projet de loi sur les licences IV ruralités", 
+                "publicationDate": "2020-08-24T17:12:12"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Ville, jeunesse et sport, Culture et communication, Aménagement du territoire, ruralité et collectivités territoriales, Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Secrétaire d'Etat en charge du Numérique", 
+                  "tiers": [
+                    "1000 CAFES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Développement des territoires"
+              ], 
+              "identifiantFiche": "KDVSIBOH", 
+              "objet": "Présentation de l'initiative 1000 cafés et dans le cadre du projet de loi sur les licences IV ruralités", 
+              "publicationDate": "2020-08-24T17:19:16"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                    ], 
+                    "tiers": [
+                      "GROUPE SOS SOLIDARITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Soins et maladies", 
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "IYVN562H", 
+                "objet": "Présentation du plaidoyer du Groupe SOS pour la lutte contre le VIH/Sida", 
+                "publicationDate": "2020-08-24T17:38:23"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                  ], 
+                  "tiers": [
+                    "GROUPE SOS SOLIDARITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Soins et maladies", 
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "IYVN562H", 
+              "objet": "Présentation du plaidoyer du Groupe SOS pour la lutte contre le VIH/Sida", 
+              "publicationDate": "2020-08-24T17:38:23"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "GROUPE SOS SOLIDARITES", 
+                      "1000 CAFES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Développement des territoires"
+                ], 
+                "identifiantFiche": "IO3WAS6V", 
+                "objet": "Audition dans le cadre de l'élaboration de l'agenda rural", 
+                "publicationDate": "2020-08-24T17:09:49"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "1000 CAFES", 
+                    "GROUPE SOS SOLIDARITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Développement des territoires"
+              ], 
+              "identifiantFiche": "IO3WAS6V", 
+              "objet": "Audition dans le cadre de l'élaboration de l'agenda rural", 
+              "publicationDate": "2020-08-24T17:09:49"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "PLFSS 2020", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                    ], 
+                    "tiers": [
+                      "GROUPE SOS SANTE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "Z0V5NN93", 
+                "objet": "Présenter les spécificités des établissements de santé du secteur privé non lucratif ", 
+                "publicationDate": "2020-08-24T17:11:49"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "PLFSS 2020", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                  ], 
+                  "tiers": [
+                    "GROUPE SOS SANTE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "Z0V5NN93", 
+              "objet": "Présenter les spécificités des établissements de santé du secteur privé non lucratif ", 
+              "publicationDate": "2020-08-24T17:11:49"
+            }
           }
         ], 
         "dateDebut": "2019-01-01", 
@@ -19168,7 +20222,121 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Industrie agroalimentaire", 
+          "Agriculture"
+        ], 
+        "identifiantFiche": "FX3CYI1H", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Présenter les actions du Groupe SOS Transition Ecologique en matière d’aide alimentaire ", 
+        "publicationDate": "2020-08-24T17:17:43"
+      }, 
+      {
+        "domainesIntervention": [
+          "Développement des territoires"
+        ], 
+        "identifiantFiche": "KDVSIBOH", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Présentation de l'initiative 1000 cafés et dans le cadre du projet de loi sur les licences IV ruralités", 
+        "publicationDate": "2020-08-24T17:19:16"
+      }, 
+      {
+        "domainesIntervention": [
+          "Politique industrielle"
+        ], 
+        "identifiantFiche": "SBHO2YOV", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Présenter un projet d'indice international pour la mesure des écosystèmes d'entrepreneuriat social", 
+        "publicationDate": "2020-08-24T17:19:57"
+      }, 
+      {
+        "domainesIntervention": [
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "19V0FSD3", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Présenter Groupe SOS ainsi que ses actions et interventions", 
+        "publicationDate": "2020-08-24T17:21:44"
+      }, 
+      {
+        "domainesIntervention": [
+          "Système de santé et médico-social", 
+          "Handicap", 
+          "Discriminations", 
+          "Egalité des chances"
+        ], 
+        "identifiantFiche": "FX3CYC1H", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Porter les propositions du Groupe SOS en matière de réduction des inégalités sociales", 
+        "publicationDate": "2020-08-24T17:22:21"
+      }, 
+      {
+        "domainesIntervention": [
+          "Handicap", 
+          "Discriminations", 
+          "Egalité des chances"
+        ], 
+        "identifiantFiche": "Z0V5NA83", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Présenter les actions du Groupe SOS pour l’insertion des plus éloignés de l’emploi", 
+        "publicationDate": "2020-08-24T17:22:48"
+      }, 
+      {
+        "domainesIntervention": [
+          "Handicap", 
+          "Discriminations", 
+          "Egalité des chances", 
+          "Egalité femmes/hommes"
+        ], 
+        "identifiantFiche": "2Y3KW9D3", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Mobiliser les entreprises pour l’inclusion et l’insertion professionnelle", 
+        "publicationDate": "2020-08-24T17:23:17"
+      }, 
+      {
+        "domainesIntervention": [
+          "Droit du travail"
+        ], 
+        "identifiantFiche": "S0V259FV", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Porter les propositions du Groupe SOS en matière de développement de l’économie sociale et solidaire", 
+        "publicationDate": "2020-08-24T17:23:40"
+      }, 
+      {
+        "domainesIntervention": [
+          "Droit du travail", 
+          "Discriminations", 
+          "Egalité des chances", 
+          "Egalité femmes/hommes"
+        ], 
+        "identifiantFiche": "2EHL8PIV", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Présenter les actions du Groupe SOS en termes d’impact positif de l’entreprise.", 
+        "publicationDate": "2020-08-24T17:24:18"
+      }, 
+      {
+        "domainesIntervention": [
+          "Soins et maladies", 
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "IYVN562H", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Présentation du plaidoyer du Groupe SOS pour la lutte contre le VIH/Sida", 
+        "publicationDate": "2020-08-24T17:38:23"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/404826554.json", 
     "ville": "PARIS CEDEX 11"
@@ -31333,7 +32501,7 @@
       }
     ], 
     "dateCreation": "2018-06-29T16:27:09", 
-    "dateDernierePublicationActivite": "2019-05-02T14:38:36", 
+    "dateDernierePublicationActivite": "2020-08-24T15:22:03", 
     "datePremierePublication": "2018-06-29T16:27:09", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -31429,12 +32597,213 @@
         "publicationDate": "2019-10-04T15:00:38"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement"
+                    ], 
+                    "tiers": [
+                      "SOGARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Politique industrielle", 
+                  "Impact des transports marchands et collectifs", 
+                  "Impact de l'activité industrielle", 
+                  "Energies renouvelables", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "KDVSIZ4H", 
+                "objet": "Etude des synergies entre le Groupe Sogaris et l'axe Seine, pour le développement de la logistique fluviale.", 
+                "publicationDate": "2020-08-24T15:22:03"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement"
+                  ], 
+                  "tiers": [
+                    "SOGARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Politique industrielle", 
+                "Impact des transports marchands et collectifs", 
+                "Impact de l'activité industrielle", 
+                "Energies renouvelables", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "KDVSIZ4H", 
+              "objet": "Etude des synergies entre le Groupe Sogaris et l'axe Seine, pour le développement de la logistique fluviale.", 
+              "publicationDate": "2020-08-24T15:22:03"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement"
+                    ], 
+                    "tiers": [
+                      "SOGARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Politique industrielle", 
+                  "Impact des transports marchands et collectifs", 
+                  "Impact de l'activité industrielle", 
+                  "Energies renouvelables", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "DC341RW3", 
+                "objet": "Présentation de Sogaris dans la perspective de la rédaction du Projet Partenarial d'Aménagement (PPA) pour le Grand Orly ", 
+                "publicationDate": "2020-08-24T15:21:49"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement"
+                  ], 
+                  "tiers": [
+                    "SOGARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Politique industrielle", 
+                "Impact des transports marchands et collectifs", 
+                "Impact de l'activité industrielle", 
+                "Energies renouvelables", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "DC341RW3", 
+              "objet": "Présentation de Sogaris dans la perspective de la rédaction du Projet Partenarial d'Aménagement (PPA) pour le Grand Orly ", 
+              "publicationDate": "2020-08-24T15:21:49"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement"
+                    ], 
+                    "tiers": [
+                      "SOGARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Politique industrielle", 
+                  "Impact des transports marchands et collectifs", 
+                  "Impact de l'activité industrielle", 
+                  "Energies renouvelables", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "IO3WAE9V", 
+                "objet": "Partager les enjeux de la souveraineté logistique en Ile de France afin de promouvoir une action de l'Etat sur les problématiques de logistique.", 
+                "publicationDate": "2020-08-24T15:21:29"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement"
+                  ], 
+                  "tiers": [
+                    "SOGARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Politique industrielle", 
+                "Impact des transports marchands et collectifs", 
+                "Impact de l'activité industrielle", 
+                "Energies renouvelables", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "IO3WAE9V", 
+              "objet": "Partager les enjeux de la souveraineté logistique en Ile de France afin de promouvoir une action de l'Etat sur les problématiques de logistique.", 
+              "publicationDate": "2020-08-24T15:21:29"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 5330, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 3, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2020-08-24T15:22:32"
       }, 
       {
         "dateDebut": "2020-01-01", 
@@ -31472,6 +32841,19 @@
         "nombreActivite": 1, 
         "nombreSalaries": 2, 
         "publicationDate": "2019-09-06T14:48:38"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 5330, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 3, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2020-08-24T15:22:32"
       }
     ], 
     "identifiantNational": "602046112", 
