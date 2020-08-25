@@ -20222,121 +20222,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Industrie agroalimentaire", 
-          "Agriculture"
-        ], 
-        "identifiantFiche": "FX3CYI1H", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Présenter les actions du Groupe SOS Transition Ecologique en matière d’aide alimentaire ", 
-        "publicationDate": "2020-08-24T17:17:43"
-      }, 
-      {
-        "domainesIntervention": [
-          "Développement des territoires"
-        ], 
-        "identifiantFiche": "KDVSIBOH", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Présentation de l'initiative 1000 cafés et dans le cadre du projet de loi sur les licences IV ruralités", 
-        "publicationDate": "2020-08-24T17:19:16"
-      }, 
-      {
-        "domainesIntervention": [
-          "Politique industrielle"
-        ], 
-        "identifiantFiche": "SBHO2YOV", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Présenter un projet d'indice international pour la mesure des écosystèmes d'entrepreneuriat social", 
-        "publicationDate": "2020-08-24T17:19:57"
-      }, 
-      {
-        "domainesIntervention": [
-          "Système de santé et médico-social"
-        ], 
-        "identifiantFiche": "19V0FSD3", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Présenter Groupe SOS ainsi que ses actions et interventions", 
-        "publicationDate": "2020-08-24T17:21:44"
-      }, 
-      {
-        "domainesIntervention": [
-          "Système de santé et médico-social", 
-          "Handicap", 
-          "Discriminations", 
-          "Egalité des chances"
-        ], 
-        "identifiantFiche": "FX3CYC1H", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Porter les propositions du Groupe SOS en matière de réduction des inégalités sociales", 
-        "publicationDate": "2020-08-24T17:22:21"
-      }, 
-      {
-        "domainesIntervention": [
-          "Handicap", 
-          "Discriminations", 
-          "Egalité des chances"
-        ], 
-        "identifiantFiche": "Z0V5NA83", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Présenter les actions du Groupe SOS pour l’insertion des plus éloignés de l’emploi", 
-        "publicationDate": "2020-08-24T17:22:48"
-      }, 
-      {
-        "domainesIntervention": [
-          "Handicap", 
-          "Discriminations", 
-          "Egalité des chances", 
-          "Egalité femmes/hommes"
-        ], 
-        "identifiantFiche": "2Y3KW9D3", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Mobiliser les entreprises pour l’inclusion et l’insertion professionnelle", 
-        "publicationDate": "2020-08-24T17:23:17"
-      }, 
-      {
-        "domainesIntervention": [
-          "Droit du travail"
-        ], 
-        "identifiantFiche": "S0V259FV", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Porter les propositions du Groupe SOS en matière de développement de l’économie sociale et solidaire", 
-        "publicationDate": "2020-08-24T17:23:40"
-      }, 
-      {
-        "domainesIntervention": [
-          "Droit du travail", 
-          "Discriminations", 
-          "Egalité des chances", 
-          "Egalité femmes/hommes"
-        ], 
-        "identifiantFiche": "2EHL8PIV", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Présenter les actions du Groupe SOS en termes d’impact positif de l’entreprise.", 
-        "publicationDate": "2020-08-24T17:24:18"
-      }, 
-      {
-        "domainesIntervention": [
-          "Soins et maladies", 
-          "Système de santé et médico-social"
-        ], 
-        "identifiantFiche": "IYVN562H", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Présentation du plaidoyer du Groupe SOS pour la lutte contre le VIH/Sida", 
-        "publicationDate": "2020-08-24T17:38:23"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/404826554.json", 
     "ville": "PARIS CEDEX 11"
@@ -23707,12 +23593,17 @@
             }
           }
         ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 5136, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 1, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2020-08-24T23:19:26"
       }, 
       {
         "dateDebut": "2020-01-01", 
@@ -23965,6 +23856,19 @@
         "nombreActivite": 1, 
         "nombreSalaries": 1, 
         "publicationDate": "2019-03-29T13:55:43"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 5136, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2020-08-24T23:19:26"
       }
     ], 
     "identifiantNational": "445331192", 
