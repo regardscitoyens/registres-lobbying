@@ -2252,6 +2252,138 @@
           "code": "EUROPEEN", 
           "label": "Européen", 
           "ordre": 3
+        }, 
+        {
+          "categorie": null, 
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "categorie": null, 
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "categorie": null, 
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "categorie": null, 
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "categorie": null, 
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "categorie": null, 
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "categorie": null, 
+          "code": "SOCIETE", 
+          "label": "Questions de société", 
+          "ordre": 26
+        }
+      ]
+    }, 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "AUTRE", 
+      "code": "AUORG", 
+      "label": "Autres organisations"
+    }, 
+    "clients": [], 
+    "codePostal": "92100", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président et Dean", 
+        "nom": "CHTIOUI", 
+        "prenom": "Tawhid"
+      }
+    ], 
+    "dateCreation": "2020-09-05T11:50:53", 
+    "datePremierePublication": "2020-09-05T11:50:53", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "AIVANCITY", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président et Dean", 
+        "nom": "CHTIOUI", 
+        "prenom": "Tawhid"
+      }
+    ], 
+    "exercices": [
+      {
+        "dateDebut": "2020-05-19", 
+        "dateFin": "2020-09-05", 
+        "defautDeclaration": false, 
+        "exerciceId": 11275, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2020-09-06", 
+        "dateFin": "2021-05-18", 
+        "defautDeclaration": false, 
+        "exerciceId": 11276, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }
+    ], 
+    "historique": [], 
+    "historique_exercices": [], 
+    "identifiantNational": "883439929", 
+    "isActivitesPubliees": false, 
+    "lienPageFacebook": "https://www.facebook.com/Aivancity/", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/aivancity", 
+    "lienPageTwitter": "https://twitter.com/aivancity", 
+    "lienSiteWeb": "https://aivancity.ai", 
+    "nomUsage": "AIVANCITY SCHOOL FOR TECHNOLOGY, BUSINESS & SOCIETY PARIS-CACHAN", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": false, 
+    "publierMonTelephoneDeContact": false, 
+    "resumes_actions": [], 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "https://www.hatvp.fr/agora/883439929.json", 
+    "ville": "BOULOGNE-BILLANCOURT"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "categorie": null, 
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "categorie": null, 
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "categorie": null, 
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
         }
       ], 
       "listSecteursActivites": [
