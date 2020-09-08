@@ -31144,6 +31144,168 @@
           "code": "EUROPEEN", 
           "label": "Européen", 
           "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "categorie": null, 
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }
+      ]
+    }, 
+    "adresse": "SOC COOPERATIVE AGRICOLE CAP SEINE\n16 RUE GEORGES CHARPAK\nPAT LA VATINE\nBP 108", 
+    "affiliations": [
+      {
+        "denomination": "COOP DE FRANCE", 
+        "identifiantNational": "784179665", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AUTRE", 
+      "code": "AUORG", 
+      "label": "Autres organisations"
+    }, 
+    "clients": [], 
+    "codePostal": "76130", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Vice Président", 
+        "nom": "PORTHEAULT", 
+        "prenom": "Alexis"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice Président", 
+        "nom": "CREVECOEUR", 
+        "prenom": "Samuel"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice Président", 
+        "nom": "BARRET", 
+        "prenom": "François"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice Président", 
+        "nom": "DERYCKE", 
+        "prenom": "Marc"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Vice Président", 
+        "nom": "VERHAEGHE", 
+        "prenom": "Ghislain"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des pôles Transformation Valorisation et Distribution", 
+        "nom": "LETIERCE", 
+        "prenom": "Luc"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur de projet", 
+        "nom": "JOUANNIN", 
+        "prenom": "Maxime"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président du Conseil d'Administration", 
+        "nom": "DESCHAMPS", 
+        "prenom": "Jean-Charles"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "APS", 
+        "prenom": "Patrick"
+      }
+    ], 
+    "dateCreation": "2020-09-08T16:54:26", 
+    "datePremierePublication": "2020-09-08T16:54:26", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "SOC COOPERATIVE AGRICOLE CAP SEINE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président du conseil d'administration", 
+        "nom": "DESCHAMPS", 
+        "prenom": "Jean-Charles"
+      }
+    ], 
+    "exercices": [
+      {
+        "dateDebut": "2018-07-01", 
+        "dateFin": "2019-06-30", 
+        "defautDeclaration": false, 
+        "exerciceId": 11283, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2019-07-01", 
+        "dateFin": "2020-06-30", 
+        "defautDeclaration": false, 
+        "exerciceId": 11280, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2020-07-01", 
+        "dateFin": "2020-09-08", 
+        "defautDeclaration": false, 
+        "exerciceId": 11281, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2020-09-09", 
+        "dateFin": "2021-06-30", 
+        "defautDeclaration": false, 
+        "exerciceId": 11282, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }
+    ], 
+    "historique": [], 
+    "historique_exercices": [], 
+    "identifiantNational": "775701097", 
+    "isActivitesPubliees": false, 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "resumes_actions": [], 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "https://www.hatvp.fr/agora/775701097.json", 
+    "ville": "MONT ST AIGNAN"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "categorie": null, 
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "categorie": null, 
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "categorie": null, 
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
         }, 
         {
           "categorie": null, 
