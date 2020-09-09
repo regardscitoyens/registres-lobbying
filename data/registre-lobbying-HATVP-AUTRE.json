@@ -15428,6 +15428,421 @@
       "listNiveauIntervention": [
         {
           "categorie": null, 
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "categorie": null, 
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "categorie": null, 
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "categorie": null, 
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "categorie": null, 
+          "code": "ETRANGER", 
+          "label": "Affaires étrangères, coopération internationale", 
+          "ordre": 1
+        }, 
+        {
+          "categorie": null, 
+          "code": "SECURITE", 
+          "label": "Défense, sécurité", 
+          "ordre": 7
+        }, 
+        {
+          "categorie": null, 
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "categorie": null, 
+          "code": "NUMERIQUE", 
+          "label": "Numérique", 
+          "ordre": 19
+        }, 
+        {
+          "categorie": null, 
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }, 
+        {
+          "categorie": null, 
+          "code": "SOCIETE", 
+          "label": "Questions de société", 
+          "ordre": 26
+        }, 
+        {
+          "categorie": null, 
+          "code": "COM", 
+          "label": "Communications électroniques", 
+          "ordre": 28
+        }
+      ]
+    }, 
+    "adresse": "5 RUE DE L HORLOGE", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "AUTRE", 
+      "code": "AUORG", 
+      "label": "Autres organisations"
+    }, 
+    "clients": [
+      {
+        "denomination": "COMMUNAUTE AGGLO ST QUENTIN EN YVELINES", 
+        "identifiantNational": "247800451", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FED IDUST ELECTR ELECTRONIQUES  COMMUNIC", 
+        "identifiantNational": "775688443", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OLVID", 
+        "identifiantNational": "850667171", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CNPP CYBERSECURITY", 
+        "identifiantNational": "818346264", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "SEELA", 
+        "identifiantNational": "790809016", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "CABINET BESSE TRANSPORTS RISQUES DIVERS", 
+        "identifiantNational": "314120999", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPE ECOLE SUPERIEURE COMMERCE RENNES", 
+        "identifiantNational": "378327514", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "OXIBOX GROUP", 
+        "identifiantNational": "882579931", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ALLIANCE POUR LA CONFIANCE NUMERIQUE", 
+        "identifiantNational": "797543550", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "EGERIE SOFTWARE", 
+        "identifiantNational": "817640998", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GOOGLE FRANCE", 
+        "identifiantNational": "443061841", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ARIADNEXT", 
+        "identifiantNational": "520769225", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GATEWATCHER", 
+        "identifiantNational": "810505248", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "POLE D EXCELLENCE CYBER", 
+        "identifiantNational": "822406526", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "YES WE HACK", 
+        "identifiantNational": "814037214", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "NOMOLEX PERFORMANCE S.A.S", 
+        "identifiantNational": "838693927", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "codePostal": "35000", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "GARNAULT", 
+        "prenom": "Sébastien"
+      }
+    ], 
+    "dateCreation": "2020-09-09T16:16:12", 
+    "datePremierePublication": "2020-09-09T16:08:40", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": true, 
+    "denomination": "GARNAULT & ASSOCIES", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "GARNAULT", 
+        "prenom": "Sébastien"
+      }
+    ], 
+    "emailDeContact": "contact@garnault-associes.com", 
+    "exercices": [
+      {
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-09-09", 
+        "defautDeclaration": false, 
+        "exerciceId": 11286, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2020-09-10", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11287, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }
+    ], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "categorie": null, 
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "ETRANGER", 
+              "label": "Affaires étrangères, coopération internationale", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "SECURITE", 
+              "label": "Défense, sécurité", 
+              "ordre": 7
+            }, 
+            {
+              "categorie": null, 
+              "code": "EDUCATION", 
+              "label": "Education, enseignement supérieur, formation", 
+              "ordre": 9
+            }, 
+            {
+              "categorie": null, 
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }, 
+            {
+              "categorie": null, 
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }, 
+            {
+              "categorie": null, 
+              "code": "SOCIETE", 
+              "label": "Questions de société", 
+              "ordre": 26
+            }, 
+            {
+              "categorie": null, 
+              "code": "COM", 
+              "label": "Communications électroniques", 
+              "ordre": 28
+            }
+          ]
+        }, 
+        "adresse": "5 RUE DE L HORLOGE", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations"
+        }, 
+        "clients": [
+          {
+            "denomination": "COMMUNAUTE AGGLO ST QUENTIN EN YVELINES", 
+            "identifiantNational": "247800451", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FED IDUST ELECTR ELECTRONIQUES  COMMUNIC", 
+            "identifiantNational": "775688443", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OLVID", 
+            "identifiantNational": "850667171", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CNPP CYBERSECURITY", 
+            "identifiantNational": "818346264", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SEELA", 
+            "identifiantNational": "790809016", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CABINET BESSE TRANSPORTS RISQUES DIVERS", 
+            "identifiantNational": "314120999", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPE ECOLE SUPERIEURE COMMERCE RENNES", 
+            "identifiantNational": "378327514", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "OXIBOX GROUP", 
+            "identifiantNational": "882579931", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ALLIANCE POUR LA CONFIANCE NUMERIQUE", 
+            "identifiantNational": "797543550", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "EGERIE SOFTWARE", 
+            "identifiantNational": "817640998", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GOOGLE FRANCE", 
+            "identifiantNational": "443061841", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ARIADNEXT", 
+            "identifiantNational": "520769225", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GATEWATCHER", 
+            "identifiantNational": "810505248", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "POLE D EXCELLENCE CYBER", 
+            "identifiantNational": "822406526", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "YES WE HACK", 
+            "identifiantNational": "814037214", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "NOMOLEX PERFORMANCE S.A.S", 
+            "identifiantNational": "838693927", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "35000", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "GARNAULT", 
+            "prenom": "Sébastien"
+          }
+        ], 
+        "dateCreation": "2020-09-09T16:08:40", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": true, 
+        "denomination": "GARNAULT & ASSOCIES", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "GARNAULT", 
+            "prenom": "Sébastien"
+          }
+        ], 
+        "emailDeContact": "contact@garnault-associes.com", 
+        "identifiantNational": "818007288", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/garnault-&-associ%C3%A9s", 
+        "lienPageTwitter": "https://twitter.com/rdvparlement_r", 
+        "lienSiteWeb": "http://www.garnault-associes.com", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "RENNES"
+      }
+    ], 
+    "historique_exercices": [], 
+    "identifiantNational": "818007288", 
+    "isActivitesPubliees": false, 
+    "lienPageLinkedin": "https://www.linkedin.com/company/garnault-&-associ%C3%A9s", 
+    "lienPageTwitter": "https://twitter.com/rdvparlement_r", 
+    "lienSiteWeb": "http://www.garnault-associes.com", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "resumes_actions": [], 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "https://www.hatvp.fr/agora/818007288.json", 
+    "ville": "RENNES"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "categorie": null, 
           "code": "MONDIAL", 
           "label": "Mondial", 
           "ordre": 4
