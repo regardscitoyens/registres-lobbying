@@ -14381,6 +14381,7 @@
       }
     ], 
     "dateCreation": "2019-03-29T16:48:39", 
+    "dateDernierePublicationActivite": "2020-09-14T15:06:04", 
     "datePremierePublication": "2019-03-29T16:48:39", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -14395,12 +14396,79 @@
     ], 
     "exercices": [
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Organiser des débats publics, des marches, des stratégies d'influence sur internet", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "ECOLOGIC (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Déchets"
+                ], 
+                "identifiantFiche": "K6VBUCP3", 
+                "objet": "Rencontres dans le cadre des travaux législatifs relatifs au projet de Loi AGEC pour faire part de notre expérience dans le domaine de la REP DEEE.", 
+                "publicationDate": "2020-09-14T15:06:04"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Organiser des débats publics, des marches, des stratégies d'influence sur internet", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "ECOLOGIC (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Déchets"
+              ], 
+              "identifiantFiche": "K6VBUCP3", 
+              "objet": "Rencontres dans le cadre des travaux législatifs relatifs au projet de Loi AGEC pour faire part de notre expérience dans le domaine de la REP DEEE.", 
+              "publicationDate": "2020-09-14T15:06:04"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-03-29", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 7765, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 1, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2020-09-14T12:29:54"
       }, 
       {
         "dateDebut": "2020-01-01", 
@@ -14412,15 +14480,40 @@
       }
     ], 
     "historique": [], 
-    "historique_exercices": [], 
+    "historique_exercices": [
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-03-29", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 7765, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2020-09-14T12:29:54"
+      }
+    ], 
     "identifiantNational": "487741969", 
-    "isActivitesPubliees": false, 
+    "isActivitesPubliees": true, 
     "lienSiteWeb": "http://www.ecologic-france.com", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": false, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Déchets"
+        ], 
+        "identifiantFiche": "K6VBUCP3", 
+        "nom_organisation": "ECOLOGIC", 
+        "num_organisation": "487741969", 
+        "objet": "Rencontres dans le cadre des travaux législatifs relatifs au projet de Loi AGEC pour faire part de notre expérience dans le domaine de la REP DEEE.", 
+        "publicationDate": "2020-09-14T15:06:04"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/487741969.json", 
     "ville": "GUYANCOURT"
