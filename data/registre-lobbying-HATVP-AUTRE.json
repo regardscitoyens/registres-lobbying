@@ -2440,7 +2440,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "93210", 
@@ -3218,12 +3219,17 @@
             }
           }
         ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 4569, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 400 000 euros et < 500 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 6, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2020-09-22T15:42:49"
       }, 
       {
         "chiffreAffaire": "> = 1 000 000 euros", 
@@ -3300,7 +3306,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "93210", 
@@ -3399,7 +3406,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "93210", 
@@ -3471,6 +3479,19 @@
         "nombreActivite": 5, 
         "nombreSalaries": 1, 
         "publicationDate": "2019-03-29T11:58:54"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 4569, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 400 000 euros et < 500 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 6, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2020-09-22T15:42:49"
       }, 
       {
         "chiffreAffaire": "> = 1 000 000 euros", 
@@ -3735,7 +3756,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [
       {
@@ -4338,11 +4360,11 @@
         "defautDeclaration": false, 
         "exerciceId": 3276, 
         "hasNotChiffreAffaire": true, 
-        "montantDepense": "< 10 000 euros", 
+        "montantDepense": "> = 50 000 euros et < 75 000 euros", 
         "noActivite": false, 
         "nombreActivite": 3, 
         "nombreSalaries": 1, 
-        "publicationDate": "2019-10-08T16:00:00"
+        "publicationDate": "2020-09-18T13:13:48"
       }, 
       {
         "dateDebut": "2019-07-02", 
@@ -4350,11 +4372,11 @@
         "defautDeclaration": false, 
         "exerciceId": 8070, 
         "hasNotChiffreAffaire": true, 
-        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
+        "montantDepense": "> = 50 000 euros et < 75 000 euros", 
         "noActivite": false, 
         "nombreActivite": 0, 
         "nombreSalaries": 1, 
-        "publicationDate": "2019-10-08T15:59:15"
+        "publicationDate": "2020-09-18T13:14:06"
       }, 
       {
         "dateDebut": "2020-07-02", 
@@ -4407,7 +4429,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [
           {
@@ -4484,7 +4507,19 @@
         "defautDeclaration": false, 
         "exerciceId": 3276, 
         "hasNotChiffreAffaire": true, 
-        "montantDepense": "< 10 000 euros", 
+        "montantDepense": "> = 50 000 euros et < 75 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 3, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2020-09-18T13:13:48"
+      }, 
+      {
+        "dateDebut": "2018-07-02", 
+        "dateFin": "2019-07-01", 
+        "defautDeclaration": false, 
+        "exerciceId": 3276, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 50 000 euros et < 75 000 euros", 
         "noActivite": false, 
         "nombreActivite": 3, 
         "nombreSalaries": 1, 
@@ -4496,7 +4531,19 @@
         "defautDeclaration": false, 
         "exerciceId": 8070, 
         "hasNotChiffreAffaire": true, 
-        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
+        "montantDepense": "> = 50 000 euros et < 75 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2020-09-18T13:14:06"
+      }, 
+      {
+        "dateDebut": "2019-07-02", 
+        "dateFin": "2020-07-01", 
+        "defautDeclaration": false, 
+        "exerciceId": 8070, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 50 000 euros et < 75 000 euros", 
         "noActivite": false, 
         "nombreActivite": 0, 
         "nombreSalaries": 1, 
@@ -6283,7 +6330,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "92200", 
@@ -6295,26 +6343,391 @@
         "prenom": "Sandrine"
       }
     ], 
-    "dateCreation": "2018-04-12T15:52:15", 
+    "dateCreation": "2020-09-22T17:18:44", 
+    "dateDernierePublicationActivite": "2020-09-22T17:15:03", 
     "datePremierePublication": "2018-04-12T15:52:15", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
     "denomination": "CAISSE RETRAITE PERSONNEL NAVIGANT", 
     "dirigeants": [
       {
-        "civilite": "MME", 
-        "fonction": "Présidente", 
-        "nom": "PAIRAULT-MEYZER", 
-        "prenom": "Michèle"
-      }, 
-      {
         "civilite": "M", 
         "fonction": "Directeur", 
         "nom": "STOFER", 
         "prenom": "Etienne"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "JANOT", 
+        "prenom": "Michel"
       }
     ], 
     "exercices": [
+      {
+        "dateDebut": "2018-01-01", 
+        "dateFin": "2018-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 3503, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": true, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2019-03-11T14:15:42"
+      }, 
+      {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires", 
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CAISSE RETRAITE PERSONNEL NAVIGANT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Retraites", 
+                  "Impact des transports individuels"
+                ], 
+                "identifiantFiche": "C5HA8X4H", 
+                "objet": "Défense du régime complémentaire du personnel navigant dans le cadre de la réforme des retraites", 
+                "publicationDate": "2020-09-22T17:10:51"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires", 
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CAISSE RETRAITE PERSONNEL NAVIGANT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Retraites", 
+                "Impact des transports individuels"
+              ], 
+              "identifiantFiche": "C5HA8X4H", 
+              "objet": "Défense du régime complémentaire du personnel navigant dans le cadre de la réforme des retraites", 
+              "publicationDate": "2020-09-22T17:10:51"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Autres décisions publiques", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CAISSE RETRAITE PERSONNEL NAVIGANT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Dialogue social", 
+                  "Droit du travail"
+                ], 
+                "identifiantFiche": "2PVXF4YV", 
+                "objet": "Sensibilisation du Parlement à la lutte contre la fraude au détachement de travailleurs dans le transport aérien", 
+                "publicationDate": "2020-09-22T17:08:24"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Autres décisions publiques", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CAISSE RETRAITE PERSONNEL NAVIGANT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Dialogue social", 
+                "Droit du travail"
+              ], 
+              "identifiantFiche": "2PVXF4YV", 
+              "objet": "Sensibilisation du Parlement à la lutte contre la fraude au détachement de travailleurs dans le transport aérien", 
+              "publicationDate": "2020-09-22T17:08:24"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires", 
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CAISSE RETRAITE PERSONNEL NAVIGANT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Retraites", 
+                  "Impact des transports individuels"
+                ], 
+                "identifiantFiche": "SBHOZ173", 
+                "objet": "Transmission d'informations sur les impacts de la réformes des retraites pour le personnel navigant", 
+                "publicationDate": "2020-09-22T17:12:57"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires", 
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CAISSE RETRAITE PERSONNEL NAVIGANT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Retraites", 
+                "Impact des transports individuels"
+              ], 
+              "identifiantFiche": "SBHOZ173", 
+              "objet": "Transmission d'informations sur les impacts de la réformes des retraites pour le personnel navigant", 
+              "publicationDate": "2020-09-22T17:12:57"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CAISSE RETRAITE PERSONNEL NAVIGANT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Retraites", 
+                  "Dialogue social", 
+                  "Impact des transports individuels"
+                ], 
+                "identifiantFiche": "POHZS6A3", 
+                "objet": "Défense du financement de la CRPNPAC dans le cadre du PLFSS 2020", 
+                "publicationDate": "2020-09-22T17:15:03"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CAISSE RETRAITE PERSONNEL NAVIGANT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Retraites", 
+                "Dialogue social", 
+                "Impact des transports individuels"
+              ], 
+              "identifiantFiche": "POHZS6A3", 
+              "objet": "Défense du financement de la CRPNPAC dans le cadre du PLFSS 2020", 
+              "publicationDate": "2020-09-22T17:15:03"
+            }
+          }
+        ], 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 4793, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 4, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2020-09-22T17:16:15"
+      }, 
+      {
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9664, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }
+    ], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "categorie": null, 
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "CAISSE RETRAITE PERSONNEL NAVIGANT\r\n8 RUE DE L HOTEL DE VILLE", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [], 
+        "codePostal": "92200", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Adjointe", 
+            "nom": "JOHNSON", 
+            "prenom": "Sandrine"
+          }
+        ], 
+        "dateCreation": "2018-04-12T15:52:15", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "CAISSE RETRAITE PERSONNEL NAVIGANT", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente", 
+            "nom": "PAIRAULT-MEYZER", 
+            "prenom": "Michèle"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur", 
+            "nom": "STOFER", 
+            "prenom": "Etienne"
+          }
+        ], 
+        "identifiantNational": "785422304", 
+        "lienSiteWeb": "https://www.crpn.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "NEUILLY SUR SEINE"
+      }
+    ], 
+    "historique_exercices": [
       {
         "dateDebut": "2018-01-01", 
         "dateFin": "2018-12-31", 
@@ -6332,41 +6745,69 @@
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 4793, 
-        "noActivite": false, 
-        "nombreActivite": 0
-      }, 
-      {
-        "dateDebut": "2020-01-01", 
-        "dateFin": "2020-12-31", 
-        "defautDeclaration": false, 
-        "exerciceId": 9664, 
-        "noActivite": false, 
-        "nombreActivite": 0
-      }
-    ], 
-    "historique": [], 
-    "historique_exercices": [
-      {
-        "dateDebut": "2018-01-01", 
-        "dateFin": "2018-12-31", 
-        "defautDeclaration": false, 
-        "exerciceId": 3503, 
         "hasNotChiffreAffaire": true, 
-        "montantDepense": "< 10 000 euros", 
-        "noActivite": true, 
-        "nombreActivite": 0, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 4, 
         "nombreSalaries": 1, 
-        "publicationDate": "2019-03-11T14:15:42"
+        "publicationDate": "2020-09-22T17:16:15"
       }
     ], 
     "identifiantNational": "785422304", 
-    "isActivitesPubliees": false, 
+    "isActivitesPubliees": true, 
     "lienSiteWeb": "https://www.crpn.fr/", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs", 
+          "Dialogue social", 
+          "Droit du travail"
+        ], 
+        "identifiantFiche": "2PVXF4YV", 
+        "nom_organisation": "CAISSE RETRAITE PERSONNEL NAVIGANT", 
+        "num_organisation": "785422304", 
+        "objet": "Sensibilisation du Parlement à la lutte contre la fraude au détachement de travailleurs dans le transport aérien", 
+        "publicationDate": "2020-09-22T17:08:24"
+      }, 
+      {
+        "domainesIntervention": [
+          "Retraites", 
+          "Impact des transports individuels"
+        ], 
+        "identifiantFiche": "C5HA8X4H", 
+        "nom_organisation": "CAISSE RETRAITE PERSONNEL NAVIGANT", 
+        "num_organisation": "785422304", 
+        "objet": "Défense du régime complémentaire du personnel navigant dans le cadre de la réforme des retraites", 
+        "publicationDate": "2020-09-22T17:10:51"
+      }, 
+      {
+        "domainesIntervention": [
+          "Retraites", 
+          "Impact des transports individuels"
+        ], 
+        "identifiantFiche": "SBHOZ173", 
+        "nom_organisation": "CAISSE RETRAITE PERSONNEL NAVIGANT", 
+        "num_organisation": "785422304", 
+        "objet": "Transmission d'informations sur les impacts de la réformes des retraites pour le personnel navigant", 
+        "publicationDate": "2020-09-22T17:12:57"
+      }, 
+      {
+        "domainesIntervention": [
+          "Retraites", 
+          "Dialogue social", 
+          "Impact des transports individuels"
+        ], 
+        "identifiantFiche": "POHZS6A3", 
+        "nom_organisation": "CAISSE RETRAITE PERSONNEL NAVIGANT", 
+        "num_organisation": "785422304", 
+        "objet": "Défense du financement de la CRPNPAC dans le cadre du PLFSS 2020", 
+        "publicationDate": "2020-09-22T17:15:03"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/785422304.json", 
     "ville": "NEUILLY SUR SEINE"
@@ -9921,7 +10362,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "76007", 
@@ -9988,7 +10430,7 @@
       }
     ], 
     "dateCreation": "2019-03-29T15:38:06", 
-    "dateDernierePublicationActivite": "2019-06-05T10:39:58", 
+    "dateDernierePublicationActivite": "2020-09-22T14:54:22", 
     "datePremierePublication": "2017-12-22T14:58:42", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -10087,6 +10529,178 @@
         "publicationDate": "2019-06-05T10:45:52"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "Juillet 2019", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
+                    ], 
+                    "tiers": [
+                      "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Taxes"
+                ], 
+                "identifiantFiche": "UYVIZ4JH", 
+                "objet": "Dans le cadre de la suppression du prélèvement FT ", 
+                "publicationDate": "2020-09-22T14:54:22"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "Juillet 2019", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
+                  ], 
+                  "tiers": [
+                    "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Taxes"
+              ], 
+              "identifiantFiche": "UYVIZ4JH", 
+              "objet": "Dans le cadre de la suppression du prélèvement FT ", 
+              "publicationDate": "2020-09-22T14:54:22"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Décisions d'espèce"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Préfecture de Seine Maritime", 
+                    "tiers": [
+                      "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Développement des territoires"
+                ], 
+                "identifiantFiche": "2ZV90W0V", 
+                "objet": "Echanges Préfecture : territoire, SMA et revitalisation", 
+                "publicationDate": "2020-09-22T14:54:04"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Décisions d'espèce"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Préfecture de Seine Maritime", 
+                  "tiers": [
+                    "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Développement des territoires"
+              ], 
+              "identifiantFiche": "2ZV90W0V", 
+              "objet": "Echanges Préfecture : territoire, SMA et revitalisation", 
+              "publicationDate": "2020-09-22T14:54:04"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Décisions d'espèce"
+                    ], 
+                    "observation": "Septembre à Novembre 2019", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Politique industrielle", 
+                  "Impact de l'activité industrielle"
+                ], 
+                "identifiantFiche": "KUVPBP63", 
+                "objet": "Incendie Lubrizol et Normandie Logistique en septembre 2019", 
+                "publicationDate": "2020-09-22T14:53:41"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Décisions d'espèce"
+                  ], 
+                  "observation": "Septembre à Novembre 2019", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                  ], 
+                  "tiers": [
+                    "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Politique industrielle", 
+                "Impact de l'activité industrielle"
+              ], 
+              "identifiantFiche": "KUVPBP63", 
+              "objet": "Incendie Lubrizol et Normandie Logistique en septembre 2019", 
+              "publicationDate": "2020-09-22T14:53:41"
+            }
+          }
+        ], 
         "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
@@ -10095,7 +10709,7 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 3, 
         "nombreSalaries": 5, 
         "publicationDate": "2020-07-15T11:12:39"
       }, 
@@ -10169,7 +10783,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "76007", 
@@ -10274,7 +10889,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "76007", 
@@ -10343,7 +10959,7 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 3, 
         "nombreSalaries": 5, 
         "publicationDate": "2020-07-15T11:12:39"
       }
@@ -10356,7 +10972,39 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Politique industrielle", 
+          "Impact de l'activité industrielle"
+        ], 
+        "identifiantFiche": "KUVPBP63", 
+        "nom_organisation": "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE", 
+        "num_organisation": "130021751", 
+        "objet": "Incendie Lubrizol et Normandie Logistique en septembre 2019", 
+        "publicationDate": "2020-09-22T14:53:41"
+      }, 
+      {
+        "domainesIntervention": [
+          "Développement des territoires"
+        ], 
+        "identifiantFiche": "2ZV90W0V", 
+        "nom_organisation": "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE", 
+        "num_organisation": "130021751", 
+        "objet": "Echanges Préfecture : territoire, SMA et revitalisation", 
+        "publicationDate": "2020-09-22T14:54:04"
+      }, 
+      {
+        "domainesIntervention": [
+          "Taxes"
+        ], 
+        "identifiantFiche": "UYVIZ4JH", 
+        "nom_organisation": "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE", 
+        "num_organisation": "130021751", 
+        "objet": "Dans le cadre de la suppression du prélèvement FT ", 
+        "publicationDate": "2020-09-22T14:54:22"
+      }
+    ], 
     "sigleHatvp": "CCI ROUEN METROPOLE", 
     "telephoneDeContact": "02 32 100 500", 
     "typeIdentifiantNational": "SIREN", 
@@ -14502,18 +15150,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": false, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Déchets"
-        ], 
-        "identifiantFiche": "K6VBUCP3", 
-        "nom_organisation": "ECOLOGIC", 
-        "num_organisation": "487741969", 
-        "objet": "Rencontres dans le cadre des travaux législatifs relatifs au projet de Loi AGEC pour faire part de notre expérience dans le domaine de la REP DEEE.", 
-        "publicationDate": "2020-09-14T15:06:04"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/487741969.json", 
     "ville": "GUYANCOURT"
@@ -23084,7 +23721,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "49100", 
@@ -23103,6 +23741,7 @@
       }
     ], 
     "dateCreation": "2020-06-02T13:59:17", 
+    "dateDernierePublicationActivite": "2020-09-22T15:15:20", 
     "datePremierePublication": "2020-06-02T13:59:17", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -23117,6 +23756,74 @@
     ], 
     "exercices": [
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "INSTITUT DE CANCEROLOGIE DE L OUEST (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Prévention", 
+                  "Soins et maladies", 
+                  "Système de santé et médico-social", 
+                  "Recherche et innovation"
+                ], 
+                "identifiantFiche": "9SVF15LV", 
+                "objet": "Réaffirmer le rôle des CLCC dans l'offre de soins territoriale.", 
+                "publicationDate": "2020-09-22T15:15:20"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                  ], 
+                  "tiers": [
+                    "INSTITUT DE CANCEROLOGIE DE L OUEST (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Prévention", 
+                "Soins et maladies", 
+                "Système de santé et médico-social", 
+                "Recherche et innovation"
+              ], 
+              "identifiantFiche": "9SVF15LV", 
+              "objet": "Réaffirmer le rôle des CLCC dans l'offre de soins territoriale.", 
+              "publicationDate": "2020-09-22T15:15:20"
+            }
+          }
+        ], 
         "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
@@ -23125,9 +23832,9 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "> = 25 000 euros et < 50 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 1, 
         "nombreSalaries": 4, 
-        "publicationDate": "2020-06-17T10:58:45"
+        "publicationDate": "2020-09-22T15:11:43"
       }, 
       {
         "dateDebut": "2020-01-01", 
@@ -23157,13 +23864,39 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "> = 25 000 euros et < 50 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 4, 
+        "publicationDate": "2020-09-22T15:11:43"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 10748, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 4, 
+        "publicationDate": "2020-09-22T15:11:11"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 10748, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
         "nombreSalaries": 4, 
         "publicationDate": "2020-06-17T10:58:45"
       }
     ], 
     "identifiantNational": "532254307", 
-    "isActivitesPubliees": false, 
+    "isActivitesPubliees": true, 
     "lienPageFacebook": "https://fr-fr.facebook.com/institutdecancerologiedelouest/", 
     "lienPageLinkedin": "https://fr.linkedin.com/company/ico-cancer", 
     "lienPageTwitter": "https://twitter.com/icocancer?lang=fr", 
@@ -23172,7 +23905,21 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Prévention", 
+          "Soins et maladies", 
+          "Système de santé et médico-social", 
+          "Recherche et innovation"
+        ], 
+        "identifiantFiche": "9SVF15LV", 
+        "nom_organisation": "INSTITUT DE CANCEROLOGIE DE L OUEST", 
+        "num_organisation": "532254307", 
+        "objet": "Réaffirmer le rôle des CLCC dans l'offre de soins territoriale.", 
+        "publicationDate": "2020-09-22T15:15:20"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/532254307.json", 
     "ville": "ANGERS"
@@ -31445,7 +32192,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "35000", 
@@ -31493,7 +32241,7 @@
       }
     ], 
     "dateCreation": "2020-02-26T13:57:51", 
-    "dateDernierePublicationActivite": "2020-05-26T09:45:35", 
+    "dateDernierePublicationActivite": "2020-09-22T14:27:17", 
     "datePremierePublication": "2020-02-26T13:57:51", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -31603,6 +32351,82 @@
         "dateFin": "2018-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 10480, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Organiser des débats publics, des marches, des stratégies d'influence sur internet"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "ORDRE DES ARCHITECTES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Patrimoine", 
+                  "Marchés réglementés", 
+                  "Bâtiments et travaux publics", 
+                  "Logement", 
+                  "Construction"
+                ], 
+                "identifiantFiche": "2EHLLOYH", 
+                "objet": "Obtenir la suppression de certaines dispositions du projet de loi ELAN, jugées dommageables pour la qualité architecturale et urbaine de l'habitat", 
+                "publicationDate": "2020-09-22T14:27:17"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Organiser des débats publics, des marches, des stratégies d'influence sur internet"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "ORDRE DES ARCHITECTES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Patrimoine", 
+                "Marchés réglementés", 
+                "Bâtiments et travaux publics", 
+                "Logement", 
+                "Construction"
+              ], 
+              "identifiantFiche": "2EHLLOYH", 
+              "objet": "Obtenir la suppression de certaines dispositions du projet de loi ELAN, jugées dommageables pour la qualité architecturale et urbaine de l'habitat", 
+              "publicationDate": "2020-09-22T14:27:17"
+            }
+          }
+        ], 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 10479, 
         "noActivite": false, 
         "nombreActivite": 0
       }, 

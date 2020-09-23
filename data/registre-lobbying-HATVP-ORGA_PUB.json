@@ -2315,7 +2315,8 @@
     "categorieOrganisation": {
       "categorie": "ORGA_PUB", 
       "code": "EPAIC", 
-      "label": "Etablissement public exerçant une activité industrielle et commerciale"
+      "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+      "notifSansChiffreAffaire": true
     }, 
     "clients": [], 
     "codePostal": "75015", 
@@ -3628,8 +3629,12 @@
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 4990, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 4, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2020-09-22T13:43:51"
       }, 
       {
         "dateDebut": "2020-01-01", 
@@ -3712,7 +3717,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "75015", 
@@ -3842,7 +3848,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "75015", 
@@ -3961,7 +3968,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "75015", 
@@ -4080,7 +4088,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "75015", 
@@ -4199,7 +4208,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "75015", 
@@ -4318,7 +4328,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "75015", 
@@ -4396,6 +4407,18 @@
         "nombreActivite": 12, 
         "nombreSalaries": 1, 
         "publicationDate": "2019-03-20T10:52:31"
+      }, 
+      {
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 4990, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 4, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2020-09-22T13:43:51"
       }
     ], 
     "identifiantNational": "775685019", 
@@ -6958,7 +6981,8 @@
     "categorieOrganisation": {
       "categorie": "ORGA_PUB", 
       "code": "EPAIC", 
-      "label": "Etablissement public exerçant une activité industrielle et commerciale"
+      "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+      "notifSansChiffreAffaire": true
     }, 
     "clients": [], 
     "codePostal": "76000", 
@@ -6976,7 +7000,7 @@
         "prenom": "Loïc"
       }
     ], 
-    "dateCreation": "2018-11-29T12:06:05", 
+    "dateCreation": "2020-09-22T14:03:52", 
     "datePremierePublication": "2018-11-29T12:06:05", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -7028,7 +7052,115 @@
         "nombreActivite": 0
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "categorie": null, 
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "CULTURE", 
+              "label": "Arts, patrimoine culturel", 
+              "ordre": 3
+            }, 
+            {
+              "categorie": null, 
+              "code": "EDUCATION", 
+              "label": "Education, enseignement supérieur, formation", 
+              "ordre": 9
+            }
+          ]
+        }, 
+        "adresse": "OPERA DE ROUEN NORMANDIE\nTHEATRE DES ARTS\n7 RUE DU DOCTEUR RAMBERT", 
+        "affiliations": [
+          {
+            "denomination": "LES FORCES MUSICALES", 
+            "identifiantNational": "483532958", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "REUNION DES OPERAS DE FRANCE", 
+            "identifiantNational": "784412702", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION FRANCAISE DES ORCHESTRES", 
+            "identifiantNational": "391531373", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_PUB", 
+          "code": "EPAIC", 
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
+        }, 
+        "clients": [], 
+        "codePostal": "76000", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Administrateur général", 
+            "nom": "JACOB", 
+            "prenom": "Jean-Baptiste"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "LACHENAL", 
+            "prenom": "Loïc"
+          }
+        ], 
+        "dateCreation": "2018-11-29T12:06:05", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "OPERA DE ROUEN HAUTE NORMANDIE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "LACHENAL", 
+            "prenom": "Loïc"
+          }
+        ], 
+        "identifiantNational": "450761937", 
+        "lienPageFacebook": "https://www.facebook.com/operaderouen", 
+        "lienPageTwitter": "https://twitter.com/operaderouen", 
+        "lienSiteWeb": "https://www.operaderouen.fr/", 
+        "nomUsage": "Opéra de Rouen Normandie", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "ROUEN"
+      }
+    ], 
     "historique_exercices": [
       {
         "chiffreAffaire": "> = 1 000 000 euros", 
@@ -16703,7 +16835,8 @@
     "categorieOrganisation": {
       "categorie": "ORGA_PUB", 
       "code": "EPAIC", 
-      "label": "Etablissement public exerçant une activité industrielle et commerciale"
+      "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+      "notifSansChiffreAffaire": true
     }, 
     "clients": [], 
     "codePostal": "93418", 
@@ -17137,12 +17270,17 @@
             }
           }
         ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 4961, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 5, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2020-09-22T14:37:22"
       }, 
       {
         "activites": [
@@ -17250,7 +17388,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "93418", 
@@ -17336,7 +17475,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "93418", 
@@ -17422,7 +17562,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "93418", 
@@ -17508,7 +17649,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "93418", 
@@ -17578,6 +17720,19 @@
         "nombreActivite": 2, 
         "nombreSalaries": 3, 
         "publicationDate": "2018-04-30T18:50:04"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 4961, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 5, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2020-09-22T14:37:22"
       }
     ], 
     "identifiantNational": "412280737", 
@@ -18015,20 +18170,71 @@
         "typeIdentifiantNational": "SIREN"
       }, 
       {
-        "denomination": "ASSOCIATION DES DIRECTEURS GENERAUX DES COMMUNAUTES DE FRANCE", 
-        "identifiantNational": "509399788", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
         "denomination": "ASSOCIATION NATIONALE DES DIRECTEURS D'ASSOCIATIONS DE MAIRES", 
         "identifiantNational": "H904866046", 
         "typeIdentifiantNational": "HATVP"
+      }, 
+      {
+        "denomination": "ASS DES MAIRES DE FRANCE", 
+        "identifiantNational": "784718454", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION DES ADMINISTRATEURS TERRITORIAUX DE FRANCE (AATF)", 
+        "identifiantNational": "752855809", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSEMBLEE DES DEPARTEMENTS DE FRANCE", 
+        "identifiantNational": "784180150", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS DES MAIRES D ILE DE FRANCE", 
+        "identifiantNational": "388139693", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASS DES REGIONS DE FRANCE", 
+        "identifiantNational": "421466244", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSEMBLEE DES COMMUNAUTES DE FRANCE", 
+        "identifiantNational": "389062639", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION DES DIRECTEURS DE CABINET DES COLLECTIVITES TERRITORIALES A  DIRECTION SOCIALISTE ET REPUBLICAINE", 
+        "identifiantNational": "433051679", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "ASSOCIATION DES COLLABORATEURS DE CABINET DE LA DROITE ET DU CENTRE", 
+        "identifiantNational": "820661957", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FRENCH HEALTHCARE", 
+        "identifiantNational": "832408389", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION NAL DES CENTRES DE GESTION", 
+        "identifiantNational": "381417286", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "STATION FRENCH TECH", 
+        "identifiantNational": "830513685", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "categorieOrganisation": {
       "categorie": "ORGA_PUB", 
       "code": "EPAIC", 
-      "label": "Etablissement public exerçant une activité industrielle et commerciale"
+      "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+      "notifSansChiffreAffaire": true
     }, 
     "clients": [], 
     "codePostal": "77444", 
@@ -18148,7 +18354,7 @@
         "prenom": "Céline"
       }
     ], 
-    "dateCreation": "2020-03-10T11:13:37", 
+    "dateCreation": "2020-09-22T13:45:50", 
     "dateDernierePublicationActivite": "2019-05-17T11:15:58", 
     "datePremierePublication": "2018-04-12T09:59:31", 
     "declarationOrgaAppartenance": true, 
@@ -18389,7 +18595,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "77444", 
@@ -18483,7 +18690,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "77444", 
@@ -18577,7 +18785,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "77444", 
@@ -18683,7 +18892,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "77444", 
@@ -18789,7 +18999,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "77444", 
@@ -19015,7 +19226,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "77444", 
@@ -19248,7 +19460,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "77444", 
@@ -19697,7 +19910,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "77444", 
@@ -20173,7 +20387,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "77444", 
@@ -20643,7 +20858,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "77444", 
@@ -21119,7 +21335,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "77444", 
@@ -21601,7 +21818,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "77444", 
@@ -22077,7 +22295,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "77444", 
@@ -22307,7 +22526,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "77444", 
@@ -22428,6 +22648,237 @@
           }
         ], 
         "dateCreation": "2019-12-11T12:26:40", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "UNION DES GROUPEMENTS D'ACHATS PUBLICS", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président Directeur Général", 
+            "nom": "JOSSA", 
+            "prenom": "Edward"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Générale Déléguée", 
+            "nom": "DELERUELLE", 
+            "prenom": "Isabelle"
+          }
+        ], 
+        "emailDeContact": "kridoux@ugap.fr", 
+        "identifiantNational": "776056467", 
+        "lienSiteWeb": "https://www.ugap.fr/", 
+        "nomUsage": "UGAP", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "MARNE LA VALLEE CEDEX 2"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "SECURITE", 
+              "label": "Défense, sécurité", 
+              "ordre": 7
+            }, 
+            {
+              "categorie": null, 
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "categorie": null, 
+              "code": "OUTREMER", 
+              "label": "Outre-mer", 
+              "ordre": 20
+            }, 
+            {
+              "categorie": null, 
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }, 
+            {
+              "categorie": null, 
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "UNION DES GROUPEMENTS D ACHATS PUBLICS\r\n1 BOULEVARD ARCHIMEDE\r\nCHAMPS SUR MARNE", 
+        "affiliations": [
+          {
+            "denomination": "SYNDICAT NATIONAL DES DIRECTEURS GENERAUX DES COLLECTIVITES TERRITORIALES ET DE LEURS ETABLISSEMENTS PUBLICS", 
+            "identifiantNational": "389872698", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PACTE PME", 
+            "identifiantNational": "524729407", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION DES DIRECTEURS GENERAUX DES COMMUNAUTES DE FRANCE", 
+            "identifiantNational": "509399788", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION NATIONALE DES DIRECTEURS D'ASSOCIATIONS DE MAIRES", 
+            "identifiantNational": "H904866046", 
+            "typeIdentifiantNational": "HATVP"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_PUB", 
+          "code": "EPAIC", 
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
+        }, 
+        "clients": [], 
+        "codePostal": "77444", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Président Directeur Général", 
+            "nom": "JOSSA", 
+            "prenom": "Edward"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Générale Déléguée", 
+            "nom": "DELERUELLE", 
+            "prenom": "Isabelle"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur central marketing communication", 
+            "nom": "VARENE", 
+            "prenom": "Denis"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur central \"DEVELOPPEMENT TERRITORIAL\"", 
+            "nom": "JACQUET", 
+            "prenom": "Pascal"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur adjoint chargé de la stratégie territoriale", 
+            "nom": "FOURNIER", 
+            "prenom": "Guy"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Chargé de mission \"grands prescripteurs\"", 
+            "nom": "DE ROFFIGNAC", 
+            "prenom": "Matthieu"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur \"Ministères et Etablissements Franciliens\"", 
+            "nom": "TEURNIER", 
+            "prenom": "Philippe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur réseau territorial IDF", 
+            "nom": "DENEUVE", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur réseau territorial Centre Est", 
+            "nom": "PICHON", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur réseau territorial \"Centre-Ouest\"", 
+            "nom": "LAMBERT", 
+            "prenom": "Serge"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur réseau territorial (Nord-Ouest)", 
+            "nom": "NICQ", 
+            "prenom": "Marc"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur réseau territorial Sud-Ouest", 
+            "nom": "MOTHE", 
+            "prenom": "Pascal"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur réseau territorial SUD", 
+            "nom": "MAIRE", 
+            "prenom": "Sebastien"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chef de département \"communication et affaires publiques\"", 
+            "nom": "BELSOEUR-BLUTEAU", 
+            "prenom": "Pascale"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable des relations publiques", 
+            "nom": "PERRIER", 
+            "prenom": "Caroline"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable des relations publiques", 
+            "nom": "TOPENOT", 
+            "prenom": "Victoria"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur réseau territorial 'Nord-Est\"", 
+            "nom": "BAILLET", 
+            "prenom": "Remy"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur centrale Etat", 
+            "nom": "BORNE", 
+            "prenom": "Jean-Marc"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur réseau territorial \"Sud-est\"", 
+            "nom": "BARRAUD", 
+            "prenom": "Céline"
+          }
+        ], 
+        "dateCreation": "2020-03-10T11:13:37", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": false, 
         "denomination": "UNION DES GROUPEMENTS D'ACHATS PUBLICS", 
