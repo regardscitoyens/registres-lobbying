@@ -6760,54 +6760,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Transport de voyageurs", 
-          "Dialogue social", 
-          "Droit du travail"
-        ], 
-        "identifiantFiche": "2PVXF4YV", 
-        "nom_organisation": "CAISSE RETRAITE PERSONNEL NAVIGANT", 
-        "num_organisation": "785422304", 
-        "objet": "Sensibilisation du Parlement à la lutte contre la fraude au détachement de travailleurs dans le transport aérien", 
-        "publicationDate": "2020-09-22T17:08:24"
-      }, 
-      {
-        "domainesIntervention": [
-          "Retraites", 
-          "Impact des transports individuels"
-        ], 
-        "identifiantFiche": "C5HA8X4H", 
-        "nom_organisation": "CAISSE RETRAITE PERSONNEL NAVIGANT", 
-        "num_organisation": "785422304", 
-        "objet": "Défense du régime complémentaire du personnel navigant dans le cadre de la réforme des retraites", 
-        "publicationDate": "2020-09-22T17:10:51"
-      }, 
-      {
-        "domainesIntervention": [
-          "Retraites", 
-          "Impact des transports individuels"
-        ], 
-        "identifiantFiche": "SBHOZ173", 
-        "nom_organisation": "CAISSE RETRAITE PERSONNEL NAVIGANT", 
-        "num_organisation": "785422304", 
-        "objet": "Transmission d'informations sur les impacts de la réformes des retraites pour le personnel navigant", 
-        "publicationDate": "2020-09-22T17:12:57"
-      }, 
-      {
-        "domainesIntervention": [
-          "Retraites", 
-          "Dialogue social", 
-          "Impact des transports individuels"
-        ], 
-        "identifiantFiche": "POHZS6A3", 
-        "nom_organisation": "CAISSE RETRAITE PERSONNEL NAVIGANT", 
-        "num_organisation": "785422304", 
-        "objet": "Défense du financement de la CRPNPAC dans le cadre du PLFSS 2020", 
-        "publicationDate": "2020-09-22T17:15:03"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/785422304.json", 
     "ville": "NEUILLY SUR SEINE"
@@ -10972,39 +10925,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Politique industrielle", 
-          "Impact de l'activité industrielle"
-        ], 
-        "identifiantFiche": "KUVPBP63", 
-        "nom_organisation": "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE", 
-        "num_organisation": "130021751", 
-        "objet": "Incendie Lubrizol et Normandie Logistique en septembre 2019", 
-        "publicationDate": "2020-09-22T14:53:41"
-      }, 
-      {
-        "domainesIntervention": [
-          "Développement des territoires"
-        ], 
-        "identifiantFiche": "2ZV90W0V", 
-        "nom_organisation": "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE", 
-        "num_organisation": "130021751", 
-        "objet": "Echanges Préfecture : territoire, SMA et revitalisation", 
-        "publicationDate": "2020-09-22T14:54:04"
-      }, 
-      {
-        "domainesIntervention": [
-          "Taxes"
-        ], 
-        "identifiantFiche": "UYVIZ4JH", 
-        "nom_organisation": "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE", 
-        "num_organisation": "130021751", 
-        "objet": "Dans le cadre de la suppression du prélèvement FT ", 
-        "publicationDate": "2020-09-22T14:54:22"
-      }
-    ], 
+    "resumes_actions": [], 
     "sigleHatvp": "CCI ROUEN METROPOLE", 
     "telephoneDeContact": "02 32 100 500", 
     "typeIdentifiantNational": "SIREN", 
@@ -23905,21 +23826,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Prévention", 
-          "Soins et maladies", 
-          "Système de santé et médico-social", 
-          "Recherche et innovation"
-        ], 
-        "identifiantFiche": "9SVF15LV", 
-        "nom_organisation": "INSTITUT DE CANCEROLOGIE DE L OUEST", 
-        "num_organisation": "532254307", 
-        "objet": "Réaffirmer le rôle des CLCC dans l'offre de soins territoriale.", 
-        "publicationDate": "2020-09-22T15:15:20"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/532254307.json", 
     "ville": "ANGERS"
