@@ -1081,7 +1081,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [
       {
@@ -1112,7 +1113,7 @@
       }
     ], 
     "dateCreation": "2019-06-18T16:32:50", 
-    "dateDernierePublicationActivite": "2019-03-27T17:32:39", 
+    "dateDernierePublicationActivite": "2020-09-24T11:41:34", 
     "datePremierePublication": "2017-12-12T16:00:38", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -1698,12 +1699,379 @@
         "publicationDate": "2019-03-27T17:30:57"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Autres décisions publiques", 
+                      "Décisions d'espèce", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Economie et finances, Environnement, énergie et mer, Affaires étrangères et développement international, Outre-mer"
+                    ], 
+                    "tiers": [
+                      "AIR FRANCE - KLM (en propre)", 
+                      "SOCIETE AIR FRANCE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Droit de la concurrence", 
+                  "Transport de fret", 
+                  "Transport de voyageurs", 
+                  "Accords internationaux", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "DC3465FV", 
+                "objet": "Garantir la compétitivité du Groupe Air France-KLM dans un environnement concurrentiel mondialisé", 
+                "publicationDate": "2020-09-24T11:40:17"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Autres décisions publiques", 
+                    "Décisions d'espèce", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Economie et finances, Environnement, énergie et mer, Affaires étrangères et développement international, Outre-mer"
+                  ], 
+                  "tiers": [
+                    "AIR FRANCE - KLM (en propre)", 
+                    "SOCIETE AIR FRANCE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Droit de la concurrence", 
+                "Transport de fret", 
+                "Transport de voyageurs", 
+                "Accords internationaux", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "DC3465FV", 
+              "objet": "Garantir la compétitivité du Groupe Air France-KLM dans un environnement concurrentiel mondialisé", 
+              "publicationDate": "2020-09-24T11:40:17"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "AIR FRANCE - KLM (en propre)", 
+                      "SOCIETE AIR FRANCE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Protection des données", 
+                  "E-commerce"
+                ], 
+                "identifiantFiche": "IO3WD2EV", 
+                "objet": "Assurer une meilleure information du passager aérien dans toutes les étapes de son voyage (LOM)", 
+                "publicationDate": "2020-09-24T11:40:55"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "AIR FRANCE - KLM (en propre)", 
+                    "SOCIETE AIR FRANCE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Protection des données", 
+                "E-commerce"
+              ], 
+              "identifiantFiche": "IO3WD2EV", 
+              "objet": "Assurer une meilleure information du passager aérien dans toutes les étapes de son voyage (LOM)", 
+              "publicationDate": "2020-09-24T11:40:55"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "AIR FRANCE - KLM (en propre)", 
+                      "SOCIETE AIR FRANCE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Taxes", 
+                  "Transport de voyageurs", 
+                  "Impact des transports marchands et collectifs", 
+                  "Energies renouvelables", 
+                  "Budget"
+                ], 
+                "identifiantFiche": "PO38E5RH", 
+                "objet": "Fiscalité du transport aérien: comment accompagner la transition écologique et énergétique du secteur du transport aérien (PLF 2020)", 
+                "publicationDate": "2020-09-24T11:41:10"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "AIR FRANCE - KLM (en propre)", 
+                    "SOCIETE AIR FRANCE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Taxes", 
+                "Transport de voyageurs", 
+                "Impact des transports marchands et collectifs", 
+                "Energies renouvelables", 
+                "Budget"
+              ], 
+              "identifiantFiche": "PO38E5RH", 
+              "objet": "Fiscalité du transport aérien: comment accompagner la transition écologique et énergétique du secteur du transport aérien (PLF 2020)", 
+              "publicationDate": "2020-09-24T11:41:10"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "SOCIETE AIR FRANCE", 
+                      "AIR FRANCE - KLM (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Politique industrielle", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "KW3UYS5H", 
+                "objet": "Améliorer la régulation aéroportuaire au service de la compétitivité des transporteurs aériens", 
+                "publicationDate": "2020-09-24T11:41:22"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "SOCIETE AIR FRANCE", 
+                    "AIR FRANCE - KLM (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Politique industrielle", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "KW3UYS5H", 
+              "objet": "Améliorer la régulation aéroportuaire au service de la compétitivité des transporteurs aériens", 
+              "publicationDate": "2020-09-24T11:41:22"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Autres décisions publiques", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Economie et finances, Environnement, énergie et mer", 
+                      "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Autorité de contrôle des nuisances sonores aéroportuaires"
+                    ], 
+                    "tiers": [
+                      "SOCIETE AIR FRANCE", 
+                      "AIR FRANCE - KLM (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de fret", 
+                  "Transport de voyageurs", 
+                  "Impact des transports marchands et collectifs", 
+                  "Energies renouvelables"
+                ], 
+                "identifiantFiche": "Z0V5R5LH", 
+                "objet": "Promouvoir la trajectoire de transition écologique des compagnies du Groupe Air France-KLM", 
+                "publicationDate": "2020-09-24T11:41:34"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Autres décisions publiques", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Economie et finances, Environnement, énergie et mer", 
+                    "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Autorité de contrôle des nuisances sonores aéroportuaires"
+                  ], 
+                  "tiers": [
+                    "SOCIETE AIR FRANCE", 
+                    "AIR FRANCE - KLM (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de fret", 
+                "Transport de voyageurs", 
+                "Impact des transports marchands et collectifs", 
+                "Energies renouvelables"
+              ], 
+              "identifiantFiche": "Z0V5R5LH", 
+              "objet": "Promouvoir la trajectoire de transition écologique des compagnies du Groupe Air France-KLM", 
+              "publicationDate": "2020-09-24T11:41:34"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 5581, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 200 000 euros et < 300 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 5, 
+        "nombreSalaries": 4, 
+        "publicationDate": "2020-09-24T11:38:04"
       }, 
       {
         "dateDebut": "2020-01-01", 
@@ -1775,7 +2143,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75007", 
@@ -1887,7 +2256,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [
           {
@@ -2005,7 +2375,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [
           {
@@ -2130,7 +2501,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [
           {
@@ -2216,6 +2588,19 @@
         "nombreActivite": 5, 
         "nombreSalaries": 4, 
         "publicationDate": "2019-03-27T17:30:57"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 5581, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 200 000 euros et < 300 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 5, 
+        "nombreSalaries": 4, 
+        "publicationDate": "2020-09-24T11:38:04"
       }
     ], 
     "identifiantNational": "552043002", 
@@ -2227,7 +2612,73 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Droit de la concurrence", 
+          "Transport de fret", 
+          "Transport de voyageurs", 
+          "Accords internationaux", 
+          "Infrastructures"
+        ], 
+        "identifiantFiche": "DC3465FV", 
+        "nom_organisation": "AIR FRANCE - KLM", 
+        "num_organisation": "552043002", 
+        "objet": "Garantir la compétitivité du Groupe Air France-KLM dans un environnement concurrentiel mondialisé", 
+        "publicationDate": "2020-09-24T11:40:17"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs", 
+          "Protection des données", 
+          "E-commerce"
+        ], 
+        "identifiantFiche": "IO3WD2EV", 
+        "nom_organisation": "AIR FRANCE - KLM", 
+        "num_organisation": "552043002", 
+        "objet": "Assurer une meilleure information du passager aérien dans toutes les étapes de son voyage (LOM)", 
+        "publicationDate": "2020-09-24T11:40:55"
+      }, 
+      {
+        "domainesIntervention": [
+          "Taxes", 
+          "Transport de voyageurs", 
+          "Impact des transports marchands et collectifs", 
+          "Energies renouvelables", 
+          "Budget"
+        ], 
+        "identifiantFiche": "PO38E5RH", 
+        "nom_organisation": "AIR FRANCE - KLM", 
+        "num_organisation": "552043002", 
+        "objet": "Fiscalité du transport aérien: comment accompagner la transition écologique et énergétique du secteur du transport aérien (PLF 2020)", 
+        "publicationDate": "2020-09-24T11:41:10"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs", 
+          "Politique industrielle", 
+          "Infrastructures"
+        ], 
+        "identifiantFiche": "KW3UYS5H", 
+        "nom_organisation": "AIR FRANCE - KLM", 
+        "num_organisation": "552043002", 
+        "objet": "Améliorer la régulation aéroportuaire au service de la compétitivité des transporteurs aériens", 
+        "publicationDate": "2020-09-24T11:41:22"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de fret", 
+          "Transport de voyageurs", 
+          "Impact des transports marchands et collectifs", 
+          "Energies renouvelables"
+        ], 
+        "identifiantFiche": "Z0V5R5LH", 
+        "nom_organisation": "AIR FRANCE - KLM", 
+        "num_organisation": "552043002", 
+        "objet": "Promouvoir la trajectoire de transition écologique des compagnies du Groupe Air France-KLM", 
+        "publicationDate": "2020-09-24T11:41:34"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/552043002.json", 
     "ville": "PARIS CEDEX 07"
