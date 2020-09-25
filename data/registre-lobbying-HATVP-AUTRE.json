@@ -2612,73 +2612,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Droit de la concurrence", 
-          "Transport de fret", 
-          "Transport de voyageurs", 
-          "Accords internationaux", 
-          "Infrastructures"
-        ], 
-        "identifiantFiche": "DC3465FV", 
-        "nom_organisation": "AIR FRANCE - KLM", 
-        "num_organisation": "552043002", 
-        "objet": "Garantir la compétitivité du Groupe Air France-KLM dans un environnement concurrentiel mondialisé", 
-        "publicationDate": "2020-09-24T11:40:17"
-      }, 
-      {
-        "domainesIntervention": [
-          "Transport de voyageurs", 
-          "Protection des données", 
-          "E-commerce"
-        ], 
-        "identifiantFiche": "IO3WD2EV", 
-        "nom_organisation": "AIR FRANCE - KLM", 
-        "num_organisation": "552043002", 
-        "objet": "Assurer une meilleure information du passager aérien dans toutes les étapes de son voyage (LOM)", 
-        "publicationDate": "2020-09-24T11:40:55"
-      }, 
-      {
-        "domainesIntervention": [
-          "Taxes", 
-          "Transport de voyageurs", 
-          "Impact des transports marchands et collectifs", 
-          "Energies renouvelables", 
-          "Budget"
-        ], 
-        "identifiantFiche": "PO38E5RH", 
-        "nom_organisation": "AIR FRANCE - KLM", 
-        "num_organisation": "552043002", 
-        "objet": "Fiscalité du transport aérien: comment accompagner la transition écologique et énergétique du secteur du transport aérien (PLF 2020)", 
-        "publicationDate": "2020-09-24T11:41:10"
-      }, 
-      {
-        "domainesIntervention": [
-          "Transport de voyageurs", 
-          "Politique industrielle", 
-          "Infrastructures"
-        ], 
-        "identifiantFiche": "KW3UYS5H", 
-        "nom_organisation": "AIR FRANCE - KLM", 
-        "num_organisation": "552043002", 
-        "objet": "Améliorer la régulation aéroportuaire au service de la compétitivité des transporteurs aériens", 
-        "publicationDate": "2020-09-24T11:41:22"
-      }, 
-      {
-        "domainesIntervention": [
-          "Transport de fret", 
-          "Transport de voyageurs", 
-          "Impact des transports marchands et collectifs", 
-          "Energies renouvelables"
-        ], 
-        "identifiantFiche": "Z0V5R5LH", 
-        "nom_organisation": "AIR FRANCE - KLM", 
-        "num_organisation": "552043002", 
-        "objet": "Promouvoir la trajectoire de transition écologique des compagnies du Groupe Air France-KLM", 
-        "publicationDate": "2020-09-24T11:41:34"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/552043002.json", 
     "ville": "PARIS CEDEX 07"
