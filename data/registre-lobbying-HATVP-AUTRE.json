@@ -12379,7 +12379,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "75001", 
@@ -13503,8 +13504,12 @@
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 5818, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 200 000 euros et < 300 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 7, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2020-09-28T17:47:25"
       }, 
       {
         "dateDebut": "2020-01-01", 
@@ -13625,7 +13630,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75001", 
@@ -13835,7 +13841,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75001", 
@@ -14039,7 +14046,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75001", 
@@ -14243,7 +14251,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75001", 
@@ -14447,7 +14456,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75001", 
@@ -14666,6 +14676,18 @@
         "nombreActivite": 8, 
         "nombreSalaries": 6, 
         "publicationDate": "2018-04-26T17:00:39"
+      }, 
+      {
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 5818, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 200 000 euros et < 300 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 7, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2020-09-28T17:47:25"
       }
     ], 
     "identifiantNational": "784412389", 
@@ -32790,7 +32812,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "76130", 
@@ -32851,6 +32874,7 @@
       }
     ], 
     "dateCreation": "2020-09-08T16:54:26", 
+    "dateDernierePublicationActivite": "2020-09-28T17:24:00", 
     "datePremierePublication": "2020-09-08T16:54:26", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -32873,12 +32897,75 @@
         "nombreActivite": 0
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionMeneeAutre": "Exposer les éléments de contexte sur la problématique rencontrée ; Transmettre des suggestions et arguments afin d'influer sur une décision", 
+                    "actionsMenees": [
+                      "Autres : à préciser"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt, Economie et finances, Environnement, énergie et mer, Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère de la Transition Ecologique et Solidaire, Délégué Ministériel aux entreprises agroalimentaires Direction Générale de la Performance Economique et Environnementale des Entreprises ", 
+                    "tiers": [
+                      "SOC COOPERATIVE AGRICOLE CAP SEINE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "K6VB24CH", 
+                "objet": "Sensibiliser les élus à l'activité d'une plateforme logistique", 
+                "publicationDate": "2020-09-28T17:24:00"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionMeneeAutre": "Exposer les éléments de contexte sur la problématique rencontrée ; Transmettre des suggestions et arguments afin d'influer sur une décision", 
+                  "actionsMenees": [
+                    "Autres : à préciser"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt, Economie et finances, Environnement, énergie et mer, Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère de la Transition Ecologique et Solidaire, Délégué Ministériel aux entreprises agroalimentaires Direction Générale de la Performance Economique et Environnementale des Entreprises ", 
+                  "tiers": [
+                    "SOC COOPERATIVE AGRICOLE CAP SEINE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Agriculture"
+              ], 
+              "identifiantFiche": "K6VB24CH", 
+              "objet": "Sensibiliser les élus à l'activité d'une plateforme logistique", 
+              "publicationDate": "2020-09-28T17:24:00"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-07-01", 
         "dateFin": "2020-06-30", 
         "defautDeclaration": false, 
         "exerciceId": 11280, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 1, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2020-09-28T18:08:52"
       }, 
       {
         "dateDebut": "2020-07-01", 
@@ -32898,14 +32985,65 @@
       }
     ], 
     "historique": [], 
-    "historique_exercices": [], 
+    "historique_exercices": [
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-07-01", 
+        "dateFin": "2020-06-30", 
+        "defautDeclaration": false, 
+        "exerciceId": 11280, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2020-09-28T18:08:52"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-07-01", 
+        "dateFin": "2020-06-30", 
+        "defautDeclaration": false, 
+        "exerciceId": 11280, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2020-09-28T17:29:27"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-07-01", 
+        "dateFin": "2020-06-30", 
+        "defautDeclaration": false, 
+        "exerciceId": 11280, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2020-09-28T17:25:05"
+      }
+    ], 
     "identifiantNational": "775701097", 
-    "isActivitesPubliees": false, 
+    "isActivitesPubliees": true, 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Agriculture"
+        ], 
+        "identifiantFiche": "K6VB24CH", 
+        "nom_organisation": "SOC COOPERATIVE AGRICOLE CAP SEINE", 
+        "num_organisation": "775701097", 
+        "objet": "Sensibiliser les élus à l'activité d'une plateforme logistique", 
+        "publicationDate": "2020-09-28T17:24:00"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775701097.json", 
     "ville": "MONT ST AIGNAN"
