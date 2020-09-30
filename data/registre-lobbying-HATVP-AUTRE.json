@@ -15163,7 +15163,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "64210", 
@@ -15276,12 +15277,17 @@
         "publicationDate": "2019-03-29T20:21:26"
       }, 
       {
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 4557, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": true, 
-        "nombreActivite": 0
+        "nombreActivite": 0, 
+        "nombreSalaries": 4, 
+        "publicationDate": "2020-09-30T08:09:08"
       }, 
       {
         "dateDebut": "2020-01-01", 
@@ -15306,6 +15312,19 @@
         "nombreActivite": 1, 
         "nombreSalaries": 1, 
         "publicationDate": "2019-03-29T20:21:26"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 4557, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": true, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 4, 
+        "publicationDate": "2020-09-30T08:09:08"
       }
     ], 
     "identifiantNational": "824457675", 
@@ -33032,18 +33051,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Agriculture"
-        ], 
-        "identifiantFiche": "K6VB24CH", 
-        "nom_organisation": "SOC COOPERATIVE AGRICOLE CAP SEINE", 
-        "num_organisation": "775701097", 
-        "objet": "Sensibiliser les élus à l'activité d'une plateforme logistique", 
-        "publicationDate": "2020-09-28T17:24:00"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775701097.json", 
     "ville": "MONT ST AIGNAN"
