@@ -24312,7 +24312,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "75116", 
@@ -24343,7 +24344,7 @@
       }
     ], 
     "dateCreation": "2019-09-25T15:31:37", 
-    "dateDernierePublicationActivite": "2019-09-25T15:30:04", 
+    "dateDernierePublicationActivite": "2020-10-09T11:25:10", 
     "datePremierePublication": "2019-02-22T16:39:29", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -24962,12 +24963,155 @@
         "publicationDate": "2019-09-25T15:36:15"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Agriculture, agroalimentaire et forêt, Economie et finances, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "INVIVO GROUP (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Remboursements", 
+                  "Médicaments", 
+                  "Soins et maladies", 
+                  "Recherche et innovation", 
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "S0V2CK0H", 
+                "objet": "PLFSS 2020/MIC : renforcer l’attention des décideurs sur la nécessité de rendre le plus rapidement possible le développement d’une filière française de cannabis thérapeutique de la graine au patient ", 
+                "publicationDate": "2020-10-09T11:24:51"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Agriculture, agroalimentaire et forêt, Economie et finances, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "INVIVO GROUP (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Remboursements", 
+                "Médicaments", 
+                "Soins et maladies", 
+                "Recherche et innovation", 
+                "Agriculture"
+              ], 
+              "identifiantFiche": "S0V2CK0H", 
+              "objet": "PLFSS 2020/MIC : renforcer l’attention des décideurs sur la nécessité de rendre le plus rapidement possible le développement d’une filière française de cannabis thérapeutique de la graine au patient ", 
+              "publicationDate": "2020-10-09T11:24:51"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt, Economie et finances, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "INVIVO GROUP (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Produits chimiques", 
+                  "Marchés réglementés", 
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "40VEJEZH", 
+                "objet": "S’assurer de la bonne place du biocontrôle et de l’agriculture de précision dans la définition du Pacte productif/Plan de relance ", 
+                "publicationDate": "2020-10-09T11:25:10"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt, Economie et finances, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "INVIVO GROUP (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Produits chimiques", 
+                "Marchés réglementés", 
+                "Agriculture"
+              ], 
+              "identifiantFiche": "40VEJEZH", 
+              "objet": "S’assurer de la bonne place du biocontrôle et de l’agriculture de précision dans la définition du Pacte productif/Plan de relance ", 
+              "publicationDate": "2020-10-09T11:25:10"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-07-01", 
         "dateFin": "2020-06-30", 
         "defautDeclaration": false, 
         "exerciceId": 8043, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 2, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2020-10-09T11:26:19"
       }, 
       {
         "dateDebut": "2020-07-01", 
@@ -25014,7 +25158,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75116", 
@@ -25104,6 +25249,19 @@
         "nombreActivite": 4, 
         "nombreSalaries": 3, 
         "publicationDate": "2019-09-25T15:36:15"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-07-01", 
+        "dateFin": "2020-06-30", 
+        "defautDeclaration": false, 
+        "exerciceId": 8043, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 2, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2020-10-09T11:26:19"
       }
     ], 
     "identifiantNational": "801076282", 
@@ -25116,7 +25274,34 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Remboursements", 
+          "Médicaments", 
+          "Soins et maladies", 
+          "Recherche et innovation", 
+          "Agriculture"
+        ], 
+        "identifiantFiche": "S0V2CK0H", 
+        "nom_organisation": "INVIVO GROUP", 
+        "num_organisation": "801076282", 
+        "objet": "PLFSS 2020/MIC : renforcer l’attention des décideurs sur la nécessité de rendre le plus rapidement possible le développement d’une filière française de cannabis thérapeutique de la graine au patient ", 
+        "publicationDate": "2020-10-09T11:24:51"
+      }, 
+      {
+        "domainesIntervention": [
+          "Produits chimiques", 
+          "Marchés réglementés", 
+          "Agriculture"
+        ], 
+        "identifiantFiche": "40VEJEZH", 
+        "nom_organisation": "INVIVO GROUP", 
+        "num_organisation": "801076282", 
+        "objet": "S’assurer de la bonne place du biocontrôle et de l’agriculture de précision dans la définition du Pacte productif/Plan de relance ", 
+        "publicationDate": "2020-10-09T11:25:10"
+      }
+    ], 
     "telephoneDeContact": "0140662749", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/801076282.json", 
@@ -26929,7 +27114,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "69003", 
@@ -26959,6 +27145,7 @@
       }
     ], 
     "dateCreation": "2018-01-25T14:38:39", 
+    "dateDernierePublicationActivite": "2020-10-08T17:21:14", 
     "datePremierePublication": "2018-01-25T14:38:39", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -26981,14 +27168,73 @@
         "nombreActivite": 0
       }, 
       {
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 7998, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 0, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2020-10-08T17:24:10"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "MCLR (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Assurances"
+                ], 
+                "identifiantFiche": "5DHMTLAV", 
+                "objet": "sensibiliser les élus sur l'impact de la mise en œuvre de la résiliation infra annuelle pour les contrats couvrant des risques santé, sur les cotisations des adhérents - Loi du 14/07/2019", 
+                "publicationDate": "2020-10-08T17:21:14"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "MCLR (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Assurances"
+              ], 
+              "identifiantFiche": "5DHMTLAV", 
+              "objet": "sensibiliser les élus sur l'impact de la mise en œuvre de la résiliation infra annuelle pour les contrats couvrant des risques santé, sur les cotisations des adhérents - Loi du 14/07/2019", 
+              "publicationDate": "2020-10-08T17:21:14"
+            }
+          }
+        ], 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
@@ -26998,15 +27244,40 @@
       }
     ], 
     "historique": [], 
-    "historique_exercices": [], 
+    "historique_exercices": [
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 7998, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2020-10-08T17:24:10"
+      }
+    ], 
     "identifiantNational": "308708650", 
-    "isActivitesPubliees": false, 
+    "isActivitesPubliees": true, 
     "nomUsageHatvp": "MUTUELLE DES CHEMINOTS DE LYON ET REGION", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Assurances"
+        ], 
+        "identifiantFiche": "5DHMTLAV", 
+        "nom_organisation": "MCLR", 
+        "num_organisation": "308708650", 
+        "objet": "sensibiliser les élus sur l'impact de la mise en œuvre de la résiliation infra annuelle pour les contrats couvrant des risques santé, sur les cotisations des adhérents - Loi du 14/07/2019", 
+        "publicationDate": "2020-10-08T17:21:14"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/308708650.json", 
     "ville": "LYON"
