@@ -4166,7 +4166,7 @@
       }
     ], 
     "dateCreation": "2019-10-08T15:32:13", 
-    "dateDernierePublicationActivite": "2019-10-08T15:57:25", 
+    "dateDernierePublicationActivite": "2020-10-09T15:41:07", 
     "datePremierePublication": "2018-06-12T16:17:18", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": true, 
@@ -4752,6 +4752,192 @@
         "publicationDate": "2020-09-18T13:13:48"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Collaborateur du Président de la République", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Famille, enfance et droits des femmes, Affaires étrangères et développement international"
+                    ], 
+                    "tiers": [
+                      "BILL AND MELINDA GATES FOUNDATION"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Aide au développement", 
+                  "Egalité des chances", 
+                  "Egalité femmes/hommes"
+                ], 
+                "identifiantFiche": "9SVFIU5V", 
+                "objet": "Renforcer la place de la question de l’égalité des genres dans l’agenda public français notamment dans la perspective de l’organisation du Forum génération Egalité en 2020. ", 
+                "publicationDate": "2020-10-09T15:41:07"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Collaborateur du Président de la République", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Famille, enfance et droits des femmes, Affaires étrangères et développement international"
+                  ], 
+                  "tiers": [
+                    "BILL AND MELINDA GATES FOUNDATION"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Aide au développement", 
+                "Egalité des chances", 
+                "Egalité femmes/hommes"
+              ], 
+              "identifiantFiche": "9SVFIU5V", 
+              "objet": "Renforcer la place de la question de l’égalité des genres dans l’agenda public français notamment dans la perspective de l’organisation du Forum génération Egalité en 2020. ", 
+              "publicationDate": "2020-10-09T15:41:07"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Affaires étrangères et développement international"
+                    ], 
+                    "tiers": [
+                      "BILL AND MELINDA GATES FOUNDATION"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Aide au développement"
+                ], 
+                "identifiantFiche": "GJVDNUX3", 
+                "objet": "Promouvoir les questions de solidarités internationales dans l’APD française et mettre en évidence leur impact à l’égard des pays d’Afrique Subsaharienne.", 
+                "publicationDate": "2020-10-09T15:39:30"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Affaires étrangères et développement international"
+                  ], 
+                  "tiers": [
+                    "BILL AND MELINDA GATES FOUNDATION"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Aide au développement"
+              ], 
+              "identifiantFiche": "GJVDNUX3", 
+              "objet": "Promouvoir les questions de solidarités internationales dans l’APD française et mettre en évidence leur impact à l’égard des pays d’Afrique Subsaharienne.", 
+              "publicationDate": "2020-10-09T15:39:30"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Collaborateur du Président de la République", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Affaires étrangères et développement international"
+                    ], 
+                    "tiers": [
+                      "BILL AND MELINDA GATES FOUNDATION"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Accès à l’Internet", 
+                  "Aide au développement", 
+                  "Egalité femmes/hommes"
+                ], 
+                "identifiantFiche": "JA3Y48AV", 
+                "objet": "Promouvoir dans l’agenda G7 l’autonomisation économique des femmes et l’inclusion digitale financière comme levier d’aide publique au développement", 
+                "publicationDate": "2020-10-09T15:34:40"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Collaborateur du Président de la République", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Affaires étrangères et développement international"
+                  ], 
+                  "tiers": [
+                    "BILL AND MELINDA GATES FOUNDATION"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Accès à l’Internet", 
+                "Aide au développement", 
+                "Egalité femmes/hommes"
+              ], 
+              "identifiantFiche": "JA3Y48AV", 
+              "objet": "Promouvoir dans l’agenda G7 l’autonomisation économique des femmes et l’inclusion digitale financière comme levier d’aide publique au développement", 
+              "publicationDate": "2020-10-09T15:34:40"
+            }
+          }
+        ], 
         "dateDebut": "2019-07-02", 
         "dateFin": "2020-07-01", 
         "defautDeclaration": false, 
@@ -4759,7 +4945,7 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 50 000 euros et < 75 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 3, 
         "nombreSalaries": 1, 
         "publicationDate": "2020-09-18T13:14:06"
       }, 
@@ -4918,7 +5104,7 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 50 000 euros et < 75 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 3, 
         "nombreSalaries": 1, 
         "publicationDate": "2020-09-18T13:14:06"
       }, 
@@ -4930,7 +5116,7 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 50 000 euros et < 75 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 3, 
         "nombreSalaries": 1, 
         "publicationDate": "2019-10-08T15:59:15"
       }
@@ -4942,7 +5128,39 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": false, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Accès à l’Internet", 
+          "Aide au développement", 
+          "Egalité femmes/hommes"
+        ], 
+        "identifiantFiche": "JA3Y48AV", 
+        "nom_organisation": "BEATRICE NERE", 
+        "objet": "Promouvoir dans l’agenda G7 l’autonomisation économique des femmes et l’inclusion digitale financière comme levier d’aide publique au développement", 
+        "publicationDate": "2020-10-09T15:34:40"
+      }, 
+      {
+        "domainesIntervention": [
+          "Aide au développement"
+        ], 
+        "identifiantFiche": "GJVDNUX3", 
+        "nom_organisation": "BEATRICE NERE", 
+        "objet": "Promouvoir les questions de solidarités internationales dans l’APD française et mettre en évidence leur impact à l’égard des pays d’Afrique Subsaharienne.", 
+        "publicationDate": "2020-10-09T15:39:30"
+      }, 
+      {
+        "domainesIntervention": [
+          "Aide au développement", 
+          "Egalité des chances", 
+          "Egalité femmes/hommes"
+        ], 
+        "identifiantFiche": "9SVFIU5V", 
+        "nom_organisation": "BEATRICE NERE", 
+        "objet": "Renforcer la place de la question de l’égalité des genres dans l’agenda public français notamment dans la perspective de l’organisation du Forum génération Egalité en 2020. ", 
+        "publicationDate": "2020-10-09T15:41:07"
+      }
+    ], 
     "typeIdentifiantNational": "HATVP", 
     "url_json": "https://www.hatvp.fr/agora/H441820074.json", 
     "ville": "Paris"
