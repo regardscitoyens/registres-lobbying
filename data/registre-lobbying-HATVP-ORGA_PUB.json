@@ -6871,12 +6871,18 @@
         "nombreActivite": 0
       }, 
       {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "commentaire": "L'activité de représentation d'intérêts est si nécessaire exercée par le directeur général. En l'occurrence, aucune activité n'a été réalisée en 2019.", 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 5301, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": true, 
-        "nombreActivite": 0
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2020-10-12T14:30:01"
       }, 
       {
         "dateDebut": "2020-01-01", 
@@ -6901,6 +6907,20 @@
         "nombreActivite": 0, 
         "nombreSalaries": 1, 
         "publicationDate": "2018-09-07T11:19:57"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "commentaire": "L'activité de représentation d'intérêts est si nécessaire exercée par le directeur général. En l'occurrence, aucune activité n'a été réalisée en 2019.", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 5301, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": true, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2020-10-12T14:30:01"
       }
     ], 
     "identifiantNational": "342143955", 
