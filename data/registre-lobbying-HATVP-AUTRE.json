@@ -5128,39 +5128,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": false, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Accès à l’Internet", 
-          "Aide au développement", 
-          "Egalité femmes/hommes"
-        ], 
-        "identifiantFiche": "JA3Y48AV", 
-        "nom_organisation": "BEATRICE NERE", 
-        "objet": "Promouvoir dans l’agenda G7 l’autonomisation économique des femmes et l’inclusion digitale financière comme levier d’aide publique au développement", 
-        "publicationDate": "2020-10-09T15:34:40"
-      }, 
-      {
-        "domainesIntervention": [
-          "Aide au développement"
-        ], 
-        "identifiantFiche": "GJVDNUX3", 
-        "nom_organisation": "BEATRICE NERE", 
-        "objet": "Promouvoir les questions de solidarités internationales dans l’APD française et mettre en évidence leur impact à l’égard des pays d’Afrique Subsaharienne.", 
-        "publicationDate": "2020-10-09T15:39:30"
-      }, 
-      {
-        "domainesIntervention": [
-          "Aide au développement", 
-          "Egalité des chances", 
-          "Egalité femmes/hommes"
-        ], 
-        "identifiantFiche": "9SVFIU5V", 
-        "nom_organisation": "BEATRICE NERE", 
-        "objet": "Renforcer la place de la question de l’égalité des genres dans l’agenda public français notamment dans la perspective de l’organisation du Forum génération Egalité en 2020. ", 
-        "publicationDate": "2020-10-09T15:41:07"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "HATVP", 
     "url_json": "https://www.hatvp.fr/agora/H441820074.json", 
     "ville": "Paris"
@@ -25492,34 +25460,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Remboursements", 
-          "Médicaments", 
-          "Soins et maladies", 
-          "Recherche et innovation", 
-          "Agriculture"
-        ], 
-        "identifiantFiche": "S0V2CK0H", 
-        "nom_organisation": "INVIVO GROUP", 
-        "num_organisation": "801076282", 
-        "objet": "PLFSS 2020/MIC : renforcer l’attention des décideurs sur la nécessité de rendre le plus rapidement possible le développement d’une filière française de cannabis thérapeutique de la graine au patient ", 
-        "publicationDate": "2020-10-09T11:24:51"
-      }, 
-      {
-        "domainesIntervention": [
-          "Produits chimiques", 
-          "Marchés réglementés", 
-          "Agriculture"
-        ], 
-        "identifiantFiche": "40VEJEZH", 
-        "nom_organisation": "INVIVO GROUP", 
-        "num_organisation": "801076282", 
-        "objet": "S’assurer de la bonne place du biocontrôle et de l’agriculture de précision dans la définition du Pacte productif/Plan de relance ", 
-        "publicationDate": "2020-10-09T11:25:10"
-      }
-    ], 
+    "resumes_actions": [], 
     "telephoneDeContact": "0140662749", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/801076282.json", 
@@ -27484,18 +27425,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Assurances"
-        ], 
-        "identifiantFiche": "5DHMTLAV", 
-        "nom_organisation": "MCLR", 
-        "num_organisation": "308708650", 
-        "objet": "sensibiliser les élus sur l'impact de la mise en œuvre de la résiliation infra annuelle pour les contrats couvrant des risques santé, sur les cotisations des adhérents - Loi du 14/07/2019", 
-        "publicationDate": "2020-10-08T17:21:14"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/308708650.json", 
     "ville": "LYON"
