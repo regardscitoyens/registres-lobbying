@@ -32993,7 +32993,7 @@
       }
     ], 
     "dateCreation": "2020-02-26T13:57:51", 
-    "dateDernierePublicationActivite": "2020-09-22T14:27:17", 
+    "dateDernierePublicationActivite": "2020-05-26T09:45:35", 
     "datePremierePublication": "2020-02-26T13:57:51", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -33103,82 +33103,6 @@
         "dateFin": "2018-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 10480, 
-        "noActivite": false, 
-        "nombreActivite": 0
-      }, 
-      {
-        "activites": [
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
-                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
-                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
-                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
-                      "Organiser des débats publics, des marches, des stratégies d'influence sur internet"
-                    ], 
-                    "decisionsConcernees": [
-                      "Lois, y compris constitutionnelles"
-                    ], 
-                    "reponsablesPublics": [
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                    ], 
-                    "tiers": [
-                      "ORDRE DES ARCHITECTES (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Patrimoine", 
-                  "Marchés réglementés", 
-                  "Bâtiments et travaux publics", 
-                  "Logement", 
-                  "Construction"
-                ], 
-                "identifiantFiche": "2EHLLOYH", 
-                "objet": "Obtenir la suppression de certaines dispositions du projet de loi ELAN, jugées dommageables pour la qualité architecturale et urbaine de l'habitat", 
-                "publicationDate": "2020-09-22T14:27:17"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
-                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
-                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
-                    "Organiser des débats publics, des marches, des stratégies d'influence sur internet"
-                  ], 
-                  "decisionsConcernees": [
-                    "Lois, y compris constitutionnelles"
-                  ], 
-                  "reponsablesPublics": [
-                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                  ], 
-                  "tiers": [
-                    "ORDRE DES ARCHITECTES (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Patrimoine", 
-                "Marchés réglementés", 
-                "Bâtiments et travaux publics", 
-                "Logement", 
-                "Construction"
-              ], 
-              "identifiantFiche": "2EHLLOYH", 
-              "objet": "Obtenir la suppression de certaines dispositions du projet de loi ELAN, jugées dommageables pour la qualité architecturale et urbaine de l'habitat", 
-              "publicationDate": "2020-09-22T14:27:17"
-            }
-          }
-        ], 
-        "dateDebut": "2019-01-01", 
-        "dateFin": "2019-12-31", 
-        "defautDeclaration": false, 
-        "exerciceId": 10479, 
         "noActivite": false, 
         "nombreActivite": 0
       }, 
