@@ -15717,7 +15717,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "82000", 
@@ -15728,7 +15729,7 @@
         "prenom": "Jerome"
       }
     ], 
-    "dateCreation": "2019-03-18T09:14:49", 
+    "dateCreation": "2020-10-21T11:41:50", 
     "dateDernierePublicationActivite": "2019-03-18T10:00:11", 
     "datePremierePublication": "2017-12-14T12:07:26", 
     "declarationOrgaAppartenance": true, 
@@ -16596,7 +16597,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "82000", 
@@ -16626,6 +16628,71 @@
         "publierMonAdresseEmail": true, 
         "publierMonAdressePhysique": false, 
         "publierMonTelephoneDeContact": true, 
+        "sigleHatvp": "FDSEA 82", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "MONTAUBAN"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }
+          ]
+        }, 
+        "affiliations": [
+          {
+            "denomination": "FEDE NAT SYNDIC EXPL AGRICOLE", 
+            "identifiantNational": "784854937", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [], 
+        "codePostal": "82000", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "nom": "ISSANCHOU", 
+            "prenom": "Jerome"
+          }
+        ], 
+        "dateCreation": "2019-03-18T09:14:49", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "FDSEA Tarn-et-Garonne", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "PRESIDENT", 
+            "nom": "ICHES", 
+            "prenom": "Alain"
+          }
+        ], 
+        "identifiantNational": "777306077", 
+        "lienPageFacebook": "https://www.facebook.com/fdsea.tarnetgaronne/", 
+        "lienPageTwitter": "https://twitter.com/FDSEA82", 
+        "nomUsageHatvp": "FÉDÉRATION DÉPARTEMENTALE DES SYNDICATS D'EXPLOITANTS AGRICOLES DU TARN-ET-GARONNE", 
+        "pays": "France", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": false, 
+        "publierMonTelephoneDeContact": false, 
         "sigleHatvp": "FDSEA 82", 
         "typeIdentifiantNational": "SIREN", 
         "ville": "MONTAUBAN"
