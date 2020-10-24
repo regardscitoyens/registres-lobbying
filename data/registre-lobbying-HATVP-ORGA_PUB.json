@@ -18577,7 +18577,7 @@
       }
     ], 
     "dateCreation": "2020-09-28T09:38:45", 
-    "dateDernierePublicationActivite": "2019-05-17T11:15:58", 
+    "dateDernierePublicationActivite": "2020-10-23T17:20:31", 
     "datePremierePublication": "2018-04-12T09:59:31", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -18740,6 +18740,76 @@
         "publicationDate": "2019-03-27T11:36:29"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Marchés publics d'une valeur supérieure aux seuils européens"
+                    ], 
+                    "observation": "L’UGAP est un établissement public industriel et commercial créé en 1985 et placé sous la double tutelle du ministre chargé du budget et du ministre chargé de l’éducation nationale. ", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Intérieur, Aménagement du territoire, ruralité et collectivités territoriales, Défense, Economie et finances"
+                    ], 
+                    "tiers": [
+                      "UNION DES GROUPEMENTS D'ACHATS PUBLICS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Ordre administratif", 
+                  "Fonction publique", 
+                  "Défense", 
+                  "Institutions pénitentiaires", 
+                  "Institutions judiciaires"
+                ], 
+                "identifiantFiche": "KQ36D9MV", 
+                "objet": "Présentation de l'UGAP et de son offre de fournitures et de services ", 
+                "publicationDate": "2020-10-23T17:20:31"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Marchés publics d'une valeur supérieure aux seuils européens"
+                  ], 
+                  "observation": "L’UGAP est un établissement public industriel et commercial créé en 1985 et placé sous la double tutelle du ministre chargé du budget et du ministre chargé de l’éducation nationale. ", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Intérieur, Aménagement du territoire, ruralité et collectivités territoriales, Défense, Economie et finances"
+                  ], 
+                  "tiers": [
+                    "UNION DES GROUPEMENTS D'ACHATS PUBLICS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Ordre administratif", 
+                "Fonction publique", 
+                "Défense", 
+                "Institutions pénitentiaires", 
+                "Institutions judiciaires"
+              ], 
+              "identifiantFiche": "KQ36D9MV", 
+              "objet": "Présentation de l'UGAP et de son offre de fournitures et de services ", 
+              "publicationDate": "2020-10-23T17:20:31"
+            }
+          }
+        ], 
         "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
@@ -18748,7 +18818,7 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 1, 
         "nombreSalaries": 17, 
         "publicationDate": "2020-10-19T15:58:00"
       }, 
@@ -23439,7 +23509,7 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 1, 
         "nombreSalaries": 17, 
         "publicationDate": "2020-10-19T15:58:00"
       }
@@ -23452,7 +23522,22 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Ordre administratif", 
+          "Fonction publique", 
+          "Défense", 
+          "Institutions pénitentiaires", 
+          "Institutions judiciaires"
+        ], 
+        "identifiantFiche": "KQ36D9MV", 
+        "nom_organisation": "UNION DES GROUPEMENTS D'ACHATS PUBLICS", 
+        "num_organisation": "776056467", 
+        "objet": "Présentation de l'UGAP et de son offre de fournitures et de services ", 
+        "publicationDate": "2020-10-23T17:20:31"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/776056467.json", 
     "ville": "MARNE LA VALLEE CEDEX 2"
