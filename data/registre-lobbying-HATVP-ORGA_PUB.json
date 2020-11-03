@@ -23522,22 +23522,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Ordre administratif", 
-          "Fonction publique", 
-          "Défense", 
-          "Institutions pénitentiaires", 
-          "Institutions judiciaires"
-        ], 
-        "identifiantFiche": "KQ36D9MV", 
-        "nom_organisation": "UNION DES GROUPEMENTS D'ACHATS PUBLICS", 
-        "num_organisation": "776056467", 
-        "objet": "Présentation de l'UGAP et de son offre de fournitures et de services ", 
-        "publicationDate": "2020-10-23T17:20:31"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/776056467.json", 
     "ville": "MARNE LA VALLEE CEDEX 2"
