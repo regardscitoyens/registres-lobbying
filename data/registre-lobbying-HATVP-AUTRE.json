@@ -5210,7 +5210,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [
       {
@@ -5221,12 +5222,6 @@
     ], 
     "codePostal": "16101", 
     "collaborateurs": [
-      {
-        "civilite": "MME", 
-        "fonction": "DIRECTEUR", 
-        "nom": "LE PAGE", 
-        "prenom": "Catherine"
-      }, 
       {
         "civilite": "MME", 
         "fonction": "Chargée de Mission Relations Institutionnelles", 
@@ -5240,19 +5235,36 @@
         "prenom": "Janine"
       }, 
       {
-        "civilite": "MME", 
-        "fonction": "Directeur Protection de l'Appellation", 
-        "nom": "DESSIMIROFF", 
-        "prenom": "Virginie"
-      }, 
-      {
         "civilite": "M", 
         "fonction": "Director - Public and international affairs", 
         "nom": "LALAGÜE", 
         "prenom": "Lionel"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Juriste", 
+        "nom": "MANERO", 
+        "prenom": "Alice"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Pôle Juridique", 
+        "nom": "DE KERVENOAEL", 
+        "prenom": "Edouard"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "DELPECH", 
+        "prenom": "Raphaël"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "DELPECH", 
+        "prenom": "Raphaël"
       }
     ], 
-    "dateCreation": "2018-04-26T11:56:51", 
+    "dateCreation": "2020-11-04T12:12:34", 
     "dateDernierePublicationActivite": "2019-10-29T11:01:02", 
     "datePremierePublication": "2018-04-26T11:26:02", 
     "declarationOrgaAppartenance": true, 
@@ -5260,16 +5272,16 @@
     "denomination": "BUREAU NATIONAL INTERPR COGNAC", 
     "dirigeants": [
       {
-        "civilite": "MME", 
-        "fonction": "DIRECTEUR", 
-        "nom": "LE PAGE", 
-        "prenom": "Catherine"
-      }, 
-      {
         "civilite": "M", 
         "fonction": "PRESIDENT", 
         "nom": "RAGUENAUD", 
         "prenom": "Patrick"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "DELPECH", 
+        "prenom": "Raphaël"
       }
     ], 
     "emailDeContact": "contact@bnic.fr", 
@@ -6146,8 +6158,12 @@
         "dateFin": "2020-07-31", 
         "defautDeclaration": false, 
         "exerciceId": 8162, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 0, 
+        "nombreSalaries": 6, 
+        "publicationDate": "2020-11-04T12:09:01"
       }, 
       {
         "dateDebut": "2020-08-01", 
@@ -6236,7 +6252,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [
           {
@@ -6279,6 +6296,159 @@
           }
         ], 
         "dateCreation": "2018-04-26T11:26:02", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "BUREAU NATIONAL INTERPR COGNAC", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "DIRECTEUR", 
+            "nom": "LE PAGE", 
+            "prenom": "Catherine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "PRESIDENT", 
+            "nom": "RAGUENAUD", 
+            "prenom": "Patrick"
+          }
+        ], 
+        "emailDeContact": "contact@bnic.fr", 
+        "identifiantNational": "775563455", 
+        "lienPageFacebook": "https://www.facebook.com/Cognac.Official/", 
+        "lienPageTwitter": "https://twitter.com/Cognac_Official?lang=fr", 
+        "lienSiteWeb": "http://www.cognac.fr/cognac/_fr/2_cognac/index.aspx", 
+        "nomUsageHatvp": "BUREAU NATIONAL INTERPROFESSIONNEL DE COGNAC", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "sigleHatvp": "COGNAC", 
+        "telephoneDeContact": "0545356000", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "COGNAC"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "categorie": null, 
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "ETRANGER", 
+              "label": "Affaires étrangères, coopération internationale", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "COMMERCE", 
+              "label": "Commerce extérieur", 
+              "ordre": 5
+            }, 
+            {
+              "categorie": null, 
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "categorie": null, 
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }
+          ]
+        }, 
+        "adresse": "BUREAU NATIONAL INTERPR COGNAC\nBNIC\n23 ALLEES BERNARD GUIONNET BP 90018", 
+        "affiliations": [
+          {
+            "denomination": "COMITE INTERPROF VIN APPELLATION ORIGINE", 
+            "identifiantNational": "448179333", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CONF NAT PROD VINS EAUX DE VIE", 
+            "identifiantNational": "321410078", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [
+          {
+            "denomination": "BUREAU NATIONAL INTERPR COGNAC", 
+            "identifiantNational": "775563455", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "16101", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "DIRECTEUR", 
+            "nom": "LE PAGE", 
+            "prenom": "Catherine"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chargée de Mission Relations Institutionnelles", 
+            "nom": "COUTURIER", 
+            "prenom": "Nina"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur Réglementation vitivinicole et boissons spiritueuses", 
+            "nom": "BRETAGNE", 
+            "prenom": "Janine"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur Protection de l'Appellation", 
+            "nom": "DESSIMIROFF", 
+            "prenom": "Virginie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Director - Public and international affairs", 
+            "nom": "LALAGÜE", 
+            "prenom": "Lionel"
+          }
+        ], 
+        "dateCreation": "2018-04-26T11:56:51", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": true, 
         "denomination": "BUREAU NATIONAL INTERPR COGNAC", 
@@ -6420,6 +6590,18 @@
         "nombreActivite": 7, 
         "nombreSalaries": 6, 
         "publicationDate": "2019-10-29T10:58:23"
+      }, 
+      {
+        "dateDebut": "2019-08-01", 
+        "dateFin": "2020-07-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 8162, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 6, 
+        "publicationDate": "2020-11-04T12:09:01"
       }
     ], 
     "identifiantNational": "775563455", 
