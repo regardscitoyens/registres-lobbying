@@ -15932,7 +15932,7 @@
       }
     ], 
     "dateCreation": "2020-10-21T11:41:50", 
-    "dateDernierePublicationActivite": "2019-03-18T10:00:11", 
+    "dateDernierePublicationActivite": "2020-11-06T15:54:00", 
     "datePremierePublication": "2017-12-14T12:07:26", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -16761,6 +16761,60 @@
         "publicationDate": "2019-03-18T09:54:08"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt"
+                    ], 
+                    "tiers": [
+                      "FDSEA Tarn-et-Garonne (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "KW3UFAF3", 
+                "objet": "Informer sur le Scandale de la taxe sur le foncier non bâti ", 
+                "publicationDate": "2020-11-06T15:54:00"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt"
+                  ], 
+                  "tiers": [
+                    "FDSEA Tarn-et-Garonne (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Agriculture"
+              ], 
+              "identifiantFiche": "KW3UFAF3", 
+              "objet": "Informer sur le Scandale de la taxe sur le foncier non bâti ", 
+              "publicationDate": "2020-11-06T15:54:00"
+            }
+          }
+        ], 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
@@ -16949,7 +17003,18 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": false, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Agriculture"
+        ], 
+        "identifiantFiche": "KW3UFAF3", 
+        "nom_organisation": "FDSEA Tarn-et-Garonne", 
+        "num_organisation": "777306077", 
+        "objet": "Informer sur le Scandale de la taxe sur le foncier non bâti ", 
+        "publicationDate": "2020-11-06T15:54:00"
+      }
+    ], 
     "sigleHatvp": "FDSEA 82", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/777306077.json", 
