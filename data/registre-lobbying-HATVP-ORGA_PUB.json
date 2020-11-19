@@ -4487,7 +4487,8 @@
     "categorieOrganisation": {
       "categorie": "ORGA_PUB", 
       "code": "EPAIC", 
-      "label": "Etablissement public exerçant une activité industrielle et commerciale"
+      "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+      "notifSansChiffreAffaire": true
     }, 
     "clients": [], 
     "codePostal": "75019", 
@@ -4536,7 +4537,7 @@
       {
         "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
-        "defautDeclaration": false, 
+        "defautDeclaration": true, 
         "exerciceId": 5507, 
         "noActivite": false, 
         "nombreActivite": 0
@@ -4597,7 +4598,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "75019", 
@@ -4769,7 +4771,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "75019", 
