@@ -34248,6 +34248,91 @@
       "listNiveauIntervention": [
         {
           "categorie": null, 
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "categorie": null, 
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }
+      ]
+    }, 
+    "adresse": "25 RUEBALZAC", 
+    "affiliations": [
+      {
+        "denomination": "GROUPEMENT SYNDICAT SYNTEC ETUDE CONSEIL", 
+        "identifiantNational": "420512766", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GROUPEMENT DES PROFESSIONS DE SERVICES", 
+        "identifiantNational": "477942114", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AUTRE", 
+      "code": "AUORG", 
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
+    }, 
+    "clients": [], 
+    "codePostal": "75008", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "CEO EMEA & Americas", 
+        "nom": "MORGAUT", 
+        "prenom": "Antoine"
+      }
+    ], 
+    "dateCreation": "2020-11-23T10:41:28", 
+    "datePremierePublication": "2020-11-23T10:41:28", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "ROBERT WALTERS SAS", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Administratif et Financier", 
+        "nom": "MANINGUE", 
+        "prenom": "Mathieu"
+      }
+    ], 
+    "exercices": [
+      {
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11561, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }
+    ], 
+    "historique": [], 
+    "historique_exercices": [], 
+    "identifiantNational": "490047057", 
+    "isActivitesPubliees": false, 
+    "lienSiteWeb": "https://www.robertwalters.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "resumes_actions": [], 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "https://www.hatvp.fr/agora/490047057.json", 
+    "ville": "PARIS 8"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "categorie": null, 
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
