@@ -17688,16 +17688,6 @@
         "domainesIntervention": [
           "Agriculture"
         ], 
-        "identifiantFiche": "KW3UFAF3", 
-        "nom_organisation": "FDSEA Tarn-et-Garonne", 
-        "num_organisation": "777306077", 
-        "objet": "Informer sur le Scandale de la taxe sur le foncier non bâti ", 
-        "publicationDate": "2020-11-06T15:54:00"
-      }, 
-      {
-        "domainesIntervention": [
-          "Agriculture"
-        ], 
         "identifiantFiche": "2ZV9S0LH", 
         "nom_organisation": "FDSEA Tarn-et-Garonne", 
         "num_organisation": "777306077", 
@@ -28451,60 +28441,6 @@
         "publicationDate": "2020-10-08T17:24:10"
       }, 
       {
-        "activites": [
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
-                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
-                    ], 
-                    "decisionsConcernees": [
-                      "Lois, y compris constitutionnelles"
-                    ], 
-                    "reponsablesPublics": [
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                    ], 
-                    "tiers": [
-                      "MCLR (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Assurances"
-                ], 
-                "identifiantFiche": "5DHMTLAV", 
-                "objet": "sensibiliser les élus sur l'impact de la mise en œuvre de la résiliation infra annuelle pour les contrats couvrant des risques santé, sur les cotisations des adhérents - Loi du 14/07/2019", 
-                "publicationDate": "2020-10-08T17:21:14"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
-                  ], 
-                  "decisionsConcernees": [
-                    "Lois, y compris constitutionnelles"
-                  ], 
-                  "reponsablesPublics": [
-                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                  ], 
-                  "tiers": [
-                    "MCLR (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Assurances"
-              ], 
-              "identifiantFiche": "5DHMTLAV", 
-              "objet": "sensibiliser les élus sur l'impact de la mise en œuvre de la résiliation infra annuelle pour les contrats couvrant des risques santé, sur les cotisations des adhérents - Loi du 14/07/2019", 
-              "publicationDate": "2020-10-08T17:21:14"
-            }
-          }
-        ], 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
@@ -34436,7 +34372,7 @@
     "datePremierePublication": "2020-09-08T16:54:26", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
-    "denomination": "SOC COOPERATIVE AGRICOLE CAP SEINE", 
+    "denomination": "SOCIETE COOPERATIVE AGRICOLE NATUP", 
     "dirigeants": [
       {
         "civilite": "M", 
@@ -34473,7 +34409,7 @@
                     ], 
                     "responsablePublicAutre": "Ministère de la Transition Ecologique et Solidaire, Délégué Ministériel aux entreprises agroalimentaires Direction Générale de la Performance Economique et Environnementale des Entreprises ", 
                     "tiers": [
-                      "SOC COOPERATIVE AGRICOLE CAP SEINE (en propre)"
+                      "SOCIETE COOPERATIVE AGRICOLE NATUP (en propre)"
                     ]
                   }
                 ], 
