@@ -6954,72 +6954,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Industrie agroalimentaire", 
-          "Agriculture"
-        ], 
-        "identifiantFiche": "SBHORN0H", 
-        "nom_organisation": "BUREAU NATIONAL INTERPR COGNAC", 
-        "num_organisation": "775563455", 
-        "objet": "Demander l’approbation d’un guide de bonnes pratiques des contributions indirectes ", 
-        "publicationDate": "2020-11-09T13:51:51"
-      }, 
-      {
-        "domainesIntervention": [
-          "Industrie agroalimentaire", 
-          "Agriculture"
-        ], 
-        "identifiantFiche": "C5HAM6UH", 
-        "nom_organisation": "BUREAU NATIONAL INTERPR COGNAC", 
-        "num_organisation": "775563455", 
-        "objet": "Demander le report de 1 mois (jusqu’au 31 juillet 2020) de la date de dépôt des déclarations d’affectation", 
-        "publicationDate": "2020-11-09T13:52:10"
-      }, 
-      {
-        "domainesIntervention": [
-          "Industrie agroalimentaire", 
-          "Agriculture"
-        ], 
-        "identifiantFiche": "2PVXQT7H", 
-        "nom_organisation": "BUREAU NATIONAL INTERPR COGNAC", 
-        "num_organisation": "775563455", 
-        "objet": "Demander le report de 2 mois (jusqu’au 30 juin 2020) de l’obligation de mise sous bois des eaux-de-vie de Cognac", 
-        "publicationDate": "2020-11-09T13:52:25"
-      }, 
-      {
-        "domainesIntervention": [
-          "Industrie agroalimentaire", 
-          "Agriculture"
-        ], 
-        "identifiantFiche": "KUVPCJFH", 
-        "nom_organisation": "BUREAU NATIONAL INTERPR COGNAC", 
-        "num_organisation": "775563455", 
-        "objet": "Assurer le maintien du régime particulier d’achats en franchise de TVA de la région délimitée du Cognac", 
-        "publicationDate": "2020-11-09T13:52:38"
-      }, 
-      {
-        "domainesIntervention": [
-          "Industrie agroalimentaire"
-        ], 
-        "identifiantFiche": "2ZV9SI4H", 
-        "nom_organisation": "BUREAU NATIONAL INTERPR COGNAC", 
-        "num_organisation": "775563455", 
-        "objet": "Soutenir la désescalade des mesures de rétorsions UE-USA demander le retrait de tout droit de douane sur les produits non objets des différends commerciaux et œuvrer à leur résolution négociée", 
-        "publicationDate": "2020-11-09T13:52:51"
-      }, 
-      {
-        "domainesIntervention": [
-          "Industrie agroalimentaire"
-        ], 
-        "identifiantFiche": "UYVIX0SV", 
-        "nom_organisation": "BUREAU NATIONAL INTERPR COGNAC", 
-        "num_organisation": "775563455", 
-        "objet": "Obtenir le soutien des autorités françaises auprès des autorités chinoises pour appuyer la démarche du BNIC visant à modifier la présentation du Cognac commercialisé en Chine", 
-        "publicationDate": "2020-11-09T13:53:05"
-      }
-    ], 
+    "resumes_actions": [], 
     "sigleHatvp": "COGNAC", 
     "telephoneDeContact": "0545356000", 
     "typeIdentifiantNational": "SIREN", 
