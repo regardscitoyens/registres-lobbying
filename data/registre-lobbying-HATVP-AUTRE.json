@@ -17618,58 +17618,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": false, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Agriculture"
-        ], 
-        "identifiantFiche": "2ZV9S0LH", 
-        "nom_organisation": "FDSEA Tarn-et-Garonne", 
-        "num_organisation": "777306077", 
-        "objet": "Dossier de surveillance SHARKA en attente de notification ", 
-        "publicationDate": "2020-11-19T14:35:44"
-      }, 
-      {
-        "domainesIntervention": [
-          "Agriculture"
-        ], 
-        "identifiantFiche": "KUVPCB4H", 
-        "nom_organisation": "FDSEA Tarn-et-Garonne", 
-        "num_organisation": "777306077", 
-        "objet": "demande de soutien pour l'obtention de la dérogation concernant l'utilisation d'imidan en traitement contre la drosophile suzukii", 
-        "publicationDate": "2020-11-19T14:35:55"
-      }, 
-      {
-        "domainesIntervention": [
-          "Agriculture"
-        ], 
-        "identifiantFiche": "UYVIXZPV", 
-        "nom_organisation": "FDSEA Tarn-et-Garonne", 
-        "num_organisation": "777306077", 
-        "objet": "Demande d'autorisation d'utilisation des jachères et SIE pour l'ensemble des éleveurs sans demandes individuelles préalables", 
-        "publicationDate": "2020-11-19T14:36:06"
-      }, 
-      {
-        "domainesIntervention": [
-          "Agriculture"
-        ], 
-        "identifiantFiche": "IYVN6LIV", 
-        "nom_organisation": "FDSEA Tarn-et-Garonne", 
-        "num_organisation": "777306077", 
-        "objet": "Sécuriser l'accueil des saisonniers étrangers et de le développer dans certaines régions et filières ", 
-        "publicationDate": "2020-11-19T14:36:41"
-      }, 
-      {
-        "domainesIntervention": [
-          "Agriculture"
-        ], 
-        "identifiantFiche": "QEVJATWV", 
-        "nom_organisation": "FDSEA Tarn-et-Garonne", 
-        "num_organisation": "777306077", 
-        "objet": "Contrôle des engagements des Jeunes Agriculteurs en fin de PDE ", 
-        "publicationDate": "2020-11-19T14:36:55"
-      }
-    ], 
+    "resumes_actions": [], 
     "sigleHatvp": "FDSEA 82", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/777306077.json", 
