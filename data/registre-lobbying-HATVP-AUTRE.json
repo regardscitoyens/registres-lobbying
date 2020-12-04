@@ -34252,7 +34252,7 @@
       }
     ], 
     "dateCreation": "2020-09-08T16:54:26", 
-    "dateDernierePublicationActivite": "2020-09-28T17:24:00", 
+    "dateDernierePublicationActivite": "2020-12-04T15:08:36", 
     "datePremierePublication": "2020-09-08T16:54:26", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -34346,12 +34346,129 @@
         "publicationDate": "2020-09-28T18:08:52"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionMeneeAutre": "Présenter et défendre un projet industriel", 
+                    "actionsMenees": [
+                      "Autres : à préciser"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SOCIETE COOPERATIVE AGRICOLE NATUP (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Politique industrielle", 
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "Z0V56DD3", 
+                "objet": "Sensibiliser la Région à un projet industriel dans la filière lin", 
+                "publicationDate": "2020-12-04T15:08:36"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionMeneeAutre": "Présenter et défendre un projet industriel", 
+                  "actionsMenees": [
+                    "Autres : à préciser"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SOCIETE COOPERATIVE AGRICOLE NATUP (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Politique industrielle", 
+                "Agriculture"
+              ], 
+              "identifiantFiche": "Z0V56DD3", 
+              "objet": "Sensibiliser la Région à un projet industriel dans la filière lin", 
+              "publicationDate": "2020-12-04T15:08:36"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionMeneeAutre": "- Organiser des discussions\n- Organiser un rendez-vous dédié à la filière lin dans le contexte sanitaire de la COVID-19", 
+                    "actionsMenees": [
+                      "Autres : à préciser"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SOCIETE COOPERATIVE AGRICOLE NATUP (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "IO3WLXCH", 
+                "objet": "Sensibiliser les parlementaires à la situation de la filière lin dans le cadre du plan de relance", 
+                "publicationDate": "2020-12-04T14:59:49"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionMeneeAutre": "- Organiser des discussions\n- Organiser un rendez-vous dédié à la filière lin dans le contexte sanitaire de la COVID-19", 
+                  "actionsMenees": [
+                    "Autres : à préciser"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SOCIETE COOPERATIVE AGRICOLE NATUP (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Agriculture"
+              ], 
+              "identifiantFiche": "IO3WLXCH", 
+              "objet": "Sensibiliser les parlementaires à la situation de la filière lin dans le cadre du plan de relance", 
+              "publicationDate": "2020-12-04T14:59:49"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-07-01", 
         "dateFin": "2020-09-08", 
         "defautDeclaration": false, 
         "exerciceId": 11281, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 2, 
+        "nombreSalaries": 10, 
+        "publicationDate": "2020-12-04T15:09:23"
       }, 
       {
         "dateDebut": "2020-09-09", 
@@ -34402,6 +34519,32 @@
         "nombreActivite": 1, 
         "nombreSalaries": 3, 
         "publicationDate": "2020-09-28T17:25:05"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-07-01", 
+        "dateFin": "2020-09-08", 
+        "defautDeclaration": false, 
+        "exerciceId": 11281, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 2, 
+        "nombreSalaries": 10, 
+        "publicationDate": "2020-12-04T15:09:23"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-07-01", 
+        "dateFin": "2020-09-08", 
+        "defautDeclaration": false, 
+        "exerciceId": 11281, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 2, 
+        "nombreSalaries": 10, 
+        "publicationDate": "2020-12-04T15:00:59"
       }
     ], 
     "identifiantNational": "775701097", 
@@ -34410,7 +34553,29 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Agriculture"
+        ], 
+        "identifiantFiche": "IO3WLXCH", 
+        "nom_organisation": "SOCIETE COOPERATIVE AGRICOLE NATUP", 
+        "num_organisation": "775701097", 
+        "objet": "Sensibiliser les parlementaires à la situation de la filière lin dans le cadre du plan de relance", 
+        "publicationDate": "2020-12-04T14:59:49"
+      }, 
+      {
+        "domainesIntervention": [
+          "Politique industrielle", 
+          "Agriculture"
+        ], 
+        "identifiantFiche": "Z0V56DD3", 
+        "nom_organisation": "SOCIETE COOPERATIVE AGRICOLE NATUP", 
+        "num_organisation": "775701097", 
+        "objet": "Sensibiliser la Région à un projet industriel dans la filière lin", 
+        "publicationDate": "2020-12-04T15:08:36"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775701097.json", 
     "ville": "MONT ST AIGNAN"
