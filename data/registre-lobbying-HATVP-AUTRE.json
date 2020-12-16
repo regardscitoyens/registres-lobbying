@@ -34553,29 +34553,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Agriculture"
-        ], 
-        "identifiantFiche": "IO3WLXCH", 
-        "nom_organisation": "SOCIETE COOPERATIVE AGRICOLE NATUP", 
-        "num_organisation": "775701097", 
-        "objet": "Sensibiliser les parlementaires à la situation de la filière lin dans le cadre du plan de relance", 
-        "publicationDate": "2020-12-04T14:59:49"
-      }, 
-      {
-        "domainesIntervention": [
-          "Politique industrielle", 
-          "Agriculture"
-        ], 
-        "identifiantFiche": "Z0V56DD3", 
-        "nom_organisation": "SOCIETE COOPERATIVE AGRICOLE NATUP", 
-        "num_organisation": "775701097", 
-        "objet": "Sensibiliser la Région à un projet industriel dans la filière lin", 
-        "publicationDate": "2020-12-04T15:08:36"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775701097.json", 
     "ville": "MONT ST AIGNAN"
