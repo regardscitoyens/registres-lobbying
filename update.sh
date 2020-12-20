@@ -27,7 +27,7 @@ if ! [ -z "$filename" ] && ! test -f "$filename"; then
   echo "DOWNLOADING NEW SENATE REGISTER VERSION"
   echo "---------------------------------------"
   wget "$urlsenat" -O "$filename"
-  in2csv "$filename" > "$filename.csv"
+  in2csv -H "$filename" > "$filename.csv"
   ./clean_senat.py "$filename.csv" > data/registre-lobbying-Senat.csv
   rm -f "$filename.csv"
   if ! $DEBUG; then
