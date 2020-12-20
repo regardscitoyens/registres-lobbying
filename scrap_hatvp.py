@@ -34,7 +34,10 @@ def reformat_date(obj):
 
 def safe_dl(url, fail=False, retry=5):
     try:
-        return requests.get(url).json()
+        req = requests.get(url)
+        if not fail and req.status_code == 404:
+            return None
+        return req.json()
     except Exception as e:
         if retry:
             time.sleep(1)
