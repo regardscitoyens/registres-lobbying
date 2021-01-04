@@ -62,7 +62,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "75740", 
@@ -959,6 +960,14 @@
         "exerciceId": 8727, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11863, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [], 
@@ -1086,6 +1095,7 @@
     }, 
     "clients": [
       {
+        "ancienClient": false, 
         "denomination": "SOCIETE AIR FRANCE", 
         "identifiantNational": "420495178", 
         "typeIdentifiantNational": "SIREN"
@@ -2080,6 +2090,14 @@
         "exerciceId": 10118, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13379, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -2261,6 +2279,7 @@
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "SOCIETE AIR FRANCE", 
             "identifiantNational": "420495178", 
             "typeIdentifiantNational": "SIREN"
@@ -2380,6 +2399,7 @@
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "SOCIETE AIR FRANCE", 
             "identifiantNational": "420495178", 
             "typeIdentifiantNational": "SIREN"
@@ -2506,6 +2526,7 @@
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "SOCIETE AIR FRANCE", 
             "identifiantNational": "420495178", 
             "typeIdentifiantNational": "SIREN"
@@ -3628,6 +3649,14 @@
         "nombreActivite": 0, 
         "nombreSalaries": 5, 
         "publicationDate": "2020-04-24T12:32:43"
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12760, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -3970,7 +3999,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "1050", 
@@ -4053,6 +4083,14 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 10592, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11800, 
         "noActivite": false, 
         "nombreActivite": 0
       }
@@ -6985,7 +7023,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "75009", 
@@ -7325,6 +7364,14 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9589, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12811, 
         "noActivite": false, 
         "nombreActivite": 0
       }
@@ -7734,6 +7781,14 @@
         "exerciceId": 9664, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12890, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -8052,6 +8107,14 @@
         "exerciceId": 9475, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12681, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -8364,10 +8427,12 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [
       {
+        "ancienClient": false, 
         "denomination": "ADOMA", 
         "identifiantNational": "788058030", 
         "typeIdentifiantNational": "SIREN"
@@ -10660,6 +10725,14 @@
         "exerciceId": 10060, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13317, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -10737,7 +10810,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [
           {
@@ -11229,6 +11303,14 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 8529, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11645, 
         "noActivite": false, 
         "nombreActivite": 0
       }
@@ -11789,6 +11871,14 @@
         "exerciceId": 9981, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13233, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -12218,6 +12308,14 @@
         "exerciceId": 9918, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13160, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -12417,7 +12515,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "75011", 
@@ -12783,6 +12882,14 @@
         "nombreActivite": 0, 
         "nombreSalaries": 5, 
         "publicationDate": "2020-07-29T14:31:17"
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12667, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -12840,7 +12947,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75011", 
@@ -14251,6 +14359,14 @@
         "exerciceId": 10258, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13526, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -15499,7 +15615,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "92024", 
@@ -15572,6 +15689,14 @@
         "exerciceId": 9519, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12730, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -15634,7 +15759,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "92024", 
@@ -15730,7 +15856,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "92024", 
@@ -16029,6 +16156,14 @@
         "exerciceId": 8667, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11797, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [], 
@@ -16096,7 +16231,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "78280", 
@@ -16203,6 +16339,14 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 10239, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13507, 
         "noActivite": false, 
         "nombreActivite": 0
       }
@@ -17436,6 +17580,14 @@
         "exerciceId": 9925, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13167, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -17707,81 +17859,97 @@
     }, 
     "clients": [
       {
+        "ancienClient": false, 
         "denomination": "COMMUNAUTE AGGLO ST QUENTIN EN YVELINES", 
         "identifiantNational": "247800451", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "FED IDUST ELECTR ELECTRONIQUES  COMMUNIC", 
         "identifiantNational": "775688443", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "OLVID", 
         "identifiantNational": "850667171", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "CNPP CYBERSECURITY", 
         "identifiantNational": "818346264", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "SEELA", 
         "identifiantNational": "790809016", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "CABINET BESSE TRANSPORTS RISQUES DIVERS", 
         "identifiantNational": "314120999", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "GROUPE ECOLE SUPERIEURE COMMERCE RENNES", 
         "identifiantNational": "378327514", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "OXIBOX GROUP", 
         "identifiantNational": "882579931", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ALLIANCE POUR LA CONFIANCE NUMERIQUE", 
         "identifiantNational": "797543550", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "EGERIE SOFTWARE", 
         "identifiantNational": "817640998", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "GOOGLE FRANCE", 
         "identifiantNational": "443061841", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ARIADNEXT", 
         "identifiantNational": "520769225", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "GATEWATCHER", 
         "identifiantNational": "810505248", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "POLE D EXCELLENCE CYBER", 
         "identifiantNational": "822406526", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "YES WE HACK", 
         "identifiantNational": "814037214", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "NOMOLEX PERFORMANCE S.A.S", 
         "identifiantNational": "838693927", 
         "typeIdentifiantNational": "SIREN"
@@ -17839,6 +18007,14 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 11287, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11717, 
         "noActivite": false, 
         "nombreActivite": 0
       }
@@ -17927,81 +18103,97 @@
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "COMMUNAUTE AGGLO ST QUENTIN EN YVELINES", 
             "identifiantNational": "247800451", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "FED IDUST ELECTR ELECTRONIQUES  COMMUNIC", 
             "identifiantNational": "775688443", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "OLVID", 
             "identifiantNational": "850667171", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "CNPP CYBERSECURITY", 
             "identifiantNational": "818346264", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "SEELA", 
             "identifiantNational": "790809016", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "CABINET BESSE TRANSPORTS RISQUES DIVERS", 
             "identifiantNational": "314120999", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "GROUPE ECOLE SUPERIEURE COMMERCE RENNES", 
             "identifiantNational": "378327514", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "OXIBOX GROUP", 
             "identifiantNational": "882579931", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ALLIANCE POUR LA CONFIANCE NUMERIQUE", 
             "identifiantNational": "797543550", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "EGERIE SOFTWARE", 
             "identifiantNational": "817640998", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "GOOGLE FRANCE", 
             "identifiantNational": "443061841", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ARIADNEXT", 
             "identifiantNational": "520769225", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "GATEWATCHER", 
             "identifiantNational": "810505248", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "POLE D EXCELLENCE CYBER", 
             "identifiantNational": "822406526", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "YES WE HACK", 
             "identifiantNational": "814037214", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "NOMOLEX PERFORMANCE S.A.S", 
             "identifiantNational": "838693927", 
             "typeIdentifiantNational": "SIREN"
@@ -18181,305 +18373,366 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [
       {
+        "ancienClient": false, 
         "denomination": "FOYER OBERHOLZ EDUC SURVEILLEE", 
         "identifiantNational": "778737296", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "OEUVRE DE LA CHAUSSEE DU MAINE", 
         "identifiantNational": "W751058116", 
         "typeIdentifiantNational": "RNA"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "OEUVRE ORMESSON VILLIERS MARNE", 
         "identifiantNational": "775739584", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "PROVENCE ALPES GROUPEMENT D'ECONOMIE SOLIDAIRE : PAGES", 
         "identifiantNational": "794972620", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "RESEAU RAJE", 
         "identifiantNational": "479392045", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ASSOC VILLAGE D ENFANTS PIERRE ET PAULE SAURY", 
         "identifiantNational": "778443275", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ASS VILLA SAINT CAMILLE", 
         "identifiantNational": "695722702", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "UN TOIT 2 GENERATIONS", 
         "identifiantNational": "512685959", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "BAO FORMATION", 
         "identifiantNational": "483467684", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ASS ARDENNAISE SAUVEGARDE ENFANCE ADOLES", 
         "identifiantNational": "330596933", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "GROUPE SOS SENIORS", 
         "identifiantNational": "775618150", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "CRESCENDO", 
         "identifiantNational": "784810111", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "LE RENOUVEAU", 
         "identifiantNational": "775664626", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "LES BLES D'OR", 
         "identifiantNational": "539670141", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "LES TROPHEES SOLIDAIRES", 
         "identifiantNational": "W751237639", 
         "typeIdentifiantNational": "RNA"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ASSOCIATION MAISON DE RETRAITE SAINT FRANCOIS", 
         "identifiantNational": "777194903", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ASS AIDE & PROTECT ENFANCE & JEUNESSE", 
         "identifiantNational": "318226479", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ASS DEP INSERTION SANTE SOINS ADDICTIONS", 
         "identifiantNational": "433415973", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "GROUPE SOS SOLIDARITES", 
         "identifiantNational": "341062404", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "GROUPE SOS JEUNESSE", 
         "identifiantNational": "775685506", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ASSOCIATION SAINTE-MARIE D'ETAGNAC", 
         "identifiantNational": "301484291", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ASSOCIATION LE CAP", 
         "identifiantNational": "779033125", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "GERONVIE DOMICILE", 
         "identifiantNational": "512826090", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "BANG CULTURE", 
         "identifiantNational": "828578310", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "LE PARISOLIDAIRE", 
         "identifiantNational": "478492366", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "RECONNECT", 
         "identifiantNational": "511414047", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "SANTE SUD", 
         "identifiantNational": "338116189", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "EHPAD LES GLENANS", 
         "identifiantNational": "515225951", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "DJANTOLI", 
         "identifiantNational": "538804329", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ACTA VISTA", 
         "identifiantNational": "441024718", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ARCAT", 
         "identifiantNational": "342080736", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "MA VILLE JE T'AIDE", 
         "identifiantNational": "809140387", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ARABESQUE", 
         "identifiantNational": "519756290", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ASSOCIATION FERMES D AVENIR", 
         "identifiantNational": "797400769", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "GINKGO", 
         "identifiantNational": "500176896", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "GESTION CENTRE LOISIRS DE LA POSTE", 
         "identifiantNational": "328833553", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "GROUPE SOS SANTE", 
         "identifiantNational": "302891114", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "SESAME AUTISME GESTION & PERSPECTIVES", 
         "identifiantNational": "428445142", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "FONDATION SAINTE MARIE", 
         "identifiantNational": "783583404", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "EHPAD SAINTE GERMAINE", 
         "identifiantNational": "524323805", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "AFGHANISTAN LIBRE", 
         "identifiantNational": "441191863", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ASSOCIATION DEPARTEMENTAL ELYSEE", 
         "identifiantNational": "775703382", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ASSOCIATION LA BOISNIERE", 
         "identifiantNational": "775354251", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "LE KIOSQUE INFOS  SIDA", 
         "identifiantNational": "390725182", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "LACS, RIVIERES ET SENTIERS", 
         "identifiantNational": "400921409", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ENVIRONNEMENT REPONSE AMENAGEMENT", 
         "identifiantNational": "434135166", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ESPACE FAMILLES LOIRET", 
         "identifiantNational": "487748238", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "LE REPIT", 
         "identifiantNational": "823224282", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "MOUVEMENT UP", 
         "identifiantNational": "W751237637", 
         "typeIdentifiantNational": "RNA"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ASS TAMA", 
         "identifiantNational": "518926472", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ASS PARRAINS PAR'MILLE", 
         "identifiantNational": "399812221", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "PLAY INTERNATIONAL", 
         "identifiantNational": "424901916", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "PLANETE URGENCE", 
         "identifiantNational": "433095718", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "POINT SUD", 
         "identifiantNational": "494953243", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "FOYER RESIDENCE LE CLOS", 
         "identifiantNational": "316503291", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ASSOCIATION LE LIEN", 
         "identifiantNational": "308757459", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ASSOCIATION L'ESPOIR", 
         "identifiantNational": "775560261", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "ATELIER RECHERCHE TRAITEMENT ET MEDIATION INTERCULTURELLE ET SOCIALE - ARTEMIS", 
         "identifiantNational": "481176915", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "IMPACT CAMPUS", 
         "identifiantNational": "828198705", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "SOLIDARITE ALIMENTAIRE FRANCE", 
         "identifiantNational": "845107796", 
         "typeIdentifiantNational": "SIREN"
@@ -22092,6 +22345,14 @@
         "exerciceId": 8763, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11902, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -22191,300 +22452,360 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "FOYER OBERHOLZ EDUC SURVEILLEE", 
             "identifiantNational": "778737296", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "OEUVRE DE LA CHAUSSEE DU MAINE", 
             "identifiantNational": "W751058116", 
             "typeIdentifiantNational": "RNA"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "OEUVRE ORMESSON VILLIERS MARNE", 
             "identifiantNational": "775739584", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "PROVENCE ALPES GROUPEMENT D'ECONOMIE SOLIDAIRE : PAGES", 
             "identifiantNational": "794972620", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "RESEAU RAJE", 
             "identifiantNational": "479392045", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOC VILLAGE D ENFANTS PIERRE ET PAULE SAURY", 
             "identifiantNational": "778443275", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASS VILLA SAINT CAMILLE", 
             "identifiantNational": "695722702", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "UN TOIT 2 GENERATIONS", 
             "identifiantNational": "512685959", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "BAO FORMATION", 
             "identifiantNational": "483467684", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASS ARDENNAISE SAUVEGARDE ENFANCE ADOLES", 
             "identifiantNational": "330596933", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "GROUPE SOS SENIORS", 
             "identifiantNational": "775618150", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "CRESCENDO", 
             "identifiantNational": "784810111", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "LE RENOUVEAU", 
             "identifiantNational": "775664626", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "LES BLES D'OR", 
             "identifiantNational": "539670141", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "LES TROPHEES SOLIDAIRES", 
             "identifiantNational": "W751237639", 
             "typeIdentifiantNational": "RNA"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOCIATION MAISON DE RETRAITE SAINT FRANCOIS", 
             "identifiantNational": "777194903", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASS AIDE & PROTECT ENFANCE & JEUNESSE", 
             "identifiantNational": "318226479", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASS DEP INSERTION SANTE SOINS ADDICTIONS", 
             "identifiantNational": "433415973", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "GROUPE SOS SOLIDARITES", 
             "identifiantNational": "341062404", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "GROUPE SOS JEUNESSE", 
             "identifiantNational": "775685506", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOCIATION SAINTE-MARIE D'ETAGNAC", 
             "identifiantNational": "301484291", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOCIATION LE CAP", 
             "identifiantNational": "779033125", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "GERONVIE DOMICILE", 
             "identifiantNational": "512826090", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "BANG CULTURE", 
             "identifiantNational": "828578310", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "LE PARISOLIDAIRE", 
             "identifiantNational": "478492366", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "RECONNECT", 
             "identifiantNational": "511414047", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "SANTE SUD", 
             "identifiantNational": "338116189", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "EHPAD LES GLENANS", 
             "identifiantNational": "515225951", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "DJANTOLI", 
             "identifiantNational": "538804329", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ACTA VISTA", 
             "identifiantNational": "441024718", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ARCAT", 
             "identifiantNational": "342080736", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MA VILLE JE T'AIDE", 
             "identifiantNational": "809140387", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ARABESQUE", 
             "identifiantNational": "519756290", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOCIATION FERMES D AVENIR", 
             "identifiantNational": "797400769", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "GINKGO", 
             "identifiantNational": "500176896", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "GESTION CENTRE LOISIRS DE LA POSTE", 
             "identifiantNational": "328833553", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "GROUPE SOS SANTE", 
             "identifiantNational": "302891114", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "SESAME AUTISME GESTION & PERSPECTIVES", 
             "identifiantNational": "428445142", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "FONDATION SAINTE MARIE", 
             "identifiantNational": "783583404", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "EHPAD SAINTE GERMAINE", 
             "identifiantNational": "524323805", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "AFGHANISTAN LIBRE", 
             "identifiantNational": "441191863", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOCIATION DEPARTEMENTAL ELYSEE", 
             "identifiantNational": "775703382", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOCIATION LA BOISNIERE", 
             "identifiantNational": "775354251", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "LE KIOSQUE INFOS  SIDA", 
             "identifiantNational": "390725182", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "LACS, RIVIERES ET SENTIERS", 
             "identifiantNational": "400921409", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ENVIRONNEMENT REPONSE AMENAGEMENT", 
             "identifiantNational": "434135166", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ESPACE FAMILLES LOIRET", 
             "identifiantNational": "487748238", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "LE REPIT", 
             "identifiantNational": "823224282", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MOUVEMENT UP", 
             "identifiantNational": "W751237637", 
             "typeIdentifiantNational": "RNA"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASS TAMA", 
             "identifiantNational": "518926472", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASS PARRAINS PAR'MILLE", 
             "identifiantNational": "399812221", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "PLAY INTERNATIONAL", 
             "identifiantNational": "424901916", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "PLANETE URGENCE", 
             "identifiantNational": "433095718", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "POINT SUD", 
             "identifiantNational": "494953243", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "FOYER RESIDENCE LE CLOS", 
             "identifiantNational": "316503291", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOCIATION LE LIEN", 
             "identifiantNational": "308757459", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOCIATION L'ESPOIR", 
             "identifiantNational": "775560261", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ATELIER RECHERCHE TRAITEMENT ET MEDIATION INTERCULTURELLE ET SOCIALE - ARTEMIS", 
             "identifiantNational": "481176915", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "IMPACT CAMPUS", 
             "identifiantNational": "828198705", 
             "typeIdentifiantNational": "SIREN"
@@ -22637,300 +22958,360 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "FOYER OBERHOLZ EDUC SURVEILLEE", 
             "identifiantNational": "778737296", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "OEUVRE DE LA CHAUSSEE DU MAINE", 
             "identifiantNational": "W751058116", 
             "typeIdentifiantNational": "RNA"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "OEUVRE ORMESSON VILLIERS MARNE", 
             "identifiantNational": "775739584", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "PROVENCE ALPES GROUPEMENT D'ECONOMIE SOLIDAIRE : PAGES", 
             "identifiantNational": "794972620", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "RESEAU RAJE", 
             "identifiantNational": "479392045", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOC VILLAGE D ENFANTS PIERRE ET PAULE SAURY", 
             "identifiantNational": "778443275", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASS VILLA SAINT CAMILLE", 
             "identifiantNational": "695722702", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "UN TOIT 2 GENERATIONS", 
             "identifiantNational": "512685959", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "BAO FORMATION", 
             "identifiantNational": "483467684", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASS ARDENNAISE SAUVEGARDE ENFANCE ADOLES", 
             "identifiantNational": "330596933", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "GROUPE SOS SENIORS", 
             "identifiantNational": "775618150", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "CRESCENDO", 
             "identifiantNational": "784810111", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "LE RENOUVEAU", 
             "identifiantNational": "775664626", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "LES BLES D'OR", 
             "identifiantNational": "539670141", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "LES TROPHEES SOLIDAIRES", 
             "identifiantNational": "W751237639", 
             "typeIdentifiantNational": "RNA"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOCIATION MAISON DE RETRAITE SAINT FRANCOIS", 
             "identifiantNational": "777194903", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASS AIDE & PROTECT ENFANCE & JEUNESSE", 
             "identifiantNational": "318226479", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASS DEP INSERTION SANTE SOINS ADDICTIONS", 
             "identifiantNational": "433415973", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "GROUPE SOS SOLIDARITES", 
             "identifiantNational": "341062404", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "GROUPE SOS JEUNESSE", 
             "identifiantNational": "775685506", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOCIATION SAINTE-MARIE D'ETAGNAC", 
             "identifiantNational": "301484291", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOCIATION LE CAP", 
             "identifiantNational": "779033125", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "GERONVIE DOMICILE", 
             "identifiantNational": "512826090", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "BANG CULTURE", 
             "identifiantNational": "828578310", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "LE PARISOLIDAIRE", 
             "identifiantNational": "478492366", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "RECONNECT", 
             "identifiantNational": "511414047", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "SANTE SUD", 
             "identifiantNational": "338116189", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "EHPAD LES GLENANS", 
             "identifiantNational": "515225951", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "DJANTOLI", 
             "identifiantNational": "538804329", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ACTA VISTA", 
             "identifiantNational": "441024718", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ARCAT", 
             "identifiantNational": "342080736", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MA VILLE JE T'AIDE", 
             "identifiantNational": "809140387", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ARABESQUE", 
             "identifiantNational": "519756290", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOCIATION FERMES D AVENIR", 
             "identifiantNational": "797400769", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "GINKGO", 
             "identifiantNational": "500176896", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "GESTION CENTRE LOISIRS DE LA POSTE", 
             "identifiantNational": "328833553", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "GROUPE SOS SANTE", 
             "identifiantNational": "302891114", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "SESAME AUTISME GESTION & PERSPECTIVES", 
             "identifiantNational": "428445142", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "FONDATION SAINTE MARIE", 
             "identifiantNational": "783583404", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "EHPAD SAINTE GERMAINE", 
             "identifiantNational": "524323805", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "AFGHANISTAN LIBRE", 
             "identifiantNational": "441191863", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOCIATION DEPARTEMENTAL ELYSEE", 
             "identifiantNational": "775703382", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOCIATION LA BOISNIERE", 
             "identifiantNational": "775354251", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "LE KIOSQUE INFOS  SIDA", 
             "identifiantNational": "390725182", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "LACS, RIVIERES ET SENTIERS", 
             "identifiantNational": "400921409", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ENVIRONNEMENT REPONSE AMENAGEMENT", 
             "identifiantNational": "434135166", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ESPACE FAMILLES LOIRET", 
             "identifiantNational": "487748238", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "LE REPIT", 
             "identifiantNational": "823224282", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MOUVEMENT UP", 
             "identifiantNational": "W751237637", 
             "typeIdentifiantNational": "RNA"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASS TAMA", 
             "identifiantNational": "518926472", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASS PARRAINS PAR'MILLE", 
             "identifiantNational": "399812221", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "PLAY INTERNATIONAL", 
             "identifiantNational": "424901916", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "PLANETE URGENCE", 
             "identifiantNational": "433095718", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "POINT SUD", 
             "identifiantNational": "494953243", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "FOYER RESIDENCE LE CLOS", 
             "identifiantNational": "316503291", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOCIATION LE LIEN", 
             "identifiantNational": "308757459", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ASSOCIATION L'ESPOIR", 
             "identifiantNational": "775560261", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "ATELIER RECHERCHE TRAITEMENT ET MEDIATION INTERCULTURELLE ET SOCIALE - ARTEMIS", 
             "identifiantNational": "481176915", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "IMPACT CAMPUS", 
             "identifiantNational": "828198705", 
             "typeIdentifiantNational": "SIREN"
@@ -24349,10 +24730,12 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [
       {
+        "ancienClient": false, 
         "denomination": "ENVIRO-CONSEIL ET TRAVAUX", 
         "identifiantNational": "392244935", 
         "typeIdentifiantNational": "SIREN"
@@ -24553,6 +24936,14 @@
         "exerciceId": 8525, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11641, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -24597,10 +24988,12 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "CAMEO", 
             "identifiantNational": "753153014", 
             "typeIdentifiantNational": "SIREN"
@@ -24684,10 +25077,12 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "CAMEO", 
             "identifiantNational": "753153014", 
             "typeIdentifiantNational": "SIREN"
@@ -24771,15 +25166,18 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "CAMEO", 
             "identifiantNational": "753153014", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "FEDERATION DES ENTREPRISES DU RECYCLAGE", 
             "identifiantNational": "784358749", 
             "typeIdentifiantNational": "SIREN"
@@ -24863,10 +25261,12 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "CAMEO", 
             "identifiantNational": "753153014", 
             "typeIdentifiantNational": "SIREN"
@@ -24950,10 +25350,12 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "CAMEO", 
             "identifiantNational": "753153014", 
             "typeIdentifiantNational": "SIREN"
@@ -25049,10 +25451,12 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "CAMEO", 
             "identifiantNational": "753153014", 
             "typeIdentifiantNational": "SIREN"
@@ -25366,6 +25770,14 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 10747, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11805, 
         "noActivite": false, 
         "nombreActivite": 0
       }
@@ -26497,7 +26909,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "75008", 
@@ -26678,6 +27091,14 @@
         "exerciceId": 8989, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12152, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -26711,7 +27132,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75008", 
@@ -26777,7 +27199,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75008", 
@@ -26848,7 +27271,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75008", 
@@ -27050,6 +27474,14 @@
         "exerciceId": 8610, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11737, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [], 
@@ -27096,7 +27528,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "79000", 
@@ -27550,6 +27983,14 @@
         "exerciceId": 8554, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11673, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -27583,7 +28024,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "79000", 
@@ -27646,7 +28088,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "79000", 
@@ -27713,7 +28156,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "79000", 
@@ -27849,7 +28293,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "75317", 
@@ -28157,6 +28602,14 @@
         "exerciceId": 9430, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12632, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [], 
@@ -28329,6 +28782,14 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9731, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12961, 
         "noActivite": false, 
         "nombreActivite": 0
       }
@@ -28520,100 +28981,120 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [
       {
+        "ancienClient": false, 
         "denomination": "MUTUELLE CENTRALE FINANCES", 
         "identifiantNational": "302976568", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "UNION NLE DES MUTUELLES DE LA SANTE", 
         "identifiantNational": "382014132", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "MUTUELLE DES SAPEURS POMPIERS DE PARIS", 
         "identifiantNational": "391036183", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "CAISSE NAT GENDARME-MUTUELLE GENDARMERIE", 
         "identifiantNational": "784442873", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "CDC MUTUELLE", 
         "identifiantNational": "784301434", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "MUTUELLE DE L ARMEE DE L AIR", 
         "identifiantNational": "784338675", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "MUTUELLE CIVILE DE LA DEFENSE", 
         "identifiantNational": "784621476", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "LA MUTUELLE INTERIALE ENTREPRISES ET EXPATRIES", 
         "identifiantNational": "784647323", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "MUTUELLE GENERALE DE L'ECONOMIE DES FINANCES ET DE L INDUSTRIE", 
         "identifiantNational": "499982098", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "MUTUELLE DU MINISTERE DE LA JUSTICE", 
         "identifiantNational": "775657521", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "MUTUELLE DES AFFAIRES ETRANGERES", 
         "identifiantNational": "775666332", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "MUTUELLE INTERIALE", 
         "identifiantNational": "775685365", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "MUTUELLE DE L'INSEE", 
         "identifiantNational": "775666266", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "MUTUELLE NATIONALE MILITAIRE", 
         "identifiantNational": "775666324", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "MUTUELLE NATIONALE TERRITORIALE MNT", 
         "identifiantNational": "775678584", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "MUTUELLE DES DOUANES", 
         "identifiantNational": "310046719", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "MUTUELLE GENERALE DES AFFAIRES SOCIALES", 
         "identifiantNational": "390810844", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "MGEN UNION", 
         "identifiantNational": "441921962", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "MUTUELLE NATIONALE DES FONCTIONNAIRES DES COLLECTIVITES TERRITORIALES  PREVENTION", 
         "identifiantNational": "482350717", 
         "typeIdentifiantNational": "SIREN"
@@ -30088,6 +30569,14 @@
         "exerciceId": 9205, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12390, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -30250,100 +30739,120 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "MUTUELLE CENTRALE FINANCES", 
             "identifiantNational": "302976568", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "UNION NLE DES MUTUELLES DE LA SANTE", 
             "identifiantNational": "382014132", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MUTUELLE DES SAPEURS POMPIERS DE PARIS", 
             "identifiantNational": "391036183", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "CAISSE NAT GENDARME-MUTUELLE GENDARMERIE", 
             "identifiantNational": "784442873", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "CDC MUTUELLE", 
             "identifiantNational": "784301434", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MUTUELLE DE L ARMEE DE L AIR", 
             "identifiantNational": "784338675", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MUTUELLE CIVILE DE LA DEFENSE", 
             "identifiantNational": "784621476", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "LA MUTUELLE INTERIALE ENTREPRISES ET EXPATRIES", 
             "identifiantNational": "784647323", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MUTUELLE GENERALE DE L'ECONOMIE DES FINANCES ET DE L INDUSTRIE", 
             "identifiantNational": "499982098", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MUTUELLE DU MINISTERE DE LA JUSTICE", 
             "identifiantNational": "775657521", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MUTUELLE DES AFFAIRES ETRANGERES", 
             "identifiantNational": "775666332", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MUTUELLE INTERIALE", 
             "identifiantNational": "775685365", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MUTUELLE DE L'INSEE", 
             "identifiantNational": "775666266", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MUTUELLE NATIONALE MILITAIRE", 
             "identifiantNational": "775666324", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MUTUELLE NATIONALE TERRITORIALE MNT", 
             "identifiantNational": "775678584", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MUTUELLE DES DOUANES", 
             "identifiantNational": "310046719", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MUTUELLE GENERALE DES AFFAIRES SOCIALES", 
             "identifiantNational": "390810844", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MGEN UNION", 
             "identifiantNational": "441921962", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "MUTUELLE NATIONALE DES FONCTIONNAIRES DES COLLECTIVITES TERRITORIALES  PREVENTION", 
             "identifiantNational": "482350717", 
             "typeIdentifiantNational": "SIREN"
@@ -30537,7 +31046,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "75748", 
@@ -31444,6 +31954,14 @@
         "exerciceId": 9204, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12389, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -31506,7 +32024,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75748", 
@@ -31606,7 +32125,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75748", 
@@ -31706,7 +32226,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75748", 
@@ -31852,7 +32373,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "75009", 
@@ -31884,14 +32406,6 @@
       }
     ], 
     "exercices": [
-      {
-        "dateDebut": "2018-01-01", 
-        "dateFin": "2018-12-31", 
-        "defautDeclaration": false, 
-        "exerciceId": 3616, 
-        "noActivite": false, 
-        "nombreActivite": 0
-      }, 
       {
         "activites": [
           {
@@ -31978,6 +32492,14 @@
         "nombreActivite": 1, 
         "nombreSalaries": 1, 
         "publicationDate": "2020-01-24T15:02:17"
+      }, 
+      {
+        "dateDebut": "2018-01-01", 
+        "dateFin": "2018-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 3616, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }, 
       {
         "activites": [
@@ -32160,6 +32682,14 @@
         "exerciceId": 9674, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12900, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [], 
@@ -32272,7 +32802,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "75009", 
@@ -32924,6 +33455,14 @@
         "exerciceId": 10136, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13398, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -32980,7 +33519,8 @@
         "categorieOrganisation": {
           "categorie": "SOCIETE", 
           "code": "SOCOM", 
-          "label": "Société commerciale"
+          "label": "Société commerciale", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75009", 
@@ -33094,7 +33634,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75009", 
@@ -33208,7 +33749,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75009", 
@@ -33328,7 +33870,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75009", 
@@ -33448,7 +33991,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75009", 
@@ -33572,7 +34116,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75009", 
@@ -33696,7 +34241,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75009", 
@@ -34044,6 +34590,14 @@
         "exerciceId": 10478, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11820, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [], 
@@ -34130,6 +34684,14 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 11561, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13289, 
         "noActivite": false, 
         "nombreActivite": 0
       }
@@ -34629,7 +35191,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "75220", 
@@ -35286,6 +35849,14 @@
         "exerciceId": 9470, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12675, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -35360,7 +35931,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75220", 
@@ -35487,7 +36059,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75220", 
@@ -35614,7 +36187,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75220", 
@@ -35899,6 +36473,14 @@
         "exerciceId": 9892, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13133, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [], 
@@ -35959,7 +36541,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "94150", 
@@ -36299,6 +36882,14 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9980, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13232, 
         "noActivite": false, 
         "nombreActivite": 0
       }

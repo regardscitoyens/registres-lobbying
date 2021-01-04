@@ -41,7 +41,8 @@
     "categorieOrganisation": {
       "categorie": "ORGA_PUB", 
       "code": "EPAIC", 
-      "label": "Etablissement public exerçant une activité industrielle et commerciale"
+      "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+      "notifSansChiffreAffaire": true
     }, 
     "clients": [], 
     "codePostal": "92298", 
@@ -381,6 +382,14 @@
         "exerciceId": 9072, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12246, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -432,7 +441,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "92298", 
@@ -536,7 +546,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "92298", 
@@ -640,7 +651,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "92298", 
@@ -738,7 +750,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "92298", 
@@ -836,7 +849,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "92298", 
@@ -934,7 +948,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "92298", 
@@ -1066,7 +1081,8 @@
     "categorieOrganisation": {
       "categorie": "ORGA_PUB", 
       "code": "EPAIC", 
-      "label": "Etablissement public exerçant une activité industrielle et commerciale"
+      "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+      "notifSansChiffreAffaire": true
     }, 
     "clients": [], 
     "codePostal": "95201", 
@@ -1411,6 +1427,14 @@
         "exerciceId": 10187, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13452, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -1444,7 +1468,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "95201", 
@@ -1567,7 +1592,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "95201", 
@@ -1780,7 +1806,8 @@
     "categorieOrganisation": {
       "categorie": "ORGA_PUB", 
       "code": "EPAIC", 
-      "label": "Etablissement public exerçant une activité industrielle et commerciale"
+      "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+      "notifSansChiffreAffaire": true
     }, 
     "clients": [], 
     "codePostal": "75039", 
@@ -2038,6 +2065,14 @@
         "exerciceId": 9928, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13170, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -2077,7 +2112,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "75039", 
@@ -2154,7 +2190,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "75039", 
@@ -3643,6 +3680,14 @@
         "exerciceId": 8914, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12073, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -4549,6 +4594,14 @@
         "exerciceId": 10076, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13335, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -4954,7 +5007,8 @@
     "categorieOrganisation": {
       "categorie": "ORGA_PUB", 
       "code": "EPAIC", 
-      "label": "Etablissement public exerçant une activité industrielle et commerciale"
+      "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+      "notifSansChiffreAffaire": true
     }, 
     "clients": [], 
     "codePostal": "92506", 
@@ -5520,6 +5574,14 @@
         "exerciceId": 9292, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12487, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -5547,7 +5609,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "92506", 
@@ -5612,7 +5675,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "92506", 
@@ -5754,7 +5818,8 @@
     "categorieOrganisation": {
       "categorie": "ORGA_PUB", 
       "code": "EPAIC", 
-      "label": "Etablissement public exerçant une activité industrielle et commerciale"
+      "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+      "notifSansChiffreAffaire": true
     }, 
     "clients": [], 
     "codePostal": "92260", 
@@ -6118,6 +6183,14 @@
         "exerciceId": 9202, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12387, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -6169,7 +6242,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "92260", 
@@ -6269,7 +6343,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "92260", 
@@ -6369,7 +6444,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "92260", 
@@ -6766,6 +6842,14 @@
         "exerciceId": 10333, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11953, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [], 
@@ -6925,6 +7009,14 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9083, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12257, 
         "noActivite": false, 
         "nombreActivite": 0
       }
@@ -7110,6 +7202,14 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9410, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12612, 
         "noActivite": false, 
         "nombreActivite": 0
       }
@@ -7339,10 +7439,12 @@
     "categorieOrganisation": {
       "categorie": "ORGA_PUB", 
       "code": "EPAIC", 
-      "label": "Etablissement public exerçant une activité industrielle et commerciale"
+      "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+      "notifSansChiffreAffaire": true
     }, 
     "clients": [
       {
+        "ancienClient": false, 
         "denomination": "RATP DEVELOPPEMENT", 
         "identifiantNational": "389795006", 
         "typeIdentifiantNational": "SIREN"
@@ -8467,6 +8569,14 @@
         "exerciceId": 9773, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13008, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -8518,7 +8628,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "75599", 
@@ -8611,7 +8722,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "75599", 
@@ -8710,7 +8822,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "75599", 
@@ -8842,7 +8955,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "75599", 
@@ -8979,7 +9093,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "75599", 
@@ -9116,7 +9231,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "75599", 
@@ -9249,7 +9365,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [], 
         "codePostal": "75599", 
@@ -9461,30 +9578,36 @@
     "categorieOrganisation": {
       "categorie": "ORGA_PUB", 
       "code": "EPAIC", 
-      "label": "Etablissement public exerçant une activité industrielle et commerciale"
+      "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+      "notifSansChiffreAffaire": true
     }, 
     "clients": [
       {
+        "ancienClient": false, 
         "denomination": "EUROSTAR INTERNATIONAL LIMITED", 
         "identifiantNational": "525010708", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "OUI.SNCF", 
         "identifiantNational": "431810621", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "KEOLIS", 
         "identifiantNational": "552111809", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "SNCF MOBILITES", 
         "identifiantNational": "552049447", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
+        "ancienClient": false, 
         "denomination": "SNCF RESEAU", 
         "identifiantNational": "412280737", 
         "typeIdentifiantNational": "SIREN"
@@ -15932,6 +16055,14 @@
         "exerciceId": 9066, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12239, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -16010,7 +16141,8 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [
           {
@@ -16177,20 +16309,24 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "EUROSTAR INTERNATIONAL LIMITED", 
             "identifiantNational": "525010708", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "SNCF MOBILITES", 
             "identifiantNational": "552049447", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "SNCF RESEAU", 
             "identifiantNational": "412280737", 
             "typeIdentifiantNational": "SIREN"
@@ -16349,25 +16485,30 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "EUROSTAR INTERNATIONAL LIMITED", 
             "identifiantNational": "525010708", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "OUI.SNCF", 
             "identifiantNational": "431810621", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "SNCF MOBILITES", 
             "identifiantNational": "552049447", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "SNCF RESEAU", 
             "identifiantNational": "412280737", 
             "typeIdentifiantNational": "SIREN"
@@ -16526,25 +16667,30 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "EUROSTAR INTERNATIONAL LIMITED", 
             "identifiantNational": "525010708", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "OUI.SNCF", 
             "identifiantNational": "431810621", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "SNCF MOBILITES", 
             "identifiantNational": "552049447", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "SNCF RESEAU", 
             "identifiantNational": "412280737", 
             "typeIdentifiantNational": "SIREN"
@@ -16703,25 +16849,30 @@
         "categorieOrganisation": {
           "categorie": "ORGA_PUB", 
           "code": "EPAIC", 
-          "label": "Etablissement public exerçant une activité industrielle et commerciale"
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "EUROSTAR INTERNATIONAL LIMITED", 
             "identifiantNational": "525010708", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "OUI.SNCF", 
             "identifiantNational": "431810621", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "SNCF MOBILITES", 
             "identifiantNational": "552049447", 
             "typeIdentifiantNational": "SIREN"
           }, 
           {
+            "ancienClient": false, 
             "denomination": "SNCF RESEAU", 
             "identifiantNational": "412280737", 
             "typeIdentifiantNational": "SIREN"
@@ -17416,6 +17567,14 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 8895, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12054, 
         "noActivite": false, 
         "nombreActivite": 0
       }
@@ -18208,6 +18367,14 @@
         "exerciceId": 10071, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13330, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -18830,6 +18997,14 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 8887, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12046, 
         "noActivite": false, 
         "nombreActivite": 0
       }
@@ -23575,7 +23750,8 @@
     "categorieOrganisation": {
       "categorie": "ORGA_PUB", 
       "code": "EPAIC", 
-      "label": "Etablissement public exerçant une activité industrielle et commerciale"
+      "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+      "notifSansChiffreAffaire": true
     }, 
     "clients": [], 
     "codePostal": "37080", 
@@ -24591,6 +24767,14 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 8920, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 12079, 
         "noActivite": false, 
         "nombreActivite": 0
       }
