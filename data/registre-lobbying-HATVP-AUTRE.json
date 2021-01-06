@@ -34584,11 +34584,19 @@
         "nombreActivite": 0
       }, 
       {
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 10479, 
+        "noActivite": true, 
+        "nombreActivite": 0
+      }, 
+      {
         "dateDebut": "2020-02-27", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 10478, 
-        "noActivite": false, 
+        "noActivite": true, 
         "nombreActivite": 0
       }, 
       {
