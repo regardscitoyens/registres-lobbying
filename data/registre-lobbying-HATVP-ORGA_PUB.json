@@ -1239,7 +1239,7 @@
                     "decisionsConcernees": [
                       "Décisions d'espèce"
                     ], 
-                    "observation": "La qualification de décision publique au sens du dispositif ne tombe pas sous le sens. Dans le doute l'action est déclarée. L'action a consisté en l'envoi d'un courrier signé par le Président du CA (mai 2019)", 
+                    "observation": "La qualification de décision publique au sens du dispositif ne tombe pas sous le sens. Dans le doute l'action est déclarée. ", 
                     "reponsablesPublics": [
                       "Titulaire d'un emploi à la décision du Gouvernement"
                     ], 
@@ -1327,10 +1327,9 @@
                       "Lois, y compris constitutionnelles", 
                       "Actes réglementaires"
                     ], 
-                    "observation": "Dans le cadre de ses activités et de sa mission de service public, l'ANCV a transmis des projets d'amendements et textes réglementaires à des collaborateurs des cabinets, membres du Gouvernement et Parlementaires. Les rencontres ou courriers ont été effectuées par le DG et/ou le Président du CA de l'ANCV", 
+                    "observation": "Dans le cadre de ses activités et de sa mission de service public, l'ANCV a transmis des projets d'amendements et textes réglementaires à des collaborateurs des cabinets. Les rencontres ont été effectuées par le DG et le Président du CA.", 
                     "reponsablesPublics": [
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
-                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé, Economie et finances"
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
                     ], 
                     "tiers": [
                       "AGENCE NATIONALE CHEQUES VACANCES (en propre)"
@@ -1338,11 +1337,10 @@
                   }
                 ], 
                 "domainesIntervention": [
-                  "Tourisme/hôtellerie", 
-                  "Taxation"
+                  "Tourisme/hôtellerie"
                 ], 
                 "identifiantFiche": "40VERNM3", 
-                "objet": "Sécurisation juridique des activités de l'Agence (Chèques-Vacances et Coupon Sport) notamment concernant le cadre des exonérations des titres Chèques-Vacances", 
+                "objet": "Sécurisation juridique des activités de l'Agence (Chèques-Vacances et Coupon Sport)", 
                 "publicationDate": "2020-01-21T10:28:23"
               }, 
               {
@@ -1357,10 +1355,9 @@
                       "Lois, y compris constitutionnelles", 
                       "Actes réglementaires"
                     ], 
-                    "observation": "Dans le cadre de ses activités et de sa mission de service public, l'ANCV a transmis des projets d'amendements et textes réglementaires à des collaborateurs des cabinets, membres du Gouvernement et Parlementaires. Les rencontres ou courriers ont été effectuées par le DG et/ou le Président du CA de l'ANCV", 
+                    "observation": "Dans le cadre de ses activités et de sa mission de service public, l'ANCV a transmis des projets d'amendements et textes réglementaires à des collaborateurs des cabinets.", 
                     "reponsablesPublics": [
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
-                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé, Economie et finances"
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
                     ], 
                     "tiers": [
                       "AGENCE NATIONALE CHEQUES VACANCES (en propre)"
@@ -1368,11 +1365,10 @@
                   }
                 ], 
                 "domainesIntervention": [
-                  "Tourisme/hôtellerie", 
-                  "Taxation"
+                  "Tourisme/hôtellerie"
                 ], 
                 "identifiantFiche": "40VERNM3", 
-                "objet": "Sécurisation juridique des activités de l'Agence (Chèques-Vacances et Coupon Sport) notamment concernant le cadre des exonérations des titres Chèques-Vacances", 
+                "objet": "Sécurisation juridique des activités de l'Agence (Chèques-Vacances et Coupon Sport)", 
                 "publicationDate": "2020-01-21T10:19:47"
               }
             ], 
@@ -5166,7 +5162,7 @@
                   {
                     "actionsMenees": [
                       "Organiser des discussions informelles ou des réunions en tête-à-tête", 
-                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
                       "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
                       "Etablir une correspondance régulière (par courriel, par courrier…)"
                     ], 
@@ -5872,7 +5868,7 @@
                       "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
                     ], 
                     "tiers": [
-                      "INSTITUT DE RADIOPROTECTION ET DE SURETE NUCLEAIRE (en propre)"
+                      "INSTIT RADIOPROTECTION SURETE NUCLEAIRE (en propre)"
                     ]
                   }
                 ], 
@@ -5898,7 +5894,7 @@
                       "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
                     ], 
                     "tiers": [
-                      "INSTITUT DE RADIOPROTECTION ET DE SURETE NUCLEAIRE (en propre)"
+                      "INSTIT RADIOPROTECTION SURETE NUCLEAIRE (en propre)"
                     ]
                   }
                 ], 
@@ -5924,7 +5920,7 @@
                       "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
                     ], 
                     "tiers": [
-                      "INSTITUT DE RADIOPROTECTION ET DE SURETE NUCLEAIRE (en propre)"
+                      "INSTIT RADIOPROTECTION SURETE NUCLEAIRE (en propre)"
                     ]
                   }
                 ], 
@@ -5950,7 +5946,7 @@
                       "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
                     ], 
                     "tiers": [
-                      "INSTITUT DE RADIOPROTECTION ET DE SURETE NUCLEAIRE (en propre)"
+                      "INSTIT RADIOPROTECTION SURETE NUCLEAIRE (en propre)"
                     ]
                   }
                 ], 
@@ -5967,6 +5963,7 @@
                     "actionsMenees": [
                       "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
                       "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
                       "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
                     ], 
                     "decisionsConcernees": [
@@ -5976,7 +5973,7 @@
                       "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
                     ], 
                     "tiers": [
-                      "INSTITUT DE RADIOPROTECTION ET DE SURETE NUCLEAIRE (en propre)"
+                      "INSTIT RADIOPROTECTION SURETE NUCLEAIRE (en propre)"
                     ]
                   }
                 ], 
@@ -7781,7 +7778,8 @@
                       "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
                     ], 
                     "decisionsConcernees": [
-                      "Lois, y compris constitutionnelles"
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
                     ], 
                     "observation": "Garantir la sécurité d'exploitation, la continuité et le maintien d'un haut niveau de qualité de service; Assurer la cohérence économique de l'attribution des marchés; Obtenir l'adhésion des personnels de la RATP", 
                     "reponsablesPublics": [
@@ -23850,7 +23848,8 @@
                       "Autres décisions publiques"
                     ], 
                     "reponsablesPublics": [
-                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser", 
+                      "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante "
                     ], 
                     "responsablePublicAutre": "Professionnels du bâtiment", 
                     "tiers": [
@@ -23909,7 +23908,9 @@
                       "Autres décisions publiques"
                     ], 
                     "reponsablesPublics": [
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel ", 
+                      "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante "
                     ], 
                     "tiers": [
                       "VAL TOURAINE HABITAT (en propre)"
@@ -23965,7 +23966,8 @@
                       "Autres décisions publiques"
                     ], 
                     "reponsablesPublics": [
-                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser", 
+                      "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante "
                     ], 
                     "responsablePublicAutre": "Tours Métropole Val de Loire", 
                     "tiers": [
@@ -24022,7 +24024,8 @@
                       "Autres décisions publiques"
                     ], 
                     "reponsablesPublics": [
-                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser", 
+                      "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante "
                     ], 
                     "responsablePublicAutre": "Conseil départemental d'Indre et Loire", 
                     "tiers": [
@@ -24079,7 +24082,8 @@
                       "Autres décisions publiques"
                     ], 
                     "reponsablesPublics": [
-                      "Membre du Gouvernement ou membre de cabinet ministériel - Aménagement du territoire, ruralité et collectivités territoriales"
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Aménagement du territoire, ruralité et collectivités territoriales", 
+                      "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante "
                     ], 
                     "tiers": [
                       "VAL TOURAINE HABITAT (en propre)"
@@ -24339,7 +24343,7 @@
                     "reponsablesPublics": [
                       "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
                     ], 
-                    "responsablePublicAutre": "Direction Régionale de la CDC avec les bailleurs sociaux", 
+                    "responsablePublicAutre": "Direction Régionale de la CDC", 
                     "tiers": [
                       "VAL TOURAINE HABITAT (en propre)"
                     ]
@@ -24421,7 +24425,7 @@
                     "reponsablesPublics": [
                       "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
                     ], 
-                    "responsablePublicAutre": "Le Préfet du Loiret et bailleurs sociaux à ORLEANS", 
+                    "responsablePublicAutre": "Le Préfet du Loiret - ORLEANS", 
                     "tiers": [
                       "VAL TOURAINE HABITAT (en propre)"
                     ]
@@ -24503,7 +24507,7 @@
                     "reponsablesPublics": [
                       "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
                     ], 
-                    "responsablePublicAutre": "Fédération des Offices Publics de l'Habitat et bailleurs sociaux", 
+                    "responsablePublicAutre": "Fédération des Offices Publics de l'Habitat", 
                     "tiers": [
                       "VAL TOURAINE HABITAT (en propre)"
                     ]
@@ -24585,7 +24589,7 @@
                     "reponsablesPublics": [
                       "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
                     ], 
-                    "responsablePublicAutre": "Préfet de la Région Centre-Val de Loire et bailleurs sociaux à ORLEANS", 
+                    "responsablePublicAutre": "Préfet de la Région Centre-Val de Loire", 
                     "tiers": [
                       "VAL TOURAINE HABITAT (en propre)"
                     ]

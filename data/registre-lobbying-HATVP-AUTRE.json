@@ -2709,7 +2709,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "92100", 
@@ -4184,6 +4185,7 @@
     }, 
     "clients": [
       {
+        "ancienClient": false, 
         "denomination": "BILL AND MELINDA GATES FOUNDATION", 
         "identifiantNational": "H639646056", 
         "typeIdentifiantNational": "HATVP"
@@ -5043,6 +5045,7 @@
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "BILL AND MELINDA GATES FOUNDATION", 
             "identifiantNational": "H639646056", 
             "typeIdentifiantNational": "HATVP"
@@ -5253,6 +5256,7 @@
     }, 
     "clients": [
       {
+        "ancienClient": false, 
         "denomination": "BUREAU NATIONAL INTERPR COGNAC", 
         "identifiantNational": "775563455", 
         "typeIdentifiantNational": "SIREN"
@@ -5580,7 +5584,7 @@
                   "Industrie agroalimentaire"
                 ], 
                 "identifiantFiche": "Z0V5XFZH", 
-                "objet": "Projet de Loi de Finances 2018 et impact sur la filière boissons spiritueuses", 
+                "objet": "Projet de Loi de Finances 2018 et impact sur la filière boissons spirituesses", 
                 "publicationDate": "2018-04-26T11:58:12"
               }
             ], 
@@ -6635,6 +6639,7 @@
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "BUREAU NATIONAL INTERPR COGNAC", 
             "identifiantNational": "775563455", 
             "typeIdentifiantNational": "SIREN"
@@ -6788,6 +6793,7 @@
         }, 
         "clients": [
           {
+            "ancienClient": false, 
             "denomination": "BUREAU NATIONAL INTERPR COGNAC", 
             "identifiantNational": "775563455", 
             "typeIdentifiantNational": "SIREN"
@@ -8514,7 +8520,7 @@
                       "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
                     ], 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -8756,7 +8762,7 @@
                       "Membre du Gouvernement ou membre de cabinet ministériel - Défense"
                     ], 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -8821,7 +8827,7 @@
                     ], 
                     "responsablePublicAutre": "Ministère de la Cohésion des Territoires", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -8892,7 +8898,7 @@
                     ], 
                     "responsablePublicAutre": "Ministère et la Cohésion des Territoires  - Numérique ", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -8958,7 +8964,7 @@
                       "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Economie et finances, Outre-mer"
                     ], 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -9104,7 +9110,7 @@
                     ], 
                     "responsablePublicAutre": "Cohésion des territoires", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -9172,7 +9178,7 @@
                     ], 
                     "responsablePublicAutre": "Cohésion des territoires", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -9240,7 +9246,7 @@
                     ], 
                     "responsablePublicAutre": "Cohésion des territoires", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -9308,7 +9314,7 @@
                     ], 
                     "responsablePublicAutre": "Cohésion des territoires", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -9378,7 +9384,7 @@
                     ], 
                     "responsablePublicAutre": "Cohésion des territoires", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -9446,7 +9452,7 @@
                     ], 
                     "responsablePublicAutre": "Cohésion des territoires", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -9514,7 +9520,7 @@
                     ], 
                     "responsablePublicAutre": "Cohésion des territoires", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -9584,7 +9590,7 @@
                     ], 
                     "responsablePublicAutre": "Cohésion des territoires", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -9652,7 +9658,7 @@
                     ], 
                     "responsablePublicAutre": "Cohésion des territoires", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -9717,7 +9723,7 @@
                       "Membre du Gouvernement ou membre de cabinet ministériel - Défense"
                     ], 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -9782,7 +9788,7 @@
                     ], 
                     "responsablePublicAutre": "Cohésion des territoires", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -9850,7 +9856,7 @@
                     ], 
                     "responsablePublicAutre": "Cohésion des territoires", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -9920,7 +9926,7 @@
                     ], 
                     "responsablePublicAutre": "Cohésion des territoires", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -9988,7 +9994,7 @@
                     ], 
                     "responsablePublicAutre": "Cohésion des territoires", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -10127,7 +10133,7 @@
                     ], 
                     "responsablePublicAutre": "Cohésion des territoires", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -10200,7 +10206,7 @@
                     ], 
                     "responsablePublicAutre": "Cohésion des territoires", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -10270,7 +10276,7 @@
                     ], 
                     "responsablePublicAutre": "Cohésion des territoires", 
                     "tiers": [
-                      "CDC HABITAT (en propre)"
+                      "SOC NATIONALE IMMOBILIERE (en propre)"
                     ]
                   }
                 ], 
@@ -11627,7 +11633,7 @@
                       "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
                     ], 
                     "tiers": [
-                      "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE (en propre)"
+                      "CHAMBRE DE COMMERCE ET D'INDUSTRIE TERRITORIALE SEINE-MER NORMANDIE (en propre)"
                     ]
                   }
                 ], 
@@ -12815,9 +12821,7 @@
                       "Autres décisions publiques"
                     ], 
                     "reponsablesPublics": [
-                      "Titulaire d'un emploi à la décision du Gouvernement", 
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
-                      "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt, Environnement, énergie et mer"
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
                     ], 
                     "tiers": [
                       "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
@@ -19481,7 +19485,7 @@
                     ], 
                     "tiers": [
                       "GIE ALLIANCE GESTION (en propre)", 
-                      "ATELIER RECHERCHE TRAITEMENT ET MEDIATION INTERCULTURELLE ET SOCIALE - ARTEMIS"
+                      "UNISMED CONSEIL"
                     ]
                   }
                 ], 
@@ -22042,8 +22046,8 @@
                     ], 
                     "tiers": [
                       "GROUPE SOS SENIORS", 
-                      "GROUPE SOS SOLIDARITES", 
                       "GROUPE SOS SANTE", 
+                      "GROUPE SOS SOLIDARITES", 
                       "GROUPE SOS JEUNESSE"
                     ]
                   }
@@ -22301,9 +22305,8 @@
                       "Actes réglementaires"
                     ], 
                     "reponsablesPublics": [
-                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Ville, jeunesse et sport, Culture et communication, Aménagement du territoire, ruralité et collectivités territoriales, Autres : à préciser"
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Ville, jeunesse et sport, Aménagement du territoire, ruralité et collectivités territoriales"
                     ], 
-                    "responsablePublicAutre": "Secrétaire d'Etat en charge du Numérique", 
                     "tiers": [
                       "1000 CAFES"
                     ]
@@ -22420,8 +22423,8 @@
                       "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
                     ], 
                     "tiers": [
-                      "GROUPE SOS SOLIDARITES", 
-                      "1000 CAFES"
+                      "1000 CAFES", 
+                      "GROUPE SOS SOLIDARITES"
                     ]
                   }
                 ], 
@@ -23669,7 +23672,8 @@
     "categorieOrganisation": {
       "categorie": "AUTRE", 
       "code": "AUORG", 
-      "label": "Autres organisations"
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
     "codePostal": "75015", 
@@ -23955,7 +23959,7 @@
                   "Prévention"
                 ], 
                 "identifiantFiche": "C5HA9L0V", 
-                "objet": "Proposition de création d'une taxe sur la publicité de produits alcooliques pour financer la prévention", 
+                "objet": "Proposition de création d'une taxe sur la publicité de produits alcoolique", 
                 "publicationDate": "2019-03-07T11:39:39"
               }, 
               {
@@ -23981,7 +23985,7 @@
                   "Prévention"
                 ], 
                 "identifiantFiche": "C5HA9L0V", 
-                "objet": "Proposition de création d'une taxe sur la publicité de produits alcooliques pour financer la prévention", 
+                "objet": "Proposition de création d'une taxe sur la publicité les boissons alcooliques", 
                 "publicationDate": "2019-01-15T16:40:49"
               }
             ], 
@@ -24052,11 +24056,8 @@
                     "decisionsConcernees": [
                       "Lois, y compris constitutionnelles"
                     ], 
-                    "observation": "Si les français reconnaissent la perte d’autonomie comme un enjeu important voire primordial, près de 80% d’entre eux ne sont pas protégés contre ce risque. C’est pour cette raison que le Groupe VYV souhaite rendre l'épargne retraite plus attractive pour permettre aux Français de mieux se préparer à cette étape de leur vie.\nFort de notre expérience dans l’accompagnement de nos adhérents tout au long de leur vie, nous pensons qu’un produit d’épargne-retraite innovant peut aider face au risque de perte d’autonomie en proposant une sortie en rente viagère liée au niveau de dépendance du bénéficiaire. ", 
                     "reponsablesPublics": [
-                      "Collaborateur du Président de la République", 
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
-                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
                     ], 
                     "tiers": [
                       "GROUPE VYV (en propre)"
@@ -24064,9 +24065,7 @@
                   }
                 ], 
                 "domainesIntervention": [
-                  "Assurances", 
-                  "Soins et maladies", 
-                  "Système de santé et médico-social"
+                  "Assurances"
                 ], 
                 "identifiantFiche": "2PVX2BT3", 
                 "objet": "Proposition de création d'un dispositif d'épargne retraite majorée en cas de Dépendance", 
@@ -24156,7 +24155,7 @@
                   "Soins et maladies"
                 ], 
                 "identifiantFiche": "SQV78W93", 
-                "objet": "Promotion d'un mois de \"Janvier Sobre\" pour dénormaliser les consommations excessives d'alcool", 
+                "objet": "Création d'une taxe sur la publicité de produits alcoolique et promotion d'un mois de \"Janvier Sobre\" pour dénormaliser les consommations excessives d'alcool", 
                 "publicationDate": "2019-03-07T11:37:57"
               }
             ], 
@@ -24667,7 +24666,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75015", 
@@ -24775,7 +24775,8 @@
         "categorieOrganisation": {
           "categorie": "AUTRE", 
           "code": "AUORG", 
-          "label": "Autres organisations"
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
         }, 
         "clients": [], 
         "codePostal": "75015", 
@@ -28554,7 +28555,7 @@
                       "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Autorité de la concurrence, Commission nationale de l'informatique et des libertés"
                     ], 
                     "tiers": [
-                      "MALAKOFF HUMANIS PREVOYANCE (en propre)"
+                      "MALAKOFF MEDERIC PREVOYANCE (en propre)"
                     ]
                   }
                 ], 
@@ -28641,7 +28642,7 @@
                       "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Autorité de la concurrence, Commission nationale de l'informatique et des libertés"
                     ], 
                     "tiers": [
-                      "MALAKOFF HUMANIS PREVOYANCE (en propre)"
+                      "MALAKOFF MEDERIC PREVOYANCE (en propre)"
                     ]
                   }
                 ], 
@@ -28728,7 +28729,7 @@
                       "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Autorité de la concurrence, Commission nationale de l'informatique et des libertés"
                     ], 
                     "tiers": [
-                      "MALAKOFF HUMANIS PREVOYANCE (en propre)"
+                      "MALAKOFF MEDERIC PREVOYANCE (en propre)"
                     ]
                   }
                 ], 
@@ -30617,7 +30618,7 @@
                     "decisionsConcernees": [
                       "Lois, y compris constitutionnelles"
                     ], 
-                    "observation": "Audition en avril 2019 par Emilie CHALAS, rapporteure du projet de loi de au titre de la Commission des Lois de l’Assemblée nationale.\nAudition en mai 2019 par Catherine DI FALCO et Loïc HERVE, rapporteurs du projet de loi au titre de la Commission des Lois du Sénat.\nRencontres parlementaires dès septembre 2019 suite à l’adoption de la loi le 6 août 2019 (procédure par ordonnances prévue par l’article 40 de la loi pour redéfinir la protection sociale complémentaire dans la Fonction publique) : députés Emmanuelle ANTHOINE, Frédérique LARDET, Célia de LAVERGNE, Michèle VICTORY, Xavier ROSEREN, Typhanie DEGOIS, Vincent ROLLAND, Regis JUANICO… sénateurs Jean-Pierre VIAL, Cécile CUKIERMAN…\n", 
+                    "observation": "Travaux préalables à la loi de transformation de la Fonction publique du 6 août 2019", 
                     "reponsablesPublics": [
                       "Membre du Gouvernement ou membre de cabinet ministériel - Fonction publique"
                     ], 
@@ -30630,7 +30631,7 @@
                   "Fonction publique"
                 ], 
                 "identifiantFiche": "C5HA6YPV", 
-                "objet": "Influer sur la loi de transformation de la Fonction publique du 6 août 2019 (article 40)", 
+                "objet": "Influer sur la loi de transformation de la Fonction publique du 6 août 2019", 
                 "publicationDate": "2020-04-27T17:02:18"
               }
             ], 
@@ -30696,11 +30697,8 @@
                       "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
                     ], 
                     "decisionsConcernees": [
-                      "Lois, y compris constitutionnelles", 
-                      "Actes réglementaires", 
                       "Ordonnances de l'article 38 de la Constitution"
                     ], 
-                    "observation": "Audition en février 2019 par l’IGF, l’IGAS et l’IGA, missionnées pour dresser un bilan sur la protection sociale complémentaire des agents publics et préparer les travaux interministériels engagés sur le sujet sous l’égide de la DGAFP : Irina Schapira (IGF), Vincent Lidsky (IGF), Delphine Chaumel (IGAS) et Corinne Desforges (IGA).", 
                     "reponsablesPublics": [
                       "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
                     ], 
@@ -32626,7 +32624,7 @@
                       "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Autorité de la concurrence, Commission nationale de l'informatique et des libertés"
                     ], 
                     "tiers": [
-                      "MUTUELLE MALAKOFF HUMANIS (en propre)"
+                      "MALAKOFF MEDERIC MUTUELLE (en propre)"
                     ]
                   }
                 ], 
@@ -32721,7 +32719,7 @@
                       "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Autorité de la concurrence, Commission nationale de l'informatique et des libertés"
                     ], 
                     "tiers": [
-                      "MUTUELLE MALAKOFF HUMANIS (en propre)"
+                      "MALAKOFF MEDERIC MUTUELLE (en propre)"
                     ]
                   }
                 ], 
@@ -32808,7 +32806,7 @@
                       "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Autorité de la concurrence, Commission nationale de l'informatique et des libertés"
                     ], 
                     "tiers": [
-                      "MUTUELLE MALAKOFF HUMANIS (en propre)"
+                      "MALAKOFF MEDERIC MUTUELLE (en propre)"
                     ]
                   }
                 ], 
@@ -33117,8 +33115,7 @@
                       "Actes réglementaires"
                     ], 
                     "reponsablesPublics": [
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
-                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Fonction publique, Intérieur"
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
                     ], 
                     "tiers": [
                       "MUTUELLE NATIONALE TERRITORIALE MNT (en propre)"
@@ -33132,7 +33129,7 @@
                   "Fonction publique"
                 ], 
                 "identifiantFiche": "5GVT1K83", 
-                "objet": "Améliorer la santé au travail des agents des services publics locaux", 
+                "objet": "Améliorer la protection sociale des agents des services publics locaux", 
                 "publicationDate": "2018-05-18T16:12:53"
               }
             ], 
@@ -35058,7 +35055,7 @@
                     ], 
                     "responsablePublicAutre": "Ministère de la Transition Ecologique et Solidaire, Délégué Ministériel aux entreprises agroalimentaires Direction Générale de la Performance Economique et Environnementale des Entreprises ", 
                     "tiers": [
-                      "SOCIETE COOPERATIVE AGRICOLE NATUP (en propre)"
+                      "SOC COOPERATIVE AGRICOLE CAP SEINE (en propre)"
                     ]
                   }
                 ], 
