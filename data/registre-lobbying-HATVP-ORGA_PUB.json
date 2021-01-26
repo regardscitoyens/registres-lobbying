@@ -1816,7 +1816,7 @@
       }
     ], 
     "dateCreation": "2017-12-26T12:26:28", 
-    "dateDernierePublicationActivite": "2020-02-12T11:54:44", 
+    "dateDernierePublicationActivite": "2021-01-26T12:07:43", 
     "datePremierePublication": "2017-12-20T14:06:15", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -2055,12 +2055,87 @@
         "publicationDate": "2020-02-27T16:11:29"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionMeneeAutre": "Inviter ou organiser des rencontres", 
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Autres : à préciser", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "LE CNES propose au Gouvernement la politique Spatiale de la France au sein de l'Europe et la met en œuvre sur la base de l'arbitrage du Gouvernement", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Outre-mer, Fonction publique, Famille, enfance et droits des femmes, Culture et communication, Défense, Economie et finances, Education nationale, enseignement supérieur et recherche, Environnement, énergie et mer, Affaires étrangères et développement international", 
+                      "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Haute Autorité pour la transparence de la vie publique, Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur"
+                    ], 
+                    "tiers": [
+                      "CENTRE NATIONAL D'ETUDES SPATIALES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Recherche et innovation"
+                ], 
+                "identifiantFiche": "2ZV9YY5H", 
+                "objet": "PRESENTATION DU CNES ET DE LA POLITIQUE SPATIALE DE LA FRANCE", 
+                "publicationDate": "2021-01-26T12:07:43"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionMeneeAutre": "Inviter ou organiser des rencontres", 
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Autres : à préciser", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "LE CNES propose au Gouvernement la politique Spatiale de la France au sein de l'Europe et la met en œuvre sur la base de l'arbitrage du Gouvernement", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Outre-mer, Fonction publique, Famille, enfance et droits des femmes, Culture et communication, Défense, Economie et finances, Education nationale, enseignement supérieur et recherche, Environnement, énergie et mer, Affaires étrangères et développement international", 
+                    "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Haute Autorité pour la transparence de la vie publique, Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur"
+                  ], 
+                  "tiers": [
+                    "CENTRE NATIONAL D'ETUDES SPATIALES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Recherche et innovation"
+              ], 
+              "identifiantFiche": "2ZV9YY5H", 
+              "objet": "PRESENTATION DU CNES ET DE LA POLITIQUE SPATIALE DE LA FRANCE", 
+              "publicationDate": "2021-01-26T12:07:43"
+            }
+          }
+        ], 
+        "commentaire": "La dépense, même si elle reste dans la même fourchette, est plus faible en valeur absolue du fait de la pandémie (en bas de la fourchette)", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9928, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 50 000 euros et < 75 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 1, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2021-01-26T14:46:58"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -2265,6 +2340,19 @@
         "nombreActivite": 1, 
         "nombreSalaries": 2, 
         "publicationDate": "2020-02-27T16:11:29"
+      }, 
+      {
+        "commentaire": "La dépense, même si elle reste dans la même fourchette, est plus faible en valeur absolue du fait de la pandémie (en bas de la fourchette)", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9928, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 50 000 euros et < 75 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2021-01-26T14:46:58"
       }
     ], 
     "identifiantNational": "775665912", 
@@ -2276,7 +2364,18 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Recherche et innovation"
+        ], 
+        "identifiantFiche": "2ZV9YY5H", 
+        "nom_organisation": "CENTRE NATIONAL D'ETUDES SPATIALES", 
+        "num_organisation": "775665912", 
+        "objet": "PRESENTATION DU CNES ET DE LA POLITIQUE SPATIALE DE LA FRANCE", 
+        "publicationDate": "2021-01-26T12:07:43"
+      }
+    ], 
     "sigleHatvp": "CNES", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775665912.json", 
