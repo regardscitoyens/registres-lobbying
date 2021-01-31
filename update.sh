@@ -38,7 +38,8 @@ if ! [ -z "$filename" ] && ! test -f "$filename"; then
   else
     cp -f "$filename" "data/registre-lobbying-Senat.pdf"
     if ! $DEBUG; then
-      git commit data/registre-lobbying-Senat.pdf -m "update registre Sénat"
+      git add data/registre-lobbying-Senat.pdf
+      git commit -m "update registre Sénat"
       git push
     fi
   fi
