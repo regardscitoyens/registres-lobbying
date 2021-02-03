@@ -17936,40 +17936,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": false, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Agriculture"
-        ], 
-        "identifiantFiche": "KUVPACYV", 
-        "nom_organisation": "FDSEA Tarn-et-Garonne", 
-        "num_organisation": "777306077", 
-        "objet": "Soutien Obtention de dérogation pour l'utilisation de L'imidan en traitement contre la drosophile suzukii", 
-        "publicationDate": "2021-01-20T15:12:58"
-      }, 
-      {
-        "domainesIntervention": [
-          "Taxes", 
-          "Impôts", 
-          "Agriculture"
-        ], 
-        "identifiantFiche": "2PVXEQTH", 
-        "nom_organisation": "FDSEA Tarn-et-Garonne", 
-        "num_organisation": "777306077", 
-        "objet": "Scandale de la taxe sur le foncier non-bâti. Notification de l'écart de taux existant entre cet impôt et de la taxe sur le foncier Bâti.", 
-        "publicationDate": "2021-01-20T15:20:27"
-      }, 
-      {
-        "domainesIntervention": [
-          "Agriculture"
-        ], 
-        "identifiantFiche": "C5HAWM0V", 
-        "nom_organisation": "FDSEA Tarn-et-Garonne", 
-        "num_organisation": "777306077", 
-        "objet": "Impacte du plan pollinisateurs en arboriculture. Opposition à toute nouvelles mesure réglementaires strictes, déconnectées du terrain, conduisant à la disparition de nos exploitants.", 
-        "publicationDate": "2021-01-20T16:42:45"
-      }
-    ], 
+    "resumes_actions": [], 
     "sigleHatvp": "FDSEA 82", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/777306077.json", 
