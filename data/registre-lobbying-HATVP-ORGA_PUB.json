@@ -2364,18 +2364,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Recherche et innovation"
-        ], 
-        "identifiantFiche": "2ZV9YY5H", 
-        "nom_organisation": "CENTRE NATIONAL D'ETUDES SPATIALES", 
-        "num_organisation": "775665912", 
-        "objet": "PRESENTATION DU CNES ET DE LA POLITIQUE SPATIALE DE LA FRANCE", 
-        "publicationDate": "2021-01-26T12:07:43"
-      }
-    ], 
+    "resumes_actions": [], 
     "sigleHatvp": "CNES", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775665912.json", 
