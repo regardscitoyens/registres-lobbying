@@ -23665,7 +23665,7 @@
       }
     ], 
     "dateCreation": "2019-02-22T10:25:02", 
-    "dateDernierePublicationActivite": "2020-07-09T10:02:11", 
+    "dateDernierePublicationActivite": "2021-02-18T17:28:20", 
     "datePremierePublication": "2018-11-27T18:41:19", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -24546,12 +24546,715 @@
         "nombreActivite": 0
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "L’intégration de l’hypertension artérielle serait un enrichissement positif et cohérent de l’expérimentation en raison de la prévalence comparable de l’hypertension artérielle et du diabète de type 2 dans la population générale et les personnes en ALD. Par ailleurs le bénéfice de l’activité physique adaptée sur l’hypertension artérielle est démontré tant sur le plan préventif que curatif. Il semble urgent pour les patients de permettre cette innovation thérapeutique non médicamenteuse de prendre toute sa place dans notre système de santé.", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                    ], 
+                    "tiers": [
+                      "GROUPE VYV (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Remboursements", 
+                  "Prévention", 
+                  "Soins et maladies", 
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "KDVSPYSV", 
+                "objet": "Ouverture aux patients atteints d'un diabète de type 2 du parcours soumis à prescription médicale visant à accompagner les personnes souffrant d'hypertension artérielle", 
+                "publicationDate": "2021-02-18T17:28:04"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "L’intégration de l’hypertension artérielle serait un enrichissement positif et cohérent de l’expérimentation en raison de la prévalence comparable de l’hypertension artérielle et du diabète de type 2 dans la population générale et les personnes en ALD. Par ailleurs le bénéfice de l’activité physique adaptée sur l’hypertension artérielle est démontré tant sur le plan préventif que curatif. Il semble urgent pour les patients de permettre cette innovation thérapeutique non médicamenteuse de prendre toute sa place dans notre système de santé.", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                  ], 
+                  "tiers": [
+                    "GROUPE VYV (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Remboursements", 
+                "Prévention", 
+                "Soins et maladies", 
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "KDVSPYSV", 
+              "objet": "Ouverture aux patients atteints d'un diabète de type 2 du parcours soumis à prescription médicale visant à accompagner les personnes souffrant d'hypertension artérielle", 
+              "publicationDate": "2021-02-18T17:28:04"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "La loi de finances pour 2020, prévoit l’exonération de la taxe d’habitation pour les seuls établissements d’hébergement pour personnes âgées dépendantes (EHPAD) privés non lucratifs. Rien ne justifie aujourd’hui de ne pas faire bénéficier de la même mesure d’exonération les autres structures privées non lucratives sanitaires, sociales et médico-sociales dans leur globalité, à l’image de l’exonération des structures publiques.", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé, Economie et finances"
+                    ], 
+                    "tiers": [
+                      "GROUPE VYV (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Taxes", 
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "2EHLW0Q3", 
+                "objet": "Exonération de la taxe d'habitation pour les organismes privés non lucratifs assumant les mêmes missions que les établissements publics avec des modalités de financement similaires", 
+                "publicationDate": "2021-02-18T17:28:12"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "La loi de finances pour 2020, prévoit l’exonération de la taxe d’habitation pour les seuls établissements d’hébergement pour personnes âgées dépendantes (EHPAD) privés non lucratifs. Rien ne justifie aujourd’hui de ne pas faire bénéficier de la même mesure d’exonération les autres structures privées non lucratives sanitaires, sociales et médico-sociales dans leur globalité, à l’image de l’exonération des structures publiques.", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé, Economie et finances"
+                  ], 
+                  "tiers": [
+                    "GROUPE VYV (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Taxes", 
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "2EHLW0Q3", 
+              "objet": "Exonération de la taxe d'habitation pour les organismes privés non lucratifs assumant les mêmes missions que les établissements publics avec des modalités de financement similaires", 
+              "publicationDate": "2021-02-18T17:28:12"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "L’article 1382 du code général des impôts confère aux établissements publics sanitaires, sociaux et\nmédico-sociaux une exonération de la taxe foncière. Ce n’est néanmoins pas le cas pour les\norganismes privés non lucratifs assumant les mêmes missions avec des modalités de financement\nsimilaires.\nAlors que le Gouvernement engage une réforme de la taxe foncière dans le cadre de l’article 146 de la Loi de Finances 2020, il paraît nécessaire de pouvoir apprécier l’impact d’une réforme de la taxe\nfoncière sur les usagers, résidents et patients et les organismes privés non lucratifs qui les soignent\nou accompagnent.", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé, Economie et finances"
+                    ], 
+                    "tiers": [
+                      "GROUPE VYV (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Taxes", 
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "GJVDAOTV", 
+                "objet": "Exonération de la taxe foncière pour les organismes privés non lucratifs assumant les mêmes missions que les établissements publics avec des modalités de financement similaires", 
+                "publicationDate": "2021-02-18T17:28:20"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "L’article 1382 du code général des impôts confère aux établissements publics sanitaires, sociaux et\nmédico-sociaux une exonération de la taxe foncière. Ce n’est néanmoins pas le cas pour les\norganismes privés non lucratifs assumant les mêmes missions avec des modalités de financement\nsimilaires.\nAlors que le Gouvernement engage une réforme de la taxe foncière dans le cadre de l’article 146 de la Loi de Finances 2020, il paraît nécessaire de pouvoir apprécier l’impact d’une réforme de la taxe\nfoncière sur les usagers, résidents et patients et les organismes privés non lucratifs qui les soignent\nou accompagnent.", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé, Economie et finances"
+                  ], 
+                  "tiers": [
+                    "GROUPE VYV (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Taxes", 
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "GJVDAOTV", 
+              "objet": "Exonération de la taxe foncière pour les organismes privés non lucratifs assumant les mêmes missions que les établissements publics avec des modalités de financement similaires", 
+              "publicationDate": "2021-02-18T17:28:20"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "Ce parcours définit à l’article L1415-8 du Code de la santé publique, suite à l’adoption de l’article 59 de la LFSS pour 2020, prévoit un bilan d'activité physique ainsi qu'un bilan et des consultations de suivi nutritionnels et psychologiques.\nL’échéancier de la loi prévoyait sa parution pour juin 2020 et les acteurs de terrain s’inquiètent du retard pris dans la mise en place de ce dispositif et de la perte de chance pour les patients.\n", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                    ], 
+                    "tiers": [
+                      "GROUPE VYV (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Remboursements", 
+                  "Prévention", 
+                  "Soins et maladies", 
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "DC34AI0H", 
+                "objet": "S'assurer de la rédaction et de la publication du décret détaillant les modalités parcours soumis à prescription médicale visant à accompagner les personnes ayant reçu un traitement pour un cancer", 
+                "publicationDate": "2021-02-18T17:27:56"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "Ce parcours définit à l’article L1415-8 du Code de la santé publique, suite à l’adoption de l’article 59 de la LFSS pour 2020, prévoit un bilan d'activité physique ainsi qu'un bilan et des consultations de suivi nutritionnels et psychologiques.\nL’échéancier de la loi prévoyait sa parution pour juin 2020 et les acteurs de terrain s’inquiètent du retard pris dans la mise en place de ce dispositif et de la perte de chance pour les patients.\n", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                  ], 
+                  "tiers": [
+                    "GROUPE VYV (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Remboursements", 
+                "Prévention", 
+                "Soins et maladies", 
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "DC34AI0H", 
+              "objet": "S'assurer de la rédaction et de la publication du décret détaillant les modalités parcours soumis à prescription médicale visant à accompagner les personnes ayant reçu un traitement pour un cancer", 
+              "publicationDate": "2021-02-18T17:27:56"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                      "Convenir pour un tiers d'une entrevue avec le titulaire d'une charge publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "Dans un esprit de solidarité et de non-lucrativité au cœur du modèle mutualiste, les mutuelles du Groupe VYV - premier acteur de la complémentaire santé en France – ont fait part de leur volonté d’agir dans un contexte de retards de soins importants dommageable pour notre pays, la santé de nos concitoyens et notre économie.\nNous proposons un dispositif de « conventions types » permettant de calculer la juste contribution des mutuelles à la solidarité envers le système de santé, ce que ne permet pas nécessairement une contribution uniforme qui s’y substituerait. Sans quoi les acteurs qui se sont montrés particulièrement solidaires pendant la période seraient, paradoxalement les plus pénalisés", 
+                    "reponsablesPublics": [
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé, Economie et finances"
+                    ], 
+                    "tiers": [
+                      "GROUPE VYV (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Taxes", 
+                  "Remboursements", 
+                  "Soins et maladies", 
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "2Y3KQL53", 
+                "objet": "Proposition des mutuelles du Groupe VYV de soutien au système de santé pendant la crise sanitaire", 
+                "publicationDate": "2021-02-18T17:27:49"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                    "Convenir pour un tiers d'une entrevue avec le titulaire d'une charge publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "Dans un esprit de solidarité et de non-lucrativité au cœur du modèle mutualiste, les mutuelles du Groupe VYV - premier acteur de la complémentaire santé en France – ont fait part de leur volonté d’agir dans un contexte de retards de soins importants dommageable pour notre pays, la santé de nos concitoyens et notre économie.\nNous proposons un dispositif de « conventions types » permettant de calculer la juste contribution des mutuelles à la solidarité envers le système de santé, ce que ne permet pas nécessairement une contribution uniforme qui s’y substituerait. Sans quoi les acteurs qui se sont montrés particulièrement solidaires pendant la période seraient, paradoxalement les plus pénalisés", 
+                  "reponsablesPublics": [
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé, Economie et finances"
+                  ], 
+                  "tiers": [
+                    "GROUPE VYV (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Taxes", 
+                "Remboursements", 
+                "Soins et maladies", 
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "2Y3KQL53", 
+              "objet": "Proposition des mutuelles du Groupe VYV de soutien au système de santé pendant la crise sanitaire", 
+              "publicationDate": "2021-02-18T17:27:49"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "observation": "Le Groupe VYV a la conviction qu’un produit d’épargne-retraite innovant peut aider face au risque de perte d’autonomie en proposant une sortie en rente viagère liée au niveau de dépendance du bénéficiaire. Pour cette raison nous souhaitons développer un produit attractif d’épargne retraite visant à accompagner la perte d’autonomie et favoriser le bien-vieillir.", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
+                    ], 
+                    "tiers": [
+                      "GROUPE VYV (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Assurances", 
+                  "Impôts", 
+                  "Logement", 
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "2EHLWCQ3", 
+                "objet": "Proposition de création d'un dispositif d'épargne retraite majorée en cas de Dépendance", 
+                "publicationDate": "2021-02-18T17:27:43"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "observation": "Le Groupe VYV a la conviction qu’un produit d’épargne-retraite innovant peut aider face au risque de perte d’autonomie en proposant une sortie en rente viagère liée au niveau de dépendance du bénéficiaire. Pour cette raison nous souhaitons développer un produit attractif d’épargne retraite visant à accompagner la perte d’autonomie et favoriser le bien-vieillir.", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
+                  ], 
+                  "tiers": [
+                    "GROUPE VYV (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Assurances", 
+                "Impôts", 
+                "Logement", 
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "2EHLWCQ3", 
+              "objet": "Proposition de création d'un dispositif d'épargne retraite majorée en cas de Dépendance", 
+              "publicationDate": "2021-02-18T17:27:43"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "Exclusion de l’assiette de cotisations sociales des avantages que représentent pour les salariés : la mise à disposition par l’employeur d’équipements sportifs à usage collectif et le financement de prestations sportives à destination de l’ensemble de ses salariés. ", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "GROUPE VYV (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Impôts", 
+                  "Prévention"
+                ], 
+                "identifiantFiche": "DC34A20H", 
+                "objet": "Exonération de cotisations sociales de la promotion du sport en entreprise", 
+                "publicationDate": "2021-02-18T17:26:35"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "Exclusion de l’assiette de cotisations sociales des avantages que représentent pour les salariés : la mise à disposition par l’employeur d’équipements sportifs à usage collectif et le financement de prestations sportives à destination de l’ensemble de ses salariés. ", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "GROUPE VYV (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Impôts", 
+                "Prévention"
+              ], 
+              "identifiantFiche": "DC34A20H", 
+              "objet": "Exonération de cotisations sociales de la promotion du sport en entreprise", 
+              "publicationDate": "2021-02-18T17:26:35"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "De nombreux groupes disposant d’activités dans les secteurs sanitaire et médico-social (associations, mutuelles, groupes de cliniques privées ou d’ehpad, etc.), comptent parmi leurs salariés des personnes fortement mobilisées dans lutte contre le Covid-19. L'objectif est de permettre et favoriser la solidarité entre salariés d'un même groupe qui sera d'autant plus forte en raison de la proximité entre les salariés, notamment entre ceux moins exposés à la maladie au quotidien et leurs collègues sur le terrain.\nAfin que la solidarité s’exprime à tous les niveaux de l’entreprise, nous souhaitons que les entreprises puissent prévoir un abondement par l’employeur des jours versés.", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé"
+                    ], 
+                    "tiers": [
+                      "GROUPE VYV (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "4UHQN0YH", 
+                "objet": "Mise en place d'un dispositif de don de jours de congés interne aux Groupes comprenant des entités relevant des domaines sanitaires et médico-sociaux. ", 
+                "publicationDate": "2021-02-18T17:27:06"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "De nombreux groupes disposant d’activités dans les secteurs sanitaire et médico-social (associations, mutuelles, groupes de cliniques privées ou d’ehpad, etc.), comptent parmi leurs salariés des personnes fortement mobilisées dans lutte contre le Covid-19. L'objectif est de permettre et favoriser la solidarité entre salariés d'un même groupe qui sera d'autant plus forte en raison de la proximité entre les salariés, notamment entre ceux moins exposés à la maladie au quotidien et leurs collègues sur le terrain.\nAfin que la solidarité s’exprime à tous les niveaux de l’entreprise, nous souhaitons que les entreprises puissent prévoir un abondement par l’employeur des jours versés.", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé"
+                  ], 
+                  "tiers": [
+                    "GROUPE VYV (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "4UHQN0YH", 
+              "objet": "Mise en place d'un dispositif de don de jours de congés interne aux Groupes comprenant des entités relevant des domaines sanitaires et médico-sociaux. ", 
+              "publicationDate": "2021-02-18T17:27:06"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Envoyer des pétitions, lettres ouvertes, tracts", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "Cela implique :\n•\tD’améliorer de manière significative l’accompagnement des personnes en EHPAD, en tenant compte de l’évolution de la population accueillie, nécessitant une médicalisation, en lien et en articulation avec l’organisation sur le territoire des soins de premier recours et l’hôpital ; •\tDe travailler dans un bassin de vie sur un continuum de solutions allant du domicile aux résidences adaptées, appuyé sur une plateforme de services ; •\tDe pouvoir recruter, de mieux rémunérer, de promouvoir la qualité de vie au travail et de former des personnels soignants et d’accompagnement, tant au domicile qu’en établissement, pour redonner du sens, des valeurs, de l’attractivité aux métier", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé"
+                    ], 
+                    "tiers": [
+                      "GROUPE VYV (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Prévention", 
+                  "Logement", 
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "FX3CPWZH", 
+                "objet": "Faire des propositions dans le cadre de la réforme de la prise en charge de la perte d'autonomie", 
+                "publicationDate": "2021-02-18T17:27:16"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Envoyer des pétitions, lettres ouvertes, tracts", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "Cela implique :\n•\tD’améliorer de manière significative l’accompagnement des personnes en EHPAD, en tenant compte de l’évolution de la population accueillie, nécessitant une médicalisation, en lien et en articulation avec l’organisation sur le territoire des soins de premier recours et l’hôpital ; •\tDe travailler dans un bassin de vie sur un continuum de solutions allant du domicile aux résidences adaptées, appuyé sur une plateforme de services ; •\tDe pouvoir recruter, de mieux rémunérer, de promouvoir la qualité de vie au travail et de former des personnels soignants et d’accompagnement, tant au domicile qu’en établissement, pour redonner du sens, des valeurs, de l’attractivité aux métier", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé"
+                  ], 
+                  "tiers": [
+                    "GROUPE VYV (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Prévention", 
+                "Logement", 
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "FX3CPWZH", 
+              "objet": "Faire des propositions dans le cadre de la réforme de la prise en charge de la perte d'autonomie", 
+              "publicationDate": "2021-02-18T17:27:16"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "Préciser que les prestations versées en complément d’un « congé de proche aidant, de solidarité familiale ou de présence parentale » bénéficient d’une exclusion sous plafond de l’assiette des cotisations de sécurité sociale en tant que garanties de prévoyance complémentaire.\nAujourd'hui chaque entreprise souscriptrice doit procéder à un rescrit social auprès de l’URSSAF ou de l’ACOSS, afin de sécuriser le traitement social du financement patronal de ces garanties. Il semble nécessaire de sécuriser le traitement social des garanties « aide aux aidants » afin de faciliter leur développement pour les 4 millions de salariés aidant régulièrement un proche en perte d'autonomie.", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé"
+                    ], 
+                    "tiers": [
+                      "GROUPE VYV (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Impôts", 
+                  "Soins et maladies"
+                ], 
+                "identifiantFiche": "KDVSPUSV", 
+                "objet": "Sécuriser pour les entreprises le cadre juridique des prestations complémentaires de protection face aux risques liés à la perte d'autonomie et de la fin de vie", 
+                "publicationDate": "2021-02-18T17:27:28"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "Préciser que les prestations versées en complément d’un « congé de proche aidant, de solidarité familiale ou de présence parentale » bénéficient d’une exclusion sous plafond de l’assiette des cotisations de sécurité sociale en tant que garanties de prévoyance complémentaire.\nAujourd'hui chaque entreprise souscriptrice doit procéder à un rescrit social auprès de l’URSSAF ou de l’ACOSS, afin de sécuriser le traitement social du financement patronal de ces garanties. Il semble nécessaire de sécuriser le traitement social des garanties « aide aux aidants » afin de faciliter leur développement pour les 4 millions de salariés aidant régulièrement un proche en perte d'autonomie.", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé"
+                  ], 
+                  "tiers": [
+                    "GROUPE VYV (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Impôts", 
+                "Soins et maladies"
+              ], 
+              "identifiantFiche": "KDVSPUSV", 
+              "objet": "Sécuriser pour les entreprises le cadre juridique des prestations complémentaires de protection face aux risques liés à la perte d'autonomie et de la fin de vie", 
+              "publicationDate": "2021-02-18T17:27:28"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Envoyer des pétitions, lettres ouvertes, tracts"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "Le Groupe VYV alerte sur la situation délicate dans laquelle se trouvent les entités médico-sociales non-lucratives par l'application tardive des mesures de revalorisation salariale pour les salariés des établissements privés par rapport au public, et par la non-inclusion des professionnels du domicile, du handicap, de la protection de l’enfance, de l’insertion et de la protection juridique des majeurs dans les bénéficiaires des revalorisations salariales du Ségur.\nFace à cette insécurité juridique, ce risque social et cette incohérence politique, il est essentiel que le Gouvernement reconsidère sa position et qu’il choisisse d’inclure ces métiers dans les revalorisations salariales du Ségur", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé"
+                    ], 
+                    "tiers": [
+                      "GROUPE VYV (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "JA3YDQJ3", 
+                "objet": "Soutien aux professionnels oubliés par le Ségur de la santé, en particulier ceux du handicap et des services à domicile.", 
+                "publicationDate": "2021-02-18T17:27:35"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Envoyer des pétitions, lettres ouvertes, tracts"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "Le Groupe VYV alerte sur la situation délicate dans laquelle se trouvent les entités médico-sociales non-lucratives par l'application tardive des mesures de revalorisation salariale pour les salariés des établissements privés par rapport au public, et par la non-inclusion des professionnels du domicile, du handicap, de la protection de l’enfance, de l’insertion et de la protection juridique des majeurs dans les bénéficiaires des revalorisations salariales du Ségur.\nFace à cette insécurité juridique, ce risque social et cette incohérence politique, il est essentiel que le Gouvernement reconsidère sa position et qu’il choisisse d’inclure ces métiers dans les revalorisations salariales du Ségur", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé"
+                  ], 
+                  "tiers": [
+                    "GROUPE VYV (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "JA3YDQJ3", 
+              "objet": "Soutien aux professionnels oubliés par le Ségur de la santé, en particulier ceux du handicap et des services à domicile.", 
+              "publicationDate": "2021-02-18T17:27:35"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-04-01", 
         "dateFin": "2021-03-31", 
         "defautDeclaration": false, 
         "exerciceId": 10613, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 11, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2021-02-18T17:26:09"
       }
     ], 
     "historique": [
@@ -24824,6 +25527,19 @@
         "nombreActivite": 6, 
         "nombreSalaries": 3, 
         "publicationDate": "2018-11-29T12:02:58"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-04-01", 
+        "dateFin": "2021-03-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 10613, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 11, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2021-02-18T17:26:09"
       }
     ], 
     "identifiantNational": "532661832", 
@@ -24835,7 +25551,136 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Impôts", 
+          "Prévention"
+        ], 
+        "identifiantFiche": "DC34A20H", 
+        "nom_organisation": "GROUPE VYV", 
+        "num_organisation": "532661832", 
+        "objet": "Exonération de cotisations sociales de la promotion du sport en entreprise", 
+        "publicationDate": "2021-02-18T17:26:35"
+      }, 
+      {
+        "domainesIntervention": [
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "4UHQN0YH", 
+        "nom_organisation": "GROUPE VYV", 
+        "num_organisation": "532661832", 
+        "objet": "Mise en place d'un dispositif de don de jours de congés interne aux Groupes comprenant des entités relevant des domaines sanitaires et médico-sociaux. ", 
+        "publicationDate": "2021-02-18T17:27:06"
+      }, 
+      {
+        "domainesIntervention": [
+          "Prévention", 
+          "Logement", 
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "FX3CPWZH", 
+        "nom_organisation": "GROUPE VYV", 
+        "num_organisation": "532661832", 
+        "objet": "Faire des propositions dans le cadre de la réforme de la prise en charge de la perte d'autonomie", 
+        "publicationDate": "2021-02-18T17:27:16"
+      }, 
+      {
+        "domainesIntervention": [
+          "Impôts", 
+          "Soins et maladies"
+        ], 
+        "identifiantFiche": "KDVSPUSV", 
+        "nom_organisation": "GROUPE VYV", 
+        "num_organisation": "532661832", 
+        "objet": "Sécuriser pour les entreprises le cadre juridique des prestations complémentaires de protection face aux risques liés à la perte d'autonomie et de la fin de vie", 
+        "publicationDate": "2021-02-18T17:27:28"
+      }, 
+      {
+        "domainesIntervention": [
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "JA3YDQJ3", 
+        "nom_organisation": "GROUPE VYV", 
+        "num_organisation": "532661832", 
+        "objet": "Soutien aux professionnels oubliés par le Ségur de la santé, en particulier ceux du handicap et des services à domicile.", 
+        "publicationDate": "2021-02-18T17:27:35"
+      }, 
+      {
+        "domainesIntervention": [
+          "Assurances", 
+          "Impôts", 
+          "Logement", 
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "2EHLWCQ3", 
+        "nom_organisation": "GROUPE VYV", 
+        "num_organisation": "532661832", 
+        "objet": "Proposition de création d'un dispositif d'épargne retraite majorée en cas de Dépendance", 
+        "publicationDate": "2021-02-18T17:27:43"
+      }, 
+      {
+        "domainesIntervention": [
+          "Taxes", 
+          "Remboursements", 
+          "Soins et maladies", 
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "2Y3KQL53", 
+        "nom_organisation": "GROUPE VYV", 
+        "num_organisation": "532661832", 
+        "objet": "Proposition des mutuelles du Groupe VYV de soutien au système de santé pendant la crise sanitaire", 
+        "publicationDate": "2021-02-18T17:27:49"
+      }, 
+      {
+        "domainesIntervention": [
+          "Remboursements", 
+          "Prévention", 
+          "Soins et maladies", 
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "DC34AI0H", 
+        "nom_organisation": "GROUPE VYV", 
+        "num_organisation": "532661832", 
+        "objet": "S'assurer de la rédaction et de la publication du décret détaillant les modalités parcours soumis à prescription médicale visant à accompagner les personnes ayant reçu un traitement pour un cancer", 
+        "publicationDate": "2021-02-18T17:27:56"
+      }, 
+      {
+        "domainesIntervention": [
+          "Remboursements", 
+          "Prévention", 
+          "Soins et maladies", 
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "KDVSPYSV", 
+        "nom_organisation": "GROUPE VYV", 
+        "num_organisation": "532661832", 
+        "objet": "Ouverture aux patients atteints d'un diabète de type 2 du parcours soumis à prescription médicale visant à accompagner les personnes souffrant d'hypertension artérielle", 
+        "publicationDate": "2021-02-18T17:28:04"
+      }, 
+      {
+        "domainesIntervention": [
+          "Taxes", 
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "2EHLW0Q3", 
+        "nom_organisation": "GROUPE VYV", 
+        "num_organisation": "532661832", 
+        "objet": "Exonération de la taxe d'habitation pour les organismes privés non lucratifs assumant les mêmes missions que les établissements publics avec des modalités de financement similaires", 
+        "publicationDate": "2021-02-18T17:28:12"
+      }, 
+      {
+        "domainesIntervention": [
+          "Taxes", 
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "GJVDAOTV", 
+        "nom_organisation": "GROUPE VYV", 
+        "num_organisation": "532661832", 
+        "objet": "Exonération de la taxe foncière pour les organismes privés non lucratifs assumant les mêmes missions que les établissements publics avec des modalités de financement similaires", 
+        "publicationDate": "2021-02-18T17:28:20"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/532661832.json", 
     "ville": "PARIS"
