@@ -7448,6 +7448,287 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "categorie": null, 
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "categorie": null, 
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICOLE\nLuminem\n19, rue de Paris\nCS 50070\n93013 Bobigny Cedex", 
+    "affiliations": [
+      {
+        "denomination": "CONFED NAT MUTUALITE COOP ET CREDIT AGRI", 
+        "identifiantNational": "421344201", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AUTRE", 
+      "code": "AUORG", 
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
+    }, 
+    "clients": [], 
+    "codePostal": "93013", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur de la communication et des affaires publiques", 
+        "nom": "POLLASTRO", 
+        "prenom": "Hugues"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée des Relations presse et relations institutionelles", 
+        "nom": "VIEUILLE", 
+        "prenom": "Géraldine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Relations Parlementaires et Appui Président-DG", 
+        "nom": "SIMON", 
+        "prenom": "Christophe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "BLANC", 
+        "prenom": "François-Emmanuel"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "CORMERY", 
+        "prenom": "Pascal"
+      }
+    ], 
+    "dateCreation": "2021-02-23T16:23:39", 
+    "dateDernierePublicationActivite": "2021-02-23T16:34:18", 
+    "datePremierePublication": "2021-02-23T16:23:39", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "BLANC", 
+        "prenom": "François-Emmanuel"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur délégué aux politiques sociales", 
+        "nom": "BONDONNEAU", 
+        "prenom": "Nicolas"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice déléguée du réseau", 
+        "nom": "TORRESIN", 
+        "prenom": "Anne-Laure"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Délégué à l'Audit et à l'Appui Institutionnel", 
+        "nom": "MARTIN", 
+        "prenom": "Ludovic"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "CORMERY", 
+        "prenom": "Pascal"
+      }
+    ], 
+    "exercices": [
+      {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Collaborateur du Président de la République"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Développement des territoires"
+                ], 
+                "identifiantFiche": "EHLFUQ1H", 
+                "objet": "Sensibilisation aux actions de la MSA dans les territoires ruraux lors du Salon de l'agriculture 2020", 
+                "publicationDate": "2021-02-23T16:34:18"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Collaborateur du Président de la République"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Développement des territoires"
+              ], 
+              "identifiantFiche": "EHLFUQ1H", 
+              "objet": "Sensibilisation aux actions de la MSA dans les territoires ruraux lors du Salon de l'agriculture 2020", 
+              "publicationDate": "2021-02-23T16:34:18"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Développement des territoires"
+                ], 
+                "identifiantFiche": "X3C4S9A3", 
+                "objet": "Sensibilisation aux actions de la MSA dans les territoires ruraux lors du Salon de l'agriculture 2020", 
+                "publicationDate": "2021-02-23T16:31:02"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Développement des territoires"
+              ], 
+              "identifiantFiche": "X3C4S9A3", 
+              "objet": "Sensibilisation aux actions de la MSA dans les territoires ruraux lors du Salon de l'agriculture 2020", 
+              "publicationDate": "2021-02-23T16:31:02"
+            }
+          }
+        ], 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13754, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13753, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }
+    ], 
+    "historique": [], 
+    "historique_exercices": [], 
+    "identifiantNational": "302990445", 
+    "isActivitesPubliees": true, 
+    "lienPageFacebook": "https://www.facebook.com/mymsa", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/msa-mutualite-sociale-agricole/mycompany/", 
+    "lienPageTwitter": "https://twitter.com/msa_actu?lang=fr", 
+    "lienSiteWeb": "http://www.msa.fr", 
+    "nomUsage": "CCMSA", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Développement des territoires"
+        ], 
+        "identifiantFiche": "X3C4S9A3", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "Sensibilisation aux actions de la MSA dans les territoires ruraux lors du Salon de l'agriculture 2020", 
+        "publicationDate": "2021-02-23T16:31:02"
+      }, 
+      {
+        "domainesIntervention": [
+          "Développement des territoires"
+        ], 
+        "identifiantFiche": "EHLFUQ1H", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "Sensibilisation aux actions de la MSA dans les territoires ruraux lors du Salon de l'agriculture 2020", 
+        "publicationDate": "2021-02-23T16:34:18"
+      }
+    ], 
+    "telephoneDeContact": "01 41 63 77 77", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "https://www.hatvp.fr/agora/302990445.json", 
+    "ville": "Bobigny"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "categorie": null, 
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "categorie": null, 
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }, 
         {
           "categorie": null, 
@@ -25551,103 +25832,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Impôts", 
-          "Soins et maladies"
-        ], 
-        "identifiantFiche": "KDVSPUSV", 
-        "nom_organisation": "GROUPE VYV", 
-        "num_organisation": "532661832", 
-        "objet": "Sécuriser pour les entreprises le cadre juridique des prestations complémentaires de protection face aux risques liés à la perte d'autonomie et de la fin de vie", 
-        "publicationDate": "2021-02-18T17:27:28"
-      }, 
-      {
-        "domainesIntervention": [
-          "Système de santé et médico-social"
-        ], 
-        "identifiantFiche": "JA3YDQJ3", 
-        "nom_organisation": "GROUPE VYV", 
-        "num_organisation": "532661832", 
-        "objet": "Soutien aux professionnels oubliés par le Ségur de la santé, en particulier ceux du handicap et des services à domicile.", 
-        "publicationDate": "2021-02-18T17:27:35"
-      }, 
-      {
-        "domainesIntervention": [
-          "Assurances", 
-          "Impôts", 
-          "Logement", 
-          "Système de santé et médico-social"
-        ], 
-        "identifiantFiche": "2EHLWCQ3", 
-        "nom_organisation": "GROUPE VYV", 
-        "num_organisation": "532661832", 
-        "objet": "Proposition de création d'un dispositif d'épargne retraite majorée en cas de Dépendance", 
-        "publicationDate": "2021-02-18T17:27:43"
-      }, 
-      {
-        "domainesIntervention": [
-          "Taxes", 
-          "Remboursements", 
-          "Soins et maladies", 
-          "Système de santé et médico-social"
-        ], 
-        "identifiantFiche": "2Y3KQL53", 
-        "nom_organisation": "GROUPE VYV", 
-        "num_organisation": "532661832", 
-        "objet": "Proposition des mutuelles du Groupe VYV de soutien au système de santé pendant la crise sanitaire", 
-        "publicationDate": "2021-02-18T17:27:49"
-      }, 
-      {
-        "domainesIntervention": [
-          "Remboursements", 
-          "Prévention", 
-          "Soins et maladies", 
-          "Système de santé et médico-social"
-        ], 
-        "identifiantFiche": "DC34AI0H", 
-        "nom_organisation": "GROUPE VYV", 
-        "num_organisation": "532661832", 
-        "objet": "S'assurer de la rédaction et de la publication du décret détaillant les modalités parcours soumis à prescription médicale visant à accompagner les personnes ayant reçu un traitement pour un cancer", 
-        "publicationDate": "2021-02-18T17:27:56"
-      }, 
-      {
-        "domainesIntervention": [
-          "Remboursements", 
-          "Prévention", 
-          "Soins et maladies", 
-          "Système de santé et médico-social"
-        ], 
-        "identifiantFiche": "KDVSPYSV", 
-        "nom_organisation": "GROUPE VYV", 
-        "num_organisation": "532661832", 
-        "objet": "Ouverture aux patients atteints d'un diabète de type 2 du parcours soumis à prescription médicale visant à accompagner les personnes souffrant d'hypertension artérielle", 
-        "publicationDate": "2021-02-18T17:28:04"
-      }, 
-      {
-        "domainesIntervention": [
-          "Taxes", 
-          "Système de santé et médico-social"
-        ], 
-        "identifiantFiche": "2EHLW0Q3", 
-        "nom_organisation": "GROUPE VYV", 
-        "num_organisation": "532661832", 
-        "objet": "Exonération de la taxe d'habitation pour les organismes privés non lucratifs assumant les mêmes missions que les établissements publics avec des modalités de financement similaires", 
-        "publicationDate": "2021-02-18T17:28:12"
-      }, 
-      {
-        "domainesIntervention": [
-          "Taxes", 
-          "Système de santé et médico-social"
-        ], 
-        "identifiantFiche": "GJVDAOTV", 
-        "nom_organisation": "GROUPE VYV", 
-        "num_organisation": "532661832", 
-        "objet": "Exonération de la taxe foncière pour les organismes privés non lucratifs assumant les mêmes missions que les établissements publics avec des modalités de financement similaires", 
-        "publicationDate": "2021-02-18T17:28:20"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/532661832.json", 
     "ville": "PARIS"
@@ -29301,14 +29486,6 @@
       }
     ], 
     "exercices": [
-      {
-        "dateDebut": "2018-01-01", 
-        "dateFin": "2018-12-31", 
-        "defautDeclaration": false, 
-        "exerciceId": 3462, 
-        "noActivite": false, 
-        "nombreActivite": 0
-      }, 
       {
         "activites": [
           {
