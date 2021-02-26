@@ -7688,28 +7688,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Développement des territoires"
-        ], 
-        "identifiantFiche": "X3C4S9A3", 
-        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
-        "num_organisation": "302990445", 
-        "objet": "Sensibilisation aux actions de la MSA dans les territoires ruraux lors du Salon de l'agriculture 2020", 
-        "publicationDate": "2021-02-23T16:31:02"
-      }, 
-      {
-        "domainesIntervention": [
-          "Développement des territoires"
-        ], 
-        "identifiantFiche": "EHLFUQ1H", 
-        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
-        "num_organisation": "302990445", 
-        "objet": "Sensibilisation aux actions de la MSA dans les territoires ruraux lors du Salon de l'agriculture 2020", 
-        "publicationDate": "2021-02-23T16:34:18"
-      }
-    ], 
+    "resumes_actions": [], 
     "telephoneDeContact": "01 41 63 77 77", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/302990445.json", 
