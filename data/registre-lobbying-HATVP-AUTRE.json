@@ -36165,7 +36165,7 @@
         ], 
         "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-07-01", 
-        "dateFin": "2020-09-08", 
+        "dateFin": "2021-06-30", 
         "defautDeclaration": false, 
         "exerciceId": 11281, 
         "hasNotChiffreAffaire": false, 
@@ -36174,14 +36174,6 @@
         "nombreActivite": 2, 
         "nombreSalaries": 10, 
         "publicationDate": "2020-12-04T15:09:23"
-      }, 
-      {
-        "dateDebut": "2020-09-09", 
-        "dateFin": "2021-06-30", 
-        "defautDeclaration": false, 
-        "exerciceId": 11282, 
-        "noActivite": false, 
-        "nombreActivite": 0
       }
     ], 
     "historique": [], 
@@ -36228,7 +36220,7 @@
       {
         "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-07-01", 
-        "dateFin": "2020-09-08", 
+        "dateFin": "2021-06-30", 
         "defautDeclaration": false, 
         "exerciceId": 11281, 
         "hasNotChiffreAffaire": false, 
@@ -36241,7 +36233,7 @@
       {
         "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-07-01", 
-        "dateFin": "2020-09-08", 
+        "dateFin": "2021-06-30", 
         "defautDeclaration": false, 
         "exerciceId": 11281, 
         "hasNotChiffreAffaire": false, 
