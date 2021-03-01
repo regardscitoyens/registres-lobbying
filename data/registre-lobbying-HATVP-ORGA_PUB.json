@@ -24855,12 +24855,17 @@
         "publicationDate": "2019-10-02T14:02:04"
       }, 
       {
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 8920, 
-        "noActivite": false, 
-        "nombreActivite": 0
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": true, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-03-01T14:15:14"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -24911,6 +24916,19 @@
         "nombreActivite": 0, 
         "nombreSalaries": 1, 
         "publicationDate": "2019-10-02T14:02:04"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 8920, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": true, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-03-01T14:15:14"
       }
     ], 
     "identifiantNational": "781598248", 
