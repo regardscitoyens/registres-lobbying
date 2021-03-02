@@ -18420,16 +18420,8 @@
         "publicationDate": "2020-10-26T11:56:52"
       }, 
       {
-        "dateDebut": "2020-01-01", 
-        "dateFin": "2020-09-09", 
-        "defautDeclaration": false, 
-        "exerciceId": 11286, 
-        "noActivite": false, 
-        "nombreActivite": 0
-      }, 
-      {
         "commentaire": "Dans le cadre des actions de la France dans le cyberespace, nous avons menés trois types d'actions : des réunions thématiques, des voyages d'études et un forum international. L'objectif est de créer une communauté de confiance en Europe. Les réunions de la CyberTaskForce réunissent 8 fois par an les décideurs publics/privés nationaux afin d'échanger les regards sur les enjeux de la sécurité de la transformation numérique (éducation-formation-inclusion-tech). 3 voyages d'études ont été l'occasion de rencontrer nos homologues publics et privés en Europe afin de confronter nos visions et nos initiatives. Le forum est le rendez-vous public de cette communauté en construction.", 
-        "dateDebut": "2020-09-10", 
+        "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 11287, 
