@@ -18195,138 +18195,6 @@
                     "reponsablesPublics": [
                       "Titulaire d'un emploi à la décision du Gouvernement", 
                       "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
-                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Aménagement du territoire, ruralité et collectivités territoriales"
-                    ], 
-                    "tiers": [
-                      "SOCIETE DU GRAND PARIS (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Infrastructures"
-                ], 
-                "identifiantFiche": "2ZV955DH", 
-                "objet": "Projet de loi d'orientation des mobilités : Préciser les modalités de mise en œuvre de la possibilité pour la Société du Grand Paris de recourir à un marché global pour la construction ", 
-                "publicationDate": "2020-04-30T15:37:35"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
-                    "Etablir une correspondance régulière (par courriel, par courrier…)"
-                  ], 
-                  "decisionsConcernees": [
-                    "Lois, y compris constitutionnelles"
-                  ], 
-                  "reponsablesPublics": [
-                    "Titulaire d'un emploi à la décision du Gouvernement", 
-                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
-                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Aménagement du territoire, ruralité et collectivités territoriales"
-                  ], 
-                  "tiers": [
-                    "SOCIETE DU GRAND PARIS (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Infrastructures"
-              ], 
-              "identifiantFiche": "2ZV955DH", 
-              "objet": "Projet de loi d'orientation des mobilités : Préciser les modalités de mise en œuvre de la possibilité pour la Société du Grand Paris de recourir à un marché global pour la construction ", 
-              "publicationDate": "2020-04-30T15:37:35"
-            }
-          }, 
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
-                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
-                      "Etablir une correspondance régulière (par courriel, par courrier…)"
-                    ], 
-                    "decisionsConcernees": [
-                      "Lois, y compris constitutionnelles"
-                    ], 
-                    "reponsablesPublics": [
-                      "Titulaire d'un emploi à la décision du Gouvernement", 
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
-                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Aménagement du territoire, ruralité et collectivités territoriales"
-                    ], 
-                    "tiers": [
-                      "SOCIETE DU GRAND PARIS (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Logement", 
-                  "Construction"
-                ], 
-                "identifiantFiche": "X2VRD9S3", 
-                "objet": "Projet de loi d'orientation des mobilités: permettre à la Société du Grand Paris de recourir plus facilement à des filiales pour des opérations de valorisation immobilière", 
-                "publicationDate": "2020-04-30T15:36:51"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
-                    "Etablir une correspondance régulière (par courriel, par courrier…)"
-                  ], 
-                  "decisionsConcernees": [
-                    "Lois, y compris constitutionnelles"
-                  ], 
-                  "reponsablesPublics": [
-                    "Titulaire d'un emploi à la décision du Gouvernement", 
-                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
-                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Aménagement du territoire, ruralité et collectivités territoriales"
-                  ], 
-                  "tiers": [
-                    "SOCIETE DU GRAND PARIS (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Logement", 
-                "Construction"
-              ], 
-              "identifiantFiche": "X2VRD9S3", 
-              "objet": "Projet de loi d'orientation des mobilités: permettre à la Société du Grand Paris de recourir plus facilement à des filiales pour des opérations de valorisation immobilière", 
-              "publicationDate": "2020-04-30T15:36:51"
-            }
-          }
-        ], 
-        "dateDebut": "2019-01-01", 
-        "dateFin": "2019-05-28", 
-        "defautDeclaration": false, 
-        "exerciceId": 8008, 
-        "hasNotChiffreAffaire": true, 
-        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
-        "noActivite": false, 
-        "nombreActivite": 2, 
-        "nombreSalaries": 1, 
-        "publicationDate": "2020-09-25T17:01:38"
-      }, 
-      {
-        "activites": [
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
-                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
-                      "Etablir une correspondance régulière (par courriel, par courrier…)"
-                    ], 
-                    "decisionsConcernees": [
-                      "Lois, y compris constitutionnelles"
-                    ], 
-                    "reponsablesPublics": [
-                      "Titulaire d'un emploi à la décision du Gouvernement", 
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
                       "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Economie et finances"
                     ], 
                     "tiers": [
@@ -18435,7 +18303,7 @@
             }
           }
         ], 
-        "dateDebut": "2019-05-29", 
+        "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 8009, 
@@ -18548,18 +18416,6 @@
     "historique_exercices": [
       {
         "dateDebut": "2019-01-01", 
-        "dateFin": "2019-05-28", 
-        "defautDeclaration": false, 
-        "exerciceId": 8008, 
-        "hasNotChiffreAffaire": true, 
-        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
-        "noActivite": false, 
-        "nombreActivite": 2, 
-        "nombreSalaries": 1, 
-        "publicationDate": "2020-09-25T17:01:38"
-      }, 
-      {
-        "dateDebut": "2019-05-29", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 8009, 

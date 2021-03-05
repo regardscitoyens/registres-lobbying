@@ -7236,86 +7236,6 @@
                 "domainesIntervention": [
                   "Retraites"
                 ], 
-                "identifiantFiche": "GJVDL6DH", 
-                "objet": "Réforme des retraites : promouvoir le régime de retraite complémentaire par capitalisation des pharmaciens dans le cadre de la co-construction du système universel de retraite", 
-                "publicationDate": "2020-04-27T11:45:43"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
-                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
-                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
-                    "Etablir une correspondance régulière (par courriel, par courrier…)"
-                  ], 
-                  "decisionsConcernees": [
-                    "Lois, y compris constitutionnelles"
-                  ], 
-                  "reponsablesPublics": [
-                    "Titulaire d'un emploi à la décision du Gouvernement", 
-                    "Collaborateur du Président de la République", 
-                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
-                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé, Economie et finances, Autres : à préciser"
-                  ], 
-                  "responsablePublicAutre": "haut commissariat à la réforme des retraites", 
-                  "tiers": [
-                    "CAISSE ASSURANCE VIEILLESSE PHARMACIE (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Retraites"
-              ], 
-              "identifiantFiche": "GJVDL6DH", 
-              "objet": "Réforme des retraites : promouvoir le régime de retraite complémentaire par capitalisation des pharmaciens dans le cadre de la co-construction du système universel de retraite", 
-              "publicationDate": "2020-04-27T11:45:43"
-            }
-          }
-        ], 
-        "dateDebut": "2019-01-01", 
-        "dateFin": "2019-03-28", 
-        "defautDeclaration": false, 
-        "exerciceId": 7756, 
-        "hasNotChiffreAffaire": true, 
-        "montantDepense": "< 10 000 euros", 
-        "noActivite": false, 
-        "nombreActivite": 1, 
-        "nombreSalaries": 2, 
-        "publicationDate": "2020-04-30T10:27:11"
-      }, 
-      {
-        "activites": [
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
-                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
-                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
-                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
-                      "Etablir une correspondance régulière (par courriel, par courrier…)"
-                    ], 
-                    "decisionsConcernees": [
-                      "Lois, y compris constitutionnelles"
-                    ], 
-                    "reponsablesPublics": [
-                      "Titulaire d'un emploi à la décision du Gouvernement", 
-                      "Collaborateur du Président de la République", 
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
-                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé, Economie et finances, Autres : à préciser"
-                    ], 
-                    "responsablePublicAutre": "haut commissariat à la réforme des retraites", 
-                    "tiers": [
-                      "CAISSE ASSURANCE VIEILLESSE PHARMACIE (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Retraites"
-                ], 
                 "identifiantFiche": "19V0FO53", 
                 "objet": "Réforme des retraites : promouvoir le régime de retraite complémentaire par capitalisation des pharmaciens dans le cadre de la co-construction du système universel de retraite", 
                 "publicationDate": "2020-04-27T11:46:31"
@@ -7354,7 +7274,7 @@
             }
           }
         ], 
-        "dateDebut": "2019-03-29", 
+        "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 7757, 
@@ -7398,18 +7318,6 @@
       }, 
       {
         "dateDebut": "2019-01-01", 
-        "dateFin": "2019-03-28", 
-        "defautDeclaration": false, 
-        "exerciceId": 7756, 
-        "hasNotChiffreAffaire": true, 
-        "montantDepense": "< 10 000 euros", 
-        "noActivite": false, 
-        "nombreActivite": 1, 
-        "nombreSalaries": 2, 
-        "publicationDate": "2020-04-30T10:27:11"
-      }, 
-      {
-        "dateDebut": "2019-03-29", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 7757, 
