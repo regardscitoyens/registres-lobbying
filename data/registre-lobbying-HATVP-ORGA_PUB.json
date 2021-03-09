@@ -2426,13 +2426,7 @@
       ]
     }, 
     "adresse": "COMMISSARIAT A ENERGIE ATOMIQUE\r\nCEA\r\nLE PONANT D BATIMENT\r\n25 RUE LEBLANC", 
-    "affiliations": [
-      {
-        "denomination": "FORUM ATOMIQUE INDUSTRIEL FRANCAIS - FAIF -", 
-        "identifiantNational": "309020071", 
-        "typeIdentifiantNational": "SIREN"
-      }
-    ], 
+    "affiliations": [], 
     "categorieOrganisation": {
       "categorie": "ORGA_PUB", 
       "code": "EPAIC", 
@@ -2444,6 +2438,7 @@
     "collaborateurs": [
       {
         "civilite": "M", 
+        "fonction": "Responsable mission affaires publiques", 
         "nom": "VIGOUROUX", 
         "prenom": "Jean-Pierre"
       }, 
@@ -2452,24 +2447,12 @@
         "fonction": "chargé d'affaires publiques", 
         "nom": "LAVEISSIERE", 
         "prenom": "Stéphane"
-      }, 
-      {
-        "civilite": "MME", 
-        "fonction": "directrice financière et des programmes", 
-        "nom": "RAVON-BERENGUER", 
-        "prenom": "Marie-Astrid"
-      }, 
-      {
-        "civilite": "MME", 
-        "fonction": "Directrice de la communication", 
-        "nom": "FOLACCI", 
-        "prenom": "Marie-Ange"
       }
     ], 
-    "dateCreation": "2020-03-31T11:47:42", 
+    "dateCreation": "2021-03-09T19:30:29", 
     "dateDernierePublicationActivite": "2020-04-06T16:31:18", 
     "datePremierePublication": "2017-11-23T11:31:51", 
-    "declarationOrgaAppartenance": true, 
+    "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
     "denomination": "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES", 
     "dirigeants": [
@@ -4482,6 +4465,132 @@
           }
         ], 
         "dateCreation": "2019-01-11T15:28:26", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Administrateur-général", 
+            "nom": "JACQ", 
+            "prenom": "François"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Administrateur-général adjoint", 
+            "nom": "PIKETTY", 
+            "prenom": "Laurence"
+          }
+        ], 
+        "identifiantNational": "775685019", 
+        "lienPageTwitter": "https://twitter.com/cea_recherche", 
+        "lienSiteWeb": "http://www.cea.fr", 
+        "nomUsage": "CEA", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "sigleHatvp": "CEA", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "categorie": null, 
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "SECURITE", 
+              "label": "Défense, sécurité", 
+              "ordre": 7
+            }, 
+            {
+              "categorie": null, 
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "categorie": null, 
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "categorie": null, 
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }
+          ]
+        }, 
+        "adresse": "COMMISSARIAT A ENERGIE ATOMIQUE\r\nCEA\r\nLE PONANT D BATIMENT\r\n25 RUE LEBLANC", 
+        "affiliations": [
+          {
+            "denomination": "FORUM ATOMIQUE INDUSTRIEL FRANCAIS - FAIF -", 
+            "identifiantNational": "309020071", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_PUB", 
+          "code": "EPAIC", 
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
+        }, 
+        "clients": [], 
+        "codePostal": "75015", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "nom": "VIGOUROUX", 
+            "prenom": "Jean-Pierre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "chargé d'affaires publiques", 
+            "nom": "LAVEISSIERE", 
+            "prenom": "Stéphane"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "directrice financière et des programmes", 
+            "nom": "RAVON-BERENGUER", 
+            "prenom": "Marie-Astrid"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice de la communication", 
+            "nom": "FOLACCI", 
+            "prenom": "Marie-Ange"
+          }
+        ], 
+        "dateCreation": "2020-03-31T11:47:42", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": false, 
         "denomination": "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES", 
