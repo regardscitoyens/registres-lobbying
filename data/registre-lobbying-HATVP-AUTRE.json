@@ -7724,7 +7724,7 @@
       }
     ], 
     "dateCreation": "2020-09-22T17:18:44", 
-    "dateDernierePublicationActivite": "2020-09-22T17:15:03", 
+    "dateDernierePublicationActivite": "2021-03-10T15:22:13", 
     "datePremierePublication": "2018-04-12T15:52:15", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -8015,12 +8015,76 @@
         "publicationDate": "2020-09-22T17:16:15"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Travail, emploi, formation professionnelle et dialogue social, Economie et finances, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "CAISSE RETRAITE PERSONNEL NAVIGANT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Retraites"
+                ], 
+                "identifiantFiche": "Q36S4OFV", 
+                "objet": "Défense du financement de la CRPNPAC dans le cadre du PLF 2021", 
+                "publicationDate": "2021-03-10T15:22:13"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Travail, emploi, formation professionnelle et dialogue social, Economie et finances, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "CAISSE RETRAITE PERSONNEL NAVIGANT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Retraites"
+              ], 
+              "identifiantFiche": "Q36S4OFV", 
+              "objet": "Défense du financement de la CRPNPAC dans le cadre du PLF 2021", 
+              "publicationDate": "2021-03-10T15:22:13"
+            }
+          }
+        ], 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9664, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 1, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2021-03-10T15:21:56"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -8139,6 +8203,18 @@
         "nombreActivite": 4, 
         "nombreSalaries": 1, 
         "publicationDate": "2020-09-22T17:16:15"
+      }, 
+      {
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9664, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2021-03-10T15:21:56"
       }
     ], 
     "identifiantNational": "785422304", 
@@ -8148,7 +8224,18 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Retraites"
+        ], 
+        "identifiantFiche": "Q36S4OFV", 
+        "nom_organisation": "CAISSE RETRAITE PERSONNEL NAVIGANT", 
+        "num_organisation": "785422304", 
+        "objet": "Défense du financement de la CRPNPAC dans le cadre du PLF 2021", 
+        "publicationDate": "2021-03-10T15:22:13"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/785422304.json", 
     "ville": "NEUILLY SUR SEINE"

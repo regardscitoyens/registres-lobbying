@@ -2450,7 +2450,7 @@
       }
     ], 
     "dateCreation": "2021-03-09T19:30:29", 
-    "dateDernierePublicationActivite": "2020-04-06T16:31:18", 
+    "dateDernierePublicationActivite": "2021-03-10T12:23:57", 
     "datePremierePublication": "2017-11-23T11:31:51", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -2809,6 +2809,60 @@
               "objet": "Présentation du CEA au nouveau président d'une commission parlementaire intéressée par les activités de l'organisme", 
               "publicationDate": "2018-04-26T16:36:04"
             }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "observation": "Cette fiche regroupe, suite à la demande de la HATVP en mars 2021, les trois fiches initialement déclarées en 2017 sur le registre : 2EHLK403, 2PVXATI3, QEVJFZ0H\n", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Recherche et innovation"
+                ], 
+                "identifiantFiche": "Y3KG7Q4V", 
+                "objet": "Présenter les enjeux des recherches du CEA (énergies, numérique, défense) afin d'éclairer plusieurs députés nouvellement élus ou nouveaux présidents de commissions parlementaires sur ces thèmes", 
+                "publicationDate": "2021-03-10T11:57:26"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "observation": "Cette fiche regroupe, suite à la demande de la HATVP en mars 2021, les trois fiches initialement déclarées en 2017 sur le registre : 2EHLK403, 2PVXATI3, QEVJFZ0H\n", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Recherche et innovation"
+              ], 
+              "identifiantFiche": "Y3KG7Q4V", 
+              "objet": "Présenter les enjeux des recherches du CEA (énergies, numérique, défense) afin d'éclairer plusieurs députés nouvellement élus ou nouveaux présidents de commissions parlementaires sur ces thèmes", 
+              "publicationDate": "2021-03-10T11:57:26"
+            }
           }
         ], 
         "dateDebut": "2017-07-01", 
@@ -2818,7 +2872,7 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 6, 
+        "nombreActivite": 7, 
         "nombreSalaries": 1, 
         "publicationDate": "2018-04-26T16:32:56"
       }, 
@@ -3495,6 +3549,184 @@
               "objet": "présenter à un parlementaire la problématique de l'énergie au CEA", 
               "publicationDate": "2019-03-29T15:09:38"
             }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "observation": "cette nouvelle fiche, suite à la demande d ela HATVP en mars 2021, regourpe des fiches initialement déclarées pour 2018 : KW3U054V, CLV1BPFH. Il n'y a pas de fait de décision publique à la clé.", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Recherche et innovation", 
+                  "Energies renouvelables", 
+                  "Energie nucléaire"
+                ], 
+                "identifiantFiche": "BHO7QKCH", 
+                "objet": "Présenter les recherches sur l'énergie du centre CEA de Marcoule (Gard) à des parlementaires locaux, très impliqués dans les politiques de l'énergie", 
+                "publicationDate": "2021-03-10T12:23:57"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "observation": "cette nouvelle fiche, suite à la demande d ela HATVP en mars 2021, regourpe des fiches initialement déclarées pour 2018 : KW3U054V, CLV1BPFH. Il n'y a pas de fait de décision publique à la clé.", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Recherche et innovation", 
+                "Energies renouvelables", 
+                "Energie nucléaire"
+              ], 
+              "identifiantFiche": "BHO7QKCH", 
+              "objet": "Présenter les recherches sur l'énergie du centre CEA de Marcoule (Gard) à des parlementaires locaux, très impliqués dans les politiques de l'énergie", 
+              "publicationDate": "2021-03-10T12:23:57"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Autres décisions publiques"
+                    ], 
+                    "observation": "cette nouvelle fiche regroupe, suite à la demande de la HATVP en mars 2021, les fiches initialement déclarées pour 2018 : KQ360WN3, 2PVXR26V, 2ZV94FL3, 2PVXR26V. Il n'y a en fait pas de décision publique directe à la clé.", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Recherche et innovation", 
+                  "Energies renouvelables", 
+                  "Energie nucléaire"
+                ], 
+                "identifiantFiche": "EVJQ70D3", 
+                "objet": "présenter, illustrer, décrire les recherches du CEA en liaison avec le PLF 2019 ou un rapport Opecst ; domaine de l'énergie en majorité concerné. Des visites sur site ont aussi pu être organisées.", 
+                "publicationDate": "2021-03-10T12:23:09"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Autres décisions publiques"
+                  ], 
+                  "observation": "cette nouvelle fiche regroupe, suite à la demande de la HATVP en mars 2021, les fiches initialement déclarées pour 2018 : KQ360WN3, 2PVXR26V, 2ZV94FL3, 2PVXR26V. Il n'y a en fait pas de décision publique directe à la clé.", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Recherche et innovation", 
+                "Energies renouvelables", 
+                "Energie nucléaire"
+              ], 
+              "identifiantFiche": "EVJQ70D3", 
+              "objet": "présenter, illustrer, décrire les recherches du CEA en liaison avec le PLF 2019 ou un rapport Opecst ; domaine de l'énergie en majorité concerné. Des visites sur site ont aussi pu être organisées.", 
+              "publicationDate": "2021-03-10T12:23:09"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "observation": "Cette nouvelle fiche, suite à la demande de la HATVP de mars 2021, regourpe les fiches initialement déclarées pour 2018 : S0V2BFM3, K6VBC1I3.\nIl n'y a en fait pas de décsion publique identifiable.", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Recherche et innovation", 
+                  "Energies renouvelables", 
+                  "Energie nucléaire"
+                ], 
+                "identifiantFiche": "UVPWQ203", 
+                "objet": "Faire une présentation des recherches du centre CEA de Cadarache (Bouches-du-Rhône) à des parlementaires de la région Sud", 
+                "publicationDate": "2021-03-10T12:23:38"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "observation": "Cette nouvelle fiche, suite à la demande de la HATVP de mars 2021, regourpe les fiches initialement déclarées pour 2018 : S0V2BFM3, K6VBC1I3.\nIl n'y a en fait pas de décsion publique identifiable.", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Recherche et innovation", 
+                "Energies renouvelables", 
+                "Energie nucléaire"
+              ], 
+              "identifiantFiche": "UVPWQ203", 
+              "objet": "Faire une présentation des recherches du centre CEA de Cadarache (Bouches-du-Rhône) à des parlementaires de la région Sud", 
+              "publicationDate": "2021-03-10T12:23:38"
+            }
           }
         ], 
         "dateDebut": "2018-01-01", 
@@ -3504,7 +3736,7 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 12, 
+        "nombreActivite": 15, 
         "nombreSalaries": 1, 
         "publicationDate": "2019-03-20T10:52:31"
       }, 
@@ -4630,7 +4862,7 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 6, 
+        "nombreActivite": 7, 
         "nombreSalaries": 1, 
         "publicationDate": "2018-04-26T16:32:56"
       }, 
@@ -4642,7 +4874,7 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 12, 
+        "nombreActivite": 15, 
         "nombreSalaries": 1, 
         "publicationDate": "2019-03-20T10:52:31"
       }, 
@@ -4668,7 +4900,44 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Recherche et innovation", 
+          "Energies renouvelables", 
+          "Energie nucléaire"
+        ], 
+        "identifiantFiche": "EVJQ70D3", 
+        "nom_organisation": "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES", 
+        "num_organisation": "775685019", 
+        "objet": "présenter, illustrer, décrire les recherches du CEA en liaison avec le PLF 2019 ou un rapport Opecst ; domaine de l'énergie en majorité concerné. Des visites sur site ont aussi pu être organisées.", 
+        "publicationDate": "2021-03-10T12:23:09"
+      }, 
+      {
+        "domainesIntervention": [
+          "Recherche et innovation", 
+          "Energies renouvelables", 
+          "Energie nucléaire"
+        ], 
+        "identifiantFiche": "UVPWQ203", 
+        "nom_organisation": "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES", 
+        "num_organisation": "775685019", 
+        "objet": "Faire une présentation des recherches du centre CEA de Cadarache (Bouches-du-Rhône) à des parlementaires de la région Sud", 
+        "publicationDate": "2021-03-10T12:23:38"
+      }, 
+      {
+        "domainesIntervention": [
+          "Recherche et innovation", 
+          "Energies renouvelables", 
+          "Energie nucléaire"
+        ], 
+        "identifiantFiche": "BHO7QKCH", 
+        "nom_organisation": "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES", 
+        "num_organisation": "775685019", 
+        "objet": "Présenter les recherches sur l'énergie du centre CEA de Marcoule (Gard) à des parlementaires locaux, très impliqués dans les politiques de l'énergie", 
+        "publicationDate": "2021-03-10T12:23:57"
+      }
+    ], 
     "sigleHatvp": "CEA", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775685019.json", 
