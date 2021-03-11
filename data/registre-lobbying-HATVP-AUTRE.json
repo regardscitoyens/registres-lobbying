@@ -8224,18 +8224,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Retraites"
-        ], 
-        "identifiantFiche": "Q36S4OFV", 
-        "nom_organisation": "CAISSE RETRAITE PERSONNEL NAVIGANT", 
-        "num_organisation": "785422304", 
-        "objet": "Défense du financement de la CRPNPAC dans le cadre du PLF 2021", 
-        "publicationDate": "2021-03-10T15:22:13"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/785422304.json", 
     "ville": "NEUILLY SUR SEINE"
@@ -33713,6 +33702,114 @@
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/784718256.json", 
     "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "categorie": null, 
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "categorie": null, 
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "categorie": null, 
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }, 
+        {
+          "categorie": null, 
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }, 
+        {
+          "categorie": null, 
+          "code": "SANTE", 
+          "label": "Santé, sécurité sociale", 
+          "ordre": 25
+        }
+      ]
+    }, 
+    "adresse": "331 avenue d'Antibes", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION NATIONALE MUTUALITE FRANCAISE", 
+        "identifiantNational": "304426240", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AUTRE", 
+      "code": "AUORG", 
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
+    }, 
+    "clients": [], 
+    "codePostal": "45200", 
+    "collaborateurs": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur adjoint en charge des relations publiques", 
+        "nom": "MOR", 
+        "prenom": "Robin"
+      }
+    ], 
+    "dateCreation": "2021-03-11T17:42:09", 
+    "datePremierePublication": "2021-03-11T17:42:09", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "MUTUELLE NAT HOSPIT PROF SANTE SOCIAL", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général", 
+        "nom": "MONESTIER", 
+        "prenom": "Médéric"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "VUIDEPOT", 
+        "prenom": "Gérard"
+      }
+    ], 
+    "exercices": [
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13849, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }
+    ], 
+    "historique": [], 
+    "historique_exercices": [], 
+    "identifiantNational": "775606361", 
+    "isActivitesPubliees": false, 
+    "lienPageFacebook": "https://www.facebook.com/MutuelleNationaledesHospitaliers", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/mutuelle-nationale-des-hospitaliers/", 
+    "lienPageTwitter": "https://twitter.com/MNH_Mutuelle", 
+    "lienSiteWeb": "https://www.mnh.fr/", 
+    "nomUsage": "MUTUELLE NATIONALE DES HOSPITALIERS", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "resumes_actions": [], 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "https://www.hatvp.fr/agora/775606361.json", 
+    "ville": "AMILLY"
   }, 
   {
     "activites": {
