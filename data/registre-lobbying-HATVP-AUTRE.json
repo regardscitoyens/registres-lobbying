@@ -16648,7 +16648,7 @@
           }
         ], 
         "chiffreAffaire": "> = 1 000 000 euros", 
-        "dateDebut": "2019-03-29", 
+        "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 7765, 
@@ -16680,7 +16680,7 @@
     "historique_exercices": [
       {
         "chiffreAffaire": "> = 1 000 000 euros", 
-        "dateDebut": "2019-03-29", 
+        "dateDebut": "2019-01-01", 
         "dateFin": "2019-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 7765, 

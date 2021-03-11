@@ -2594,58 +2594,6 @@
                 "actionsRepresentationInteret": [
                   {
                     "actionsMenees": [
-                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                    ], 
-                    "decisionsConcernees": [
-                      "Autres décisions publiques"
-                    ], 
-                    "reponsablesPublics": [
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                    ], 
-                    "tiers": [
-                      "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Energie nucléaire"
-                ], 
-                "identifiantFiche": "2EHLK403", 
-                "objet": "Présentation des recherches du CEA sur l'énergie nucléaire", 
-                "publicationDate": "2018-04-26T16:34:43"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                  ], 
-                  "decisionsConcernees": [
-                    "Autres décisions publiques"
-                  ], 
-                  "reponsablesPublics": [
-                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                  ], 
-                  "tiers": [
-                    "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Energie nucléaire"
-              ], 
-              "identifiantFiche": "2EHLK403", 
-              "objet": "Présentation des recherches du CEA sur l'énergie nucléaire", 
-              "publicationDate": "2018-04-26T16:34:43"
-            }
-          }, 
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
                       "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
                       "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
                     ], 
@@ -2696,118 +2644,6 @@
               "identifiantFiche": "IYVN4W3G", 
               "objet": "visite de deux laboratoires de recherche dédiés au numérique", 
               "publicationDate": "2018-04-26T16:36:49"
-            }
-          }, 
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
-                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                    ], 
-                    "decisionsConcernees": [
-                      "Lois, y compris constitutionnelles"
-                    ], 
-                    "reponsablesPublics": [
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                    ], 
-                    "tiers": [
-                      "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Défense", 
-                  "Sécurité nationale", 
-                  "Recherche et innovation"
-                ], 
-                "identifiantFiche": "QEVJFZ0H", 
-                "objet": "Présentation des activités défense du CEA en vue de la loi programmation militaire", 
-                "publicationDate": "2018-04-26T16:36:26"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                  ], 
-                  "decisionsConcernees": [
-                    "Lois, y compris constitutionnelles"
-                  ], 
-                  "reponsablesPublics": [
-                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                  ], 
-                  "tiers": [
-                    "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Défense", 
-                "Sécurité nationale", 
-                "Recherche et innovation"
-              ], 
-              "identifiantFiche": "QEVJFZ0H", 
-              "objet": "Présentation des activités défense du CEA en vue de la loi programmation militaire", 
-              "publicationDate": "2018-04-26T16:36:26"
-            }
-          }, 
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
-                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
-                    ], 
-                    "decisionsConcernees": [
-                      "Autres décisions publiques"
-                    ], 
-                    "reponsablesPublics": [
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                    ], 
-                    "tiers": [
-                      "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Recherche et innovation", 
-                  "Energies renouvelables", 
-                  "Energie nucléaire"
-                ], 
-                "identifiantFiche": "2PVXATI3", 
-                "objet": "Présentation du CEA au nouveau président d'une commission parlementaire intéressée par les activités de l'organisme", 
-                "publicationDate": "2018-04-26T16:36:04"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
-                  ], 
-                  "decisionsConcernees": [
-                    "Autres décisions publiques"
-                  ], 
-                  "reponsablesPublics": [
-                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                  ], 
-                  "tiers": [
-                    "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Recherche et innovation", 
-                "Energies renouvelables", 
-                "Energie nucléaire"
-              ], 
-              "identifiantFiche": "2PVXATI3", 
-              "objet": "Présentation du CEA au nouveau président d'une commission parlementaire intéressée par les activités de l'organisme", 
-              "publicationDate": "2018-04-26T16:36:04"
             }
           }, 
           {
@@ -2872,7 +2708,7 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 7, 
+        "nombreActivite": 4, 
         "nombreSalaries": 1, 
         "publicationDate": "2018-04-26T16:32:56"
       }, 
@@ -2997,114 +2833,6 @@
                       "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
                     ], 
                     "decisionsConcernees": [
-                      "Lois, y compris constitutionnelles"
-                    ], 
-                    "observation": "rencontre traditionnelle entre le CEA et certains rapporteurs du PLF, pour identifier les succès et les difficultés de l'organisme", 
-                    "reponsablesPublics": [
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                    ], 
-                    "tiers": [
-                      "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Recherche et innovation"
-                ], 
-                "identifiantFiche": "2PVXR26V", 
-                "objet": "présenter le projet de budget et d'activités du CEA ", 
-                "publicationDate": "2019-03-18T14:08:12"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                  ], 
-                  "decisionsConcernees": [
-                    "Lois, y compris constitutionnelles"
-                  ], 
-                  "observation": "rencontre traditionnelle entre le CEA et certains rapporteurs du PLF, pour identifier les succès et les difficultés de l'organisme", 
-                  "reponsablesPublics": [
-                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                  ], 
-                  "tiers": [
-                    "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Recherche et innovation"
-              ], 
-              "identifiantFiche": "2PVXR26V", 
-              "objet": "présenter le projet de budget et d'activités du CEA ", 
-              "publicationDate": "2019-03-18T14:08:12"
-            }
-          }, 
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
-                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
-                    ], 
-                    "decisionsConcernees": [
-                      "Lois, y compris constitutionnelles"
-                    ], 
-                    "observation": "réunion préparatoire avec un responsable à la commission de finances dans le cadre PLF\nla rencontre a été déclarée sous le numéro 2PVXR26V", 
-                    "reponsablesPublics": [
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                    ], 
-                    "tiers": [
-                      "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Recherche et innovation"
-                ], 
-                "identifiantFiche": "KQ360WN3", 
-                "objet": "préparer une rencontre avec les parlementaires (fiche 2PVXR26V)", 
-                "publicationDate": "2019-03-18T14:18:47"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
-                  ], 
-                  "decisionsConcernees": [
-                    "Lois, y compris constitutionnelles"
-                  ], 
-                  "observation": "réunion préparatoire avec un responsable à la commission de finances dans le cadre PLF\nla rencontre a été déclarée sous le numéro 2PVXR26V", 
-                  "reponsablesPublics": [
-                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                  ], 
-                  "tiers": [
-                    "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Recherche et innovation"
-              ], 
-              "identifiantFiche": "KQ360WN3", 
-              "objet": "préparer une rencontre avec les parlementaires (fiche 2PVXR26V)", 
-              "publicationDate": "2019-03-18T14:18:47"
-            }
-          }, 
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
-                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                    ], 
-                    "decisionsConcernees": [
                       "Autres décisions publiques"
                     ], 
                     "observation": "il s'agissait de faire montrer à un parlementaire local le large dpsectre d'activités du CEA su Saclay et son impact territorial", 
@@ -3206,348 +2934,6 @@
               "identifiantFiche": "S0V2YD0V", 
               "objet": "montrer et expliquer par une visite sur un centre nos activités de recherche", 
               "publicationDate": "2019-03-18T10:32:51"
-            }
-          }, 
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
-                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                    ], 
-                    "decisionsConcernees": [
-                      "Autres décisions publiques"
-                    ], 
-                    "observation": "il s'agissait de présenter les activités à un parlementaire local nouvellement élu, rapporteur spécial à la commission des finances et élu du département", 
-                    "reponsablesPublics": [
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                    ], 
-                    "tiers": [
-                      "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Défense", 
-                  "Recherche et innovation"
-                ], 
-                "identifiantFiche": "2ZV94FL3", 
-                "objet": "sensibiliser aux activités défense et sécurité un parlementaire, rapporteur spécial.", 
-                "publicationDate": "2019-03-20T10:47:47"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                  ], 
-                  "decisionsConcernees": [
-                    "Autres décisions publiques"
-                  ], 
-                  "observation": "il s'agissait de présenter les activités à un parlementaire local nouvellement élu, rapporteur spécial à la commission des finances et élu du département", 
-                  "reponsablesPublics": [
-                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                  ], 
-                  "tiers": [
-                    "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Défense", 
-                "Recherche et innovation"
-              ], 
-              "identifiantFiche": "2ZV94FL3", 
-              "objet": "sensibiliser aux activités défense et sécurité un parlementaire, rapporteur spécial.", 
-              "publicationDate": "2019-03-20T10:47:47"
-            }
-          }, 
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
-                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                    ], 
-                    "decisionsConcernees": [
-                      "Autres décisions publiques"
-                    ], 
-                    "observation": "simple visite pédagogique pour des parlementaires locaux", 
-                    "reponsablesPublics": [
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                    ], 
-                    "tiers": [
-                      "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Recherche et innovation", 
-                  "Energies renouvelables", 
-                  "Energie nucléaire"
-                ], 
-                "identifiantFiche": "K6VBC1I3", 
-                "objet": "expliquer à deux parlementaires locaux les activités du centre avec un focus sur un réacteur en cours de construction", 
-                "publicationDate": "2019-03-29T14:17:36"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                  ], 
-                  "decisionsConcernees": [
-                    "Autres décisions publiques"
-                  ], 
-                  "observation": "simple visite pédagogique pour des parlementaires locaux", 
-                  "reponsablesPublics": [
-                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                  ], 
-                  "tiers": [
-                    "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Recherche et innovation", 
-                "Energies renouvelables", 
-                "Energie nucléaire"
-              ], 
-              "identifiantFiche": "K6VBC1I3", 
-              "objet": "expliquer à deux parlementaires locaux les activités du centre avec un focus sur un réacteur en cours de construction", 
-              "publicationDate": "2019-03-29T14:17:36"
-            }
-          }, 
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
-                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                    ], 
-                    "decisionsConcernees": [
-                      "Autres décisions publiques"
-                    ], 
-                    "observation": "une visite d'information et de pédagogie pour la parlementaire", 
-                    "reponsablesPublics": [
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                    ], 
-                    "tiers": [
-                      "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Recherche et innovation", 
-                  "Energies renouvelables", 
-                  "Energie nucléaire"
-                ], 
-                "identifiantFiche": "S0V2BFM3", 
-                "objet": "sensibiliser aux questions relatives à un centre du CEA expliquer les activités de recherche", 
-                "publicationDate": "2019-03-29T14:03:32"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                  ], 
-                  "decisionsConcernees": [
-                    "Autres décisions publiques"
-                  ], 
-                  "observation": "une visite d'information et de pédagogie pour la parlementaire", 
-                  "reponsablesPublics": [
-                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                  ], 
-                  "tiers": [
-                    "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Recherche et innovation", 
-                "Energies renouvelables", 
-                "Energie nucléaire"
-              ], 
-              "identifiantFiche": "S0V2BFM3", 
-              "objet": "sensibiliser aux questions relatives à un centre du CEA expliquer les activités de recherche", 
-              "publicationDate": "2019-03-29T14:03:32"
-            }
-          }, 
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
-                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                    ], 
-                    "decisionsConcernees": [
-                      "Autres décisions publiques"
-                    ], 
-                    "observation": "cette visite a été demandée par une sénatrice. Malgré cela, nous l'introduisons dans le reporting car cette demande \"privée\" s'est transformée en une visite de la commission du développement durable du Sénat (en partie à notre initiative)", 
-                    "reponsablesPublics": [
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                    ], 
-                    "tiers": [
-                      "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Recherche et innovation", 
-                  "Energies renouvelables", 
-                  "Energie nucléaire"
-                ], 
-                "identifiantFiche": "CLV1BPFH", 
-                "objet": "présenter à une parlementaire locale les activités d'un centre, accompagnée par des collègues parlementaires de sa commission", 
-                "publicationDate": "2019-03-29T14:45:08"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                  ], 
-                  "decisionsConcernees": [
-                    "Autres décisions publiques"
-                  ], 
-                  "observation": "cette visite a été demandée par une sénatrice. Malgré cela, nous l'introduisons dans le reporting car cette demande \"privée\" s'est transformée en une visite de la commission du développement durable du Sénat (en partie à notre initiative)", 
-                  "reponsablesPublics": [
-                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                  ], 
-                  "tiers": [
-                    "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Recherche et innovation", 
-                "Energies renouvelables", 
-                "Energie nucléaire"
-              ], 
-              "identifiantFiche": "CLV1BPFH", 
-              "objet": "présenter à une parlementaire locale les activités d'un centre, accompagnée par des collègues parlementaires de sa commission", 
-              "publicationDate": "2019-03-29T14:45:08"
-            }
-          }, 
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
-                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                    ], 
-                    "decisionsConcernees": [
-                      "Autres décisions publiques"
-                    ], 
-                    "observation": "ce rendez-vous s'est monté en parallèle d'une visite parlementaire d'une commission déclarée dans le reporting au numéro : CLV1BPFH", 
-                    "reponsablesPublics": [
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                    ], 
-                    "tiers": [
-                      "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Recherche et innovation", 
-                  "Energie nucléaire"
-                ], 
-                "identifiantFiche": "KW3U054V", 
-                "objet": "sensibiliser un parlementaire local à la problématique d'un centre de recherche, lui présenter les axes de réflexion du CEA sur l'énergie", 
-                "publicationDate": "2019-03-29T15:01:55"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                  ], 
-                  "decisionsConcernees": [
-                    "Autres décisions publiques"
-                  ], 
-                  "observation": "ce rendez-vous s'est monté en parallèle d'une visite parlementaire d'une commission déclarée dans le reporting au numéro : CLV1BPFH", 
-                  "reponsablesPublics": [
-                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                  ], 
-                  "tiers": [
-                    "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Recherche et innovation", 
-                "Energie nucléaire"
-              ], 
-              "identifiantFiche": "KW3U054V", 
-              "objet": "sensibiliser un parlementaire local à la problématique d'un centre de recherche, lui présenter les axes de réflexion du CEA sur l'énergie", 
-              "publicationDate": "2019-03-29T15:01:55"
-            }
-          }, 
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
-                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                    ], 
-                    "decisionsConcernees": [
-                      "Autres décisions publiques"
-                    ], 
-                    "observation": "prise de contact entre le nouveau directeur de l'énergie nucléaire et la députée", 
-                    "reponsablesPublics": [
-                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                    ], 
-                    "tiers": [
-                      "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Recherche et innovation", 
-                  "Energie nucléaire"
-                ], 
-                "identifiantFiche": "2PVX5413", 
-                "objet": "présenter à un parlementaire la problématique de l'énergie au CEA", 
-                "publicationDate": "2019-03-29T15:09:38"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                  ], 
-                  "decisionsConcernees": [
-                    "Autres décisions publiques"
-                  ], 
-                  "observation": "prise de contact entre le nouveau directeur de l'énergie nucléaire et la députée", 
-                  "reponsablesPublics": [
-                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
-                  ], 
-                  "tiers": [
-                    "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Recherche et innovation", 
-                "Energie nucléaire"
-              ], 
-              "identifiantFiche": "2PVX5413", 
-              "objet": "présenter à un parlementaire la problématique de l'énergie au CEA", 
-              "publicationDate": "2019-03-29T15:09:38"
             }
           }, 
           {
@@ -3736,7 +3122,7 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 15, 
+        "nombreActivite": 7, 
         "nombreSalaries": 1, 
         "publicationDate": "2019-03-20T10:52:31"
       }, 
@@ -3796,60 +3182,6 @@
               "identifiantFiche": "40VE9JDV", 
               "objet": "montrer à un parlementaire certaines activités du CEA sur les énergies renouvelables. Il s'agit donc d'une visite de terrain", 
               "publicationDate": "2020-03-31T12:01:20"
-            }
-          }, 
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
-                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
-                    ], 
-                    "decisionsConcernees": [
-                      "Décisions d'espèce"
-                    ], 
-                    "observation": "Présentation du Consortium portant le CSA Sunrise, dont le CEA est partenaire, visant à faire émerger une grande initiative européenne sur la fabrication de carburants solaires. ", 
-                    "reponsablesPublics": [
-                      "Membre du Gouvernement ou membre de cabinet ministériel - Education nationale, enseignement supérieur et recherche"
-                    ], 
-                    "tiers": [
-                      "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Recherche et innovation"
-                ], 
-                "identifiantFiche": "UYVI0TKH", 
-                "objet": "Présenter à un conseiller du ministre une initiative européenne. Il s'agissait d'aider à l'organisation du soutien français à l'initiative.", 
-                "publicationDate": "2020-04-03T16:11:20"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
-                  ], 
-                  "decisionsConcernees": [
-                    "Décisions d'espèce"
-                  ], 
-                  "observation": "Présentation du Consortium portant le CSA Sunrise, dont le CEA est partenaire, visant à faire émerger une grande initiative européenne sur la fabrication de carburants solaires. ", 
-                  "reponsablesPublics": [
-                    "Membre du Gouvernement ou membre de cabinet ministériel - Education nationale, enseignement supérieur et recherche"
-                  ], 
-                  "tiers": [
-                    "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Recherche et innovation"
-              ], 
-              "identifiantFiche": "UYVI0TKH", 
-              "objet": "Présenter à un conseiller du ministre une initiative européenne. Il s'agissait d'aider à l'organisation du soutien français à l'initiative.", 
-              "publicationDate": "2020-04-03T16:11:20"
             }
           }, 
           {
@@ -3968,7 +3300,7 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 4, 
+        "nombreActivite": 3, 
         "nombreSalaries": 1, 
         "publicationDate": "2020-09-22T13:43:51"
       }, 
@@ -4862,7 +4194,7 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 7, 
+        "nombreActivite": 4, 
         "nombreSalaries": 1, 
         "publicationDate": "2018-04-26T16:32:56"
       }, 
@@ -4874,7 +4206,7 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 15, 
+        "nombreActivite": 7, 
         "nombreSalaries": 1, 
         "publicationDate": "2019-03-20T10:52:31"
       }, 
@@ -4886,7 +4218,7 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 4, 
+        "nombreActivite": 3, 
         "nombreSalaries": 1, 
         "publicationDate": "2020-09-22T13:43:51"
       }
@@ -4900,44 +4232,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Recherche et innovation", 
-          "Energies renouvelables", 
-          "Energie nucléaire"
-        ], 
-        "identifiantFiche": "EVJQ70D3", 
-        "nom_organisation": "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES", 
-        "num_organisation": "775685019", 
-        "objet": "présenter, illustrer, décrire les recherches du CEA en liaison avec le PLF 2019 ou un rapport Opecst ; domaine de l'énergie en majorité concerné. Des visites sur site ont aussi pu être organisées.", 
-        "publicationDate": "2021-03-10T12:23:09"
-      }, 
-      {
-        "domainesIntervention": [
-          "Recherche et innovation", 
-          "Energies renouvelables", 
-          "Energie nucléaire"
-        ], 
-        "identifiantFiche": "UVPWQ203", 
-        "nom_organisation": "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES", 
-        "num_organisation": "775685019", 
-        "objet": "Faire une présentation des recherches du centre CEA de Cadarache (Bouches-du-Rhône) à des parlementaires de la région Sud", 
-        "publicationDate": "2021-03-10T12:23:38"
-      }, 
-      {
-        "domainesIntervention": [
-          "Recherche et innovation", 
-          "Energies renouvelables", 
-          "Energie nucléaire"
-        ], 
-        "identifiantFiche": "BHO7QKCH", 
-        "nom_organisation": "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES", 
-        "num_organisation": "775685019", 
-        "objet": "Présenter les recherches sur l'énergie du centre CEA de Marcoule (Gard) à des parlementaires locaux, très impliqués dans les politiques de l'énergie", 
-        "publicationDate": "2021-03-10T12:23:57"
-      }
-    ], 
+    "resumes_actions": [], 
     "sigleHatvp": "CEA", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775685019.json", 
