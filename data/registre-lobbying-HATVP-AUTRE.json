@@ -7488,7 +7488,7 @@
       }
     ], 
     "dateCreation": "2021-02-23T16:23:39", 
-    "dateDernierePublicationActivite": "2021-02-23T16:34:18", 
+    "dateDernierePublicationActivite": "2021-03-12T14:58:47", 
     "datePremierePublication": "2021-02-23T16:23:39", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -7528,6 +7528,162 @@
     "exercices": [
       {
         "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "UHQSWF53", 
+                "objet": "Projet de loi relatifs à la dette sociale : rôle de la MSA dans la mise en place et la gestion du 5ème risque ", 
+                "publicationDate": "2021-03-12T14:53:27"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "UHQSWF53", 
+              "objet": "Projet de loi relatifs à la dette sociale : rôle de la MSA dans la mise en place et la gestion du 5ème risque ", 
+              "publicationDate": "2021-03-12T14:53:27"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Collaborateur du Président de la République"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Développement des territoires"
+                ], 
+                "identifiantFiche": "YVNT7Q7V", 
+                "objet": "Sensibilisation au rôle de la MSA dans les territoires ruraux ", 
+                "publicationDate": "2021-03-12T14:53:51"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Collaborateur du Président de la République"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Développement des territoires"
+              ], 
+              "identifiantFiche": "YVNT7Q7V", 
+              "objet": "Sensibilisation au rôle de la MSA dans les territoires ruraux ", 
+              "publicationDate": "2021-03-12T14:53:51"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Retraites"
+                ], 
+                "identifiantFiche": "O38QKNOH", 
+                "objet": "Proposition de loi visant à assurer la revalorisation des pensions de retraite agricoles : porter le niveau minimum de retraite de 75% à 85% du SMIC agricole net.", 
+                "publicationDate": "2021-03-12T14:54:21"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Retraites"
+              ], 
+              "identifiantFiche": "O38QKNOH", 
+              "objet": "Proposition de loi visant à assurer la revalorisation des pensions de retraite agricoles : porter le niveau minimum de retraite de 75% à 85% du SMIC agricole net.", 
+              "publicationDate": "2021-03-12T14:54:21"
+            }
+          }, 
           {
             "historique": [
               {
@@ -7631,6 +7787,748 @@
               "objet": "Sensibilisation aux actions de la MSA dans les territoires ruraux lors du Salon de l'agriculture 2020", 
               "publicationDate": "2021-02-23T16:31:02"
             }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Retraites"
+                ], 
+                "identifiantFiche": "JVD08ER3", 
+                "objet": "Projet de loi instituant un système universel de retraite : maintien de la gestion par la MSA de la branche retraite pour ses ressortissants", 
+                "publicationDate": "2021-03-12T14:54:40"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Retraites"
+              ], 
+              "identifiantFiche": "JVD08ER3", 
+              "objet": "Projet de loi instituant un système universel de retraite : maintien de la gestion par la MSA de la branche retraite pour ses ressortissants", 
+              "publicationDate": "2021-03-12T14:54:40"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "observation": "Audition de madame la ministre Breigitte Bourguignon et de monsieur le ministre Olivier Véran", 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "ZV98KMRH", 
+                "objet": "Sensibilisation aux actions et initiatives de la MSA en matière de protection sociale et d'autonomie ", 
+                "publicationDate": "2021-03-12T14:55:12"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "observation": "Audition de madame la ministre Breigitte Bourguignon et de monsieur le ministre Olivier Véran", 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "ZV98KMRH", 
+              "objet": "Sensibilisation aux actions et initiatives de la MSA en matière de protection sociale et d'autonomie ", 
+              "publicationDate": "2021-03-12T14:55:12"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "observation": "Audition Griset et Grégoire", 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Développement des territoires"
+                ], 
+                "identifiantFiche": "BHO7QF9H", 
+                "objet": "Sensibilisation au rôle de la MSA dans les territoires ruraux, en matière d'accompagnement de PME et d'économie sociale et solidaire. ", 
+                "publicationDate": "2021-03-12T14:55:43"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "observation": "Audition Griset et Grégoire", 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Développement des territoires"
+              ], 
+              "identifiantFiche": "BHO7QF9H", 
+              "objet": "Sensibilisation au rôle de la MSA dans les territoires ruraux, en matière d'accompagnement de PME et d'économie sociale et solidaire. ", 
+              "publicationDate": "2021-03-12T14:55:43"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Système de santé et médico-social", 
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "9V0CIPO3", 
+                "objet": "COVID-19 : Gestion de la crise sanitaire et mesures mises en place par la MSA ", 
+                "publicationDate": "2021-03-12T14:56:11"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Système de santé et médico-social", 
+                "Agriculture"
+              ], 
+              "identifiantFiche": "9V0CIPO3", 
+              "objet": "COVID-19 : Gestion de la crise sanitaire et mesures mises en place par la MSA ", 
+              "publicationDate": "2021-03-12T14:56:11"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "Petits déjeuners parlementaires", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "0V5T0S23", 
+                "objet": "PLFSS 2021 : présentation de l'avis du bureau élargi du Conseil d’Administration de la CCMSA ", 
+                "publicationDate": "2021-03-12T14:57:18"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "Petits déjeuners parlementaires", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "0V5T0S23", 
+              "objet": "PLFSS 2021 : présentation de l'avis du bureau élargi du Conseil d’Administration de la CCMSA ", 
+              "publicationDate": "2021-03-12T14:57:18"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "QV7RS1IV", 
+                "objet": "PLFSS : rôle de la MSA dans la mise en place et la gestion du 5ème risque ", 
+                "publicationDate": "2021-03-12T14:58:03"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "QV7RS1IV", 
+              "objet": "PLFSS : rôle de la MSA dans la mise en place et la gestion du 5ème risque ", 
+              "publicationDate": "2021-03-12T14:58:03"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Développement des territoires"
+                ], 
+                "identifiantFiche": "0VE70423", 
+                "objet": "Convention d'objectifs et de gestion 2021-2025 : sensibilisation au rôle de la MSA sur les territoires ruraux et à l'importance du maintien des ressources allouées. ", 
+                "publicationDate": "2021-03-12T14:58:17"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Développement des territoires"
+              ], 
+              "identifiantFiche": "0VE70423", 
+              "objet": "Convention d'objectifs et de gestion 2021-2025 : sensibilisation au rôle de la MSA sur les territoires ruraux et à l'importance du maintien des ressources allouées. ", 
+              "publicationDate": "2021-03-12T14:58:17"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Développement des territoires"
+                ], 
+                "identifiantFiche": "YVIG7EK3", 
+                "objet": "Sensibilisation au rôle de la MSA dans les territoires ruraux ", 
+                "publicationDate": "2021-03-12T14:58:32"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Développement des territoires"
+              ], 
+              "identifiantFiche": "YVIG7EK3", 
+              "objet": "Sensibilisation au rôle de la MSA dans les territoires ruraux ", 
+              "publicationDate": "2021-03-12T14:58:32"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "observation": "Audition de monsieur le ministre Julien Denormandie", 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Développement des territoires"
+                ], 
+                "identifiantFiche": "PVXWPNNH", 
+                "objet": "Sensibilisation au rôle de la MSA dans les territoires ruraux, les mesures d’accompagnement économiques lors de la crise sanitaire et les actions de lutte contre le mal être des agriculteurs", 
+                "publicationDate": "2021-03-12T14:58:47"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "observation": "Audition de monsieur le ministre Julien Denormandie", 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Développement des territoires"
+              ], 
+              "identifiantFiche": "PVXWPNNH", 
+              "objet": "Sensibilisation au rôle de la MSA dans les territoires ruraux, les mesures d’accompagnement économiques lors de la crise sanitaire et les actions de lutte contre le mal être des agriculteurs", 
+              "publicationDate": "2021-03-12T14:58:47"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "observation": "Audition de monsieur le ministre Joël Giraud", 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Aménagement du territoire, ruralité et collectivités territoriales"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Développement des territoires"
+                ], 
+                "identifiantFiche": "5HAA4TQH", 
+                "objet": "Sensibilisation au rôle de la MSA dans les territoires ruraux ", 
+                "publicationDate": "2021-03-12T14:53:02"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "observation": "Audition de monsieur le ministre Joël Giraud", 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Aménagement du territoire, ruralité et collectivités territoriales"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Développement des territoires"
+              ], 
+              "identifiantFiche": "5HAA4TQH", 
+              "objet": "Sensibilisation au rôle de la MSA dans les territoires ruraux ", 
+              "publicationDate": "2021-03-12T14:53:02"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Développement des territoires"
+                ], 
+                "identifiantFiche": "A3YRX9QV", 
+                "objet": "Sensibilisation aux actions de la MSA dans les territoires ruraux lors du Salon de l'agriculture 2020", 
+                "publicationDate": "2021-03-12T14:56:32"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Développement des territoires"
+              ], 
+              "identifiantFiche": "A3YRX9QV", 
+              "objet": "Sensibilisation aux actions de la MSA dans les territoires ruraux lors du Salon de l'agriculture 2020", 
+              "publicationDate": "2021-03-12T14:56:32"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "Petits déjeuners parlementaires", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "Y3GQWT1H", 
+                "objet": "Avis du bureau élargi du Conseil d’Administration de la CCMSA concernant le PLFSS 2021", 
+                "publicationDate": "2021-03-12T14:57:33"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "Petits déjeuners parlementaires", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "Y3GQWT1H", 
+              "objet": "Avis du bureau élargi du Conseil d’Administration de la CCMSA concernant le PLFSS 2021", 
+              "publicationDate": "2021-03-12T14:57:33"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Développement des territoires"
+                ], 
+                "identifiantFiche": "6VBE4G5V", 
+                "objet": "Sensibilisation aux actions de la MSA dans les territoires ruraux lors du Salon de l'agriculture 2020", 
+                "publicationDate": "2021-03-12T14:56:50"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Développement des territoires"
+              ], 
+              "identifiantFiche": "6VBE4G5V", 
+              "objet": "Sensibilisation aux actions de la MSA dans les territoires ruraux lors du Salon de l'agriculture 2020", 
+              "publicationDate": "2021-03-12T14:56:50"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "DHMZ7KCV", 
+                "objet": "PLFSS : rôle de la MSA dans la mise en place et la gestion du 5ème risque ", 
+                "publicationDate": "2021-03-12T14:57:48"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "DHMZ7KCV", 
+              "objet": "PLFSS : rôle de la MSA dans la mise en place et la gestion du 5ème risque ", 
+              "publicationDate": "2021-03-12T14:57:48"
+            }
           }
         ], 
         "dateDebut": "2020-01-01", 
@@ -7662,7 +8560,179 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Développement des territoires"
+        ], 
+        "identifiantFiche": "5HAA4TQH", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "Sensibilisation au rôle de la MSA dans les territoires ruraux ", 
+        "publicationDate": "2021-03-12T14:53:02"
+      }, 
+      {
+        "domainesIntervention": [
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "UHQSWF53", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "Projet de loi relatifs à la dette sociale : rôle de la MSA dans la mise en place et la gestion du 5ème risque ", 
+        "publicationDate": "2021-03-12T14:53:27"
+      }, 
+      {
+        "domainesIntervention": [
+          "Développement des territoires"
+        ], 
+        "identifiantFiche": "YVNT7Q7V", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "Sensibilisation au rôle de la MSA dans les territoires ruraux ", 
+        "publicationDate": "2021-03-12T14:53:51"
+      }, 
+      {
+        "domainesIntervention": [
+          "Retraites"
+        ], 
+        "identifiantFiche": "O38QKNOH", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "Proposition de loi visant à assurer la revalorisation des pensions de retraite agricoles : porter le niveau minimum de retraite de 75% à 85% du SMIC agricole net.", 
+        "publicationDate": "2021-03-12T14:54:21"
+      }, 
+      {
+        "domainesIntervention": [
+          "Retraites"
+        ], 
+        "identifiantFiche": "JVD08ER3", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "Projet de loi instituant un système universel de retraite : maintien de la gestion par la MSA de la branche retraite pour ses ressortissants", 
+        "publicationDate": "2021-03-12T14:54:40"
+      }, 
+      {
+        "domainesIntervention": [
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "ZV98KMRH", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "Sensibilisation aux actions et initiatives de la MSA en matière de protection sociale et d'autonomie ", 
+        "publicationDate": "2021-03-12T14:55:12"
+      }, 
+      {
+        "domainesIntervention": [
+          "Développement des territoires"
+        ], 
+        "identifiantFiche": "BHO7QF9H", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "Sensibilisation au rôle de la MSA dans les territoires ruraux, en matière d'accompagnement de PME et d'économie sociale et solidaire. ", 
+        "publicationDate": "2021-03-12T14:55:43"
+      }, 
+      {
+        "domainesIntervention": [
+          "Système de santé et médico-social", 
+          "Agriculture"
+        ], 
+        "identifiantFiche": "9V0CIPO3", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "COVID-19 : Gestion de la crise sanitaire et mesures mises en place par la MSA ", 
+        "publicationDate": "2021-03-12T14:56:11"
+      }, 
+      {
+        "domainesIntervention": [
+          "Développement des territoires"
+        ], 
+        "identifiantFiche": "A3YRX9QV", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "Sensibilisation aux actions de la MSA dans les territoires ruraux lors du Salon de l'agriculture 2020", 
+        "publicationDate": "2021-03-12T14:56:32"
+      }, 
+      {
+        "domainesIntervention": [
+          "Développement des territoires"
+        ], 
+        "identifiantFiche": "6VBE4G5V", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "Sensibilisation aux actions de la MSA dans les territoires ruraux lors du Salon de l'agriculture 2020", 
+        "publicationDate": "2021-03-12T14:56:50"
+      }, 
+      {
+        "domainesIntervention": [
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "0V5T0S23", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "PLFSS 2021 : présentation de l'avis du bureau élargi du Conseil d’Administration de la CCMSA ", 
+        "publicationDate": "2021-03-12T14:57:18"
+      }, 
+      {
+        "domainesIntervention": [
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "Y3GQWT1H", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "Avis du bureau élargi du Conseil d’Administration de la CCMSA concernant le PLFSS 2021", 
+        "publicationDate": "2021-03-12T14:57:33"
+      }, 
+      {
+        "domainesIntervention": [
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "DHMZ7KCV", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "PLFSS : rôle de la MSA dans la mise en place et la gestion du 5ème risque ", 
+        "publicationDate": "2021-03-12T14:57:48"
+      }, 
+      {
+        "domainesIntervention": [
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "QV7RS1IV", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "PLFSS : rôle de la MSA dans la mise en place et la gestion du 5ème risque ", 
+        "publicationDate": "2021-03-12T14:58:03"
+      }, 
+      {
+        "domainesIntervention": [
+          "Développement des territoires"
+        ], 
+        "identifiantFiche": "0VE70423", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "Convention d'objectifs et de gestion 2021-2025 : sensibilisation au rôle de la MSA sur les territoires ruraux et à l'importance du maintien des ressources allouées. ", 
+        "publicationDate": "2021-03-12T14:58:17"
+      }, 
+      {
+        "domainesIntervention": [
+          "Développement des territoires"
+        ], 
+        "identifiantFiche": "YVIG7EK3", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "Sensibilisation au rôle de la MSA dans les territoires ruraux ", 
+        "publicationDate": "2021-03-12T14:58:32"
+      }, 
+      {
+        "domainesIntervention": [
+          "Développement des territoires"
+        ], 
+        "identifiantFiche": "PVXWPNNH", 
+        "nom_organisation": "CAISSE CENTRALE MUTUALITE SOCIALE AGRICO", 
+        "num_organisation": "302990445", 
+        "objet": "Sensibilisation au rôle de la MSA dans les territoires ruraux, les mesures d’accompagnement économiques lors de la crise sanitaire et les actions de lutte contre le mal être des agriculteurs", 
+        "publicationDate": "2021-03-12T14:58:47"
+      }
+    ], 
     "telephoneDeContact": "01 41 63 77 77", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/302990445.json", 
