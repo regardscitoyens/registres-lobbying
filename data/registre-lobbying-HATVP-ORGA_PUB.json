@@ -7247,7 +7247,7 @@
       }
     ], 
     "dateCreation": "2020-07-10T14:57:30", 
-    "dateDernierePublicationActivite": "2020-07-10T15:42:33", 
+    "dateDernierePublicationActivite": "2021-03-18T14:17:22", 
     "datePremierePublication": "2017-12-08T10:05:32", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -8322,12 +8322,623 @@
         "publicationDate": "2020-07-10T15:43:08"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "JVD0POQ3", 
+                "objet": "Confinement Covid : enjeux de la RATP et du transport public, prise en compte des contraintes et du financement des transports publics en IdF dans les plans d’aides et de relance", 
+                "publicationDate": "2021-03-18T14:17:07"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "JVD0POQ3", 
+              "objet": "Confinement Covid : enjeux de la RATP et du transport public, prise en compte des contraintes et du financement des transports publics en IdF dans les plans d’aides et de relance", 
+              "publicationDate": "2021-03-18T14:17:07"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "X3C4FAF3", 
+                "objet": "LOM : suivre les décrets d’application sur la LOM en particulier les dispositions sociales dans le cadre de l’ouverture à la concurrence du réseau Bus de la RATP", 
+                "publicationDate": "2021-03-18T14:17:22"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "X3C4FAF3", 
+              "objet": "LOM : suivre les décrets d’application sur la LOM en particulier les dispositions sociales dans le cadre de l’ouverture à la concurrence du réseau Bus de la RATP", 
+              "publicationDate": "2021-03-18T14:17:22"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Bâtiments et travaux publics", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "DVS4JYXH", 
+                "objet": "COVID-19 : sécurisation, poursuite et redémarrage des chantiers de travaux publics ", 
+                "publicationDate": "2021-03-18T14:16:31"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Bâtiments et travaux publics", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "DVS4JYXH", 
+              "objet": "COVID-19 : sécurisation, poursuite et redémarrage des chantiers de travaux publics ", 
+              "publicationDate": "2021-03-18T14:16:31"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Travail, emploi, formation professionnelle et dialogue social"
+                    ], 
+                    "tiers": [
+                      "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Retraites"
+                ], 
+                "identifiantFiche": "EHLFK07H", 
+                "objet": "Réforme des retraites : assurer la prise en compte des enjeux de la RATP dans le cadre du projet de réformes des retraites", 
+                "publicationDate": "2021-03-18T14:16:50"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Travail, emploi, formation professionnelle et dialogue social"
+                  ], 
+                  "tiers": [
+                    "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Retraites"
+              ], 
+              "identifiantFiche": "EHLFK07H", 
+              "objet": "Réforme des retraites : assurer la prise en compte des enjeux de la RATP dans le cadre du projet de réformes des retraites", 
+              "publicationDate": "2021-03-18T14:16:50"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "SVFZQLDH", 
+                "objet": "Analyse de la RATP et proposition juridique concernant le problème du trainsurfing", 
+                "publicationDate": "2021-03-18T14:16:13"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "SVFZQLDH", 
+              "objet": "Analyse de la RATP et proposition juridique concernant le problème du trainsurfing", 
+              "publicationDate": "2021-03-18T14:16:13"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Egalité femmes/hommes"
+                ], 
+                "identifiantFiche": "UHQS7YQ3", 
+                "objet": "Application de la loi contre les violences sexuelles et sexistes : retour d'expérience sur la loi contre les violences sexuelles et sexistes, analyse de la RATP des avancées et actions mises en place", 
+                "publicationDate": "2021-03-18T14:15:54"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Egalité femmes/hommes"
+              ], 
+              "identifiantFiche": "UHQS7YQ3", 
+              "objet": "Application de la loi contre les violences sexuelles et sexistes : retour d'expérience sur la loi contre les violences sexuelles et sexistes, analyse de la RATP des avancées et actions mises en place", 
+              "publicationDate": "2021-03-18T14:15:54"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Intérieur, Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "O38QSAIH", 
+                "objet": "PPL sécurité globale : proposer des mesures pour accroitre la sûreté dans les transports", 
+                "publicationDate": "2021-03-18T14:15:12"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Intérieur, Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "O38QSAIH", 
+              "objet": "PPL sécurité globale : proposer des mesures pour accroitre la sûreté dans les transports", 
+              "publicationDate": "2021-03-18T14:15:12"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs"
+                ], 
+                "identifiantFiche": "Y3GQFBPH", 
+                "objet": "Obtenir une meilleure prise en compte des transports en commun dans le prochain plan d'investissement et pour l'avenir. ", 
+                "publicationDate": "2021-03-18T14:14:48"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs"
+              ], 
+              "identifiantFiche": "Y3GQFBPH", 
+              "objet": "Obtenir une meilleure prise en compte des transports en commun dans le prochain plan d'investissement et pour l'avenir. ", 
+              "publicationDate": "2021-03-18T14:14:48"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Aménagement du territoire, ruralité et collectivités territoriales, Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Collectivités territoriales"
+                ], 
+                "identifiantFiche": "C34BEIIV", 
+                "objet": "PJL 4D : analyser les dispositions transports dans la loi 4D", 
+                "publicationDate": "2021-03-18T14:15:34"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Aménagement du territoire, ruralité et collectivités territoriales, Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Collectivités territoriales"
+              ], 
+              "identifiantFiche": "C34BEIIV", 
+              "objet": "PJL 4D : analyser les dispositions transports dans la loi 4D", 
+              "publicationDate": "2021-03-18T14:15:34"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                    ], 
+                    "responsablePublicAutre": "Ministère des Transports", 
+                    "tiers": [
+                      "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Laïcité"
+                ], 
+                "identifiantFiche": "A3YRP79V", 
+                "objet": "Informer sur la politique de la RATP pour lutter contre la radicalisation religieuse, les phénomènes de communautarisme et les atteintes à la laïcité", 
+                "publicationDate": "2021-03-18T14:14:13"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Autres : à préciser"
+                  ], 
+                  "responsablePublicAutre": "Ministère des Transports", 
+                  "tiers": [
+                    "REGIE AUTONOME DES TRANSPORTS PARISIENS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Laïcité"
+              ], 
+              "identifiantFiche": "A3YRP79V", 
+              "objet": "Informer sur la politique de la RATP pour lutter contre la radicalisation religieuse, les phénomènes de communautarisme et les atteintes à la laïcité", 
+              "publicationDate": "2021-03-18T14:14:13"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9773, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 200 000 euros et < 300 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 10, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2021-03-18T14:10:39"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -9238,6 +9849,19 @@
         "nombreActivite": 5, 
         "nombreSalaries": 5, 
         "publicationDate": "2020-07-10T15:10:22"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9773, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 200 000 euros et < 300 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 10, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2021-03-18T14:10:39"
       }
     ], 
     "identifiantNational": "775663438", 
@@ -9252,7 +9876,113 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs", 
+          "Laïcité"
+        ], 
+        "identifiantFiche": "A3YRP79V", 
+        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
+        "num_organisation": "775663438", 
+        "objet": "Informer sur la politique de la RATP pour lutter contre la radicalisation religieuse, les phénomènes de communautarisme et les atteintes à la laïcité", 
+        "publicationDate": "2021-03-18T14:14:13"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs"
+        ], 
+        "identifiantFiche": "Y3GQFBPH", 
+        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
+        "num_organisation": "775663438", 
+        "objet": "Obtenir une meilleure prise en compte des transports en commun dans le prochain plan d'investissement et pour l'avenir. ", 
+        "publicationDate": "2021-03-18T14:14:48"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs"
+        ], 
+        "identifiantFiche": "O38QSAIH", 
+        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
+        "num_organisation": "775663438", 
+        "objet": "PPL sécurité globale : proposer des mesures pour accroitre la sûreté dans les transports", 
+        "publicationDate": "2021-03-18T14:15:12"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs", 
+          "Collectivités territoriales"
+        ], 
+        "identifiantFiche": "C34BEIIV", 
+        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
+        "num_organisation": "775663438", 
+        "objet": "PJL 4D : analyser les dispositions transports dans la loi 4D", 
+        "publicationDate": "2021-03-18T14:15:34"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs", 
+          "Egalité femmes/hommes"
+        ], 
+        "identifiantFiche": "UHQS7YQ3", 
+        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
+        "num_organisation": "775663438", 
+        "objet": "Application de la loi contre les violences sexuelles et sexistes : retour d'expérience sur la loi contre les violences sexuelles et sexistes, analyse de la RATP des avancées et actions mises en place", 
+        "publicationDate": "2021-03-18T14:15:54"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs"
+        ], 
+        "identifiantFiche": "SVFZQLDH", 
+        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
+        "num_organisation": "775663438", 
+        "objet": "Analyse de la RATP et proposition juridique concernant le problème du trainsurfing", 
+        "publicationDate": "2021-03-18T14:16:13"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs", 
+          "Bâtiments et travaux publics", 
+          "Infrastructures"
+        ], 
+        "identifiantFiche": "DVS4JYXH", 
+        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
+        "num_organisation": "775663438", 
+        "objet": "COVID-19 : sécurisation, poursuite et redémarrage des chantiers de travaux publics ", 
+        "publicationDate": "2021-03-18T14:16:31"
+      }, 
+      {
+        "domainesIntervention": [
+          "Retraites"
+        ], 
+        "identifiantFiche": "EHLFK07H", 
+        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
+        "num_organisation": "775663438", 
+        "objet": "Réforme des retraites : assurer la prise en compte des enjeux de la RATP dans le cadre du projet de réformes des retraites", 
+        "publicationDate": "2021-03-18T14:16:50"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs"
+        ], 
+        "identifiantFiche": "JVD0POQ3", 
+        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
+        "num_organisation": "775663438", 
+        "objet": "Confinement Covid : enjeux de la RATP et du transport public, prise en compte des contraintes et du financement des transports publics en IdF dans les plans d’aides et de relance", 
+        "publicationDate": "2021-03-18T14:17:07"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs"
+        ], 
+        "identifiantFiche": "X3C4FAF3", 
+        "nom_organisation": "REGIE AUTONOME DES TRANSPORTS PARISIENS", 
+        "num_organisation": "775663438", 
+        "objet": "LOM : suivre les décrets d’application sur la LOM en particulier les dispositions sociales dans le cadre de l’ouverture à la concurrence du réseau Bus de la RATP", 
+        "publicationDate": "2021-03-18T14:17:22"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775663438.json", 
     "ville": "PARIS CEDEX 12"
