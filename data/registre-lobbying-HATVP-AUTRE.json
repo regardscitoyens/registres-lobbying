@@ -7356,8 +7356,12 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9589, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": true, 
-        "nombreActivite": 0
+        "nombreActivite": 0, 
+        "nombreSalaries": 0, 
+        "publicationDate": "2021-03-18T09:00:34"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -7393,6 +7397,18 @@
         "nombreActivite": 2, 
         "nombreSalaries": 2, 
         "publicationDate": "2020-04-30T10:28:04"
+      }, 
+      {
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9589, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": true, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 0, 
+        "publicationDate": "2021-03-18T09:00:34"
       }
     ], 
     "identifiantNational": "784338881", 
