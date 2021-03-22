@@ -19393,12 +19393,18 @@
         "nombreActivite": 0
       }, 
       {
+        "chiffreAffaire": "> = 100 000 euros et < 500 000 euros", 
+        "commentaire": "Nous n'avons eu aucune action de représentation d'intérêt en 2020. Seule notre activité événementielle a pu être opérée.", 
         "dateDebut": "2021-01-01", 
         "dateFin": "2021-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 11717, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-03-22T13:21:18"
       }
     ], 
     "historique": [
@@ -19643,6 +19649,20 @@
         "nombreActivite": 0, 
         "nombreSalaries": 1, 
         "publicationDate": "2020-10-26T11:56:26"
+      }, 
+      {
+        "chiffreAffaire": "> = 100 000 euros et < 500 000 euros", 
+        "commentaire": "Nous n'avons eu aucune action de représentation d'intérêt en 2020. Seule notre activité événementielle a pu être opérée.", 
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11717, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-03-22T13:21:18"
       }
     ], 
     "identifiantNational": "818007288", 
