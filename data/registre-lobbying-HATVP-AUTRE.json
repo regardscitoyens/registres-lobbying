@@ -4084,7 +4084,7 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 10592, 
-        "noActivite": false, 
+        "noActivite": true, 
         "nombreActivite": 0
       }, 
       {
@@ -8551,8 +8551,12 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 13754, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 19, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2021-03-23T17:37:47"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -8564,7 +8568,20 @@
       }
     ], 
     "historique": [], 
-    "historique_exercices": [], 
+    "historique_exercices": [
+      {
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13754, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 19, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2021-03-23T17:37:47"
+      }
+    ], 
     "identifiantNational": "302990445", 
     "isActivitesPubliees": true, 
     "lienPageFacebook": "https://www.facebook.com/mymsa", 
