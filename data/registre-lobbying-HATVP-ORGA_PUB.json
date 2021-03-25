@@ -4772,12 +4772,6 @@
     "collaborateurs": [
       {
         "civilite": "M", 
-        "fonction": "Président", 
-        "nom": "HOUSSIN", 
-        "prenom": "Didier"
-      }, 
-      {
-        "civilite": "M", 
         "fonction": "Directeur des relations institutionnelles et de la communication", 
         "nom": "FLÈCHE", 
         "prenom": "Jean-Christophe"
@@ -4787,9 +4781,27 @@
         "fonction": "Responsable des relations institutionnelles", 
         "nom": "DE MARIGNAN", 
         "prenom": "Anne-Laure"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "CHEVET", 
+        "prenom": "Pierre-Franck"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur général adjoint", 
+        "nom": "LAFARGUE", 
+        "prenom": "Eric"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directeur général adjoint", 
+        "nom": "RIVIÈRE", 
+        "prenom": "Catherine"
       }
     ], 
-    "dateCreation": "2020-01-23T11:35:18", 
+    "dateCreation": "2021-03-25T15:37:13", 
     "dateDernierePublicationActivite": "2020-04-28T17:32:31", 
     "datePremierePublication": "2017-12-05T09:27:29", 
     "declarationOrgaAppartenance": false, 
@@ -4798,11 +4810,24 @@
     "dirigeants": [
       {
         "civilite": "M", 
+        "fonction": "Directeur général adjoint", 
+        "nom": "LAFARGUE", 
+        "prenom": "Eric"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice général adjoint", 
+        "nom": "RIVIÈRE", 
+        "prenom": "Catherine"
+      }, 
+      {
+        "civilite": "M", 
         "fonction": "Président", 
-        "nom": "HOUSSIN", 
-        "prenom": "Didier"
+        "nom": "CHEVET", 
+        "prenom": "Pierre-Franck"
       }
     ], 
+    "emailDeContact": "anne-laure.de-marignan@ifpen.fr", 
     "exercices": [
       {
         "activites": [
@@ -5473,6 +5498,177 @@
         "sigleHatvp": "IFP", 
         "typeIdentifiantNational": "SIREN", 
         "ville": "RUEIL MALMAISON CEDEX"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "categorie": null, 
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }
+          ]
+        }, 
+        "adresse": "IFP ENERGIES NOUVELLES\r\n1 AVENUE DE BOIS PREAU\r\nBP 311", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_PUB", 
+          "code": "EPAIC", 
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
+        }, 
+        "clients": [], 
+        "codePostal": "92506", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "HOUSSIN", 
+            "prenom": "Didier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des relations institutionnelles et de la communication", 
+            "nom": "FLÈCHE", 
+            "prenom": "Jean-Christophe"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable des relations institutionnelles", 
+            "nom": "DE MARIGNAN", 
+            "prenom": "Anne-Laure"
+          }
+        ], 
+        "dateCreation": "2020-01-23T11:35:18", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "IFP ENERGIES NOUVELLES", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "HOUSSIN", 
+            "prenom": "Didier"
+          }
+        ], 
+        "identifiantNational": "775729155", 
+        "lienPageTwitter": "https://twitter.com/IFPENinnovation", 
+        "lienSiteWeb": "http://www.ifpenergiesnouvelles.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "sigleHatvp": "IFP", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "RUEIL MALMAISON CEDEX"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "categorie": null, 
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }
+          ]
+        }, 
+        "adresse": "IFP ENERGIES NOUVELLES\r\n1 AVENUE DE BOIS PREAU\r\nBP 311", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_PUB", 
+          "code": "EPAIC", 
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
+        }, 
+        "clients": [], 
+        "codePostal": "92506", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des relations institutionnelles et de la communication", 
+            "nom": "FLÈCHE", 
+            "prenom": "Jean-Christophe"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable des relations institutionnelles", 
+            "nom": "DE MARIGNAN", 
+            "prenom": "Anne-Laure"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "CHEVET", 
+            "prenom": "Pierre-Franck"
+          }
+        ], 
+        "dateCreation": "2021-03-25T15:30:10", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "IFP ENERGIES NOUVELLES", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général adjoint", 
+            "nom": "LAFARGUE", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice général adjoint", 
+            "nom": "RIVIÈRE", 
+            "prenom": "Catherine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "CHEVET", 
+            "prenom": "Pierre-Franck"
+          }
+        ], 
+        "emailDeContact": "anne-laure.de-marignan@ifpen.fr", 
+        "identifiantNational": "775729155", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/9243/admin/", 
+        "lienPageTwitter": "https://twitter.com/IFPENinnovation", 
+        "lienSiteWeb": "http://www.ifpenergiesnouvelles.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "sigleHatvp": "IFP", 
+        "telephoneDeContact": "0147526000", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "RUEIL MALMAISON CEDEX"
       }
     ], 
     "historique_exercices": [
@@ -5515,6 +5711,7 @@
     ], 
     "identifiantNational": "775729155", 
     "isActivitesPubliees": true, 
+    "lienPageLinkedin": "https://www.linkedin.com/company/9243/admin/", 
     "lienPageTwitter": "https://twitter.com/IFPENinnovation", 
     "lienSiteWeb": "http://www.ifpenergiesnouvelles.fr/", 
     "pays": "FRANCE", 
@@ -5523,6 +5720,7 @@
     "publierMonTelephoneDeContact": true, 
     "resumes_actions": [], 
     "sigleHatvp": "IFP", 
+    "telephoneDeContact": "0147526000", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775729155.json", 
     "ville": "RUEIL MALMAISON CEDEX"
@@ -10015,70 +10213,15 @@
       }
     ], 
     "codePostal": "93210", 
-    "collaborateurs": [
-      {
-        "civilite": "M", 
-        "fonction": "Président délégué du directoire", 
-        "nom": "JEANTET", 
-        "prenom": "Patrick"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Secrétaire général", 
-        "nom": "VOLANT", 
-        "prenom": "Stéphane"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Directeur de la stratégie", 
-        "nom": "POLI", 
-        "prenom": "Raphaël"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "directeur de cabinet du président du directoire", 
-        "nom": "DELALANDE", 
-        "prenom": "Pierre"
-      }, 
-      {
-        "civilite": "MME", 
-        "fonction": "Directrice des affaires publiques", 
-        "nom": "GROSSETETE", 
-        "prenom": "Karine"
-      }, 
-      {
-        "civilite": "MME", 
-        "fonction": "Conseillère parlementaire", 
-        "nom": "NION", 
-        "prenom": "Laurence"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Président du directoire", 
-        "nom": "FARANDOU", 
-        "prenom": "Jean-Pierre"
-      }
-    ], 
+    "collaborateurs": [], 
+    "dateCessation": "25/03/2021 00:00:00", 
     "dateCreation": "2020-07-28T12:29:19", 
     "dateDernierePublicationActivite": "2020-07-29T11:38:32", 
     "datePremierePublication": "2017-12-05T15:06:05", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
     "denomination": "SNCF", 
-    "dirigeants": [
-      {
-        "civilite": "M", 
-        "fonction": "Président du directoire", 
-        "nom": "FARANDOU", 
-        "prenom": "Jean-Pierre"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Président délégué du directoire", 
-        "nom": "JEANTET", 
-        "prenom": "Patrick"
-      }
-    ], 
+    "dirigeants": [], 
     "exercices": [
       {
         "activites": [
@@ -16459,7 +16602,7 @@
       }, 
       {
         "dateDebut": "2021-01-01", 
-        "dateFin": "2021-12-31", 
+        "dateFin": "2021-03-25", 
         "defautDeclaration": false, 
         "exerciceId": 12239, 
         "noActivite": false, 
@@ -16558,70 +16701,17 @@
           }
         ], 
         "codePostal": "93210", 
-        "collaborateurs": [
-          {
-            "civilite": "M", 
-            "fonction": "Président du directoire", 
-            "nom": "PEPY", 
-            "prenom": "Guillaume"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Président délégué du directoire", 
-            "nom": "JEANTET", 
-            "prenom": "Patrick"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Secrétaire général", 
-            "nom": "VOLANT", 
-            "prenom": "Stéphane"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Directeur de la stratégie", 
-            "nom": "POLI", 
-            "prenom": "Raphaël"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Directeur de cabinet du président du directoire", 
-            "nom": "QUYOLLET", 
-            "prenom": "Matthieu"
-          }, 
-          {
-            "civilite": "MME", 
-            "fonction": "Directrice des affaires publiques", 
-            "nom": "GROSSETETE", 
-            "prenom": "Karine"
-          }, 
-          {
-            "civilite": "MME", 
-            "fonction": "Conseillère parlementaire", 
-            "nom": "NION", 
-            "prenom": "Laurence"
-          }
-        ], 
+        "collaborateurs": [], 
+        "dateCessation": "25/03/2021 00:00:00", 
         "dateCreation": "2017-12-05T15:06:05", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": true, 
         "denomination": "SNCF", 
-        "dirigeants": [
-          {
-            "civilite": "M", 
-            "fonction": "Président du directoire", 
-            "nom": "PEPY", 
-            "prenom": "Guillaume"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Président délégué du directoire", 
-            "nom": "JEANTET", 
-            "prenom": "Patrick"
-          }
-        ], 
+        "dirigeants": [], 
         "identifiantNational": "808332670", 
         "lienSiteWeb": "http://www.sncf.com/", 
+        "motifDesinscription": "CESSATION", 
+        "motivationDesinscription": "La loi 2018-515 du 27 juin 2018 pour un nouveau pacte ferroviaire a fait évoluer l’organisation du groupe SNCF. Au 1er janvier 2020, le groupe composé de 3 EPIC a été remplacé par un groupe public de sociétés anonymes. L’EPIC SNCF n’existe plus.", 
         "nomUsageHatvp": "SOCIETE NATIONALE DES CHEMINS DE FER FRANÇAIS", 
         "pays": "FRANCE", 
         "publierMonAdresseEmail": true, 
@@ -16734,70 +16824,17 @@
           }
         ], 
         "codePostal": "93210", 
-        "collaborateurs": [
-          {
-            "civilite": "M", 
-            "fonction": "Président du directoire", 
-            "nom": "PEPY", 
-            "prenom": "Guillaume"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Président délégué du directoire", 
-            "nom": "JEANTET", 
-            "prenom": "Patrick"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Secrétaire général", 
-            "nom": "VOLANT", 
-            "prenom": "Stéphane"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Directeur de la stratégie", 
-            "nom": "POLI", 
-            "prenom": "Raphaël"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "directeur de cabinet du président du directoire", 
-            "nom": "DELALANDE", 
-            "prenom": "Pierre"
-          }, 
-          {
-            "civilite": "MME", 
-            "fonction": "Directrice des affaires publiques", 
-            "nom": "GROSSETETE", 
-            "prenom": "Karine"
-          }, 
-          {
-            "civilite": "MME", 
-            "fonction": "Conseillère parlementaire", 
-            "nom": "NION", 
-            "prenom": "Laurence"
-          }
-        ], 
+        "collaborateurs": [], 
+        "dateCessation": "25/03/2021 00:00:00", 
         "dateCreation": "2019-03-29T16:33:40", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": true, 
         "denomination": "SNCF", 
-        "dirigeants": [
-          {
-            "civilite": "M", 
-            "fonction": "Président du directoire", 
-            "nom": "PEPY", 
-            "prenom": "Guillaume"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Président délégué du directoire", 
-            "nom": "JEANTET", 
-            "prenom": "Patrick"
-          }
-        ], 
+        "dirigeants": [], 
         "identifiantNational": "808332670", 
         "lienSiteWeb": "http://www.sncf.com/", 
+        "motifDesinscription": "CESSATION", 
+        "motivationDesinscription": "La loi 2018-515 du 27 juin 2018 pour un nouveau pacte ferroviaire a fait évoluer l’organisation du groupe SNCF. Au 1er janvier 2020, le groupe composé de 3 EPIC a été remplacé par un groupe public de sociétés anonymes. L’EPIC SNCF n’existe plus.", 
         "nomUsageHatvp": "SOCIETE NATIONALE DES CHEMINS DE FER FRANÇAIS", 
         "pays": "FRANCE", 
         "publierMonAdresseEmail": true, 
@@ -16916,70 +16953,17 @@
           }
         ], 
         "codePostal": "93210", 
-        "collaborateurs": [
-          {
-            "civilite": "M", 
-            "fonction": "Président du directoire", 
-            "nom": "PEPY", 
-            "prenom": "Guillaume"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Président délégué du directoire", 
-            "nom": "JEANTET", 
-            "prenom": "Patrick"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Secrétaire général", 
-            "nom": "VOLANT", 
-            "prenom": "Stéphane"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Directeur de la stratégie", 
-            "nom": "POLI", 
-            "prenom": "Raphaël"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "directeur de cabinet du président du directoire", 
-            "nom": "DELALANDE", 
-            "prenom": "Pierre"
-          }, 
-          {
-            "civilite": "MME", 
-            "fonction": "Directrice des affaires publiques", 
-            "nom": "GROSSETETE", 
-            "prenom": "Karine"
-          }, 
-          {
-            "civilite": "MME", 
-            "fonction": "Conseillère parlementaire", 
-            "nom": "NION", 
-            "prenom": "Laurence"
-          }
-        ], 
+        "collaborateurs": [], 
+        "dateCessation": "25/03/2021 00:00:00", 
         "dateCreation": "2019-06-07T15:24:05", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": true, 
         "denomination": "SNCF", 
-        "dirigeants": [
-          {
-            "civilite": "M", 
-            "fonction": "Président du directoire", 
-            "nom": "PEPY", 
-            "prenom": "Guillaume"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Président délégué du directoire", 
-            "nom": "JEANTET", 
-            "prenom": "Patrick"
-          }
-        ], 
+        "dirigeants": [], 
         "identifiantNational": "808332670", 
         "lienSiteWeb": "http://www.sncf.com/", 
+        "motifDesinscription": "CESSATION", 
+        "motivationDesinscription": "La loi 2018-515 du 27 juin 2018 pour un nouveau pacte ferroviaire a fait évoluer l’organisation du groupe SNCF. Au 1er janvier 2020, le groupe composé de 3 EPIC a été remplacé par un groupe public de sociétés anonymes. L’EPIC SNCF n’existe plus.", 
         "nomUsageHatvp": "SOCIETE NATIONALE DES CHEMINS DE FER FRANÇAIS", 
         "pays": "FRANCE", 
         "publierMonAdresseEmail": true, 
@@ -17098,70 +17082,17 @@
           }
         ], 
         "codePostal": "93210", 
-        "collaborateurs": [
-          {
-            "civilite": "M", 
-            "fonction": "Président du directoire", 
-            "nom": "PEPY", 
-            "prenom": "Guillaume"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Président délégué du directoire", 
-            "nom": "JEANTET", 
-            "prenom": "Patrick"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Secrétaire général", 
-            "nom": "VOLANT", 
-            "prenom": "Stéphane"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Directeur de la stratégie", 
-            "nom": "POLI", 
-            "prenom": "Raphaël"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "directeur de cabinet du président du directoire", 
-            "nom": "DELALANDE", 
-            "prenom": "Pierre"
-          }, 
-          {
-            "civilite": "MME", 
-            "fonction": "Directrice des affaires publiques", 
-            "nom": "GROSSETETE", 
-            "prenom": "Karine"
-          }, 
-          {
-            "civilite": "MME", 
-            "fonction": "Conseillère parlementaire", 
-            "nom": "NION", 
-            "prenom": "Laurence"
-          }
-        ], 
+        "collaborateurs": [], 
+        "dateCessation": "25/03/2021 00:00:00", 
         "dateCreation": "2019-11-04T14:34:53", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": true, 
         "denomination": "SNCF", 
-        "dirigeants": [
-          {
-            "civilite": "M", 
-            "fonction": "Président du directoire", 
-            "nom": "FARANDOU", 
-            "prenom": "Jean-Pierre"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Président délégué du directoire", 
-            "nom": "JEANTET", 
-            "prenom": "Patrick"
-          }
-        ], 
+        "dirigeants": [], 
         "identifiantNational": "808332670", 
         "lienSiteWeb": "http://www.sncf.com/", 
+        "motifDesinscription": "CESSATION", 
+        "motivationDesinscription": "La loi 2018-515 du 27 juin 2018 pour un nouveau pacte ferroviaire a fait évoluer l’organisation du groupe SNCF. Au 1er janvier 2020, le groupe composé de 3 EPIC a été remplacé par un groupe public de sociétés anonymes. L’EPIC SNCF n’existe plus.", 
         "nomUsageHatvp": "SOCIETE NATIONALE DES CHEMINS DE FER FRANÇAIS", 
         "pays": "FRANCE", 
         "publierMonAdresseEmail": true, 
@@ -17280,70 +17211,17 @@
           }
         ], 
         "codePostal": "93210", 
-        "collaborateurs": [
-          {
-            "civilite": "M", 
-            "fonction": "Président délégué du directoire", 
-            "nom": "JEANTET", 
-            "prenom": "Patrick"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Secrétaire général", 
-            "nom": "VOLANT", 
-            "prenom": "Stéphane"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Directeur de la stratégie", 
-            "nom": "POLI", 
-            "prenom": "Raphaël"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "directeur de cabinet du président du directoire", 
-            "nom": "DELALANDE", 
-            "prenom": "Pierre"
-          }, 
-          {
-            "civilite": "MME", 
-            "fonction": "Directrice des affaires publiques", 
-            "nom": "GROSSETETE", 
-            "prenom": "Karine"
-          }, 
-          {
-            "civilite": "MME", 
-            "fonction": "Conseillère parlementaire", 
-            "nom": "NION", 
-            "prenom": "Laurence"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Président du directoire", 
-            "nom": "FARANDOU", 
-            "prenom": "Jean-Pierre"
-          }
-        ], 
+        "collaborateurs": [], 
+        "dateCessation": "25/03/2021 00:00:00", 
         "dateCreation": "2019-11-05T12:30:55", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": true, 
         "denomination": "SNCF", 
-        "dirigeants": [
-          {
-            "civilite": "M", 
-            "fonction": "Président du directoire", 
-            "nom": "FARANDOU", 
-            "prenom": "Jean-Pierre"
-          }, 
-          {
-            "civilite": "M", 
-            "fonction": "Président délégué du directoire", 
-            "nom": "JEANTET", 
-            "prenom": "Patrick"
-          }
-        ], 
+        "dirigeants": [], 
         "identifiantNational": "808332670", 
         "lienSiteWeb": "http://www.sncf.com/", 
+        "motifDesinscription": "CESSATION", 
+        "motivationDesinscription": "La loi 2018-515 du 27 juin 2018 pour un nouveau pacte ferroviaire a fait évoluer l’organisation du groupe SNCF. Au 1er janvier 2020, le groupe composé de 3 EPIC a été remplacé par un groupe public de sociétés anonymes. L’EPIC SNCF n’existe plus.", 
         "nomUsageHatvp": "SOCIETE NATIONALE DES CHEMINS DE FER FRANÇAIS", 
         "pays": "FRANCE", 
         "publierMonAdresseEmail": true, 
@@ -17410,6 +17288,8 @@
     "identifiantNational": "808332670", 
     "isActivitesPubliees": true, 
     "lienSiteWeb": "http://www.sncf.com/", 
+    "motifDesinscription": "CESSATION", 
+    "motivationDesinscription": "La loi 2018-515 du 27 juin 2018 pour un nouveau pacte ferroviaire a fait évoluer l’organisation du groupe SNCF. Au 1er janvier 2020, le groupe composé de 3 EPIC a été remplacé par un groupe public de sociétés anonymes. L’EPIC SNCF n’existe plus.", 
     "nomUsageHatvp": "SOCIETE NATIONALE DES CHEMINS DE FER FRANÇAIS", 
     "pays": "FRANCE", 
     "publierMonAdresseEmail": true, 

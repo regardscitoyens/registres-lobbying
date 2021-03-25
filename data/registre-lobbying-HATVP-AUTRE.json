@@ -4476,14 +4476,6 @@
       }, 
       {
         "dateDebut": "2020-01-01", 
-        "dateFin": "2020-03-27", 
-        "defautDeclaration": false, 
-        "exerciceId": 10591, 
-        "noActivite": false, 
-        "nombreActivite": 0
-      }, 
-      {
-        "dateDebut": "2020-03-28", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 10592, 
@@ -27465,12 +27457,17 @@
         "publicationDate": "2020-03-02T15:09:47"
       }, 
       {
+        "chiffreAffaire": "< 100 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 8525, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-03-25T14:46:19"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -28074,6 +28071,32 @@
         "nombreActivite": 1, 
         "nombreSalaries": 2, 
         "publicationDate": "2020-03-02T15:09:47"
+      }, 
+      {
+        "chiffreAffaire": "< 100 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 8525, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-03-25T14:46:19"
+      }, 
+      {
+        "chiffreAffaire": "< 100 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 8525, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-03-25T14:44:32"
       }
     ], 
     "identifiantNational": "H891233315", 
