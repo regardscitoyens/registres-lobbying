@@ -4620,18 +4620,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Recherche et innovation"
-        ], 
-        "identifiantFiche": "BHO7E1MH", 
-        "nom_organisation": "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES", 
-        "num_organisation": "775685019", 
-        "objet": "Déployer des rencontres régulières avec les parlementaires afin de les éclairer sur un sujet de recherche CEA, avec pédagogie, en illustrant les aspects scientifique, technologique, stratégique...", 
-        "publicationDate": "2021-03-26T10:54:03"
-      }
-    ], 
+    "resumes_actions": [], 
     "sigleHatvp": "CEA", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775685019.json", 
