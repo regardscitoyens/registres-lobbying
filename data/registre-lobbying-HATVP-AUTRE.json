@@ -14852,9 +14852,14 @@
         "typeIdentifiantNational": "SIREN"
       }, 
       {
-        "denomination": "ASSOCIATION INTERNATIONALE DE GOUVERNANCE DU CACHET", 
-        "identifiantNational": "824491567", 
+        "denomination": "ASS FRANC POUR L HISTOIRE DE LA JUSTICE", 
+        "identifiantNational": "351038526", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "GUICHET ENTREPRISES", 
+        "identifiantNational": "W751200853", 
+        "typeIdentifiantNational": "RNA"
       }
     ], 
     "categorieOrganisation": {
@@ -14868,7 +14873,7 @@
     "collaborateurs": [
       {
         "civilite": "MME", 
-        "fonction": "Responsable des affaires juridiques", 
+        "fonction": "Responsable pôle juridique - DPO", 
         "nom": "AMAN", 
         "prenom": "Karla"
       }, 
@@ -14909,8 +14914,8 @@
         "prenom": "Françoise"
       }
     ], 
-    "dateCreation": "2020-08-17T09:51:39", 
-    "dateDernierePublicationActivite": "2020-08-17T09:45:56", 
+    "dateCreation": "2021-03-29T16:13:27", 
+    "dateDernierePublicationActivite": "2021-03-29T16:26:21", 
     "datePremierePublication": "2018-04-16T14:50:34", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -15993,12 +15998,426 @@
         "publicationDate": "2020-09-28T17:47:25"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Intérieur, Justice, Economie et finances, Education nationale, enseignement supérieur et recherche"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Droit de la concurrence", 
+                  "PME/TPE", 
+                  "Aides aux entreprises", 
+                  "Moralisation/Transparence", 
+                  "Collectivités territoriales"
+                ], 
+                "identifiantFiche": "KUVP20TV", 
+                "objet": "Immatriculer les organismes à but non lucratif (OBNL) au registre du commerce et des sociétés", 
+                "publicationDate": "2021-03-29T16:23:38"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Intérieur, Justice, Economie et finances, Education nationale, enseignement supérieur et recherche"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Droit de la concurrence", 
+                "PME/TPE", 
+                "Aides aux entreprises", 
+                "Moralisation/Transparence", 
+                "Collectivités territoriales"
+              ], 
+              "identifiantFiche": "KUVP20TV", 
+              "objet": "Immatriculer les organismes à but non lucratif (OBNL) au registre du commerce et des sociétés", 
+              "publicationDate": "2021-03-29T16:23:38"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Justice, Economie et finances"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Professions réglementées", 
+                  "PME/TPE"
+                ], 
+                "identifiantFiche": "5DHMUD53", 
+                "objet": "Dématérialisation des comptes des entreprises auprès des greffes", 
+                "publicationDate": "2021-03-29T16:22:04"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Justice, Economie et finances"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Professions réglementées", 
+                "PME/TPE"
+              ], 
+              "identifiantFiche": "5DHMUD53", 
+              "objet": "Dématérialisation des comptes des entreprises auprès des greffes", 
+              "publicationDate": "2021-03-29T16:22:04"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Collaborateur du Président de la République", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Justice"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Professions réglementées", 
+                  "Justice civile"
+                ], 
+                "identifiantFiche": "SQV7CG9V", 
+                "objet": "Mise en œuvre de l'arrêté tarifaire des greffiers des tribunaux de commerce", 
+                "publicationDate": "2021-03-29T16:24:03"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Collaborateur du Président de la République", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Justice"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Professions réglementées", 
+                "Justice civile"
+              ], 
+              "identifiantFiche": "SQV7CG9V", 
+              "objet": "Mise en œuvre de l'arrêté tarifaire des greffiers des tribunaux de commerce", 
+              "publicationDate": "2021-03-29T16:24:03"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Justice"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Institutions judiciaires"
+                ], 
+                "identifiantFiche": "2Y3KQ8B3", 
+                "objet": "COVID 19: Continuité et adaptation de l'activité des tribunaux de commerce", 
+                "publicationDate": "2021-03-29T16:24:42"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Justice"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Institutions judiciaires"
+              ], 
+              "identifiantFiche": "2Y3KQ8B3", 
+              "objet": "COVID 19: Continuité et adaptation de l'activité des tribunaux de commerce", 
+              "publicationDate": "2021-03-29T16:24:42"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Intérieur, Justice"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Professions réglementées", 
+                  "Moralisation/Transparence", 
+                  "Justice civile"
+                ], 
+                "identifiantFiche": "FY3GCYZV", 
+                "objet": "Accès des greffiers des tribunaux de commerce au système Docvérif", 
+                "publicationDate": "2021-03-29T16:25:34"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Intérieur, Justice"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Professions réglementées", 
+                "Moralisation/Transparence", 
+                "Justice civile"
+              ], 
+              "identifiantFiche": "FY3GCYZV", 
+              "objet": "Accès des greffiers des tribunaux de commerce au système Docvérif", 
+              "publicationDate": "2021-03-29T16:25:34"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Justice"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Professions réglementées"
+                ], 
+                "identifiantFiche": "KQ366GK3", 
+                "objet": "Modification des conditions d'accès à la profession de greffier de tribunal de commerce (condition de diplôme, nombre de places au concours, stage...)", 
+                "publicationDate": "2021-03-29T16:26:21"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Justice"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Professions réglementées"
+              ], 
+              "identifiantFiche": "KQ366GK3", 
+              "objet": "Modification des conditions d'accès à la profession de greffier de tribunal de commerce (condition de diplôme, nombre de places au concours, stage...)", 
+              "publicationDate": "2021-03-29T16:26:21"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Professions réglementées", 
+                  "PME/TPE"
+                ], 
+                "identifiantFiche": "FX3CPN9H", 
+                "objet": "Délivrance des apostilles aux entreprises par voie électronique ", 
+                "publicationDate": "2021-03-29T16:21:27"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Professions réglementées", 
+                "PME/TPE"
+              ], 
+              "identifiantFiche": "FX3CPN9H", 
+              "objet": "Délivrance des apostilles aux entreprises par voie électronique ", 
+              "publicationDate": "2021-03-29T16:21:27"
+            }
+          }
+        ], 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 10258, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 200 000 euros et < 300 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 7, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2021-03-29T16:19:37"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -17046,6 +17465,211 @@
         "publierMonTelephoneDeContact": false, 
         "typeIdentifiantNational": "SIREN", 
         "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "categorie": null, 
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "ETRANGER", 
+              "label": "Affaires étrangères, coopération internationale", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "CONSO", 
+              "label": "Concurrence, consommation", 
+              "ordre": 6
+            }, 
+            {
+              "categorie": null, 
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "categorie": null, 
+              "code": "JUSTICE", 
+              "label": "Justice", 
+              "ordre": 16
+            }, 
+            {
+              "categorie": null, 
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }, 
+            {
+              "categorie": null, 
+              "code": "OUTREMER", 
+              "label": "Outre-mer", 
+              "ordre": 20
+            }, 
+            {
+              "categorie": null, 
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }, 
+            {
+              "categorie": null, 
+              "code": "PROREG", 
+              "label": "Professions réglementées", 
+              "ordre": 22
+            }
+          ]
+        }, 
+        "adresse": "CONSEIL NATIONAL GREFFIERS TRIBUNAUX C\r\n29 RUE DANIELLE CASANOVA", 
+        "affiliations": [
+          {
+            "denomination": "FONDATION POUR LE DROIT CONTINENTAL", 
+            "identifiantNational": "507793149", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CAVOM CAISSE ALLOC VIEIL OFF M", 
+            "identifiantNational": "317781441", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CHAMBRE NATIONALE DES PROFESSIONS LIBERALES CNPL", 
+            "identifiantNational": "W751045200", 
+            "typeIdentifiantNational": "RNA"
+          }, 
+          {
+            "denomination": "ASSO HAUT CONSEIL DES PROFESSIONS DU DROIT", 
+            "identifiantNational": "537772675", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CENTRE D'INFORMATION SUR LA PREVENTION DES DIFFICULTES DES ENTREPRISES CIP NATIONAL", 
+            "identifiantNational": "W751183734", 
+            "typeIdentifiantNational": "RNA"
+          }, 
+          {
+            "denomination": "FEDERATION NATIONALE TIERS CONFIANCE", 
+            "identifiantNational": "439456534", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPT FR DE L'INDUSTRIE DE L'INFORMATIO", 
+            "identifiantNational": "318949609", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION FRANCAISE DES CORRESPONDANTS A LA PROTECTION DES DONNEES A CARACTERE PERSONNEL", 
+            "identifiantNational": "503314353", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION INTERNATIONALE DE GOUVERNANCE DU CACHET", 
+            "identifiantNational": "824491567", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [], 
+        "codePostal": "75001", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable des affaires juridiques", 
+            "nom": "AMAN", 
+            "prenom": "Karla"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Vice-Président", 
+            "nom": "DENFER", 
+            "prenom": "Thomas"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Trésorier", 
+            "nom": "GOURLAOUEN", 
+            "prenom": "Philippe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire", 
+            "nom": "MARQUET PAQUIER", 
+            "prenom": "Thierry"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Chargé de mission", 
+            "nom": "GENESTE", 
+            "prenom": "Victor"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Chargé de mission", 
+            "nom": "DUBUJADOUX", 
+            "prenom": "Bertrand"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chargée de mission", 
+            "nom": "PRINTEMS", 
+            "prenom": "Françoise"
+          }
+        ], 
+        "dateCreation": "2020-08-17T09:51:39", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente", 
+            "nom": "JONVAL", 
+            "prenom": "Sophie"
+          }
+        ], 
+        "identifiantNational": "784412389", 
+        "lienPageFacebook": "https://www.facebook.com/CNGTC/", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/cngtc/", 
+        "lienPageTwitter": "https://twitter.com/cng_tc?lang=fr", 
+        "lienSiteWeb": "http://www.cngtc.fr", 
+        "nomUsage": "CNGTC", 
+        "nomUsageHatvp": "CONSEIL NATIONAL DES GREFFIERS DES TRIBUNAUX DE COMMERCE", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
       }
     ], 
     "historique_exercices": [
@@ -17177,6 +17801,18 @@
         "nombreActivite": 7, 
         "nombreSalaries": 3, 
         "publicationDate": "2020-09-28T17:47:25"
+      }, 
+      {
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 10258, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 200 000 euros et < 300 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 7, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2021-03-29T16:19:37"
       }
     ], 
     "identifiantNational": "784412389", 
@@ -17327,7 +17963,7 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9519, 
-        "noActivite": false, 
+        "noActivite": true, 
         "nombreActivite": 0
       }, 
       {
