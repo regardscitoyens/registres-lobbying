@@ -10108,7 +10108,7 @@
       }
     ], 
     "dateCreation": "2020-07-28T17:17:27", 
-    "dateDernierePublicationActivite": "2020-07-30T18:02:34", 
+    "dateDernierePublicationActivite": "2021-03-30T11:16:39", 
     "datePremierePublication": "2018-01-05T17:49:19", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -12361,12 +12361,395 @@
         "publicationDate": "2020-07-30T18:05:40"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CDC HABITAT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement"
+                ], 
+                "identifiantFiche": "0VE74N63", 
+                "objet": "Obtenir des évolutions législatives dans le PLF2021 pour permettre le développement du logement intermédiaire notamment pour les travailleurs essentiels ", 
+                "publicationDate": "2021-03-30T11:14:04"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CDC HABITAT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement"
+              ], 
+              "identifiantFiche": "0VE74N63", 
+              "objet": "Obtenir des évolutions législatives dans le PLF2021 pour permettre le développement du logement intermédiaire notamment pour les travailleurs essentiels ", 
+              "publicationDate": "2021-03-30T11:14:04"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CDC HABITAT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement"
+                ], 
+                "identifiantFiche": "QV7R10WV", 
+                "objet": "Echanger de manière générale sur la situation du logement social et contribuer à l'organisation territoriale des organismes de logements sociaux", 
+                "publicationDate": "2021-03-30T11:15:46"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CDC HABITAT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement"
+              ], 
+              "identifiantFiche": "QV7R10WV", 
+              "objet": "Echanger de manière générale sur la situation du logement social et contribuer à l'organisation territoriale des organismes de logements sociaux", 
+              "publicationDate": "2021-03-30T11:15:46"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CDC HABITAT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement", 
+                  "Construction"
+                ], 
+                "identifiantFiche": "LV1C9Y1V", 
+                "objet": "Contribuer au plan de relance en soutenant une stratégie de développement ambitieuse pour répondre efficacement à la crise sanitaire", 
+                "publicationDate": "2021-03-30T11:16:39"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CDC HABITAT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement", 
+                "Construction"
+              ], 
+              "identifiantFiche": "LV1C9Y1V", 
+              "objet": "Contribuer au plan de relance en soutenant une stratégie de développement ambitieuse pour répondre efficacement à la crise sanitaire", 
+              "publicationDate": "2021-03-30T11:16:39"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Logement"
+                    ], 
+                    "tiers": [
+                      "CDC HABITAT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement"
+                ], 
+                "identifiantFiche": "O38QNMQH", 
+                "objet": "Echanger de manière générale sur la situation du logement et de l'habitat pour contribuer aux évolutions du secteur", 
+                "publicationDate": "2021-03-30T11:15:04"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Logement"
+                  ], 
+                  "tiers": [
+                    "CDC HABITAT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement"
+              ], 
+              "identifiantFiche": "O38QNMQH", 
+              "objet": "Echanger de manière générale sur la situation du logement et de l'habitat pour contribuer aux évolutions du secteur", 
+              "publicationDate": "2021-03-30T11:15:04"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Autres décisions publiques", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "Travailler à l'élaboration d'une délibération du ministère des outre-mer approuvant la création d'une SIDOM", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Outre-mer"
+                    ], 
+                    "tiers": [
+                      "CDC HABITAT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement", 
+                  "Développement économique des outre-mer"
+                ], 
+                "identifiantFiche": "YVIGTPY3", 
+                "objet": "Echanger de façon concrète sur la politique du logement en outre-mer pour contribuer à l'évolution du secteur du logement social, notamment en vue de la création d'une SIDOM", 
+                "publicationDate": "2021-03-30T11:13:26"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Autres décisions publiques", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "Travailler à l'élaboration d'une délibération du ministère des outre-mer approuvant la création d'une SIDOM", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Outre-mer"
+                  ], 
+                  "tiers": [
+                    "CDC HABITAT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement", 
+                "Développement économique des outre-mer"
+              ], 
+              "identifiantFiche": "YVIGTPY3", 
+              "objet": "Echanger de façon concrète sur la politique du logement en outre-mer pour contribuer à l'évolution du secteur du logement social, notamment en vue de la création d'une SIDOM", 
+              "publicationDate": "2021-03-30T11:13:26"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Outre-mer"
+                    ], 
+                    "tiers": [
+                      "CDC HABITAT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement", 
+                  "Développement économique des outre-mer"
+                ], 
+                "identifiantFiche": "5HAAJKIH", 
+                "objet": "Contribuer au plan de relance en outre-mer en soutenant une stratégie de développement ambitieuse pour répondre efficacement à la crise sanitaire ", 
+                "publicationDate": "2021-03-30T11:08:03"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Outre-mer"
+                  ], 
+                  "tiers": [
+                    "CDC HABITAT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement", 
+                "Développement économique des outre-mer"
+              ], 
+              "identifiantFiche": "5HAAJKIH", 
+              "objet": "Contribuer au plan de relance en outre-mer en soutenant une stratégie de développement ambitieuse pour répondre efficacement à la crise sanitaire ", 
+              "publicationDate": "2021-03-30T11:08:03"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 500 000 euros et < 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 10060, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 200 000 euros et < 300 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 6, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-03-30T11:41:17"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -12567,6 +12950,19 @@
         "nombreActivite": 6, 
         "nombreSalaries": 7, 
         "publicationDate": "2020-07-30T18:05:40"
+      }, 
+      {
+        "chiffreAffaire": "> = 500 000 euros et < 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 10060, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 200 000 euros et < 300 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 6, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-03-30T11:41:17"
       }
     ], 
     "identifiantNational": "470801168", 
@@ -12579,7 +12975,71 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Logement", 
+          "Développement économique des outre-mer"
+        ], 
+        "identifiantFiche": "5HAAJKIH", 
+        "nom_organisation": "CDC HABITAT", 
+        "num_organisation": "470801168", 
+        "objet": "Contribuer au plan de relance en outre-mer en soutenant une stratégie de développement ambitieuse pour répondre efficacement à la crise sanitaire ", 
+        "publicationDate": "2021-03-30T11:08:03"
+      }, 
+      {
+        "domainesIntervention": [
+          "Logement", 
+          "Développement économique des outre-mer"
+        ], 
+        "identifiantFiche": "YVIGTPY3", 
+        "nom_organisation": "CDC HABITAT", 
+        "num_organisation": "470801168", 
+        "objet": "Echanger de façon concrète sur la politique du logement en outre-mer pour contribuer à l'évolution du secteur du logement social, notamment en vue de la création d'une SIDOM", 
+        "publicationDate": "2021-03-30T11:13:26"
+      }, 
+      {
+        "domainesIntervention": [
+          "Logement"
+        ], 
+        "identifiantFiche": "0VE74N63", 
+        "nom_organisation": "CDC HABITAT", 
+        "num_organisation": "470801168", 
+        "objet": "Obtenir des évolutions législatives dans le PLF2021 pour permettre le développement du logement intermédiaire notamment pour les travailleurs essentiels ", 
+        "publicationDate": "2021-03-30T11:14:04"
+      }, 
+      {
+        "domainesIntervention": [
+          "Logement"
+        ], 
+        "identifiantFiche": "O38QNMQH", 
+        "nom_organisation": "CDC HABITAT", 
+        "num_organisation": "470801168", 
+        "objet": "Echanger de manière générale sur la situation du logement et de l'habitat pour contribuer aux évolutions du secteur", 
+        "publicationDate": "2021-03-30T11:15:04"
+      }, 
+      {
+        "domainesIntervention": [
+          "Logement"
+        ], 
+        "identifiantFiche": "QV7R10WV", 
+        "nom_organisation": "CDC HABITAT", 
+        "num_organisation": "470801168", 
+        "objet": "Echanger de manière générale sur la situation du logement social et contribuer à l'organisation territoriale des organismes de logements sociaux", 
+        "publicationDate": "2021-03-30T11:15:46"
+      }, 
+      {
+        "domainesIntervention": [
+          "Logement", 
+          "Construction"
+        ], 
+        "identifiantFiche": "LV1C9Y1V", 
+        "nom_organisation": "CDC HABITAT", 
+        "num_organisation": "470801168", 
+        "objet": "Contribuer au plan de relance en soutenant une stratégie de développement ambitieuse pour répondre efficacement à la crise sanitaire", 
+        "publicationDate": "2021-03-30T11:16:39"
+      }
+    ], 
     "sigleHatvp": "SNI", 
     "telephoneDeContact": "0155033101", 
     "typeIdentifiantNational": "SIREN", 
@@ -28927,8 +29387,8 @@
         "prenom": "Viviane"
       }
     ], 
-    "dateCreation": "2020-06-02T13:59:17", 
-    "dateDernierePublicationActivite": "2020-09-22T15:15:20", 
+    "dateCreation": "2021-03-30T11:01:54", 
+    "dateDernierePublicationActivite": "2021-03-30T11:15:43", 
     "datePremierePublication": "2020-06-02T13:59:17", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -29024,12 +29484,85 @@
         "publicationDate": "2020-09-22T15:11:43"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "INSTITUT DE CANCEROLOGIE DE L OUEST (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Prévention", 
+                  "Soins et maladies", 
+                  "Système de santé et médico-social", 
+                  "Recherche et innovation"
+                ], 
+                "identifiantFiche": "YVNTDTPV", 
+                "objet": "Réaffirmer le rôle des CLCC dans l'offre de soins territoriale.", 
+                "publicationDate": "2021-03-30T11:15:43"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                  ], 
+                  "tiers": [
+                    "INSTITUT DE CANCEROLOGIE DE L OUEST (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Prévention", 
+                "Soins et maladies", 
+                "Système de santé et médico-social", 
+                "Recherche et innovation"
+              ], 
+              "identifiantFiche": "YVNTDTPV", 
+              "objet": "Réaffirmer le rôle des CLCC dans l'offre de soins territoriale.", 
+              "publicationDate": "2021-03-30T11:15:43"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 10747, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 1, 
+        "nombreSalaries": 4, 
+        "publicationDate": "2021-03-30T11:17:20"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -29040,7 +29573,139 @@
         "nombreActivite": 0
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "EDUCATION", 
+              "label": "Education, enseignement supérieur, formation", 
+              "ordre": 9
+            }, 
+            {
+              "categorie": null, 
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "categorie": null, 
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "15 RUEANDRE BOQUEL", 
+        "affiliations": [
+          {
+            "denomination": "UNICANCER", 
+            "identifiantNational": "532834090", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPEMENT DE COOPERATION SANITAIRE INSTITUT REGIONAL DE CANCEROLOGIE ANJOU-MAINE", 
+            "identifiantNational": "843922949", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GPT COOP SANITAIRE INST REG CANCER", 
+            "identifiantNational": "130000078", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPEMENT DE COOPERATION SANITAIRE IRECAN INSTITUT REGIONAL DE CANCEROLOGIE ANGERS NANTES", 
+            "identifiantNational": "838887412", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GCS HOPITAUX UNIVERSITAIRES DU GRAND OUEST", 
+            "identifiantNational": "130018328", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPEMENT INTERET PUBLIC ARRONAX", 
+            "identifiantNational": "130004112", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "HERA-MI", 
+            "identifiantNational": "828871699", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "SYNDICAT MIXTE ATLANPOLE", 
+            "identifiantNational": "254401839", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CANCEROPOLE GRAND OUEST", 
+            "identifiantNational": "130005200", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [], 
+        "codePostal": "49100", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "CAMPONE", 
+            "prenom": "Mario"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur général adjoint", 
+            "nom": "JOALLAND", 
+            "prenom": "Viviane"
+          }
+        ], 
+        "dateCreation": "2020-06-02T13:59:17", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "INSTITUT DE CANCEROLOGIE DE L OUEST", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "CAMPONE", 
+            "prenom": "Mario"
+          }
+        ], 
+        "identifiantNational": "532254307", 
+        "lienPageFacebook": "https://fr-fr.facebook.com/institutdecancerologiedelouest/", 
+        "lienPageLinkedin": "https://fr.linkedin.com/company/ico-cancer", 
+        "lienPageTwitter": "https://twitter.com/icocancer?lang=fr", 
+        "lienSiteWeb": "https://www.institut-cancerologie-ouest.com/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "ANGERS"
+      }
+    ], 
     "historique_exercices": [
       {
         "chiffreAffaire": "> = 1 000 000 euros", 
@@ -29080,6 +29745,32 @@
         "nombreActivite": 1, 
         "nombreSalaries": 4, 
         "publicationDate": "2020-06-17T10:58:45"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 10747, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 4, 
+        "publicationDate": "2021-03-30T11:17:20"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 10747, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 4, 
+        "publicationDate": "2021-03-30T11:10:57"
       }
     ], 
     "identifiantNational": "532254307", 
@@ -29092,7 +29783,21 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Prévention", 
+          "Soins et maladies", 
+          "Système de santé et médico-social", 
+          "Recherche et innovation"
+        ], 
+        "identifiantFiche": "YVNTDTPV", 
+        "nom_organisation": "INSTITUT DE CANCEROLOGIE DE L OUEST", 
+        "num_organisation": "532254307", 
+        "objet": "Réaffirmer le rôle des CLCC dans l'offre de soins territoriale.", 
+        "publicationDate": "2021-03-30T11:15:43"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/532254307.json", 
     "ville": "ANGERS"
