@@ -2378,6 +2378,170 @@
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "categorie": null, 
+          "code": "COMMERCE", 
+          "label": "Commerce extérieur", 
+          "ordre": 5
+        }, 
+        {
+          "categorie": null, 
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "categorie": null, 
+          "code": "ENTREPRISE", 
+          "label": "Gouvernance d’entreprise", 
+          "ordre": 14
+        }, 
+        {
+          "categorie": null, 
+          "code": "PUBLIC", 
+          "label": "Pouvoirs publics, institutions, fonction publique", 
+          "ordre": 21
+        }
+      ]
+    }, 
+    "adresse": "CHAMBRE COMMERCE ET INDUSTRIE GRENOBLE\nDirection Institutionnel\n1 PLACE ANDRE MALRAUX\nBP 297", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_PUB", 
+      "code": "EPAIC", 
+      "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+      "notifSansChiffreAffaire": true
+    }, 
+    "clients": [], 
+    "codePostal": "38016", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "RIVIERE", 
+        "prenom": "Emmanuelle"
+      }, 
+      {
+        "civilite": "M", 
+        "nom": "MAHBOUBI", 
+        "prenom": "Hichem"
+      }
+    ], 
+    "dateCreation": "2021-03-30T14:53:37", 
+    "datePremierePublication": "2021-03-30T14:53:37", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "CHAMBRE COMMERCE ET INDUSTRIE GRENOBLE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président", 
+        "nom": "VAYLET", 
+        "prenom": "Jean"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Générale", 
+        "nom": "RIVIERE", 
+        "prenom": "Emmanuelle"
+      }
+    ], 
+    "exercices": [
+      {
+        "dateDebut": "2017-07-01", 
+        "dateFin": "2017-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14078, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2017-07-01", 
+        "dateFin": "2017-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 3556, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2018-01-01", 
+        "dateFin": "2018-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14077, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14076, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "commentaire": "Aucune dépense.", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14075, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 0, 
+        "publicationDate": "2021-03-30T17:23:37"
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14074, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }
+    ], 
+    "historique": [], 
+    "historique_exercices": [
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "commentaire": "Aucune dépense.", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14075, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 0, 
+        "publicationDate": "2021-03-30T17:23:37"
+      }
+    ], 
+    "identifiantNational": "183830017", 
+    "isActivitesPubliees": false, 
+    "lienSiteWeb": "https://www.grenoble.cci.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "resumes_actions": [], 
+    "sigleHatvp": "CCI 38", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "https://www.hatvp.fr/agora/183830017.json", 
+    "ville": "GRENOBLE CEDEX 1"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "categorie": null, 
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
         }, 
         {
           "categorie": null, 
@@ -4640,6 +4804,331 @@
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
+        }, 
+        {
+          "categorie": null, 
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }, 
+        {
+          "categorie": null, 
+          "code": "MONDIAL", 
+          "label": "Mondial", 
+          "ordre": 4
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "categorie": null, 
+          "code": "ETRANGER", 
+          "label": "Affaires étrangères, coopération internationale", 
+          "ordre": 1
+        }, 
+        {
+          "categorie": null, 
+          "code": "AGRI", 
+          "label": "Agriculture, alimentation, pêche", 
+          "ordre": 2
+        }, 
+        {
+          "categorie": null, 
+          "code": "RECHERCHE", 
+          "label": "Recherche, innovation", 
+          "ordre": 12
+        }, 
+        {
+          "categorie": null, 
+          "code": "ENVIRONNEMENT", 
+          "label": "Environnement", 
+          "ordre": 15
+        }, 
+        {
+          "categorie": null, 
+          "code": "OUTREMER", 
+          "label": "Outre-mer", 
+          "ordre": 20
+        }
+      ]
+    }, 
+    "adresse": "42 RUESCHEFFER", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_PUB", 
+      "code": "EPAIC", 
+      "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+      "notifSansChiffreAffaire": true
+    }, 
+    "clients": [], 
+    "codePostal": "75116", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "fonction": "Déléguée aux affaires publiques", 
+        "nom": "KLANDER", 
+        "prenom": "Emilie"
+      }
+    ], 
+    "dateCreation": "2021-03-30T16:12:12", 
+    "dateDernierePublicationActivite": "2021-03-30T17:04:33", 
+    "datePremierePublication": "2021-03-30T16:12:12", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "CTRE COOP INTERNAT RECHERCHE AGRO DEV", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Président directeur général", 
+        "nom": "EDDI", 
+        "prenom": "Michel"
+      }
+    ], 
+    "exercices": [
+      {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "observation": "L'approche one health est pratiquée par le Cirad et d'autres partenaires de la recherche et permet d'avoir une vision globale des facteurs de risques de pandémies, un effort de conviction important est nécessaire vis à vis des parlementaires notamment", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CTRE COOP INTERNAT RECHERCHE AGRO DEV (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Recherche et innovation", 
+                  "Aide au développement", 
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "QV7RQASV", 
+                "objet": "Améliorer la compréhension de l'utilité d'une approche One Health dans le domaine de la surveillance et de la gestion sanitaire ", 
+                "publicationDate": "2021-03-30T17:04:33"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "observation": "L'approche one health est pratiquée par le Cirad et d'autres partenaires de la recherche et permet d'avoir une vision globale des facteurs de risques de pandémies, un effort de conviction important est nécessaire vis à vis des parlementaires notamment", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CTRE COOP INTERNAT RECHERCHE AGRO DEV (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Recherche et innovation", 
+                "Aide au développement", 
+                "Agriculture"
+              ], 
+              "identifiantFiche": "QV7RQASV", 
+              "objet": "Améliorer la compréhension de l'utilité d'une approche One Health dans le domaine de la surveillance et de la gestion sanitaire ", 
+              "publicationDate": "2021-03-30T17:04:33"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "En tant qu'opérateur de l'Etat en matière de coopération internationale, nous avons été sollicités pour notre expertise sur le sujet de l'aide au développement et de la coopération scientifique en particulier ", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CTRE COOP INTERNAT RECHERCHE AGRO DEV (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Recherche et innovation", 
+                  "Aide au développement", 
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "0VE7XT73", 
+                "objet": "Rappeler les enjeux de la recherche agronomique dans le cadre du projet de loi de programmation pour le développement solidaire et la lutte contre les inégalités mondiales ", 
+                "publicationDate": "2021-03-30T16:50:05"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "En tant qu'opérateur de l'Etat en matière de coopération internationale, nous avons été sollicités pour notre expertise sur le sujet de l'aide au développement et de la coopération scientifique en particulier ", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CTRE COOP INTERNAT RECHERCHE AGRO DEV (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Recherche et innovation", 
+                "Aide au développement", 
+                "Agriculture"
+              ], 
+              "identifiantFiche": "0VE7XT73", 
+              "objet": "Rappeler les enjeux de la recherche agronomique dans le cadre du projet de loi de programmation pour le développement solidaire et la lutte contre les inégalités mondiales ", 
+              "publicationDate": "2021-03-30T16:50:05"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "observation": "Nous avons transmis une note d'analyse et de recommandations fondée sur l'expertise de nos chercheurs, à titre général, dans le cadre des débats concernant les causes de la pandémie notamment. Aucune décision publique en particulier n'était visée mais l'appréhension/compréhension globale des enjeux de la crise sanitaire", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CTRE COOP INTERNAT RECHERCHE AGRO DEV (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Recherche et innovation", 
+                  "Aide au développement", 
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "0V2A4XAV", 
+                "objet": "Transmettre notre expertise en zoonoses et surveillance sanitaire à l'Assemblée nationale et au Sénat ", 
+                "publicationDate": "2021-03-30T16:37:44"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "observation": "Nous avons transmis une note d'analyse et de recommandations fondée sur l'expertise de nos chercheurs, à titre général, dans le cadre des débats concernant les causes de la pandémie notamment. Aucune décision publique en particulier n'était visée mais l'appréhension/compréhension globale des enjeux de la crise sanitaire", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CTRE COOP INTERNAT RECHERCHE AGRO DEV (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Recherche et innovation", 
+                "Aide au développement", 
+                "Agriculture"
+              ], 
+              "identifiantFiche": "0V2A4XAV", 
+              "objet": "Transmettre notre expertise en zoonoses et surveillance sanitaire à l'Assemblée nationale et au Sénat ", 
+              "publicationDate": "2021-03-30T16:37:44"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "commentaire": "Le Cirad a un budget de près d'environ 200 millions d'euros.", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14085, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 3, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-03-30T17:20:27"
+      }, 
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14084, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }
+    ], 
+    "historique": [], 
+    "historique_exercices": [
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "commentaire": "Le Cirad a un budget de près d'environ 200 millions d'euros.", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14085, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 3, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-03-30T17:20:27"
+      }
+    ], 
+    "identifiantNational": "331596270", 
+    "isActivitesPubliees": true, 
+    "lienPageLinkedin": "https://www.linkedin.com/company/cirad/mycompany/", 
+    "lienPageTwitter": "https://twitter.com/search?q=cirad&src=typed_query", 
+    "lienSiteWeb": "https://www.cirad.fr/", 
+    "nomUsage": "CIRAD", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "resumes_actions": [], 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "https://www.hatvp.fr/agora/331596270.json", 
+    "ville": "PARIS 16"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "categorie": null, 
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "categorie": null, 
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
         }
       ], 
       "listSecteursActivites": [
@@ -5184,13 +5673,13 @@
       }, 
       {
         "civilite": "MME", 
-        "fonction": "Directeur général adjoint", 
+        "fonction": "Directrice générale adjointe", 
         "nom": "RIVIÈRE", 
         "prenom": "Catherine"
       }
     ], 
-    "dateCreation": "2021-03-25T15:37:13", 
-    "dateDernierePublicationActivite": "2020-04-28T17:32:31", 
+    "dateCreation": "2021-03-30T17:09:23", 
+    "dateDernierePublicationActivite": "2021-03-30T17:15:22", 
     "datePremierePublication": "2017-12-05T09:27:29", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -5204,7 +5693,7 @@
       }, 
       {
         "civilite": "MME", 
-        "fonction": "Directrice général adjoint", 
+        "fonction": "Directrice générale adjointe", 
         "nom": "RIVIÈRE", 
         "prenom": "Catherine"
       }, 
@@ -5738,12 +6227,248 @@
         "publicationDate": "2020-04-28T17:33:06"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "IFP ENERGIES NOUVELLES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Recherche et innovation"
+                ], 
+                "identifiantFiche": "QV7RTARV", 
+                "objet": "PJL Economie circulaire/PPL Plastique : partager l'expertise d'IFPEN dans le domaine du recyclage des plastiques", 
+                "publicationDate": "2021-03-30T17:12:51"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "IFP ENERGIES NOUVELLES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Recherche et innovation"
+              ], 
+              "identifiantFiche": "QV7RTARV", 
+              "objet": "PJL Economie circulaire/PPL Plastique : partager l'expertise d'IFPEN dans le domaine du recyclage des plastiques", 
+              "publicationDate": "2021-03-30T17:12:51"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "IFP ENERGIES NOUVELLES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Recherche et innovation", 
+                  "Energies renouvelables"
+                ], 
+                "identifiantFiche": "EHLF79LH", 
+                "objet": "PPE/SNBC : sensibiliser aux solutions d'IFPEN pour le captage, stockage et utilisation du carbone (CCUS)", 
+                "publicationDate": "2021-03-30T17:13:29"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "IFP ENERGIES NOUVELLES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Recherche et innovation", 
+                "Energies renouvelables"
+              ], 
+              "identifiantFiche": "EHLF79LH", 
+              "objet": "PPE/SNBC : sensibiliser aux solutions d'IFPEN pour le captage, stockage et utilisation du carbone (CCUS)", 
+              "publicationDate": "2021-03-30T17:13:29"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "IFP ENERGIES NOUVELLES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Recherche et innovation", 
+                  "Transports alternatifs", 
+                  "Energies renouvelables", 
+                  "Budget"
+                ], 
+                "identifiantFiche": "OHZPUF83", 
+                "objet": "PLF 2021/PJL Recherche : valoriser les capacités de recherche et d'innovation (R&I) d'IFPEN et préserver la dotation budgétaire", 
+                "publicationDate": "2021-03-30T17:15:22"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "IFP ENERGIES NOUVELLES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Recherche et innovation", 
+                "Transports alternatifs", 
+                "Energies renouvelables", 
+                "Budget"
+              ], 
+              "identifiantFiche": "OHZPUF83", 
+              "objet": "PLF 2021/PJL Recherche : valoriser les capacités de recherche et d'innovation (R&I) d'IFPEN et préserver la dotation budgétaire", 
+              "publicationDate": "2021-03-30T17:15:22"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Education nationale, enseignement supérieur et recherche, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "IFP ENERGIES NOUVELLES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Recherche et innovation", 
+                  "Transports alternatifs", 
+                  "Energies renouvelables"
+                ], 
+                "identifiantFiche": "O3WXIYFH", 
+                "objet": "PJL Climat et résilience : partager l'expertise d'IFPEN en matière de mobilité durable (biocarburants, hydrogène...) et de mesure des émissions en conditions réelles", 
+                "publicationDate": "2021-03-30T17:12:14"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Education nationale, enseignement supérieur et recherche, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "IFP ENERGIES NOUVELLES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Recherche et innovation", 
+                "Transports alternatifs", 
+                "Energies renouvelables"
+              ], 
+              "identifiantFiche": "O3WXIYFH", 
+              "objet": "PJL Climat et résilience : partager l'expertise d'IFPEN en matière de mobilité durable (biocarburants, hydrogène...) et de mesure des émissions en conditions réelles", 
+              "publicationDate": "2021-03-30T17:12:14"
+            }
+          }
+        ], 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9292, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 10 000 euros et < 25 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 4, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2021-03-30T17:16:18"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -6057,6 +6782,216 @@
         "telephoneDeContact": "0147526000", 
         "typeIdentifiantNational": "SIREN", 
         "ville": "RUEIL MALMAISON CEDEX"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "categorie": null, 
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }
+          ]
+        }, 
+        "adresse": "IFP ENERGIES NOUVELLES\r\n1 AVENUE DE BOIS PREAU\r\nBP 311", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_PUB", 
+          "code": "EPAIC", 
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
+        }, 
+        "clients": [], 
+        "codePostal": "92506", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des relations institutionnelles et de la communication", 
+            "nom": "FLÈCHE", 
+            "prenom": "Jean-Christophe"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable des relations institutionnelles", 
+            "nom": "DE MARIGNAN", 
+            "prenom": "Anne-Laure"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "CHEVET", 
+            "prenom": "Pierre-Franck"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général adjoint", 
+            "nom": "LAFARGUE", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur général adjoint", 
+            "nom": "RIVIÈRE", 
+            "prenom": "Catherine"
+          }
+        ], 
+        "dateCreation": "2021-03-25T15:37:13", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "IFP ENERGIES NOUVELLES", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général adjoint", 
+            "nom": "LAFARGUE", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice général adjoint", 
+            "nom": "RIVIÈRE", 
+            "prenom": "Catherine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "CHEVET", 
+            "prenom": "Pierre-Franck"
+          }
+        ], 
+        "emailDeContact": "anne-laure.de-marignan@ifpen.fr", 
+        "identifiantNational": "775729155", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/9243/admin/", 
+        "lienPageTwitter": "https://twitter.com/IFPENinnovation", 
+        "lienSiteWeb": "http://www.ifpenergiesnouvelles.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "sigleHatvp": "IFP", 
+        "telephoneDeContact": "0147526000", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "RUEIL MALMAISON CEDEX"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "categorie": null, 
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }
+          ]
+        }, 
+        "adresse": "IFP ENERGIES NOUVELLES\r\n1 AVENUE DE BOIS PREAU\r\nBP 311", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_PUB", 
+          "code": "EPAIC", 
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
+        }, 
+        "clients": [], 
+        "codePostal": "92506", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des relations institutionnelles et de la communication", 
+            "nom": "FLÈCHE", 
+            "prenom": "Jean-Christophe"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable des relations institutionnelles", 
+            "nom": "DE MARIGNAN", 
+            "prenom": "Anne-Laure"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "CHEVET", 
+            "prenom": "Pierre-Franck"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général adjoint", 
+            "nom": "LAFARGUE", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice générale adjointe", 
+            "nom": "RIVIÈRE", 
+            "prenom": "Catherine"
+          }
+        ], 
+        "dateCreation": "2021-03-30T17:08:31", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "IFP ENERGIES NOUVELLES", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général adjoint", 
+            "nom": "LAFARGUE", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice général adjoint", 
+            "nom": "RIVIÈRE", 
+            "prenom": "Catherine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "CHEVET", 
+            "prenom": "Pierre-Franck"
+          }
+        ], 
+        "emailDeContact": "anne-laure.de-marignan@ifpen.fr", 
+        "identifiantNational": "775729155", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/9243/admin/", 
+        "lienPageTwitter": "https://twitter.com/IFPENinnovation", 
+        "lienSiteWeb": "http://www.ifpenergiesnouvelles.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "sigleHatvp": "IFP", 
+        "telephoneDeContact": "0147526000", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "RUEIL MALMAISON CEDEX"
       }
     ], 
     "historique_exercices": [
@@ -6095,6 +7030,30 @@
         "nombreActivite": 3, 
         "nombreSalaries": 4, 
         "publicationDate": "2020-04-28T17:33:06"
+      }, 
+      {
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9292, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 10 000 euros et < 25 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 4, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2021-03-30T17:16:18"
+      }, 
+      {
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9292, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 10 000 euros et < 25 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 4, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2021-03-30T17:11:32"
       }
     ], 
     "identifiantNational": "775729155", 
@@ -18428,7 +19387,7 @@
         "prenom": "Céline"
       }
     ], 
-    "dateCreation": "2020-09-28T09:38:45", 
+    "dateCreation": "2021-03-30T16:22:43", 
     "dateDernierePublicationActivite": "2020-10-23T17:20:31", 
     "datePremierePublication": "2018-04-12T09:59:31", 
     "declarationOrgaAppartenance": true, 
@@ -23317,6 +24276,280 @@
           }
         ], 
         "dateCreation": "2020-09-22T13:45:50", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "UNION DES GROUPEMENTS D'ACHATS PUBLICS", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président Directeur Général", 
+            "nom": "JOSSA", 
+            "prenom": "Edward"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Générale Déléguée", 
+            "nom": "DELERUELLE", 
+            "prenom": "Isabelle"
+          }
+        ], 
+        "emailDeContact": "kridoux@ugap.fr", 
+        "identifiantNational": "776056467", 
+        "lienSiteWeb": "https://www.ugap.fr/", 
+        "nomUsage": "UGAP", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "MARNE LA VALLEE CEDEX 2"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "SECURITE", 
+              "label": "Défense, sécurité", 
+              "ordre": 7
+            }, 
+            {
+              "categorie": null, 
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "categorie": null, 
+              "code": "OUTREMER", 
+              "label": "Outre-mer", 
+              "ordre": 20
+            }, 
+            {
+              "categorie": null, 
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }, 
+            {
+              "categorie": null, 
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "UNION DES GROUPEMENTS D ACHATS PUBLICS\r\n1 BOULEVARD ARCHIMEDE\r\nCHAMPS SUR MARNE", 
+        "affiliations": [
+          {
+            "denomination": "SYNDICAT NATIONAL DES DIRECTEURS GENERAUX DES COLLECTIVITES TERRITORIALES ET DE LEURS ETABLISSEMENTS PUBLICS", 
+            "identifiantNational": "389872698", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PACTE PME", 
+            "identifiantNational": "524729407", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION NATIONALE DES DIRECTEURS D'ASSOCIATIONS DE MAIRES", 
+            "identifiantNational": "H904866046", 
+            "typeIdentifiantNational": "HATVP"
+          }, 
+          {
+            "denomination": "ASS DES MAIRES DE FRANCE", 
+            "identifiantNational": "784718454", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION DES ADMINISTRATEURS TERRITORIAUX DE FRANCE (AATF)", 
+            "identifiantNational": "752855809", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSEMBLEE DES DEPARTEMENTS DE FRANCE", 
+            "identifiantNational": "784180150", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS DES MAIRES D ILE DE FRANCE", 
+            "identifiantNational": "388139693", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS DES REGIONS DE FRANCE", 
+            "identifiantNational": "421466244", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSEMBLEE DES COMMUNAUTES DE FRANCE", 
+            "identifiantNational": "389062639", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION DES DIRECTEURS DE CABINET DES COLLECTIVITES TERRITORIALES A  DIRECTION SOCIALISTE ET REPUBLICAINE", 
+            "identifiantNational": "433051679", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION DES COLLABORATEURS DE CABINET DE LA DROITE ET DU CENTRE", 
+            "identifiantNational": "820661957", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FRENCH HEALTHCARE", 
+            "identifiantNational": "832408389", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION NAL DES CENTRES DE GESTION", 
+            "identifiantNational": "381417286", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "STATION FRENCH TECH", 
+            "identifiantNational": "830513685", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION DES DIRECTEURS GENERAUX DES COMMUNAUTES DE FRANCE", 
+            "identifiantNational": "509399788", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_PUB", 
+          "code": "EPAIC", 
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
+        }, 
+        "clients": [], 
+        "codePostal": "77444", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Président Directeur Général", 
+            "nom": "JOSSA", 
+            "prenom": "Edward"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Générale Déléguée", 
+            "nom": "DELERUELLE", 
+            "prenom": "Isabelle"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur central marketing communication", 
+            "nom": "VARENE", 
+            "prenom": "Denis"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur réseau territorial \"centre ouest\"", 
+            "nom": "JACQUET", 
+            "prenom": "Pascal"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Chargé de mission \"grands prescripteurs\"", 
+            "nom": "DE ROFFIGNAC", 
+            "prenom": "Matthieu"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur \"Ministères et Etablissements Franciliens\"", 
+            "nom": "TEURNIER", 
+            "prenom": "Philippe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur réseau territorial IDF", 
+            "nom": "DENEUVE", 
+            "prenom": "Eric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur réseau territorial Centre Est", 
+            "nom": "PICHON", 
+            "prenom": "Pierre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur réseau territorial (Nord-Ouest)", 
+            "nom": "NICQ", 
+            "prenom": "Marc"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur réseau territorial Sud-Ouest", 
+            "nom": "MOTHE", 
+            "prenom": "Pascal"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur réseau territorial SUD", 
+            "nom": "MAIRE", 
+            "prenom": "Sebastien"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chef de département \"communication et affaires publiques\"", 
+            "nom": "BELSOEUR-BLUTEAU", 
+            "prenom": "Pascale"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable des relations publiques", 
+            "nom": "PERRIER", 
+            "prenom": "Caroline"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable des relations publiques", 
+            "nom": "TOPENOT", 
+            "prenom": "Victoria"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur réseau territorial 'Nord-Est\"", 
+            "nom": "BAILLET", 
+            "prenom": "Remy"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur centrale Etat", 
+            "nom": "BORNE", 
+            "prenom": "Jean-Marc"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur réseau territorial \"Sud-est\"", 
+            "nom": "BARRAUD", 
+            "prenom": "Céline"
+          }
+        ], 
+        "dateCreation": "2020-09-28T09:38:45", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": false, 
         "denomination": "UNION DES GROUPEMENTS D'ACHATS PUBLICS", 

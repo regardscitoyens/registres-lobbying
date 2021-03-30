@@ -81,7 +81,7 @@
       }
     ], 
     "dateCreation": "2018-02-09T14:55:31", 
-    "dateDernierePublicationActivite": "2020-07-24T15:33:14", 
+    "dateDernierePublicationActivite": "2021-03-30T20:07:32", 
     "datePremierePublication": "2018-02-09T14:55:31", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -954,12 +954,187 @@
         "publicationDate": "2020-07-24T15:34:37"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Logement"
+                    ], 
+                    "tiers": [
+                      "ADOMA (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement"
+                ], 
+                "identifiantFiche": "W3U9ORZV", 
+                "objet": "Attirer l'attention d'une administration sur les difficultés rencontrées dans l’exercice des missions liées au logement accompagné pour contribuer à l’évolution du secteur", 
+                "publicationDate": "2021-03-30T20:00:57"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Logement"
+                  ], 
+                  "tiers": [
+                    "ADOMA (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement"
+              ], 
+              "identifiantFiche": "W3U9ORZV", 
+              "objet": "Attirer l'attention d'une administration sur les difficultés rencontrées dans l’exercice des missions liées au logement accompagné pour contribuer à l’évolution du secteur", 
+              "publicationDate": "2021-03-30T20:00:57"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Intérieur"
+                    ], 
+                    "tiers": [
+                      "ADOMA (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Asile", 
+                  "Immigration"
+                ], 
+                "identifiantFiche": "O3WXRLSH", 
+                "objet": "Faire un point de situation sur les activités de la société au sein du dispositif national d’accueil des demandeurs d'asile et des réfugiés", 
+                "publicationDate": "2021-03-30T19:57:07"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Intérieur"
+                  ], 
+                  "tiers": [
+                    "ADOMA (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Asile", 
+                "Immigration"
+              ], 
+              "identifiantFiche": "O3WXRLSH", 
+              "objet": "Faire un point de situation sur les activités de la société au sein du dispositif national d’accueil des demandeurs d'asile et des réfugiés", 
+              "publicationDate": "2021-03-30T19:57:07"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Logement, Intérieur, Affaires sociales et santé, Outre-mer"
+                    ], 
+                    "tiers": [
+                      "ADOMA (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement", 
+                  "Immigration"
+                ], 
+                "identifiantFiche": "LV1CLNJV", 
+                "objet": "Préserver les activités de la société en matière de logement accompagné et d’hébergement d'urgence généraliste pour contribuer à l’évolution du secteur.", 
+                "publicationDate": "2021-03-30T20:07:32"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Logement, Intérieur, Affaires sociales et santé, Outre-mer"
+                  ], 
+                  "tiers": [
+                    "ADOMA (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement", 
+                "Immigration"
+              ], 
+              "identifiantFiche": "LV1CLNJV", 
+              "objet": "Préserver les activités de la société en matière de logement accompagné et d’hébergement d'urgence généraliste pour contribuer à l’évolution du secteur.", 
+              "publicationDate": "2021-03-30T20:07:32"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 8727, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 3, 
+        "nombreSalaries": 4, 
+        "publicationDate": "2021-03-30T19:37:37"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -1010,6 +1185,19 @@
         "nombreActivite": 5, 
         "nombreSalaries": 6, 
         "publicationDate": "2020-07-24T15:34:37"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 8727, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 3, 
+        "nombreSalaries": 4, 
+        "publicationDate": "2021-03-30T19:37:37"
       }
     ], 
     "identifiantNational": "788058030", 
@@ -1055,15 +1243,51 @@
       "listSecteursActivites": [
         {
           "categorie": null, 
+          "code": "ETRANGER", 
+          "label": "Affaires étrangères, coopération internationale", 
+          "ordre": 1
+        }, 
+        {
+          "categorie": null, 
+          "code": "CONSO", 
+          "label": "Concurrence, consommation", 
+          "ordre": 6
+        }, 
+        {
+          "categorie": null, 
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "categorie": null, 
+          "code": "EMPLOI", 
+          "label": "Travail, emploi, solidarité", 
+          "ordre": 10
+        }, 
+        {
+          "categorie": null, 
           "code": "FINANCES", 
           "label": "Fiscalité, finances publiques", 
           "ordre": 13
         }, 
         {
           "categorie": null, 
+          "code": "ENTREPRISE", 
+          "label": "Gouvernance d’entreprise", 
+          "ordre": 14
+        }, 
+        {
+          "categorie": null, 
           "code": "ENVIRONNEMENT", 
           "label": "Environnement", 
           "ordre": 15
+        }, 
+        {
+          "categorie": null, 
+          "code": "OUTREMER", 
+          "label": "Outre-mer", 
+          "ordre": 20
         }, 
         {
           "categorie": null, 
@@ -1085,6 +1309,11 @@
         "denomination": "AFEP", 
         "identifiantNational": "391358363", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+        "identifiantNational": "784668618", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "categorieOrganisation": {
@@ -1104,12 +1333,6 @@
     "codePostal": "75007", 
     "collaborateurs": [
       {
-        "civilite": "MME", 
-        "fonction": "Présidente non exécutive", 
-        "nom": "COUDERC", 
-        "prenom": "Anne-Marie"
-      }, 
-      {
         "civilite": "M", 
         "fonction": "Directeur Affaires Internationales", 
         "nom": "TIMSIT", 
@@ -1117,29 +1340,29 @@
       }, 
       {
         "civilite": "MME", 
-        "fonction": "Directrice Affaires Publiques", 
-        "nom": "BALDOUS", 
-        "prenom": "Béryl"
+        "fonction": "Secrétaire générale", 
+        "nom": "LE LAY", 
+        "prenom": "Anne-Sophie"
       }
     ], 
-    "dateCreation": "2019-06-18T16:32:50", 
-    "dateDernierePublicationActivite": "2020-09-24T11:41:34", 
+    "dateCreation": "2021-03-30T18:11:57", 
+    "dateDernierePublicationActivite": "2021-03-30T14:28:04", 
     "datePremierePublication": "2017-12-12T16:00:38", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
     "denomination": "AIR FRANCE - KLM", 
     "dirigeants": [
       {
-        "civilite": "M", 
-        "fonction": "Directeur Général", 
-        "nom": "SMITH", 
-        "prenom": "Benjamin"
-      }, 
-      {
         "civilite": "MME", 
         "fonction": "Présidente non exécutive", 
         "nom": "COUDERC", 
         "prenom": "Anne-Marie"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "SMITH", 
+        "prenom": "Benjamin"
       }
     ], 
     "exercices": [
@@ -2084,12 +2307,445 @@
         "publicationDate": "2020-09-24T11:38:04"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Autres décisions publiques", 
+                      "Décisions d'espèce", 
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Economie et finances, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "AIR FRANCE - KLM (en propre)", 
+                      "SOCIETE AIR FRANCE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Industrie aéronautique", 
+                  "Finances", 
+                  "Transport de voyageurs", 
+                  "Aides aux entreprises", 
+                  "Budget"
+                ], 
+                "identifiantFiche": "OHZPCAC3", 
+                "objet": "Impacts économiques de la crise COVID: garantir la pérennité économique et financière du Groupe Air France-KLM", 
+                "publicationDate": "2021-03-30T14:26:27"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Autres décisions publiques", 
+                    "Décisions d'espèce", 
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Economie et finances, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "AIR FRANCE - KLM (en propre)", 
+                    "SOCIETE AIR FRANCE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Industrie aéronautique", 
+                "Finances", 
+                "Transport de voyageurs", 
+                "Aides aux entreprises", 
+                "Budget"
+              ], 
+              "identifiantFiche": "OHZPCAC3", 
+              "objet": "Impacts économiques de la crise COVID: garantir la pérennité économique et financière du Groupe Air France-KLM", 
+              "publicationDate": "2021-03-30T14:26:27"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Economie et finances, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "AIR FRANCE - KLM (en propre)", 
+                      "SOCIETE AIR FRANCE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Industrie aéronautique", 
+                  "Taxes", 
+                  "Politique industrielle", 
+                  "Energies renouvelables", 
+                  "Budget"
+                ], 
+                "identifiantFiche": "DVS4K2ZH", 
+                "objet": "Fiscalité du transport aérien: comment accompagner la transition écologique du secteur en période de crise COVID (PLF 2021)", 
+                "publicationDate": "2021-03-30T14:28:04"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Economie et finances, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "AIR FRANCE - KLM (en propre)", 
+                    "SOCIETE AIR FRANCE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Industrie aéronautique", 
+                "Taxes", 
+                "Politique industrielle", 
+                "Energies renouvelables", 
+                "Budget"
+              ], 
+              "identifiantFiche": "DVS4K2ZH", 
+              "objet": "Fiscalité du transport aérien: comment accompagner la transition écologique du secteur en période de crise COVID (PLF 2021)", 
+              "publicationDate": "2021-03-30T14:28:04"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques", 
+                      "Décisions d'espèce", 
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Travail, emploi, formation professionnelle et dialogue social, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "AIR FRANCE - KLM (en propre)", 
+                      "SOCIETE AIR FRANCE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Dialogue social", 
+                  "Droit du travail"
+                ], 
+                "identifiantFiche": "YVIGBF73", 
+                "objet": "Impacts sociaux de la crise COVID: adapter les besoins et l'organisation du travail à la baisse d'activité à court et moyen termes", 
+                "publicationDate": "2021-03-30T14:27:44"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques", 
+                    "Décisions d'espèce", 
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Travail, emploi, formation professionnelle et dialogue social, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "AIR FRANCE - KLM (en propre)", 
+                    "SOCIETE AIR FRANCE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Dialogue social", 
+                "Droit du travail"
+              ], 
+              "identifiantFiche": "YVIGBF73", 
+              "objet": "Impacts sociaux de la crise COVID: adapter les besoins et l'organisation du travail à la baisse d'activité à court et moyen termes", 
+              "publicationDate": "2021-03-30T14:27:44"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Aménagement du territoire, ruralité et collectivités territoriales, Economie et finances, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "AIR FRANCE - KLM (en propre)", 
+                      "SOCIETE AIR FRANCE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Industrie aéronautique", 
+                  "Transport de fret", 
+                  "Transport de voyageurs", 
+                  "Impact des transports marchands et collectifs", 
+                  "Energies renouvelables"
+                ], 
+                "identifiantFiche": "OHZPCPC3", 
+                "objet": "Restaurer la compétitivité du réseau domestique du Groupe Air France et poursuivre la transition écologique du Groupe Air France-KLM", 
+                "publicationDate": "2021-03-30T14:27:23"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Aménagement du territoire, ruralité et collectivités territoriales, Economie et finances, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "AIR FRANCE - KLM (en propre)", 
+                    "SOCIETE AIR FRANCE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Industrie aéronautique", 
+                "Transport de fret", 
+                "Transport de voyageurs", 
+                "Impact des transports marchands et collectifs", 
+                "Energies renouvelables"
+              ], 
+              "identifiantFiche": "OHZPCPC3", 
+              "objet": "Restaurer la compétitivité du réseau domestique du Groupe Air France et poursuivre la transition écologique du Groupe Air France-KLM", 
+              "publicationDate": "2021-03-30T14:27:23"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Economie et finances, Environnement, énergie et mer", 
+                      "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Autorité de contrôle des nuisances sonores aéroportuaires"
+                    ], 
+                    "tiers": [
+                      "AIR FRANCE - KLM (en propre)", 
+                      "SOCIETE AIR FRANCE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Industrie aéronautique", 
+                  "Transport de fret", 
+                  "Transport de voyageurs", 
+                  "Impact des transports marchands et collectifs", 
+                  "Energies renouvelables"
+                ], 
+                "identifiantFiche": "Q36SZAQV", 
+                "objet": "Promouvoir la feuille de route environnementale du Groupe Air France-KLM ", 
+                "publicationDate": "2021-03-30T14:25:17"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Economie et finances, Environnement, énergie et mer", 
+                    "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Autorité de contrôle des nuisances sonores aéroportuaires"
+                  ], 
+                  "tiers": [
+                    "AIR FRANCE - KLM (en propre)", 
+                    "SOCIETE AIR FRANCE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Industrie aéronautique", 
+                "Transport de fret", 
+                "Transport de voyageurs", 
+                "Impact des transports marchands et collectifs", 
+                "Energies renouvelables"
+              ], 
+              "identifiantFiche": "Q36SZAQV", 
+              "objet": "Promouvoir la feuille de route environnementale du Groupe Air France-KLM ", 
+              "publicationDate": "2021-03-30T14:25:17"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Aménagement du territoire, ruralité et collectivités territoriales, Environnement, énergie et mer, Affaires étrangères et développement international, Outre-mer"
+                    ], 
+                    "tiers": [
+                      "AIR FRANCE - KLM (en propre)", 
+                      "SOCIETE AIR FRANCE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de fret", 
+                  "Transport de voyageurs", 
+                  "Collectivités territoriales", 
+                  "Economie des outre-mer"
+                ], 
+                "identifiantFiche": "JVD0QPY3", 
+                "objet": "Impacts de la crise COVID sur l'activité du Groupe Air France-KLM: répondre aux besoins de transport aérien en période de restriction généralisée", 
+                "publicationDate": "2021-03-30T14:26:52"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Aménagement du territoire, ruralité et collectivités territoriales, Environnement, énergie et mer, Affaires étrangères et développement international, Outre-mer"
+                  ], 
+                  "tiers": [
+                    "AIR FRANCE - KLM (en propre)", 
+                    "SOCIETE AIR FRANCE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de fret", 
+                "Transport de voyageurs", 
+                "Collectivités territoriales", 
+                "Economie des outre-mer"
+              ], 
+              "identifiantFiche": "JVD0QPY3", 
+              "objet": "Impacts de la crise COVID sur l'activité du Groupe Air France-KLM: répondre aux besoins de transport aérien en période de restriction généralisée", 
+              "publicationDate": "2021-03-30T14:26:52"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 10118, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 300 000 euros et < 400 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 6, 
+        "nombreSalaries": 4, 
+        "publicationDate": "2021-03-30T14:28:27"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -2581,6 +3237,295 @@
         "publierMonTelephoneDeContact": false, 
         "typeIdentifiantNational": "SIREN", 
         "ville": "PARIS CEDEX 07"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "categorie": null, 
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "categorie": null, 
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "categorie": null, 
+              "code": "SPORTS", 
+              "label": "Sports, loisirs, tourisme", 
+              "ordre": 27
+            }, 
+            {
+              "categorie": null, 
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "AIR FRANCE KLM\r\n2 RUE ROBERT ESNAULT PELTERIE\r\nBP 90112", 
+        "affiliations": [
+          {
+            "denomination": "AFEP", 
+            "identifiantNational": "391358363", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [
+          {
+            "ancienClient": false, 
+            "denomination": "SOCIETE AIR FRANCE", 
+            "identifiantNational": "420495178", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75007", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente non exécutive", 
+            "nom": "COUDERC", 
+            "prenom": "Anne-Marie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Affaires Internationales", 
+            "nom": "TIMSIT", 
+            "prenom": "Laurent"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Affaires Publiques", 
+            "nom": "BALDOUS", 
+            "prenom": "Béryl"
+          }
+        ], 
+        "dateCreation": "2019-06-18T16:32:50", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "AIR FRANCE - KLM", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "SMITH", 
+            "prenom": "Benjamin"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente non exécutive", 
+            "nom": "COUDERC", 
+            "prenom": "Anne-Marie"
+          }
+        ], 
+        "identifiantNational": "552043002", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/10181422", 
+        "lienPageTwitter": "https://twitter.com/airfranceklm", 
+        "lienSiteWeb": "http://www.airfranceklm.com", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS CEDEX 07"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "categorie": null, 
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "ETRANGER", 
+              "label": "Affaires étrangères, coopération internationale", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "CONSO", 
+              "label": "Concurrence, consommation", 
+              "ordre": 6
+            }, 
+            {
+              "categorie": null, 
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "categorie": null, 
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "categorie": null, 
+              "code": "FINANCES", 
+              "label": "Fiscalité, finances publiques", 
+              "ordre": 13
+            }, 
+            {
+              "categorie": null, 
+              "code": "ENTREPRISE", 
+              "label": "Gouvernance d’entreprise", 
+              "ordre": 14
+            }, 
+            {
+              "categorie": null, 
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "categorie": null, 
+              "code": "OUTREMER", 
+              "label": "Outre-mer", 
+              "ordre": 20
+            }, 
+            {
+              "categorie": null, 
+              "code": "SPORTS", 
+              "label": "Sports, loisirs, tourisme", 
+              "ordre": 27
+            }, 
+            {
+              "categorie": null, 
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "AIR FRANCE KLM\r\n2 RUE ROBERT ESNAULT PELTERIE\r\nBP 90112", 
+        "affiliations": [
+          {
+            "denomination": "AFEP", 
+            "identifiantNational": "391358363", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MOUVEMENT DES ENTREPRISES DE FRANCE", 
+            "identifiantNational": "784668618", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [
+          {
+            "ancienClient": false, 
+            "denomination": "SOCIETE AIR FRANCE", 
+            "identifiantNational": "420495178", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75007", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Affaires Internationales", 
+            "nom": "TIMSIT", 
+            "prenom": "Laurent"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Secrétaire générale", 
+            "nom": "LE LAY", 
+            "prenom": "Anne-Sophie"
+          }
+        ], 
+        "dateCreation": "2021-03-30T14:24:37", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": true, 
+        "denomination": "AIR FRANCE - KLM", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente non exécutive", 
+            "nom": "COUDERC", 
+            "prenom": "Anne-Marie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "SMITH", 
+            "prenom": "Benjamin"
+          }
+        ], 
+        "identifiantNational": "552043002", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/10181422", 
+        "lienPageTwitter": "https://twitter.com/airfranceklm", 
+        "lienSiteWeb": "http://www.airfranceklm.com", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS CEDEX 07"
       }
     ], 
     "historique_exercices": [
@@ -2622,6 +3567,19 @@
         "nombreActivite": 5, 
         "nombreSalaries": 4, 
         "publicationDate": "2020-09-24T11:38:04"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 10118, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 300 000 euros et < 400 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 6, 
+        "nombreSalaries": 4, 
+        "publicationDate": "2021-03-30T14:28:27"
       }
     ], 
     "identifiantNational": "552043002", 
@@ -12739,7 +13697,7 @@
             }
           }
         ], 
-        "chiffreAffaire": "> = 500 000 euros et < 1 000 000 euros", 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
@@ -12749,7 +13707,7 @@
         "noActivite": false, 
         "nombreActivite": 6, 
         "nombreSalaries": 1, 
-        "publicationDate": "2021-03-30T11:41:17"
+        "publicationDate": "2021-03-30T19:40:39"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -12952,7 +13910,20 @@
         "publicationDate": "2020-07-30T18:05:40"
       }, 
       {
-        "chiffreAffaire": "> = 500 000 euros et < 1 000 000 euros", 
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 10060, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 200 000 euros et < 300 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 6, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-03-30T19:40:39"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
@@ -12975,71 +13946,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Logement", 
-          "Développement économique des outre-mer"
-        ], 
-        "identifiantFiche": "5HAAJKIH", 
-        "nom_organisation": "CDC HABITAT", 
-        "num_organisation": "470801168", 
-        "objet": "Contribuer au plan de relance en outre-mer en soutenant une stratégie de développement ambitieuse pour répondre efficacement à la crise sanitaire ", 
-        "publicationDate": "2021-03-30T11:08:03"
-      }, 
-      {
-        "domainesIntervention": [
-          "Logement", 
-          "Développement économique des outre-mer"
-        ], 
-        "identifiantFiche": "YVIGTPY3", 
-        "nom_organisation": "CDC HABITAT", 
-        "num_organisation": "470801168", 
-        "objet": "Echanger de façon concrète sur la politique du logement en outre-mer pour contribuer à l'évolution du secteur du logement social, notamment en vue de la création d'une SIDOM", 
-        "publicationDate": "2021-03-30T11:13:26"
-      }, 
-      {
-        "domainesIntervention": [
-          "Logement"
-        ], 
-        "identifiantFiche": "0VE74N63", 
-        "nom_organisation": "CDC HABITAT", 
-        "num_organisation": "470801168", 
-        "objet": "Obtenir des évolutions législatives dans le PLF2021 pour permettre le développement du logement intermédiaire notamment pour les travailleurs essentiels ", 
-        "publicationDate": "2021-03-30T11:14:04"
-      }, 
-      {
-        "domainesIntervention": [
-          "Logement"
-        ], 
-        "identifiantFiche": "O38QNMQH", 
-        "nom_organisation": "CDC HABITAT", 
-        "num_organisation": "470801168", 
-        "objet": "Echanger de manière générale sur la situation du logement et de l'habitat pour contribuer aux évolutions du secteur", 
-        "publicationDate": "2021-03-30T11:15:04"
-      }, 
-      {
-        "domainesIntervention": [
-          "Logement"
-        ], 
-        "identifiantFiche": "QV7R10WV", 
-        "nom_organisation": "CDC HABITAT", 
-        "num_organisation": "470801168", 
-        "objet": "Echanger de manière générale sur la situation du logement social et contribuer à l'organisation territoriale des organismes de logements sociaux", 
-        "publicationDate": "2021-03-30T11:15:46"
-      }, 
-      {
-        "domainesIntervention": [
-          "Logement", 
-          "Construction"
-        ], 
-        "identifiantFiche": "LV1C9Y1V", 
-        "nom_organisation": "CDC HABITAT", 
-        "num_organisation": "470801168", 
-        "objet": "Contribuer au plan de relance en soutenant une stratégie de développement ambitieuse pour répondre efficacement à la crise sanitaire", 
-        "publicationDate": "2021-03-30T11:16:39"
-      }
-    ], 
+    "resumes_actions": [], 
     "sigleHatvp": "SNI", 
     "telephoneDeContact": "0155033101", 
     "typeIdentifiantNational": "SIREN", 
@@ -13401,12 +14308,17 @@
         "publicationDate": "2020-10-30T10:38:27"
       }, 
       {
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 8529, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-03-30T18:20:10"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -13546,6 +14458,19 @@
         "nombreActivite": 1, 
         "nombreSalaries": 2, 
         "publicationDate": "2020-10-30T10:38:27"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 8529, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-03-30T18:20:10"
       }
     ], 
     "identifiantNational": "181700022", 
@@ -13683,7 +14608,7 @@
       }
     ], 
     "dateCreation": "2019-03-29T15:38:06", 
-    "dateDernierePublicationActivite": "2020-09-22T14:54:22", 
+    "dateDernierePublicationActivite": "2021-03-30T16:52:07", 
     "datePremierePublication": "2017-12-22T14:58:42", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -13967,6 +14892,312 @@
         "publicationDate": "2020-07-15T11:12:39"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Décisions d'espèce"
+                    ], 
+                    "observation": "Interlocuteurs de forte proximité, les CCI de Normandie sont mobilisées depuis le début de la crise sanitaire et économique qui touche notre pays aux côtés des entreprises et des commerces de leur territoire. Plusieurs dispositifs ont été mis en en place pour les accompagner : numéro de téléphone unique, plateforme collaborative CCI Entraide pour proposer du matériel ou de la matière première ou en demander, Baromètre de l’économie régionale, carte interactive pour identifier les commerces ou restaurants ouverts, CCI Conso’Map ou encore « CCI Relance : consommez proximité en toute sécurité » pour accompagner les commerçants à la reprise d’activité.", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "PME/TPE", 
+                  "Aides aux entreprises"
+                ], 
+                "identifiantFiche": "UVPW7FS3", 
+                "objet": "CCI Relance - 100 propositions pour préparer le rebond économique", 
+                "publicationDate": "2021-03-30T16:50:37"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Décisions d'espèce"
+                  ], 
+                  "observation": "Interlocuteurs de forte proximité, les CCI de Normandie sont mobilisées depuis le début de la crise sanitaire et économique qui touche notre pays aux côtés des entreprises et des commerces de leur territoire. Plusieurs dispositifs ont été mis en en place pour les accompagner : numéro de téléphone unique, plateforme collaborative CCI Entraide pour proposer du matériel ou de la matière première ou en demander, Baromètre de l’économie régionale, carte interactive pour identifier les commerces ou restaurants ouverts, CCI Conso’Map ou encore « CCI Relance : consommez proximité en toute sécurité » pour accompagner les commerçants à la reprise d’activité.", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "PME/TPE", 
+                "Aides aux entreprises"
+              ], 
+              "identifiantFiche": "UVPW7FS3", 
+              "objet": "CCI Relance - 100 propositions pour préparer le rebond économique", 
+              "publicationDate": "2021-03-30T16:50:37"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Taxes", 
+                  "Impôts", 
+                  "Aides aux entreprises"
+                ], 
+                "identifiantFiche": "0VE7XBG3", 
+                "objet": "Stabilisation des ressources affectées aux CCI – Juillet 2020", 
+                "publicationDate": "2021-03-30T16:51:02"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Taxes", 
+                "Impôts", 
+                "Aides aux entreprises"
+              ], 
+              "identifiantFiche": "0VE7XBG3", 
+              "objet": "Stabilisation des ressources affectées aux CCI – Juillet 2020", 
+              "publicationDate": "2021-03-30T16:51:02"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Taxes", 
+                  "Impôts", 
+                  "Aides aux entreprises", 
+                  "Budget"
+                ], 
+                "identifiantFiche": "DVS4KS9H", 
+                "objet": "Projet de Loi de Finances rectificative - Juin 2020", 
+                "publicationDate": "2021-03-30T16:51:22"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Taxes", 
+                "Impôts", 
+                "Aides aux entreprises", 
+                "Budget"
+              ], 
+              "identifiantFiche": "DVS4KS9H", 
+              "objet": "Projet de Loi de Finances rectificative - Juin 2020", 
+              "publicationDate": "2021-03-30T16:51:22"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "A l’époque où ce rattachement avait été fait, ceci avait probablement un sens et la CCI du Tréport avait préféré se rapprocher de la CCI d’Amiens plutôt que de la CCI de Dieppe. Depuis, toutes les CCI de la Région Hauts-de-France ont fusionné entre elles pour donner naissance à une CCI unique de région dont le siège est à Lille. Aujourd’hui, nous estimons qu’il est important de rétablir une logique de territoire car nous sommes le seul département français dans ce cas de figure. Ces communes et ces entreprises qui sont en Seine-Maritime doivent être suivies et accompagnées par la Chambre de Commerce et d’Industrie de proximité qui œuvre sur ce territoire à savoir la CCI Rouen Métropole.", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement"
+                    ], 
+                    "tiers": [
+                      "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Aides aux entreprises", 
+                  "Collectivités territoriales"
+                ], 
+                "identifiantFiche": "UHQS4YZ3", 
+                "objet": "Communes Seine-Maritime rattachées à la CCI Hauts de France – Juillet 2020", 
+                "publicationDate": "2021-03-30T16:50:10"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "A l’époque où ce rattachement avait été fait, ceci avait probablement un sens et la CCI du Tréport avait préféré se rapprocher de la CCI d’Amiens plutôt que de la CCI de Dieppe. Depuis, toutes les CCI de la Région Hauts-de-France ont fusionné entre elles pour donner naissance à une CCI unique de région dont le siège est à Lille. Aujourd’hui, nous estimons qu’il est important de rétablir une logique de territoire car nous sommes le seul département français dans ce cas de figure. Ces communes et ces entreprises qui sont en Seine-Maritime doivent être suivies et accompagnées par la Chambre de Commerce et d’Industrie de proximité qui œuvre sur ce territoire à savoir la CCI Rouen Métropole.", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement"
+                  ], 
+                  "tiers": [
+                    "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Aides aux entreprises", 
+                "Collectivités territoriales"
+              ], 
+              "identifiantFiche": "UHQS4YZ3", 
+              "objet": "Communes Seine-Maritime rattachées à la CCI Hauts de France – Juillet 2020", 
+              "publicationDate": "2021-03-30T16:50:10"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Taxes", 
+                  "Impôts", 
+                  "Aides aux entreprises", 
+                  "Budget"
+                ], 
+                "identifiantFiche": "GVT2ZF7H", 
+                "objet": "Projet de la Loi de finances 2021 – Septembre 2020", 
+                "publicationDate": "2021-03-30T16:52:07"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CHAMBRE DE COMMERCE ET D’INDUSTRIE METROPOLITAINE ROUEN METROPOLE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Taxes", 
+                "Impôts", 
+                "Aides aux entreprises", 
+                "Budget"
+              ], 
+              "identifiantFiche": "GVT2ZF7H", 
+              "objet": "Projet de la Loi de finances 2021 – Septembre 2020", 
+              "publicationDate": "2021-03-30T16:52:07"
+            }
+          }
+        ], 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
@@ -29783,21 +31014,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Prévention", 
-          "Soins et maladies", 
-          "Système de santé et médico-social", 
-          "Recherche et innovation"
-        ], 
-        "identifiantFiche": "YVNTDTPV", 
-        "nom_organisation": "INSTITUT DE CANCEROLOGIE DE L OUEST", 
-        "num_organisation": "532254307", 
-        "objet": "Réaffirmer le rôle des CLCC dans l'offre de soins territoriale.", 
-        "publicationDate": "2021-03-30T11:15:43"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/532254307.json", 
     "ville": "ANGERS"
@@ -34924,7 +36141,7 @@
       }
     ], 
     "dateCreation": "2020-05-27T11:48:19", 
-    "dateDernierePublicationActivite": "2020-05-27T11:39:34", 
+    "dateDernierePublicationActivite": "2021-03-30T19:10:32", 
     "datePremierePublication": "2017-09-05T15:50:43", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -35800,12 +37017,243 @@
         "publicationDate": "2020-05-27T11:40:58"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Ville, jeunesse et sport"
+                    ], 
+                    "tiers": [
+                      "MUTUELLE GENERALE EDUCATION NATIONALE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Assurances"
+                ], 
+                "identifiantFiche": "O38Q8CJH", 
+                "objet": "Promotion d’une participation financière des complémentaires santé à l’accès aux soins en remplacement d’une taxation sur des moindres dépenses de santé dues à la Covid-19, dans le cadre du PLFSS 2021", 
+                "publicationDate": "2021-03-30T19:08:47"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Ville, jeunesse et sport"
+                  ], 
+                  "tiers": [
+                    "MUTUELLE GENERALE EDUCATION NATIONALE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Assurances"
+              ], 
+              "identifiantFiche": "O38Q8CJH", 
+              "objet": "Promotion d’une participation financière des complémentaires santé à l’accès aux soins en remplacement d’une taxation sur des moindres dépenses de santé dues à la Covid-19, dans le cadre du PLFSS 2021", 
+              "publicationDate": "2021-03-30T19:08:47"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Fonction publique"
+                    ], 
+                    "tiers": [
+                      "MUTUELLE GENERALE EDUCATION NATIONALE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Assurances"
+                ], 
+                "identifiantFiche": "UVPW7073", 
+                "objet": "Plaidoyer en faveur d’un dispositif ambitieux de protection sociale complémentaire pour les agents publics dans le cadre de l’application de la loi de transformation de la fonction publique", 
+                "publicationDate": "2021-03-30T19:09:10"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Fonction publique"
+                  ], 
+                  "tiers": [
+                    "MUTUELLE GENERALE EDUCATION NATIONALE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Assurances"
+              ], 
+              "identifiantFiche": "UVPW7073", 
+              "objet": "Plaidoyer en faveur d’un dispositif ambitieux de protection sociale complémentaire pour les agents publics dans le cadre de l’application de la loi de transformation de la fonction publique", 
+              "publicationDate": "2021-03-30T19:09:10"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "MUTUELLE GENERALE EDUCATION NATIONALE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "Q36SZNUV", 
+                "objet": "Valorisation de l’activité et alerte sur les spécificités des établissements sanitaires et médico-sociaux non lucratifs lors des discussions sur les textes législatifs relatifs à la crise sanitaire ", 
+                "publicationDate": "2021-03-30T19:10:32"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "MUTUELLE GENERALE EDUCATION NATIONALE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "Q36SZNUV", 
+              "objet": "Valorisation de l’activité et alerte sur les spécificités des établissements sanitaires et médico-sociaux non lucratifs lors des discussions sur les textes législatifs relatifs à la crise sanitaire ", 
+              "publicationDate": "2021-03-30T19:10:32"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "MUTUELLE GENERALE EDUCATION NATIONALE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Prévention"
+                ], 
+                "identifiantFiche": "X3C4XWG3", 
+                "objet": "Plaidoyer à l’occasion des négociations sur la santé au travail en faveur d’une réforme ambitieuse dans la fonction publique et de la mise en place d’une culture de prévention", 
+                "publicationDate": "2021-03-30T19:08:22"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "MUTUELLE GENERALE EDUCATION NATIONALE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Prévention"
+              ], 
+              "identifiantFiche": "X3C4XWG3", 
+              "objet": "Plaidoyer à l’occasion des négociations sur la santé au travail en faveur d’une réforme ambitieuse dans la fonction publique et de la mise en place d’une culture de prévention", 
+              "publicationDate": "2021-03-30T19:08:22"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9204, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 300 000 euros et < 400 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 4, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2021-03-30T19:11:37"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -36166,6 +37614,19 @@
         "nombreActivite": 6, 
         "nombreSalaries": 5, 
         "publicationDate": "2020-05-27T11:40:58"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9204, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 300 000 euros et < 400 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 4, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2021-03-30T19:11:37"
       }
     ], 
     "identifiantNational": "775685399", 
@@ -36691,7 +38152,7 @@
       }
     ], 
     "dateCreation": "2020-03-24T08:49:43", 
-    "dateDernierePublicationActivite": "2020-03-24T10:18:54", 
+    "dateDernierePublicationActivite": "2021-03-30T23:32:23", 
     "datePremierePublication": "2017-11-06T08:55:52", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -37300,14 +38761,234 @@
         "publicationDate": "2020-03-24T08:45:49"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires", 
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "MUTUELLE NATIONALE TERRITORIALE MNT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Assurances", 
+                  "Médicaments", 
+                  "Soins et maladies", 
+                  "Collectivités territoriales", 
+                  "Fonction publique"
+                ], 
+                "identifiantFiche": "PVXW2AUH", 
+                "objet": "Inscrire dans la loi ou l'ordonnance l'obligation de participation financière des employeurs territoriaux à la protection sociale complémentaire sociale de leurs agents", 
+                "publicationDate": "2021-03-30T23:30:37"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires", 
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "MUTUELLE NATIONALE TERRITORIALE MNT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Assurances", 
+                "Médicaments", 
+                "Soins et maladies", 
+                "Collectivités territoriales", 
+                "Fonction publique"
+              ], 
+              "identifiantFiche": "PVXW2AUH", 
+              "objet": "Inscrire dans la loi ou l'ordonnance l'obligation de participation financière des employeurs territoriaux à la protection sociale complémentaire sociale de leurs agents", 
+              "publicationDate": "2021-03-30T23:30:37"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires", 
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Fonction publique"
+                    ], 
+                    "tiers": [
+                      "MUTUELLE NATIONALE TERRITORIALE MNT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Assurances", 
+                  "Médicaments", 
+                  "Soins et maladies", 
+                  "Collectivités territoriales", 
+                  "Fonction publique"
+                ], 
+                "identifiantFiche": "JVD0TE93", 
+                "objet": "Inscrire dans la loi ou l'ordonnance un renforcement de la maîtrise financière et de la solidarité intergénérationnelle des conventions de participation dans la fonction publique territoriale", 
+                "publicationDate": "2021-03-30T23:32:23"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires", 
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Fonction publique"
+                  ], 
+                  "tiers": [
+                    "MUTUELLE NATIONALE TERRITORIALE MNT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Assurances", 
+                "Médicaments", 
+                "Soins et maladies", 
+                "Collectivités territoriales", 
+                "Fonction publique"
+              ], 
+              "identifiantFiche": "JVD0TE93", 
+              "objet": "Inscrire dans la loi ou l'ordonnance un renforcement de la maîtrise financière et de la solidarité intergénérationnelle des conventions de participation dans la fonction publique territoriale", 
+              "publicationDate": "2021-03-30T23:32:23"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "commentaire": "3 salariés et 1 élu national", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 10136, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 2, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2021-03-30T23:16:12"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires", 
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Fonction publique"
+                    ], 
+                    "tiers": [
+                      "MUTUELLE NATIONALE TERRITORIALE MNT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Assurances", 
+                  "Médicaments", 
+                  "Soins et maladies", 
+                  "Collectivités territoriales", 
+                  "Fonction publique"
+                ], 
+                "identifiantFiche": "QV7RW1UV", 
+                "objet": "Inscrire dans la loi ou l'ordonnance un renforcement de la maîtrise financière et de la solidarité intergénérationnelle des conventions de participation dans la fonction publique territoriale", 
+                "publicationDate": "2021-03-30T23:30:55"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires", 
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Fonction publique"
+                  ], 
+                  "tiers": [
+                    "MUTUELLE NATIONALE TERRITORIALE MNT (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Assurances", 
+                "Médicaments", 
+                "Soins et maladies", 
+                "Collectivités territoriales", 
+                "Fonction publique"
+              ], 
+              "identifiantFiche": "QV7RW1UV", 
+              "objet": "Inscrire dans la loi ou l'ordonnance un renforcement de la maîtrise financière et de la solidarité intergénérationnelle des conventions de participation dans la fonction publique territoriale", 
+              "publicationDate": "2021-03-30T23:30:55"
+            }
+          }
+        ], 
         "dateDebut": "2021-01-01", 
         "dateFin": "2021-12-31", 
         "defautDeclaration": false, 
@@ -38206,6 +39887,20 @@
         "nombreActivite": 3, 
         "nombreSalaries": 4, 
         "publicationDate": "2020-03-24T08:45:49"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "commentaire": "3 salariés et 1 élu national", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 10136, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 2, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2021-03-30T23:16:12"
       }
     ], 
     "identifiantNational": "775678584", 
@@ -38218,7 +39913,50 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Assurances", 
+          "Médicaments", 
+          "Soins et maladies", 
+          "Collectivités territoriales", 
+          "Fonction publique"
+        ], 
+        "identifiantFiche": "PVXW2AUH", 
+        "nom_organisation": "MUTUELLE NATIONALE TERRITORIALE MNT", 
+        "num_organisation": "775678584", 
+        "objet": "Inscrire dans la loi ou l'ordonnance l'obligation de participation financière des employeurs territoriaux à la protection sociale complémentaire sociale de leurs agents", 
+        "publicationDate": "2021-03-30T23:30:37"
+      }, 
+      {
+        "domainesIntervention": [
+          "Assurances", 
+          "Médicaments", 
+          "Soins et maladies", 
+          "Collectivités territoriales", 
+          "Fonction publique"
+        ], 
+        "identifiantFiche": "QV7RW1UV", 
+        "nom_organisation": "MUTUELLE NATIONALE TERRITORIALE MNT", 
+        "num_organisation": "775678584", 
+        "objet": "Inscrire dans la loi ou l'ordonnance un renforcement de la maîtrise financière et de la solidarité intergénérationnelle des conventions de participation dans la fonction publique territoriale", 
+        "publicationDate": "2021-03-30T23:30:55"
+      }, 
+      {
+        "domainesIntervention": [
+          "Assurances", 
+          "Médicaments", 
+          "Soins et maladies", 
+          "Collectivités territoriales", 
+          "Fonction publique"
+        ], 
+        "identifiantFiche": "JVD0TE93", 
+        "nom_organisation": "MUTUELLE NATIONALE TERRITORIALE MNT", 
+        "num_organisation": "775678584", 
+        "objet": "Inscrire dans la loi ou l'ordonnance un renforcement de la maîtrise financière et de la solidarité intergénérationnelle des conventions de participation dans la fonction publique territoriale", 
+        "publicationDate": "2021-03-30T23:32:23"
+      }
+    ], 
     "sigleHatvp": "MNT", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775678584.json", 
