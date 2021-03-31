@@ -36,7 +36,7 @@
         }
       ]
     }, 
-    "adresse": "ADOMA\r\nPARIS 15\r\n42 RUE CAMBRONNE", 
+    "adresse": "ADOMA\n33 avenue Pierre Mendes France\n", 
     "affiliations": [
       {
         "denomination": "FEDERATION DES ACTEURS DE LA SOLIDARITE", 
@@ -66,21 +66,40 @@
       "notifSansChiffreAffaire": false
     }, 
     "clients": [], 
-    "codePostal": "75740", 
+    "codePostal": "75013", 
     "collaborateurs": [
       {
-        "civilite": "MME", 
-        "nom": "PAUVROS", 
-        "prenom": "Mélanie"
+        "civilite": "M", 
+        "fonction": "directeur d'exploitation", 
+        "nom": "DE WARREN", 
+        "prenom": "Gilles"
       }, 
       {
         "civilite": "MME", 
-        "fonction": "Directrice des relations institutionnelles et de la communication", 
-        "nom": "PAUVROS", 
-        "prenom": "Melanie"
+        "fonction": "directrice d'hébergement", 
+        "nom": "PARIGI", 
+        "prenom": "Stefania"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Juridique", 
+        "nom": "VERBRACKEL", 
+        "prenom": "Marie-Pierre"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général Adjoint", 
+        "nom": "DOLENSKI", 
+        "prenom": "Marc"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur General", 
+        "nom": "CLEMENT", 
+        "prenom": "Jean"
       }
     ], 
-    "dateCreation": "2018-02-09T14:55:31", 
+    "dateCreation": "2021-03-31T19:01:11", 
     "dateDernierePublicationActivite": "2021-03-31T11:22:12", 
     "datePremierePublication": "2018-02-09T14:55:31", 
     "declarationOrgaAppartenance": true, 
@@ -1090,64 +1109,6 @@
                   "Logement", 
                   "Immigration"
                 ], 
-                "identifiantFiche": "LV1CLNJV", 
-                "objet": "Préserver les activités de la société en matière de logement accompagné et d’hébergement d'urgence généraliste pour contribuer à l’évolution du secteur.", 
-                "publicationDate": "2021-03-30T20:07:32"
-              }
-            ], 
-            "publicationCourante": {
-              "actionsRepresentationInteret": [
-                {
-                  "actionsMenees": [
-                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
-                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                  ], 
-                  "decisionsConcernees": [
-                    "Actes réglementaires"
-                  ], 
-                  "reponsablesPublics": [
-                    "Titulaire d'un emploi à la décision du Gouvernement", 
-                    "Membre du Gouvernement ou membre de cabinet ministériel - Logement, Intérieur, Affaires sociales et santé, Outre-mer"
-                  ], 
-                  "tiers": [
-                    "ADOMA (en propre)"
-                  ]
-                }
-              ], 
-              "domainesIntervention": [
-                "Logement", 
-                "Immigration"
-              ], 
-              "identifiantFiche": "LV1CLNJV", 
-              "objet": "Préserver les activités de la société en matière de logement accompagné et d’hébergement d'urgence généraliste pour contribuer à l’évolution du secteur.", 
-              "publicationDate": "2021-03-30T20:07:32"
-            }
-          }, 
-          {
-            "historique": [
-              {
-                "actionsRepresentationInteret": [
-                  {
-                    "actionsMenees": [
-                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
-                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
-                    ], 
-                    "decisionsConcernees": [
-                      "Actes réglementaires"
-                    ], 
-                    "reponsablesPublics": [
-                      "Titulaire d'un emploi à la décision du Gouvernement", 
-                      "Membre du Gouvernement ou membre de cabinet ministériel - Logement, Intérieur, Affaires sociales et santé, Outre-mer"
-                    ], 
-                    "tiers": [
-                      "ADOMA (en propre)"
-                    ]
-                  }
-                ], 
-                "domainesIntervention": [
-                  "Logement", 
-                  "Immigration"
-                ], 
                 "identifiantFiche": "5HAA9RIH", 
                 "objet": "Présenter les activités de la société en matière de logement accompagné et d’hébergement d'urgence généraliste pour contribuer à l' évolution du secteur", 
                 "publicationDate": "2021-03-31T11:22:12"
@@ -1190,7 +1151,7 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 4, 
+        "nombreActivite": 3, 
         "nombreSalaries": 4, 
         "publicationDate": "2021-03-30T19:37:37"
       }, 
@@ -1203,7 +1164,232 @@
         "nombreActivite": 0
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "categorie": null, 
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }, 
+            {
+              "categorie": null, 
+              "code": "MIGRA", 
+              "label": "Questions migratoires", 
+              "ordre": 24
+            }
+          ]
+        }, 
+        "adresse": "ADOMA\r\nPARIS 15\r\n42 RUE CAMBRONNE", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION DES ACTEURS DE LA SOLIDARITE", 
+            "identifiantNational": "308401090", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS FRANCIL. FAVORISER INSERT. PAR LOGT", 
+            "identifiantNational": "394012074", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CDC HABITAT", 
+            "identifiantNational": "470801168", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNAFO", 
+            "identifiantNational": "321877904", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [], 
+        "codePostal": "75740", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "nom": "PAUVROS", 
+            "prenom": "Mélanie"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice des relations institutionnelles et de la communication", 
+            "nom": "PAUVROS", 
+            "prenom": "Melanie"
+          }
+        ], 
+        "dateCreation": "2018-02-09T14:55:31", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "ADOMA", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "CLEMENT", 
+            "prenom": "Jean-Paul"
+          }
+        ], 
+        "identifiantNational": "788058030", 
+        "lienSiteWeb": "http://www.adoma.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS CEDEX 15"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "categorie": null, 
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }, 
+            {
+              "categorie": null, 
+              "code": "MIGRA", 
+              "label": "Questions migratoires", 
+              "ordre": 24
+            }
+          ]
+        }, 
+        "adresse": "ADOMA\n33 avenue Pierre Mendes France\n", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION DES ACTEURS DE LA SOLIDARITE", 
+            "identifiantNational": "308401090", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS FRANCIL. FAVORISER INSERT. PAR LOGT", 
+            "identifiantNational": "394012074", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CDC HABITAT", 
+            "identifiantNational": "470801168", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNAFO", 
+            "identifiantNational": "321877904", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [], 
+        "codePostal": "75013", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "directeur d'exploitation", 
+            "nom": "DE WARREN", 
+            "prenom": "Gilles"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "directrice d'hébergement", 
+            "nom": "PARIGI", 
+            "prenom": "Stefania"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Juridique", 
+            "nom": "VERBRACKEL", 
+            "prenom": "Marie-Pierre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général Adjoint", 
+            "nom": "DOLENSKI", 
+            "prenom": "Marc"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur General", 
+            "nom": "CLEMENT", 
+            "prenom": "Jean"
+          }
+        ], 
+        "dateCreation": "2021-03-31T18:59:19", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "ADOMA", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "CLEMENT", 
+            "prenom": "Jean-Paul"
+          }
+        ], 
+        "emailDeContact": "marie-pierre.verbrackel@adoma.cdc-habitat.fr", 
+        "identifiantNational": "788058030", 
+        "lienSiteWeb": "http://www.adoma.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "historique_exercices": [
       {
         "chiffreAffaire": "> = 1 000 000 euros", 
@@ -1253,7 +1439,7 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 4, 
+        "nombreActivite": 3, 
         "nombreSalaries": 4, 
         "publicationDate": "2021-03-30T19:37:37"
       }
@@ -1262,25 +1448,13 @@
     "isActivitesPubliees": true, 
     "lienSiteWeb": "http://www.adoma.fr/", 
     "pays": "FRANCE", 
-    "publierMonAdresseEmail": true, 
+    "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
-    "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Logement", 
-          "Immigration"
-        ], 
-        "identifiantFiche": "5HAA9RIH", 
-        "nom_organisation": "ADOMA", 
-        "num_organisation": "788058030", 
-        "objet": "Présenter les activités de la société en matière de logement accompagné et d’hébergement d'urgence généraliste pour contribuer à l' évolution du secteur", 
-        "publicationDate": "2021-03-31T11:22:12"
-      }
-    ], 
+    "publierMonTelephoneDeContact": false, 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/788058030.json", 
-    "ville": "PARIS CEDEX 15"
+    "ville": "PARIS"
   }, 
   {
     "activites": {
@@ -32143,7 +32317,7 @@
         }
       ]
     }, 
-    "adresse": "AG2R LA MONDIALE\n104-110 Boulevard Haussmann\n75008 Paris", 
+    "adresse": "AG2R LA MONDIALE\n14-16 Boulevard Malesherbes\n75008 Paris", 
     "affiliations": [
       {
         "denomination": "FEDERATION FRANCAISE DE L ASSURANCE (FFA)", 
@@ -32172,7 +32346,7 @@
         "prenom": "Béatrice"
       }
     ], 
-    "dateCreation": "2020-07-30T16:50:32", 
+    "dateCreation": "2021-03-31T17:52:34", 
     "dateDernierePublicationActivite": "2020-07-30T17:23:16", 
     "datePremierePublication": "2018-01-16T11:08:08", 
     "declarationOrgaAppartenance": true, 
@@ -32335,12 +32509,17 @@
         "publicationDate": "2020-08-24T23:19:26"
       }, 
       {
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 8989, 
-        "noActivite": false, 
-        "nombreActivite": 0
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 10 000 euros et < 25 000 euros", 
+        "noActivite": true, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-03-31T18:05:46"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -32555,6 +32734,88 @@
         "publierMonTelephoneDeContact": false, 
         "typeIdentifiantNational": "SIREN", 
         "ville": "Paris"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }
+          ]
+        }, 
+        "adresse": "AG2R LA MONDIALE\n104-110 Boulevard Haussmann\n75008 Paris", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION FRANCAISE DE L ASSURANCE (FFA)", 
+            "identifiantNational": "784409013", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION DES ASSUREURS MUTUALISTES", 
+            "identifiantNational": "822879201", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [], 
+        "codePostal": "75008", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Directeur des relations extérieures", 
+            "nom": "SAILLARD", 
+            "prenom": "Béatrice"
+          }
+        ], 
+        "dateCreation": "2020-07-30T16:50:32", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "LA MONDIALE GROUPE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "RENAUDIN", 
+            "prenom": "André"
+          }
+        ], 
+        "identifiantNational": "445331192", 
+        "lienSiteWeb": "https://www.ag2rlamondiale.fr/", 
+        "nomUsageHatvp": "AG2R LA MONDIALE", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "Paris"
       }
     ], 
     "historique_exercices": [
@@ -32609,6 +32870,32 @@
         "nombreActivite": 1, 
         "nombreSalaries": 1, 
         "publicationDate": "2020-08-24T23:19:26"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 8989, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 10 000 euros et < 25 000 euros", 
+        "noActivite": true, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-03-31T18:05:46"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 8989, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 10 000 euros et < 25 000 euros", 
+        "noActivite": true, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-03-31T18:03:41"
       }
     ], 
     "identifiantNational": "445331192", 
@@ -32798,7 +33085,7 @@
       }
     ], 
     "dateCreation": "2020-07-09T17:28:41", 
-    "dateDernierePublicationActivite": "2020-07-20T15:58:06", 
+    "dateDernierePublicationActivite": "2021-03-31T21:26:13", 
     "datePremierePublication": "2018-03-23T17:54:26", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -33227,12 +33514,473 @@
         "publicationDate": "2020-07-20T15:49:25"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "MACIF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Assurances"
+                ], 
+                "identifiantFiche": "OHZPBMR3", 
+                "objet": "Réforme du régime de l'assurance emprunteur: Obtenir la résiliation infra-annuelle de l'assurance emprunteur et augmenter le pouvoir d'achat des citoyens ", 
+                "publicationDate": "2021-03-31T21:24:21"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "MACIF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Assurances"
+              ], 
+              "identifiantFiche": "OHZPBMR3", 
+              "objet": "Réforme du régime de l'assurance emprunteur: Obtenir la résiliation infra-annuelle de l'assurance emprunteur et augmenter le pouvoir d'achat des citoyens ", 
+              "publicationDate": "2021-03-31T21:24:21"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "MACIF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Taxes", 
+                  "Assurances"
+                ], 
+                "identifiantFiche": "9V0CP5C3", 
+                "objet": "Crise sanitaire: propositions visant à mieux cadrer la contribution aux appels à cotisation des assureurs\n", 
+                "publicationDate": "2021-03-31T21:24:35"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "MACIF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Taxes", 
+                "Assurances"
+              ], 
+              "identifiantFiche": "9V0CP5C3", 
+              "objet": "Crise sanitaire: propositions visant à mieux cadrer la contribution aux appels à cotisation des assureurs\n", 
+              "publicationDate": "2021-03-31T21:24:35"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Fonction publique"
+                    ], 
+                    "tiers": [
+                      "MACIF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Assurances"
+                ], 
+                "identifiantFiche": "UVPWRMN3", 
+                "objet": "Réforme du régime de l'assurance emprunteur: Contribution à l'élaboration d'un amendement pour obtenir la résiliation infra-annuelle de l'assurance emprunteur\n", 
+                "publicationDate": "2021-03-31T21:24:54"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Fonction publique"
+                  ], 
+                  "tiers": [
+                    "MACIF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Assurances"
+              ], 
+              "identifiantFiche": "UVPWRMN3", 
+              "objet": "Réforme du régime de l'assurance emprunteur: Contribution à l'élaboration d'un amendement pour obtenir la résiliation infra-annuelle de l'assurance emprunteur\n", 
+              "publicationDate": "2021-03-31T21:24:54"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Fonction publique"
+                    ], 
+                    "tiers": [
+                      "MACIF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Assurances"
+                ], 
+                "identifiantFiche": "O38QN58H", 
+                "objet": "Solvabilité 2: Défendre le modèle de Gouvernance du Groupe ", 
+                "publicationDate": "2021-03-31T21:25:06"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Fonction publique"
+                  ], 
+                  "tiers": [
+                    "MACIF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Assurances"
+              ], 
+              "identifiantFiche": "O38QN58H", 
+              "objet": "Solvabilité 2: Défendre le modèle de Gouvernance du Groupe ", 
+              "publicationDate": "2021-03-31T21:25:06"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "MACIF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Marchés réglementés"
+                ], 
+                "identifiantFiche": "A3YR9M4V", 
+                "objet": "Règlementation sur la fabrication et distribution des pièces détachées: Favoriser la libéralisation du marché des pièces détachées automobiles", 
+                "publicationDate": "2021-03-31T21:25:45"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "MACIF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Marchés réglementés"
+              ], 
+              "identifiantFiche": "A3YR9M4V", 
+              "objet": "Règlementation sur la fabrication et distribution des pièces détachées: Favoriser la libéralisation du marché des pièces détachées automobiles", 
+              "publicationDate": "2021-03-31T21:25:45"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Fonction publique"
+                    ], 
+                    "tiers": [
+                      "MACIF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Finances", 
+                  "Taxes"
+                ], 
+                "identifiantFiche": "QV7R154V", 
+                "objet": "Solvabilité 2: propositions d'évolution des obligations règlementaires et prudentielles liées aux placements ", 
+                "publicationDate": "2021-03-31T21:26:00"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Fonction publique"
+                  ], 
+                  "tiers": [
+                    "MACIF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Finances", 
+                "Taxes"
+              ], 
+              "identifiantFiche": "QV7R154V", 
+              "objet": "Solvabilité 2: propositions d'évolution des obligations règlementaires et prudentielles liées aux placements ", 
+              "publicationDate": "2021-03-31T21:26:00"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
+                    ], 
+                    "tiers": [
+                      "MACIF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Finances", 
+                  "Recherche et innovation"
+                ], 
+                "identifiantFiche": "X3C4LSU3", 
+                "objet": "Rapport Schatzman: Propositions visant à développer l’innovation sociale ", 
+                "publicationDate": "2021-03-31T21:26:13"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
+                  ], 
+                  "tiers": [
+                    "MACIF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Finances", 
+                "Recherche et innovation"
+              ], 
+              "identifiantFiche": "X3C4LSU3", 
+              "objet": "Rapport Schatzman: Propositions visant à développer l’innovation sociale ", 
+              "publicationDate": "2021-03-31T21:26:13"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Fonction publique"
+                    ], 
+                    "tiers": [
+                      "MACIF (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Finances", 
+                  "Taxes"
+                ], 
+                "identifiantFiche": "JVD0M0P3", 
+                "objet": "Investissements responsables: Propositions visant à mieux prendre en compte les aspects sociaux:", 
+                "publicationDate": "2021-03-31T21:23:34"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Fonction publique"
+                  ], 
+                  "tiers": [
+                    "MACIF (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Finances", 
+                "Taxes"
+              ], 
+              "identifiantFiche": "JVD0M0P3", 
+              "objet": "Investissements responsables: Propositions visant à mieux prendre en compte les aspects sociaux:", 
+              "publicationDate": "2021-03-31T21:23:34"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 8554, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 8, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2021-03-31T19:31:40"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -33499,6 +34247,19 @@
         "nombreActivite": 2, 
         "nombreSalaries": 2, 
         "publicationDate": "2020-07-20T15:49:25"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 8554, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 8, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2021-03-31T19:31:40"
       }
     ], 
     "identifiantNational": "781452511", 
@@ -42652,7 +43413,7 @@
       }
     ], 
     "dateCreation": "2018-06-29T16:27:09", 
-    "dateDernierePublicationActivite": "2020-08-24T15:22:03", 
+    "dateDernierePublicationActivite": "2021-03-31T21:13:05", 
     "datePremierePublication": "2018-06-29T16:27:09", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -42957,12 +43718,407 @@
         "publicationDate": "2020-08-24T15:22:32"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "Pour accélérer la transition énergétique, SOGARIS souhaite proposer aux exploitants de ses espaces de logistique urbaine la possibilité de remiser et charger des véhicules électriques pour la livraison du dernier kilomètre. Or la réglementation actuelle nécessite d’être adaptée pour fournir un cadre clarifié et renforcer la sécurité juridique de ce type d’opérations vertueuses.", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement"
+                    ], 
+                    "tiers": [
+                      "SOGARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Politique industrielle", 
+                  "Impact des transports marchands et collectifs", 
+                  "Impact de l'activité industrielle", 
+                  "Energies renouvelables", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "19V08OIH", 
+                "objet": "Favoriser l’implantation de bornes de charge électrique et le remisage de véhicules utilitaires électriques dans les entrepôts et locaux d’activité urbains.", 
+                "publicationDate": "2021-03-31T21:08:55"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "Pour accélérer la transition énergétique, SOGARIS souhaite proposer aux exploitants de ses espaces de logistique urbaine la possibilité de remiser et charger des véhicules électriques pour la livraison du dernier kilomètre. Or la réglementation actuelle nécessite d’être adaptée pour fournir un cadre clarifié et renforcer la sécurité juridique de ce type d’opérations vertueuses.", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement"
+                  ], 
+                  "tiers": [
+                    "SOGARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Politique industrielle", 
+                "Impact des transports marchands et collectifs", 
+                "Impact de l'activité industrielle", 
+                "Energies renouvelables", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "19V08OIH", 
+              "objet": "Favoriser l’implantation de bornes de charge électrique et le remisage de véhicules utilitaires électriques dans les entrepôts et locaux d’activité urbains.", 
+              "publicationDate": "2021-03-31T21:08:55"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "A la suite de l'intervention de Madame la Ministre des Transports lors de l'inauguration de l'Hôtel Logistique Chapelle International, l'Etat et la Ville de Paris travaillent à l'élaboration d'une disposition fiscale spécifique aux terminaux ferroviaires urbains.", 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "SOGARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Taxes", 
+                  "Transport de fret", 
+                  "Impôts", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "SVFZSZGH", 
+                "objet": "Inscrire dans la loi une disposition fiscale spécifique aux terminaux ferroviaires urbains.", 
+                "publicationDate": "2021-03-31T21:07:34"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "A la suite de l'intervention de Madame la Ministre des Transports lors de l'inauguration de l'Hôtel Logistique Chapelle International, l'Etat et la Ville de Paris travaillent à l'élaboration d'une disposition fiscale spécifique aux terminaux ferroviaires urbains.", 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "SOGARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Taxes", 
+                "Transport de fret", 
+                "Impôts", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "SVFZSZGH", 
+              "objet": "Inscrire dans la loi une disposition fiscale spécifique aux terminaux ferroviaires urbains.", 
+              "publicationDate": "2021-03-31T21:07:34"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement"
+                    ], 
+                    "tiers": [
+                      "SOGARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Politique industrielle", 
+                  "Impact des transports marchands et collectifs", 
+                  "Impact de l'activité industrielle", 
+                  "Energies renouvelables", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "5HAA9N0H", 
+                "objet": "Partager les enjeux de la souveraineté logistique en Ile de France afin de promouvoir une action de l'Etat sur les problématiques de logistique.", 
+                "publicationDate": "2021-03-31T21:10:42"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement"
+                  ], 
+                  "tiers": [
+                    "SOGARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Politique industrielle", 
+                "Impact des transports marchands et collectifs", 
+                "Impact de l'activité industrielle", 
+                "Energies renouvelables", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "5HAA9N0H", 
+              "objet": "Partager les enjeux de la souveraineté logistique en Ile de France afin de promouvoir une action de l'Etat sur les problématiques de logistique.", 
+              "publicationDate": "2021-03-31T21:10:42"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement"
+                    ], 
+                    "tiers": [
+                      "SOGARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Politique industrielle", 
+                  "Impact des transports marchands et collectifs", 
+                  "Impact de l'activité industrielle", 
+                  "Energies renouvelables", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "0V5TQT93", 
+                "objet": "Rechercher des solutions à la procédure de mise en demeure au titre de la réglementation des installations classées pour la protection de l'environnement visant la plateforme logistique de Rungis.", 
+                "publicationDate": "2021-03-31T21:09:49"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement"
+                  ], 
+                  "tiers": [
+                    "SOGARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Politique industrielle", 
+                "Impact des transports marchands et collectifs", 
+                "Impact de l'activité industrielle", 
+                "Energies renouvelables", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "0V5TQT93", 
+              "objet": "Rechercher des solutions à la procédure de mise en demeure au titre de la réglementation des installations classées pour la protection de l'environnement visant la plateforme logistique de Rungis.", 
+              "publicationDate": "2021-03-31T21:09:49"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement"
+                    ], 
+                    "tiers": [
+                      "SOGARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Politique industrielle", 
+                  "Impact des transports marchands et collectifs", 
+                  "Impact de l'activité industrielle", 
+                  "Energies renouvelables", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "UHQSCS43", 
+                "objet": "Alerter sur la problématique des entrepôts liés au e-commerce et sur les différences entre logistique urbaine et logistique classique en termes d'impact territorial.\n", 
+                "publicationDate": "2021-03-31T21:11:39"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement"
+                  ], 
+                  "tiers": [
+                    "SOGARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Politique industrielle", 
+                "Impact des transports marchands et collectifs", 
+                "Impact de l'activité industrielle", 
+                "Energies renouvelables", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "UHQSCS43", 
+              "objet": "Alerter sur la problématique des entrepôts liés au e-commerce et sur les différences entre logistique urbaine et logistique classique en termes d'impact territorial.\n", 
+              "publicationDate": "2021-03-31T21:11:39"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement"
+                    ], 
+                    "tiers": [
+                      "SOGARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Politique industrielle", 
+                  "Impact des transports marchands et collectifs", 
+                  "Impact de l'activité industrielle", 
+                  "Energies renouvelables", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "QV7R8R2V", 
+                "objet": "Présenter les enjeux de la plateforme logistique de Rungis.", 
+                "publicationDate": "2021-03-31T21:13:05"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement"
+                  ], 
+                  "tiers": [
+                    "SOGARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Politique industrielle", 
+                "Impact des transports marchands et collectifs", 
+                "Impact de l'activité industrielle", 
+                "Energies renouvelables", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "QV7R8R2V", 
+              "objet": "Présenter les enjeux de la plateforme logistique de Rungis.", 
+              "publicationDate": "2021-03-31T21:13:05"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9980, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 10 000 euros et < 25 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 6, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2021-03-31T21:16:07"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -43013,6 +44169,19 @@
         "nombreActivite": 3, 
         "nombreSalaries": 3, 
         "publicationDate": "2020-08-24T15:22:32"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9980, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 10 000 euros et < 25 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 6, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2021-03-31T21:16:07"
       }
     ], 
     "identifiantNational": "602046112", 

@@ -79,7 +79,7 @@
       }
     ], 
     "dateCreation": "2019-06-18T11:53:18", 
-    "dateDernierePublicationActivite": "2020-08-21T22:46:54", 
+    "dateDernierePublicationActivite": "2021-03-31T16:46:26", 
     "datePremierePublication": "2017-12-12T16:33:22", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -376,12 +376,145 @@
         "publicationDate": "2020-08-21T22:38:32"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Environnement, énergie et mer", 
+                      "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Commission nationale du débat public"
+                    ], 
+                    "tiers": [
+                      "AGENCE NAT GESTION DECHETS RADIOACTIFS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Déchets", 
+                  "Energie nucléaire"
+                ], 
+                "identifiantFiche": "Q36SWIOV", 
+                "objet": "Expression des enjeux vus de l'Andra sur les suites données au débat public PNGMDR et dans le cadre des échanges liés au post-débat public", 
+                "publicationDate": "2021-03-31T16:46:26"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Environnement, énergie et mer", 
+                    "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Commission nationale du débat public"
+                  ], 
+                  "tiers": [
+                    "AGENCE NAT GESTION DECHETS RADIOACTIFS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Déchets", 
+                "Energie nucléaire"
+              ], 
+              "identifiantFiche": "Q36SWIOV", 
+              "objet": "Expression des enjeux vus de l'Andra sur les suites données au débat public PNGMDR et dans le cadre des échanges liés au post-débat public", 
+              "publicationDate": "2021-03-31T16:46:26"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "AGENCE NAT GESTION DECHETS RADIOACTIFS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Déchets", 
+                  "Energie nucléaire"
+                ], 
+                "identifiantFiche": "DHMZJM1V", 
+                "objet": "Dépôt déclaration d'utilité publique du projet Cigéo", 
+                "publicationDate": "2021-03-31T16:46:02"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "AGENCE NAT GESTION DECHETS RADIOACTIFS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Déchets", 
+                "Energie nucléaire"
+              ], 
+              "identifiantFiche": "DHMZJM1V", 
+              "objet": "Dépôt déclaration d'utilité publique du projet Cigéo", 
+              "publicationDate": "2021-03-31T16:46:02"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9072, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 2, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2021-03-31T16:44:25"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -1032,6 +1165,19 @@
         "nombreActivite": 1, 
         "nombreSalaries": 3, 
         "publicationDate": "2020-08-21T22:38:32"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9072, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 2, 
+        "nombreSalaries": 3, 
+        "publicationDate": "2021-03-31T16:44:25"
       }
     ], 
     "identifiantNational": "390199669", 
@@ -18732,7 +18878,7 @@
       }
     ], 
     "dateCreation": "2021-03-31T11:40:13", 
-    "dateDernierePublicationActivite": "2020-04-30T15:38:03", 
+    "dateDernierePublicationActivite": "2021-03-31T11:55:49", 
     "datePremierePublication": "2019-06-25T10:53:50", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -19075,6 +19221,68 @@
                 "actionsRepresentationInteret": [
                   {
                     "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Logement, Aménagement du territoire, ruralité et collectivités territoriales, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "SOCIETE DU GRAND PARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement", 
+                  "Construction", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "YVIG4BU3", 
+                "objet": "PJL ASAP: Adapter à l'évolution du GPE, les conditions de développement des projets immobiliers liés aux gares, pour favoriser la densité urbaine et accroître l'usage des transports collectifs", 
+                "publicationDate": "2021-03-31T11:55:49"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Logement, Aménagement du territoire, ruralité et collectivités territoriales, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "SOCIETE DU GRAND PARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement", 
+                "Construction", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "YVIG4BU3", 
+              "objet": "PJL ASAP: Adapter à l'évolution du GPE, les conditions de développement des projets immobiliers liés aux gares, pour favoriser la densité urbaine et accroître l'usage des transports collectifs", 
+              "publicationDate": "2021-03-31T11:55:49"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
                       "Etablir une correspondance régulière (par courriel, par courrier…)"
                     ], 
                     "decisionsConcernees": [
@@ -19253,6 +19461,188 @@
               "identifiantFiche": "0V2AEEQV", 
               "objet": "Demander une exonération de la TGAP pour les déblais non dangereux", 
               "publicationDate": "2021-03-31T11:53:04"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "SOCIETE DU GRAND PARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Construction", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "A3YR1O6V", 
+                "objet": "Améliorer la maîtrise des coûts du foncier du projet du GPE", 
+                "publicationDate": "2021-03-31T11:55:02"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                  ], 
+                  "tiers": [
+                    "SOCIETE DU GRAND PARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Construction", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "A3YR1O6V", 
+              "objet": "Améliorer la maîtrise des coûts du foncier du projet du GPE", 
+              "publicationDate": "2021-03-31T11:55:02"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Logement, Aménagement du territoire, ruralité et collectivités territoriales, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "SOCIETE DU GRAND PARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Transports alternatifs", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "UVPWP7D3", 
+                "objet": "Préciser la compétence de la SGP en matière d'élaboration et de participation à la mise en œuvre de l'intermodalité autour des gares. ", 
+                "publicationDate": "2021-03-31T11:55:37"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Logement, Aménagement du territoire, ruralité et collectivités territoriales, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "SOCIETE DU GRAND PARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Transports alternatifs", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "UVPWP7D3", 
+              "objet": "Préciser la compétence de la SGP en matière d'élaboration et de participation à la mise en œuvre de l'intermodalité autour des gares. ", 
+              "publicationDate": "2021-03-31T11:55:37"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "SOCIETE DU GRAND PARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "SVFZDANH", 
+                "objet": "Contexte COVID 19: Demander l'adaptation des marchés de MOE en cours par voie d'avenant au-delà des seuils actuellement en vigueur", 
+                "publicationDate": "2021-03-31T11:54:43"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                  ], 
+                  "tiers": [
+                    "SOCIETE DU GRAND PARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "SVFZDANH", 
+              "objet": "Contexte COVID 19: Demander l'adaptation des marchés de MOE en cours par voie d'avenant au-delà des seuils actuellement en vigueur", 
+              "publicationDate": "2021-03-31T11:54:43"
             }
           }, 
           {
@@ -19460,6 +19850,66 @@
                   }
                 ], 
                 "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "DVS47KCH", 
+                "objet": "Demander des mesures de simplification concernant l'accompagnement du maître d'ouvrage par avocats", 
+                "publicationDate": "2021-03-31T11:55:20"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                  ], 
+                  "tiers": [
+                    "SOCIETE DU GRAND PARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "DVS47KCH", 
+              "objet": "Demander des mesures de simplification concernant l'accompagnement du maître d'ouvrage par avocats", 
+              "publicationDate": "2021-03-31T11:55:20"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "SOCIETE DU GRAND PARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
                   "Construction", 
                   "Infrastructures"
                 ], 
@@ -19621,7 +20071,7 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 75 000 euros et < 100 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 10, 
+        "nombreActivite": 15, 
         "nombreSalaries": 2, 
         "publicationDate": "2021-03-31T11:28:07"
       }, 
@@ -19859,7 +20309,7 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 75 000 euros et < 100 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 10, 
+        "nombreActivite": 15, 
         "nombreSalaries": 2, 
         "publicationDate": "2021-03-31T11:28:07"
       }
@@ -19874,89 +20324,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Construction", 
-          "Infrastructures"
-        ], 
-        "identifiantFiche": "JVD0TQ93", 
-        "nom_organisation": "SOCIETE DU GRAND PARIS", 
-        "num_organisation": "525046017", 
-        "objet": "Fluidifier le déroulement des procédures de maîtrise foncière, terrains publics ou privés, en adéquation avec les spécificités d'un chantier de l'ampleur du GPE", 
-        "publicationDate": "2021-03-31T11:50:39"
-      }, 
-      {
-        "domainesIntervention": [
-          "Transport de voyageurs", 
-          "Infrastructures"
-        ], 
-        "identifiantFiche": "LV1CJLYV", 
-        "nom_organisation": "SOCIETE DU GRAND PARIS", 
-        "num_organisation": "525046017", 
-        "objet": "Projet de loi de Finances pour 2021 : Expliquer et justifier les besoins d’emplois de la Société du Grand Paris", 
-        "publicationDate": "2021-03-31T11:51:13"
-      }, 
-      {
-        "domainesIntervention": [
-          "Logement", 
-          "Construction", 
-          "Infrastructures"
-        ], 
-        "identifiantFiche": "ZV98WT9H", 
-        "nom_organisation": "SOCIETE DU GRAND PARIS", 
-        "num_organisation": "525046017", 
-        "objet": "Demander l'adaptation des règles de PLU pour les quartiers de gare notamment dans un objectif de densification urbaine et d'accroissement de l'usage des transports collectifs ", 
-        "publicationDate": "2021-03-31T11:51:57"
-      }, 
-      {
-        "domainesIntervention": [
-          "Transport de voyageurs", 
-          "Impact des transports marchands et collectifs", 
-          "Infrastructures"
-        ], 
-        "identifiantFiche": "Y3GQOO7H", 
-        "nom_organisation": "SOCIETE DU GRAND PARIS", 
-        "num_organisation": "525046017", 
-        "objet": "\nPréciser le régime d'évaluation environnementale applicable au GPE", 
-        "publicationDate": "2021-03-31T11:52:26"
-      }, 
-      {
-        "domainesIntervention": [
-          "Transport de voyageurs", 
-          "Construction", 
-          "Infrastructures"
-        ], 
-        "identifiantFiche": "0V2AEEQV", 
-        "nom_organisation": "SOCIETE DU GRAND PARIS", 
-        "num_organisation": "525046017", 
-        "objet": "Demander une exonération de la TGAP pour les déblais non dangereux", 
-        "publicationDate": "2021-03-31T11:53:04"
-      }, 
-      {
-        "domainesIntervention": [
-          "Transport de voyageurs", 
-          "Infrastructures"
-        ], 
-        "identifiantFiche": "0V2AEEYV", 
-        "nom_organisation": "SOCIETE DU GRAND PARIS", 
-        "num_organisation": "525046017", 
-        "objet": "\nDemander une prise en compte des spécificités du projet GPE concernant les ZAC", 
-        "publicationDate": "2021-03-31T11:53:17"
-      }, 
-      {
-        "domainesIntervention": [
-          "Transport de voyageurs", 
-          "Construction", 
-          "Infrastructures"
-        ], 
-        "identifiantFiche": "Y3KG11KV", 
-        "nom_organisation": "SOCIETE DU GRAND PARIS", 
-        "num_organisation": "525046017", 
-        "objet": "Demander une exception de portée très limitée au principe d’inconstructibilité des domaines nationaux (St Cloud et Versailles)", 
-        "publicationDate": "2021-03-31T11:53:33"
-      }
-    ], 
+    "resumes_actions": [], 
     "telephoneDeContact": "01 82 46 20 00", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/525046017.json", 
@@ -20208,7 +20576,7 @@
       }
     ], 
     "dateCreation": "2021-03-30T16:22:43", 
-    "dateDernierePublicationActivite": "2020-10-23T17:20:31", 
+    "dateDernierePublicationActivite": "2021-03-31T18:28:01", 
     "datePremierePublication": "2018-04-12T09:59:31", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -20454,14 +20822,83 @@
         "publicationDate": "2020-10-19T15:58:00"
       }, 
       {
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 8887, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 0, 
+        "nombreSalaries": 17, 
+        "publicationDate": "2021-03-31T18:27:40"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Marchés publics d'une valeur supérieure aux seuils européens"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Intérieur"
+                    ], 
+                    "tiers": [
+                      "UNION DES GROUPEMENTS D'ACHATS PUBLICS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Système de santé et médico-social", 
+                  "Ordre administratif", 
+                  "Défense", 
+                  "Sécurité nationale"
+                ], 
+                "identifiantFiche": "9V0CN6K3", 
+                "objet": "présenter l'activité de l'UGAP et notamment son offre de bien et de service afin d'inciter les pouvoirs publics à recourir aux services de la centrale d'achat ", 
+                "publicationDate": "2021-03-31T18:28:01"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Marchés publics d'une valeur supérieure aux seuils européens"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Intérieur"
+                  ], 
+                  "tiers": [
+                    "UNION DES GROUPEMENTS D'ACHATS PUBLICS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Système de santé et médico-social", 
+                "Ordre administratif", 
+                "Défense", 
+                "Sécurité nationale"
+              ], 
+              "identifiantFiche": "9V0CN6K3", 
+              "objet": "présenter l'activité de l'UGAP et notamment son offre de bien et de service afin d'inciter les pouvoirs publics à recourir aux services de la centrale d'achat ", 
+              "publicationDate": "2021-03-31T18:28:01"
+            }
+          }
+        ], 
         "dateDebut": "2021-01-01", 
         "dateFin": "2021-12-31", 
         "defautDeclaration": false, 
@@ -25425,6 +25862,19 @@
         "nombreActivite": 1, 
         "nombreSalaries": 17, 
         "publicationDate": "2020-10-19T15:58:00"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 8887, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 17, 
+        "publicationDate": "2021-03-31T18:27:40"
       }
     ], 
     "identifiantNational": "776056467", 
