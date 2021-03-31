@@ -18678,6 +18678,11 @@
         "denomination": "UNION  TRANSPORTS PUBLICS FERROVIAIRES", 
         "identifiantNational": "784408643", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "PARIS EUROPLACE", 
+        "identifiantNational": "W751107990", 
+        "typeIdentifiantNational": "RNA"
       }
     ], 
     "categorieOrganisation": {
@@ -18691,6 +18696,7 @@
     "collaborateurs": [
       {
         "civilite": "MME", 
+        "fonction": "Directrice des relations extérieures", 
         "nom": "GOURLET", 
         "prenom": "Sandrine"
       }, 
@@ -18702,15 +18708,9 @@
       }, 
       {
         "civilite": "M", 
-        "fonction": "Directeur de cabinet adjoint", 
+        "fonction": "Directeur de cabinet", 
         "nom": "BOURDAIS", 
         "prenom": "Cédric"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "président du directoire", 
-        "nom": "DALLARD", 
-        "prenom": "Thierry"
       }, 
       {
         "civilite": "M", 
@@ -18731,7 +18731,7 @@
         "prenom": "Marine"
       }
     ], 
-    "dateCreation": "2020-09-25T17:02:39", 
+    "dateCreation": "2021-03-31T11:40:13", 
     "dateDernierePublicationActivite": "2020-04-30T15:38:03", 
     "datePremierePublication": "2019-06-25T10:53:50", 
     "declarationOrgaAppartenance": true, 
@@ -18741,8 +18741,8 @@
       {
         "civilite": "M", 
         "fonction": "Président du Directoire", 
-        "nom": "DALLARD", 
-        "prenom": "Thierry"
+        "nom": "MONTEILS", 
+        "prenom": "Jean-François"
       }, 
       {
         "civilite": "M", 
@@ -19014,12 +19014,616 @@
         "publicationDate": "2020-09-25T17:01:56"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "SOCIETE DU GRAND PARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "LV1CJLYV", 
+                "objet": "Projet de loi de Finances pour 2021 : Expliquer et justifier les besoins d’emplois de la Société du Grand Paris", 
+                "publicationDate": "2021-03-31T11:51:13"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "SOCIETE DU GRAND PARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "LV1CJLYV", 
+              "objet": "Projet de loi de Finances pour 2021 : Expliquer et justifier les besoins d’emplois de la Société du Grand Paris", 
+              "publicationDate": "2021-03-31T11:51:13"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "SOCIETE DU GRAND PARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Construction", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "Y3KG11KV", 
+                "objet": "Demander une exception de portée très limitée au principe d’inconstructibilité des domaines nationaux (St Cloud et Versailles)", 
+                "publicationDate": "2021-03-31T11:53:33"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                  ], 
+                  "tiers": [
+                    "SOCIETE DU GRAND PARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Construction", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "Y3KG11KV", 
+              "objet": "Demander une exception de portée très limitée au principe d’inconstructibilité des domaines nationaux (St Cloud et Versailles)", 
+              "publicationDate": "2021-03-31T11:53:33"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "SOCIETE DU GRAND PARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Impact des transports marchands et collectifs", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "Y3GQOO7H", 
+                "objet": "\nPréciser le régime d'évaluation environnementale applicable au GPE", 
+                "publicationDate": "2021-03-31T11:52:26"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                  ], 
+                  "tiers": [
+                    "SOCIETE DU GRAND PARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Impact des transports marchands et collectifs", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "Y3GQOO7H", 
+              "objet": "\nPréciser le régime d'évaluation environnementale applicable au GPE", 
+              "publicationDate": "2021-03-31T11:52:26"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "SOCIETE DU GRAND PARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Construction", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "0V2AEEQV", 
+                "objet": "Demander une exonération de la TGAP pour les déblais non dangereux", 
+                "publicationDate": "2021-03-31T11:53:04"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                  ], 
+                  "tiers": [
+                    "SOCIETE DU GRAND PARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Construction", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "0V2AEEQV", 
+              "objet": "Demander une exonération de la TGAP pour les déblais non dangereux", 
+              "publicationDate": "2021-03-31T11:53:04"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "SOCIETE DU GRAND PARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "O38QWWKH", 
+                "objet": "Cibler les DUP modificatives sur les modifications importantes du projet et limiter à une ré-évaluation socio-économique les hausses de coût", 
+                "publicationDate": "2021-03-31T11:54:11"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                  ], 
+                  "tiers": [
+                    "SOCIETE DU GRAND PARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "O38QWWKH", 
+              "objet": "Cibler les DUP modificatives sur les modifications importantes du projet et limiter à une ré-évaluation socio-économique les hausses de coût", 
+              "publicationDate": "2021-03-31T11:54:11"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Logement, Aménagement du territoire, ruralité et collectivités territoriales, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "SOCIETE DU GRAND PARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement", 
+                  "Construction", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "ZV98WT9H", 
+                "objet": "Demander l'adaptation des règles de PLU pour les quartiers de gare notamment dans un objectif de densification urbaine et d'accroissement de l'usage des transports collectifs ", 
+                "publicationDate": "2021-03-31T11:51:57"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Logement, Aménagement du territoire, ruralité et collectivités territoriales, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "SOCIETE DU GRAND PARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Logement", 
+                "Construction", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "ZV98WT9H", 
+              "objet": "Demander l'adaptation des règles de PLU pour les quartiers de gare notamment dans un objectif de densification urbaine et d'accroissement de l'usage des transports collectifs ", 
+              "publicationDate": "2021-03-31T11:51:57"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "SOCIETE DU GRAND PARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "C34BPDTV", 
+                "objet": "\nDemander la clarification de points de procédures d'achat de la commande publique", 
+                "publicationDate": "2021-03-31T11:54:25"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                  ], 
+                  "tiers": [
+                    "SOCIETE DU GRAND PARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "C34BPDTV", 
+              "objet": "\nDemander la clarification de points de procédures d'achat de la commande publique", 
+              "publicationDate": "2021-03-31T11:54:25"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "", 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "SOCIETE DU GRAND PARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Construction", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "JVD0TQ93", 
+                "objet": "Fluidifier le déroulement des procédures de maîtrise foncière, terrains publics ou privés, en adéquation avec les spécificités d'un chantier de l'ampleur du GPE", 
+                "publicationDate": "2021-03-31T11:50:39"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "", 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                  ], 
+                  "tiers": [
+                    "SOCIETE DU GRAND PARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Construction", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "JVD0TQ93", 
+              "objet": "Fluidifier le déroulement des procédures de maîtrise foncière, terrains publics ou privés, en adéquation avec les spécificités d'un chantier de l'ampleur du GPE", 
+              "publicationDate": "2021-03-31T11:50:39"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "SOCIETE DU GRAND PARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "YVNTIIUV", 
+                "objet": "Demander le retrait de l'obligation d'assurance décennale pour les gares souterraines", 
+                "publicationDate": "2021-03-31T11:53:46"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                  ], 
+                  "tiers": [
+                    "SOCIETE DU GRAND PARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "YVNTIIUV", 
+              "objet": "Demander le retrait de l'obligation d'assurance décennale pour les gares souterraines", 
+              "publicationDate": "2021-03-31T11:53:46"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "SOCIETE DU GRAND PARIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Transport de voyageurs", 
+                  "Infrastructures"
+                ], 
+                "identifiantFiche": "0V2AEEYV", 
+                "objet": "\nDemander une prise en compte des spécificités du projet GPE concernant les ZAC", 
+                "publicationDate": "2021-03-31T11:53:17"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                  ], 
+                  "tiers": [
+                    "SOCIETE DU GRAND PARIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Transport de voyageurs", 
+                "Infrastructures"
+              ], 
+              "identifiantFiche": "0V2AEEYV", 
+              "objet": "\nDemander une prise en compte des spécificités du projet GPE concernant les ZAC", 
+              "publicationDate": "2021-03-31T11:53:17"
+            }
+          }
+        ], 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 10071, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 75 000 euros et < 100 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 10, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2021-03-31T11:28:07"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -19110,6 +19714,128 @@
         "telephoneDeContact": "01 82 46 20 00", 
         "typeIdentifiantNational": "SIREN", 
         "ville": "SAINT DENIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "2 Mail de la Petite Espagne", 
+        "affiliations": [
+          {
+            "denomination": "UNION  TRANSPORTS PUBLICS FERROVIAIRES", 
+            "identifiantNational": "784408643", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_PUB", 
+          "code": "EPAIC", 
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
+        }, 
+        "clients": [], 
+        "codePostal": "93212", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "nom": "GOURLET", 
+            "prenom": "Sandrine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des relations parlementaires et élus nationaux", 
+            "nom": "BOY", 
+            "prenom": "Deniz"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur de cabinet adjoint", 
+            "nom": "BOURDAIS", 
+            "prenom": "Cédric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "président du directoire", 
+            "nom": "DALLARD", 
+            "prenom": "Thierry"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Membre du directoire", 
+            "nom": "BRÉDILLOT", 
+            "prenom": "Frédéric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Membre du directoire", 
+            "nom": "CATHELAIN", 
+            "prenom": "Bernard"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable des relations parlementaires et élus nationaux", 
+            "nom": "BINCKLI", 
+            "prenom": "Marine"
+          }
+        ], 
+        "dateCreation": "2020-09-25T17:02:39", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "SOCIETE DU GRAND PARIS", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président du Directoire", 
+            "nom": "DALLARD", 
+            "prenom": "Thierry"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Membre du Directoire", 
+            "nom": "BREDILLOT", 
+            "prenom": "Frédéric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Membre du Directoire", 
+            "nom": "CATHELAIN", 
+            "prenom": "Bernard"
+          }
+        ], 
+        "emailDeContact": "info@societedugrandparis.fr", 
+        "identifiantNational": "525046017", 
+        "lienPageFacebook": "https://www.facebook.com/GrandParisExpress", 
+        "lienPageLinkedin": "https://fr.linkedin.com/company/societe-du-grand-paris", 
+        "lienPageTwitter": "https://twitter.com/GdParisExpress", 
+        "lienSiteWeb": "https://www.societedugrandparis.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "01 82 46 20 00", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "La Plaine Saint Denis"
       }
     ], 
     "historique_exercices": [
@@ -19124,6 +19850,18 @@
         "nombreActivite": 4, 
         "nombreSalaries": 1, 
         "publicationDate": "2020-09-25T17:01:56"
+      }, 
+      {
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 10071, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 75 000 euros et < 100 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 10, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2021-03-31T11:28:07"
       }
     ], 
     "identifiantNational": "525046017", 
@@ -19136,7 +19874,89 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Construction", 
+          "Infrastructures"
+        ], 
+        "identifiantFiche": "JVD0TQ93", 
+        "nom_organisation": "SOCIETE DU GRAND PARIS", 
+        "num_organisation": "525046017", 
+        "objet": "Fluidifier le déroulement des procédures de maîtrise foncière, terrains publics ou privés, en adéquation avec les spécificités d'un chantier de l'ampleur du GPE", 
+        "publicationDate": "2021-03-31T11:50:39"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs", 
+          "Infrastructures"
+        ], 
+        "identifiantFiche": "LV1CJLYV", 
+        "nom_organisation": "SOCIETE DU GRAND PARIS", 
+        "num_organisation": "525046017", 
+        "objet": "Projet de loi de Finances pour 2021 : Expliquer et justifier les besoins d’emplois de la Société du Grand Paris", 
+        "publicationDate": "2021-03-31T11:51:13"
+      }, 
+      {
+        "domainesIntervention": [
+          "Logement", 
+          "Construction", 
+          "Infrastructures"
+        ], 
+        "identifiantFiche": "ZV98WT9H", 
+        "nom_organisation": "SOCIETE DU GRAND PARIS", 
+        "num_organisation": "525046017", 
+        "objet": "Demander l'adaptation des règles de PLU pour les quartiers de gare notamment dans un objectif de densification urbaine et d'accroissement de l'usage des transports collectifs ", 
+        "publicationDate": "2021-03-31T11:51:57"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs", 
+          "Impact des transports marchands et collectifs", 
+          "Infrastructures"
+        ], 
+        "identifiantFiche": "Y3GQOO7H", 
+        "nom_organisation": "SOCIETE DU GRAND PARIS", 
+        "num_organisation": "525046017", 
+        "objet": "\nPréciser le régime d'évaluation environnementale applicable au GPE", 
+        "publicationDate": "2021-03-31T11:52:26"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs", 
+          "Construction", 
+          "Infrastructures"
+        ], 
+        "identifiantFiche": "0V2AEEQV", 
+        "nom_organisation": "SOCIETE DU GRAND PARIS", 
+        "num_organisation": "525046017", 
+        "objet": "Demander une exonération de la TGAP pour les déblais non dangereux", 
+        "publicationDate": "2021-03-31T11:53:04"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs", 
+          "Infrastructures"
+        ], 
+        "identifiantFiche": "0V2AEEYV", 
+        "nom_organisation": "SOCIETE DU GRAND PARIS", 
+        "num_organisation": "525046017", 
+        "objet": "\nDemander une prise en compte des spécificités du projet GPE concernant les ZAC", 
+        "publicationDate": "2021-03-31T11:53:17"
+      }, 
+      {
+        "domainesIntervention": [
+          "Transport de voyageurs", 
+          "Construction", 
+          "Infrastructures"
+        ], 
+        "identifiantFiche": "Y3KG11KV", 
+        "nom_organisation": "SOCIETE DU GRAND PARIS", 
+        "num_organisation": "525046017", 
+        "objet": "Demander une exception de portée très limitée au principe d’inconstructibilité des domaines nationaux (St Cloud et Versailles)", 
+        "publicationDate": "2021-03-31T11:53:33"
+      }
+    ], 
     "telephoneDeContact": "01 82 46 20 00", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/525046017.json", 
