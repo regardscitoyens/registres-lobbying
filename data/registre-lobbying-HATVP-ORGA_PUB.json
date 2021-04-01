@@ -7283,10 +7283,15 @@
         "fonction": "chargée des relations institutionnelles", 
         "nom": "MUR", 
         "prenom": "Emmanuelle"
+      }, 
+      {
+        "civilite": "MME", 
+        "nom": "MUR", 
+        "prenom": "Emmanuelle"
       }
     ], 
-    "dateCreation": "2019-12-19T16:23:32", 
-    "dateDernierePublicationActivite": "2020-06-03T11:43:31", 
+    "dateCreation": "2021-04-01T09:15:48", 
+    "dateDernierePublicationActivite": "2021-04-01T09:25:24", 
     "datePremierePublication": "2017-12-12T10:57:52", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -7626,6 +7631,70 @@
         "publicationDate": "2020-06-03T11:48:22"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "INSTITUT DE RADIOPROTECTION ET DE SURETE NUCLEAIRE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Accidents et catastrophes naturelles", 
+                  "Défense", 
+                  "Recherche et innovation", 
+                  "Energie nucléaire"
+                ], 
+                "identifiantFiche": "W3U9N7SV", 
+                "objet": "Valoriser et préserver la capacité d'expertise et de recherche de l'IRSN", 
+                "publicationDate": "2021-04-01T09:25:24"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "INSTITUT DE RADIOPROTECTION ET DE SURETE NUCLEAIRE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Accidents et catastrophes naturelles", 
+                "Défense", 
+                "Recherche et innovation", 
+                "Energie nucléaire"
+              ], 
+              "identifiantFiche": "W3U9N7SV", 
+              "objet": "Valoriser et préserver la capacité d'expertise et de recherche de l'IRSN", 
+              "publicationDate": "2021-04-01T09:25:24"
+            }
+          }
+        ], 
         "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
@@ -7634,9 +7703,9 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "> = 50 000 euros et < 75 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 1, 
         "nombreSalaries": 2, 
-        "publicationDate": "2021-03-23T17:14:27"
+        "publicationDate": "2021-04-01T09:20:06"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -7950,6 +8019,102 @@
         "telephoneDeContact": "01 58 35 88 88", 
         "typeIdentifiantNational": "SIREN", 
         "ville": "FONTENAY-AUX-ROSES"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "SECURITE", 
+              "label": "Défense, sécurité", 
+              "ordre": 7
+            }, 
+            {
+              "categorie": null, 
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "categorie": null, 
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "categorie": null, 
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "INSTIT RADIOPROTECTION SURETE NUCLEAIR\r\n31 AVENUE DE LA DIVISION LECLERC", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_PUB", 
+          "code": "EPAIC", 
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
+        }, 
+        "clients": [], 
+        "codePostal": "92260", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "NIEL", 
+            "prenom": "Jean-Christophe"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "chargée des relations institutionnelles", 
+            "nom": "MUR", 
+            "prenom": "Emmanuelle"
+          }
+        ], 
+        "dateCreation": "2019-12-19T16:23:32", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "INSTITUT DE RADIOPROTECTION ET DE SURETE NUCLEAIRE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "NIEL", 
+            "prenom": "Jean-Christophe"
+          }
+        ], 
+        "emailDeContact": "contact@irsn.fr", 
+        "identifiantNational": "440546018", 
+        "lienPageFacebook": "https://www.facebook.com/IRSN.fr/", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/irsn", 
+        "lienPageTwitter": "https://twitter.com/irsnfrance", 
+        "lienSiteWeb": "http://www.irsn.fr", 
+        "nomUsage": "INSTITUT DE RADIOPROTECTION ET DE SÛRETÉ NUCLÉAIRE", 
+        "nomUsageHatvp": "INSTITUT DE RADIOPROTECTION ET DE SÛRETÉ NUCLÉAIRE", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "sigleHatvp": "IRSN", 
+        "telephoneDeContact": "01 58 35 88 88", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "FONTENAY-AUX-ROSES"
       }
     ], 
     "historique_exercices": [
@@ -8014,7 +8179,46 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "> = 50 000 euros et < 75 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2021-04-01T09:20:06"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9202, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 50 000 euros et < 75 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2021-04-01T09:18:06"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9202, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 50 000 euros et < 75 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2021-04-01T09:17:12"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9202, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 50 000 euros et < 75 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
         "nombreSalaries": 2, 
         "publicationDate": "2021-03-23T17:14:27"
       }
@@ -8196,7 +8400,7 @@
       }
     ], 
     "dateCreation": "2020-01-23T12:51:50", 
-    "dateDernierePublicationActivite": "2020-04-30T09:04:40", 
+    "dateDernierePublicationActivite": "2021-04-01T10:17:47", 
     "datePremierePublication": "2020-01-23T12:51:50", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -8280,6 +8484,74 @@
               "objet": "SENSIBILISATION DES DÉCIDEURS PUBLICS AUX PROBLÉMATIQUES DE VIE\nQUOTIDIENNE DES CONSOMMATEURS", 
               "publicationDate": "2020-04-30T09:04:40"
             }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Agriculture, agroalimentaire et forêt, Affaires sociales et santé, Economie et finances, Environnement, énergie et mer", 
+                      "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Médiateur national de l'énergie, Autorité des marchés financiers, Haute Autorité de santé, Autorité de régulation des communications électroniques et des postes, Commission nationale de l'informatique et des libertés"
+                    ], 
+                    "tiers": [
+                      "INSTITUT NATIONAL DE LA CONSOMMATION (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Banques", 
+                  "Prévention", 
+                  "Sécurité et normes alimentaires", 
+                  "Handicap"
+                ], 
+                "identifiantFiche": "SVFZSSAH", 
+                "objet": "SENSIBILISATION DES DÉCIDEURS PUBLICS AUX PROBLÉMATIQUES DE VIE\nQUOTIDIENNE DES CONSOMMATEURS", 
+                "publicationDate": "2021-04-01T10:17:47"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Agriculture, agroalimentaire et forêt, Affaires sociales et santé, Economie et finances, Environnement, énergie et mer", 
+                    "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Médiateur national de l'énergie, Autorité des marchés financiers, Haute Autorité de santé, Autorité de régulation des communications électroniques et des postes, Commission nationale de l'informatique et des libertés"
+                  ], 
+                  "tiers": [
+                    "INSTITUT NATIONAL DE LA CONSOMMATION (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Banques", 
+                "Prévention", 
+                "Sécurité et normes alimentaires", 
+                "Handicap"
+              ], 
+              "identifiantFiche": "SVFZSSAH", 
+              "objet": "SENSIBILISATION DES DÉCIDEURS PUBLICS AUX PROBLÉMATIQUES DE VIE\nQUOTIDIENNE DES CONSOMMATEURS", 
+              "publicationDate": "2021-04-01T10:17:47"
+            }
           }
         ], 
         "chiffreAffaire": "> = 1 000 000 euros", 
@@ -8290,7 +8562,7 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 1, 
+        "nombreActivite": 2, 
         "nombreSalaries": 3, 
         "publicationDate": "2020-10-13T15:41:28"
       }, 
@@ -8303,12 +8575,17 @@
         "nombreActivite": 0
       }, 
       {
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-24", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 10333, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 0, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2021-04-01T10:19:42"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -8330,7 +8607,7 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 1, 
+        "nombreActivite": 2, 
         "nombreSalaries": 3, 
         "publicationDate": "2020-10-13T15:41:28"
       }, 
@@ -8343,9 +8620,22 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 1, 
+        "nombreActivite": 2, 
         "nombreSalaries": 3, 
         "publicationDate": "2020-10-13T15:33:54"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-24", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 10333, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2021-04-01T10:19:42"
       }
     ], 
     "identifiantNational": "381856723", 
@@ -8358,7 +8648,21 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Banques", 
+          "Prévention", 
+          "Sécurité et normes alimentaires", 
+          "Handicap"
+        ], 
+        "identifiantFiche": "SVFZSSAH", 
+        "nom_organisation": "INSTITUT NATIONAL DE LA CONSOMMATION", 
+        "num_organisation": "381856723", 
+        "objet": "SENSIBILISATION DES DÉCIDEURS PUBLICS AUX PROBLÉMATIQUES DE VIE\nQUOTIDIENNE DES CONSOMMATEURS", 
+        "publicationDate": "2021-04-01T10:17:47"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/381856723.json", 
     "ville": "PARIS CEDEX 15"

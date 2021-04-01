@@ -99,7 +99,7 @@
         "prenom": "Jean"
       }
     ], 
-    "dateCreation": "2021-03-31T19:01:11", 
+    "dateCreation": "2021-04-01T09:33:14", 
     "dateDernierePublicationActivite": "2021-03-31T11:22:12", 
     "datePremierePublication": "2018-02-09T14:55:31", 
     "declarationOrgaAppartenance": true, 
@@ -1384,6 +1384,127 @@
         "lienSiteWeb": "http://www.adoma.fr/", 
         "pays": "FRANCE", 
         "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "categorie": null, 
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }, 
+            {
+              "categorie": null, 
+              "code": "MIGRA", 
+              "label": "Questions migratoires", 
+              "ordre": 24
+            }
+          ]
+        }, 
+        "adresse": "ADOMA\n33 avenue Pierre Mendes France\n", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION DES ACTEURS DE LA SOLIDARITE", 
+            "identifiantNational": "308401090", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS FRANCIL. FAVORISER INSERT. PAR LOGT", 
+            "identifiantNational": "394012074", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CDC HABITAT", 
+            "identifiantNational": "470801168", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "UNAFO", 
+            "identifiantNational": "321877904", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [], 
+        "codePostal": "75013", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "directeur d'exploitation", 
+            "nom": "DE WARREN", 
+            "prenom": "Gilles"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "directrice d'hébergement", 
+            "nom": "PARIGI", 
+            "prenom": "Stefania"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Juridique", 
+            "nom": "VERBRACKEL", 
+            "prenom": "Marie-Pierre"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général Adjoint", 
+            "nom": "DOLENSKI", 
+            "prenom": "Marc"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur General", 
+            "nom": "CLEMENT", 
+            "prenom": "Jean"
+          }
+        ], 
+        "dateCreation": "2021-03-31T19:01:11", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "ADOMA", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "CLEMENT", 
+            "prenom": "Jean-Paul"
+          }
+        ], 
+        "identifiantNational": "788058030", 
+        "lienSiteWeb": "http://www.adoma.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
         "publierMonAdressePhysique": true, 
         "publierMonTelephoneDeContact": false, 
         "typeIdentifiantNational": "SIREN", 
@@ -16795,6 +16916,11 @@
         "denomination": "GUICHET ENTREPRISES", 
         "identifiantNational": "W751200853", 
         "typeIdentifiantNational": "RNA"
+      }, 
+      {
+        "denomination": "THE EUROPEAN BUSINESS REGISTRY ASSOCIATON", 
+        "identifiantNational": "H799090982", 
+        "typeIdentifiantNational": "HATVP"
       }
     ], 
     "categorieOrganisation": {
@@ -16847,9 +16973,15 @@
         "fonction": "Chargée de mission", 
         "nom": "PRINTEMS", 
         "prenom": "Françoise"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Secrétaire général", 
+        "nom": "HAZARD", 
+        "prenom": "Christophe"
       }
     ], 
-    "dateCreation": "2021-03-29T16:13:27", 
+    "dateCreation": "2021-04-01T10:47:48", 
     "dateDernierePublicationActivite": "2021-03-29T16:26:21", 
     "datePremierePublication": "2018-04-16T14:50:34", 
     "declarationOrgaAppartenance": true, 
@@ -19581,6 +19713,216 @@
           }
         ], 
         "dateCreation": "2020-08-17T09:51:39", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM", 
+        "dirigeants": [
+          {
+            "civilite": "MME", 
+            "fonction": "Présidente", 
+            "nom": "JONVAL", 
+            "prenom": "Sophie"
+          }
+        ], 
+        "identifiantNational": "784412389", 
+        "lienPageFacebook": "https://www.facebook.com/CNGTC/", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/cngtc/", 
+        "lienPageTwitter": "https://twitter.com/cng_tc?lang=fr", 
+        "lienSiteWeb": "http://www.cngtc.fr", 
+        "nomUsage": "CNGTC", 
+        "nomUsageHatvp": "CONSEIL NATIONAL DES GREFFIERS DES TRIBUNAUX DE COMMERCE", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "categorie": null, 
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "ETRANGER", 
+              "label": "Affaires étrangères, coopération internationale", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "CONSO", 
+              "label": "Concurrence, consommation", 
+              "ordre": 6
+            }, 
+            {
+              "categorie": null, 
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "categorie": null, 
+              "code": "JUSTICE", 
+              "label": "Justice", 
+              "ordre": 16
+            }, 
+            {
+              "categorie": null, 
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }, 
+            {
+              "categorie": null, 
+              "code": "OUTREMER", 
+              "label": "Outre-mer", 
+              "ordre": 20
+            }, 
+            {
+              "categorie": null, 
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }, 
+            {
+              "categorie": null, 
+              "code": "PROREG", 
+              "label": "Professions réglementées", 
+              "ordre": 22
+            }
+          ]
+        }, 
+        "adresse": "CONSEIL NATIONAL GREFFIERS TRIBUNAUX C\r\n29 RUE DANIELLE CASANOVA", 
+        "affiliations": [
+          {
+            "denomination": "FONDATION POUR LE DROIT CONTINENTAL", 
+            "identifiantNational": "507793149", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CAVOM CAISSE ALLOC VIEIL OFF M", 
+            "identifiantNational": "317781441", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CHAMBRE NATIONALE DES PROFESSIONS LIBERALES CNPL", 
+            "identifiantNational": "W751045200", 
+            "typeIdentifiantNational": "RNA"
+          }, 
+          {
+            "denomination": "ASSO HAUT CONSEIL DES PROFESSIONS DU DROIT", 
+            "identifiantNational": "537772675", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "CENTRE D'INFORMATION SUR LA PREVENTION DES DIFFICULTES DES ENTREPRISES CIP NATIONAL", 
+            "identifiantNational": "W751183734", 
+            "typeIdentifiantNational": "RNA"
+          }, 
+          {
+            "denomination": "FEDERATION NATIONALE TIERS CONFIANCE", 
+            "identifiantNational": "439456534", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPT FR DE L'INDUSTRIE DE L'INFORMATIO", 
+            "identifiantNational": "318949609", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASSOCIATION FRANCAISE DES CORRESPONDANTS A LA PROTECTION DES DONNEES A CARACTERE PERSONNEL", 
+            "identifiantNational": "503314353", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS FRANC POUR L HISTOIRE DE LA JUSTICE", 
+            "identifiantNational": "351038526", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GUICHET ENTREPRISES", 
+            "identifiantNational": "W751200853", 
+            "typeIdentifiantNational": "RNA"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [], 
+        "codePostal": "75001", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable pôle juridique - DPO", 
+            "nom": "AMAN", 
+            "prenom": "Karla"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Vice-Président", 
+            "nom": "DENFER", 
+            "prenom": "Thomas"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Trésorier", 
+            "nom": "GOURLAOUEN", 
+            "prenom": "Philippe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire", 
+            "nom": "MARQUET PAQUIER", 
+            "prenom": "Thierry"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Chargé de mission", 
+            "nom": "GENESTE", 
+            "prenom": "Victor"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Chargé de mission", 
+            "nom": "DUBUJADOUX", 
+            "prenom": "Bertrand"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Chargée de mission", 
+            "nom": "PRINTEMS", 
+            "prenom": "Françoise"
+          }
+        ], 
+        "dateCreation": "2021-03-29T16:13:27", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": false, 
         "denomination": "CONSEIL NATIONAL GREFFIERS TRIBUNAUX COM", 
@@ -29546,6 +29888,14 @@
         "nombreActivite": 11, 
         "nombreSalaries": 3, 
         "publicationDate": "2021-02-18T17:26:09"
+      }, 
+      {
+        "dateDebut": "2021-04-01", 
+        "dateFin": "2022-03-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14193, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -29926,7 +30276,7 @@
       }
     ], 
     "dateCreation": "2020-07-03T10:04:17", 
-    "dateDernierePublicationActivite": "2020-03-02T15:03:04", 
+    "dateDernierePublicationActivite": "2021-04-01T09:13:37", 
     "datePremierePublication": "2018-11-29T12:58:44", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": true, 
@@ -30100,6 +30450,74 @@
         "publicationDate": "2020-03-02T15:09:47"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Aménagement du territoire, ruralité et collectivités territoriales, Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "ENVIRO-CONSEIL ET TRAVAUX"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Impact de l'activité industrielle"
+                ], 
+                "identifiantFiche": "2VRQ2PDH", 
+                "objet": "préciser la notion d'artificialisation dans la loi ou par voie réglementaire", 
+                "publicationDate": "2021-04-01T09:13:37"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Aménagement du territoire, ruralité et collectivités territoriales, Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "ENVIRO-CONSEIL ET TRAVAUX"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Impact de l'activité industrielle"
+              ], 
+              "identifiantFiche": "2VRQ2PDH", 
+              "objet": "préciser la notion d'artificialisation dans la loi ou par voie réglementaire", 
+              "publicationDate": "2021-04-01T09:13:37"
+            }
+          }
+        ], 
         "chiffreAffaire": "< 100 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
@@ -30108,9 +30526,9 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "> = 25 000 euros et < 50 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 1, 
         "nombreSalaries": 1, 
-        "publicationDate": "2021-03-25T14:46:19"
+        "publicationDate": "2021-04-01T09:11:09"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -30724,7 +31142,33 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "> = 25 000 euros et < 50 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-04-01T09:11:09"
+      }, 
+      {
+        "chiffreAffaire": "< 100 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 8525, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-04-01T09:08:19"
+      }, 
+      {
+        "chiffreAffaire": "< 100 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 8525, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 25 000 euros et < 50 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
         "nombreSalaries": 1, 
         "publicationDate": "2021-03-25T14:46:19"
       }, 
@@ -30737,7 +31181,7 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "> = 25 000 euros et < 50 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 1, 
         "nombreSalaries": 1, 
         "publicationDate": "2021-03-25T14:44:32"
       }
@@ -34323,7 +34767,7 @@
       }
     ], 
     "dateCreation": "2019-08-07T17:49:45", 
-    "dateDernierePublicationActivite": "2020-01-24T14:51:34", 
+    "dateDernierePublicationActivite": "2021-04-01T11:46:48", 
     "datePremierePublication": "2019-08-07T17:49:45", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -34567,7 +35011,20 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Remboursements", 
+          "Prévention", 
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "UHQSCQ93", 
+        "nom_organisation": "MALAKOFF HUMANIS PREVOYANCE", 
+        "num_organisation": "775691181", 
+        "objet": "Défendre le rôle des complémentaires santé dans l'accès aux soins et la prévention, défendre les réseaux de soins et limiter la fiscalité des complémentaires santé et la régulation excessive du marché", 
+        "publicationDate": "2021-04-01T11:46:48"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775691181.json", 
     "ville": "PARIS CEDEX 09"
@@ -39235,7 +39692,20 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Remboursements", 
+          "Prévention", 
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "QV7R8M6V", 
+        "nom_organisation": "MUTUELLE MALAKOFF HUMANIS", 
+        "num_organisation": "784718256", 
+        "objet": "Défendre le rôle des complémentaires santé dans l'accès aux soins et la prévention, défendre les réseaux de soins et limiter la fiscalité des complémentaires santé et la régulation excessive du marché", 
+        "publicationDate": "2021-04-01T11:52:03"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/784718256.json", 
     "ville": "PARIS"
