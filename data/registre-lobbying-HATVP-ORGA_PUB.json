@@ -8648,21 +8648,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Banques", 
-          "Prévention", 
-          "Sécurité et normes alimentaires", 
-          "Handicap"
-        ], 
-        "identifiantFiche": "SVFZSSAH", 
-        "nom_organisation": "INSTITUT NATIONAL DE LA CONSOMMATION", 
-        "num_organisation": "381856723", 
-        "objet": "SENSIBILISATION DES DÉCIDEURS PUBLICS AUX PROBLÉMATIQUES DE VIE\nQUOTIDIENNE DES CONSOMMATEURS", 
-        "publicationDate": "2021-04-01T10:17:47"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/381856723.json", 
     "ville": "PARIS CEDEX 15"
@@ -20880,7 +20866,7 @@
       }
     ], 
     "dateCreation": "2021-03-30T16:22:43", 
-    "dateDernierePublicationActivite": "2021-03-31T18:28:01", 
+    "dateDernierePublicationActivite": "2021-04-01T15:09:09", 
     "datePremierePublication": "2018-04-12T09:59:31", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -21126,19 +21112,6 @@
         "publicationDate": "2020-10-19T15:58:00"
       }, 
       {
-        "chiffreAffaire": "> = 1 000 000 euros", 
-        "dateDebut": "2020-01-01", 
-        "dateFin": "2020-12-31", 
-        "defautDeclaration": false, 
-        "exerciceId": 8887, 
-        "hasNotChiffreAffaire": false, 
-        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
-        "noActivite": false, 
-        "nombreActivite": 0, 
-        "nombreSalaries": 17, 
-        "publicationDate": "2021-03-31T18:27:40"
-      }, 
-      {
         "activites": [
           {
             "historique": [
@@ -21167,9 +21140,9 @@
                   "Défense", 
                   "Sécurité nationale"
                 ], 
-                "identifiantFiche": "9V0CN6K3", 
+                "identifiantFiche": "C34BQIIV", 
                 "objet": "présenter l'activité de l'UGAP et notamment son offre de bien et de service afin d'inciter les pouvoirs publics à recourir aux services de la centrale d'achat ", 
-                "publicationDate": "2021-03-31T18:28:01"
+                "publicationDate": "2021-04-01T15:09:09"
               }
             ], 
             "publicationCourante": {
@@ -21197,12 +21170,25 @@
                 "Défense", 
                 "Sécurité nationale"
               ], 
-              "identifiantFiche": "9V0CN6K3", 
+              "identifiantFiche": "C34BQIIV", 
               "objet": "présenter l'activité de l'UGAP et notamment son offre de bien et de service afin d'inciter les pouvoirs publics à recourir aux services de la centrale d'achat ", 
-              "publicationDate": "2021-03-31T18:28:01"
+              "publicationDate": "2021-04-01T15:09:09"
             }
           }
         ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 8887, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 17, 
+        "publicationDate": "2021-03-31T18:27:40"
+      }, 
+      {
         "dateDebut": "2021-01-01", 
         "dateFin": "2021-12-31", 
         "defautDeclaration": false, 
@@ -26176,7 +26162,7 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "> = 100 000 euros et < 200 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 1, 
         "nombreSalaries": 17, 
         "publicationDate": "2021-03-31T18:27:40"
       }
@@ -26189,7 +26175,21 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Système de santé et médico-social", 
+          "Ordre administratif", 
+          "Défense", 
+          "Sécurité nationale"
+        ], 
+        "identifiantFiche": "C34BQIIV", 
+        "nom_organisation": "UNION DES GROUPEMENTS D'ACHATS PUBLICS", 
+        "num_organisation": "776056467", 
+        "objet": "présenter l'activité de l'UGAP et notamment son offre de bien et de service afin d'inciter les pouvoirs publics à recourir aux services de la centrale d'achat ", 
+        "publicationDate": "2021-04-01T15:09:09"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/776056467.json", 
     "ville": "MARNE LA VALLEE CEDEX 2"

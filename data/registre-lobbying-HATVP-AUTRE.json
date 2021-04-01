@@ -34956,12 +34956,91 @@
         "publicationDate": "2020-01-24T14:54:00"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Envoyer des pétitions, lettres ouvertes, tracts"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "Les objectifs poursuivis par les actions sont : défendre le rôle des complémentaires santé dans l'accès aux soins et dans la prévention, défendre le positionnement des complémentaires santé, défendre les réseaux de soins et limiter la fiscalité des complémentaires santé et limiter la régulation excessive du marché.\nLes actions ont concerné les lois relatives au 100% santé, au PLFSS et la loi du 24 juillet 2019 relative à l'organisation du système de santé.", 
+                    "reponsablesPublics": [
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé", 
+                      "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Autorité de la concurrence, Commission nationale de l'informatique et des libertés"
+                    ], 
+                    "tiers": [
+                      "MALAKOFF HUMANIS PREVOYANCE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Remboursements", 
+                  "Prévention", 
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "UHQSCQ93", 
+                "objet": "Défendre le rôle des complémentaires santé dans l'accès aux soins et la prévention, défendre les réseaux de soins et limiter la fiscalité des complémentaires santé et la régulation excessive du marché", 
+                "publicationDate": "2021-04-01T11:46:48"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Envoyer des pétitions, lettres ouvertes, tracts"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "Les objectifs poursuivis par les actions sont : défendre le rôle des complémentaires santé dans l'accès aux soins et dans la prévention, défendre le positionnement des complémentaires santé, défendre les réseaux de soins et limiter la fiscalité des complémentaires santé et limiter la régulation excessive du marché.\nLes actions ont concerné les lois relatives au 100% santé, au PLFSS et la loi du 24 juillet 2019 relative à l'organisation du système de santé.", 
+                  "reponsablesPublics": [
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé", 
+                    "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Autorité de la concurrence, Commission nationale de l'informatique et des libertés"
+                  ], 
+                  "tiers": [
+                    "MALAKOFF HUMANIS PREVOYANCE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Remboursements", 
+                "Prévention", 
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "UHQSCQ93", 
+              "objet": "Défendre le rôle des complémentaires santé dans l'accès aux soins et la prévention, défendre les réseaux de soins et limiter la fiscalité des complémentaires santé et la régulation excessive du marché", 
+              "publicationDate": "2021-04-01T11:46:48"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9430, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 1, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-04-01T11:48:00"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -34999,6 +35078,19 @@
         "nombreActivite": 1, 
         "nombreSalaries": 1, 
         "publicationDate": "2020-01-24T14:54:00"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9430, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-04-01T11:48:00"
       }
     ], 
     "identifiantNational": "775691181", 
@@ -35011,20 +35103,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Remboursements", 
-          "Prévention", 
-          "Système de santé et médico-social"
-        ], 
-        "identifiantFiche": "UHQSCQ93", 
-        "nom_organisation": "MALAKOFF HUMANIS PREVOYANCE", 
-        "num_organisation": "775691181", 
-        "objet": "Défendre le rôle des complémentaires santé dans l'accès aux soins et la prévention, défendre les réseaux de soins et limiter la fiscalité des complémentaires santé et la régulation excessive du marché", 
-        "publicationDate": "2021-04-01T11:46:48"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775691181.json", 
     "ville": "PARIS CEDEX 09"
@@ -39448,7 +39527,7 @@
       }
     ], 
     "dateCreation": "2019-08-07T17:54:50", 
-    "dateDernierePublicationActivite": "2020-01-24T15:00:10", 
+    "dateDernierePublicationActivite": "2021-04-01T11:52:03", 
     "datePremierePublication": "2019-08-07T17:54:50", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -39622,6 +39701,78 @@
               "objet": "Défendre le rôle des complémentaires santé dans l'accès aux soins et la prévention, défendre les réseaux de soins et limiter la fiscalité des complémentaires santé et la régulation excessive du marché", 
               "publicationDate": "2020-01-24T15:00:10"
             }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Envoyer des pétitions, lettres ouvertes, tracts"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "observation": "Les objectifs poursuivis par les actions sont : défendre le rôle des complémentaires santé dans l'accès aux soins et dans la prévention, défendre le positionnement des complémentaires santé, défendre les réseaux de soins et limiter la fiscalité des complémentaires santé et limiter la régulation excessive du marché.\nLes actions ont concerné les lois relatives au 100% santé, au PLFSS et la loi du 24 juillet 2019 relative à l'organisation du système de santé.", 
+                    "reponsablesPublics": [
+                      "Collaborateur du Président de la République", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé", 
+                      "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Autorité de la concurrence, Commission nationale de l'informatique et des libertés"
+                    ], 
+                    "tiers": [
+                      "MUTUELLE MALAKOFF HUMANIS (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Remboursements", 
+                  "Prévention", 
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "QV7R8M6V", 
+                "objet": "Défendre le rôle des complémentaires santé dans l'accès aux soins et la prévention, défendre les réseaux de soins et limiter la fiscalité des complémentaires santé et la régulation excessive du marché", 
+                "publicationDate": "2021-04-01T11:52:03"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Envoyer des pétitions, lettres ouvertes, tracts"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "observation": "Les objectifs poursuivis par les actions sont : défendre le rôle des complémentaires santé dans l'accès aux soins et dans la prévention, défendre le positionnement des complémentaires santé, défendre les réseaux de soins et limiter la fiscalité des complémentaires santé et limiter la régulation excessive du marché.\nLes actions ont concerné les lois relatives au 100% santé, au PLFSS et la loi du 24 juillet 2019 relative à l'organisation du système de santé.", 
+                  "reponsablesPublics": [
+                    "Collaborateur du Président de la République", 
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Affaires sociales et santé", 
+                    "Directeur ou secrétaire général, ou leur adjoint, ou membre du collège ou d'une commission des sanctions d'une autorité administrative ou publique indépendante - Autorité de la concurrence, Commission nationale de l'informatique et des libertés"
+                  ], 
+                  "tiers": [
+                    "MUTUELLE MALAKOFF HUMANIS (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Remboursements", 
+                "Prévention", 
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "QV7R8M6V", 
+              "objet": "Défendre le rôle des complémentaires santé dans l'accès aux soins et la prévention, défendre les réseaux de soins et limiter la fiscalité des complémentaires santé et la régulation excessive du marché", 
+              "publicationDate": "2021-04-01T11:52:03"
+            }
           }
         ], 
         "chiffreAffaire": "> = 1 000 000 euros", 
@@ -39632,17 +39783,22 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 1, 
+        "nombreActivite": 2, 
         "nombreSalaries": 1, 
         "publicationDate": "2020-01-24T15:02:55"
       }, 
       {
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9674, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-04-01T11:52:47"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -39677,9 +39833,35 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 1, 
+        "nombreActivite": 2, 
         "nombreSalaries": 1, 
         "publicationDate": "2020-01-24T15:02:55"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9674, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-04-01T11:52:47"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9674, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-04-01T11:52:30"
       }
     ], 
     "identifiantNational": "784718256", 
@@ -39692,20 +39874,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Remboursements", 
-          "Prévention", 
-          "Système de santé et médico-social"
-        ], 
-        "identifiantFiche": "QV7R8M6V", 
-        "nom_organisation": "MUTUELLE MALAKOFF HUMANIS", 
-        "num_organisation": "784718256", 
-        "objet": "Défendre le rôle des complémentaires santé dans l'accès aux soins et la prévention, défendre les réseaux de soins et limiter la fiscalité des complémentaires santé et la régulation excessive du marché", 
-        "publicationDate": "2021-04-01T11:52:03"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/784718256.json", 
     "ville": "PARIS"
