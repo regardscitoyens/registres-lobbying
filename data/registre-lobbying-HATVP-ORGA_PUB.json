@@ -26175,21 +26175,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Système de santé et médico-social", 
-          "Ordre administratif", 
-          "Défense", 
-          "Sécurité nationale"
-        ], 
-        "identifiantFiche": "C34BQIIV", 
-        "nom_organisation": "UNION DES GROUPEMENTS D'ACHATS PUBLICS", 
-        "num_organisation": "776056467", 
-        "objet": "présenter l'activité de l'UGAP et notamment son offre de bien et de service afin d'inciter les pouvoirs publics à recourir aux services de la centrale d'achat ", 
-        "publicationDate": "2021-04-01T15:09:09"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/776056467.json", 
     "ville": "MARNE LA VALLEE CEDEX 2"
