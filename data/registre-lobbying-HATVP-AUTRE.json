@@ -23175,368 +23175,7 @@
       "label": "Autres organisations", 
       "notifSansChiffreAffaire": false
     }, 
-    "clients": [
-      {
-        "ancienClient": false, 
-        "denomination": "FOYER OBERHOLZ EDUC SURVEILLEE", 
-        "identifiantNational": "778737296", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "OEUVRE DE LA CHAUSSEE DU MAINE", 
-        "identifiantNational": "W751058116", 
-        "typeIdentifiantNational": "RNA"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "OEUVRE ORMESSON VILLIERS MARNE", 
-        "identifiantNational": "775739584", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "PROVENCE ALPES GROUPEMENT D'ECONOMIE SOLIDAIRE : PAGES", 
-        "identifiantNational": "794972620", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "RESEAU RAJE", 
-        "identifiantNational": "479392045", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ASSOC VILLAGE D ENFANTS PIERRE ET PAULE SAURY", 
-        "identifiantNational": "778443275", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ASS VILLA SAINT CAMILLE", 
-        "identifiantNational": "695722702", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "UN TOIT 2 GENERATIONS", 
-        "identifiantNational": "512685959", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "BAO FORMATION", 
-        "identifiantNational": "483467684", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ASS ARDENNAISE SAUVEGARDE ENFANCE ADOLES", 
-        "identifiantNational": "330596933", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "GROUPE SOS SENIORS", 
-        "identifiantNational": "775618150", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "CRESCENDO", 
-        "identifiantNational": "784810111", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "LE RENOUVEAU", 
-        "identifiantNational": "775664626", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "LES BLES D'OR", 
-        "identifiantNational": "539670141", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "LES TROPHEES SOLIDAIRES", 
-        "identifiantNational": "W751237639", 
-        "typeIdentifiantNational": "RNA"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ASSOCIATION MAISON DE RETRAITE SAINT FRANCOIS", 
-        "identifiantNational": "777194903", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ASS AIDE & PROTECT ENFANCE & JEUNESSE", 
-        "identifiantNational": "318226479", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ASS DEP INSERTION SANTE SOINS ADDICTIONS", 
-        "identifiantNational": "433415973", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "GROUPE SOS SOLIDARITES", 
-        "identifiantNational": "341062404", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "GROUPE SOS JEUNESSE", 
-        "identifiantNational": "775685506", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ASSOCIATION SAINTE-MARIE D'ETAGNAC", 
-        "identifiantNational": "301484291", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ASSOCIATION LE CAP", 
-        "identifiantNational": "779033125", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "GERONVIE DOMICILE", 
-        "identifiantNational": "512826090", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "BANG CULTURE", 
-        "identifiantNational": "828578310", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "LE PARISOLIDAIRE", 
-        "identifiantNational": "478492366", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "RECONNECT", 
-        "identifiantNational": "511414047", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "SANTE SUD", 
-        "identifiantNational": "338116189", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "EHPAD LES GLENANS", 
-        "identifiantNational": "515225951", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "DJANTOLI", 
-        "identifiantNational": "538804329", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ACTA VISTA", 
-        "identifiantNational": "441024718", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ARCAT", 
-        "identifiantNational": "342080736", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "MA VILLE JE T'AIDE", 
-        "identifiantNational": "809140387", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ARABESQUE", 
-        "identifiantNational": "519756290", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ASSOCIATION FERMES D AVENIR", 
-        "identifiantNational": "797400769", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "GINKGO", 
-        "identifiantNational": "500176896", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "GESTION CENTRE LOISIRS DE LA POSTE", 
-        "identifiantNational": "328833553", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "GROUPE SOS SANTE", 
-        "identifiantNational": "302891114", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "SESAME AUTISME GESTION & PERSPECTIVES", 
-        "identifiantNational": "428445142", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "FONDATION SAINTE MARIE", 
-        "identifiantNational": "783583404", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "EHPAD SAINTE GERMAINE", 
-        "identifiantNational": "524323805", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "AFGHANISTAN LIBRE", 
-        "identifiantNational": "441191863", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ASSOCIATION DEPARTEMENTAL ELYSEE", 
-        "identifiantNational": "775703382", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ASSOCIATION LA BOISNIERE", 
-        "identifiantNational": "775354251", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "LE KIOSQUE INFOS  SIDA", 
-        "identifiantNational": "390725182", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "LACS, RIVIERES ET SENTIERS", 
-        "identifiantNational": "400921409", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ENVIRONNEMENT REPONSE AMENAGEMENT", 
-        "identifiantNational": "434135166", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ESPACE FAMILLES LOIRET", 
-        "identifiantNational": "487748238", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "LE REPIT", 
-        "identifiantNational": "823224282", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "MOUVEMENT UP", 
-        "identifiantNational": "W751237637", 
-        "typeIdentifiantNational": "RNA"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ASS TAMA", 
-        "identifiantNational": "518926472", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ASS PARRAINS PAR'MILLE", 
-        "identifiantNational": "399812221", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "PLAY INTERNATIONAL", 
-        "identifiantNational": "424901916", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "PLANETE URGENCE", 
-        "identifiantNational": "433095718", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "POINT SUD", 
-        "identifiantNational": "494953243", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "FOYER RESIDENCE LE CLOS", 
-        "identifiantNational": "316503291", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ASSOCIATION LE LIEN", 
-        "identifiantNational": "308757459", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ASSOCIATION L'ESPOIR", 
-        "identifiantNational": "775560261", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "ATELIER RECHERCHE TRAITEMENT ET MEDIATION INTERCULTURELLE ET SOCIALE - ARTEMIS", 
-        "identifiantNational": "481176915", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "IMPACT CAMPUS", 
-        "identifiantNational": "828198705", 
-        "typeIdentifiantNational": "SIREN"
-      }, 
-      {
-        "ancienClient": false, 
-        "denomination": "SOLIDARITE ALIMENTAIRE FRANCE", 
-        "identifiantNational": "845107796", 
-        "typeIdentifiantNational": "SIREN"
-      }
-    ], 
+    "clients": [], 
     "codePostal": "75127", 
     "collaborateurs": [
       {
@@ -23578,11 +23217,11 @@
         "prenom": "David"
       }
     ], 
-    "dateCreation": "2020-04-07T16:41:44", 
-    "dateDernierePublicationActivite": "2020-08-24T17:38:23", 
+    "dateCreation": "2021-04-02T15:53:37", 
+    "dateDernierePublicationActivite": "2021-04-02T17:46:05", 
     "datePremierePublication": "2018-09-13T11:56:57", 
     "declarationOrgaAppartenance": false, 
-    "declarationTiers": true, 
+    "declarationTiers": false, 
     "denomination": "GIE ALLIANCE GESTION", 
     "dirigeants": [
       {
@@ -27137,12 +26776,521 @@
         "publicationDate": "2020-08-26T14:57:47"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Famille, enfance et droits des femmes"
+                    ], 
+                    "tiers": [
+                      "GROUPE SOS SOLIDARITES", 
+                      "GROUPE SOS JEUNESSE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Famille"
+                ], 
+                "identifiantFiche": "0VE76CF3", 
+                "objet": "Plan d'urgence : Mise en place d'un dispositif d'éviction d'auteurs de violences conjugales durant le confinement", 
+                "publicationDate": "2021-04-02T17:31:10"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Famille, enfance et droits des femmes"
+                  ], 
+                  "tiers": [
+                    "GROUPE SOS SOLIDARITES", 
+                    "GROUPE SOS JEUNESSE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Famille"
+              ], 
+              "identifiantFiche": "0VE76CF3", 
+              "objet": "Plan d'urgence : Mise en place d'un dispositif d'éviction d'auteurs de violences conjugales durant le confinement", 
+              "publicationDate": "2021-04-02T17:31:10"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
+                    ], 
+                    "tiers": [
+                      "1000 CAFES", 
+                      "GROUPE SOS SOLIDARITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Aides aux entreprises"
+                ], 
+                "identifiantFiche": "0V2AQMJV", 
+                "objet": "Importance d'un plan d'urgence aux commerces de proximité touchés par la crise sanitaire", 
+                "publicationDate": "2021-04-02T17:33:20"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
+                  ], 
+                  "tiers": [
+                    "1000 CAFES", 
+                    "GROUPE SOS SOLIDARITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Aides aux entreprises"
+              ], 
+              "identifiantFiche": "0V2AQMJV", 
+              "objet": "Importance d'un plan d'urgence aux commerces de proximité touchés par la crise sanitaire", 
+              "publicationDate": "2021-04-02T17:33:20"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "GROUPE SOS SOLIDARITES", 
+                      "IMPACT TANK"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Recherche et innovation"
+                ], 
+                "identifiantFiche": "DHMZS8YV", 
+                "objet": "Demande de soutien d'un think tank pour le développement de la recherche dans l'ESS ", 
+                "publicationDate": "2021-04-02T17:33:59"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "GROUPE SOS SOLIDARITES", 
+                    "IMPACT TANK"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Recherche et innovation"
+              ], 
+              "identifiantFiche": "DHMZS8YV", 
+              "objet": "Demande de soutien d'un think tank pour le développement de la recherche dans l'ESS ", 
+              "publicationDate": "2021-04-02T17:33:59"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                    ], 
+                    "tiers": [
+                      "GROUPE SOS SENIORS", 
+                      "GROUPE SOS SANTE", 
+                      "GROUPE SOS SOLIDARITES", 
+                      "GROUPE SOS JEUNESSE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "LV1CQM5V", 
+                "objet": "Ségur de la santé : présentation des propositions du Groupe SOS", 
+                "publicationDate": "2021-04-02T17:35:21"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                  ], 
+                  "tiers": [
+                    "GROUPE SOS SENIORS", 
+                    "GROUPE SOS SANTE", 
+                    "GROUPE SOS SOLIDARITES", 
+                    "GROUPE SOS JEUNESSE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "LV1CQM5V", 
+              "objet": "Ségur de la santé : présentation des propositions du Groupe SOS", 
+              "publicationDate": "2021-04-02T17:35:21"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
+                    ], 
+                    "tiers": [
+                      "GROUPE SOS SENIORS", 
+                      "GROUPE SOS SANTE", 
+                      "GROUPE SOS SOLIDARITES", 
+                      "GROUPE SOS JEUNESSE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Aides aux entreprises"
+                ], 
+                "identifiantFiche": "EVJQW8I3", 
+                "objet": "Nécessité d'un plan de soutien au secteur de l'ESS face au covid", 
+                "publicationDate": "2021-04-02T17:36:21"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances"
+                  ], 
+                  "tiers": [
+                    "GROUPE SOS SENIORS", 
+                    "GROUPE SOS SANTE", 
+                    "GROUPE SOS SOLIDARITES", 
+                    "GROUPE SOS JEUNESSE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Aides aux entreprises"
+              ], 
+              "identifiantFiche": "EVJQW8I3", 
+              "objet": "Nécessité d'un plan de soutien au secteur de l'ESS face au covid", 
+              "publicationDate": "2021-04-02T17:36:21"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Aménagement du territoire, ruralité et collectivités territoriales"
+                    ], 
+                    "tiers": [
+                      "1000 CAFES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Développement des territoires"
+                ], 
+                "identifiantFiche": "ZV98QN7H", 
+                "objet": "Plan de relance : enjeux du soutien au développement économique en zone rurale ", 
+                "publicationDate": "2021-04-02T17:36:48"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Aménagement du territoire, ruralité et collectivités territoriales"
+                  ], 
+                  "tiers": [
+                    "1000 CAFES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Développement des territoires"
+              ], 
+              "identifiantFiche": "ZV98QN7H", 
+              "objet": "Plan de relance : enjeux du soutien au développement économique en zone rurale ", 
+              "publicationDate": "2021-04-02T17:36:48"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Actes réglementaires"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                    ], 
+                    "tiers": [
+                      "SOLIDARITE ALIMENTAIRE FRANCE", 
+                      "GROUPE SOS SOLIDARITES"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "Y3KGS85V", 
+                "objet": "Enjeux du plan d'urgence et demande de soutien aux dispositifs d'aide alimentaire", 
+                "publicationDate": "2021-04-02T17:37:20"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
+                    "Actes réglementaires"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Affaires sociales et santé"
+                  ], 
+                  "tiers": [
+                    "SOLIDARITE ALIMENTAIRE FRANCE", 
+                    "GROUPE SOS SOLIDARITES"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "Y3KGS85V", 
+              "objet": "Enjeux du plan d'urgence et demande de soutien aux dispositifs d'aide alimentaire", 
+              "publicationDate": "2021-04-02T17:37:20"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Travail, emploi, formation professionnelle et dialogue social"
+                    ], 
+                    "tiers": [
+                      "SOLIDARITE ALIMENTAIRE FRANCE", 
+                      "1000 CAFES", 
+                      "GROUPE SOS SOLIDARITES", 
+                      "GROUPE SOS JEUNESSE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Aides aux entreprises"
+                ], 
+                "identifiantFiche": "YVIGS8Z3", 
+                "objet": "Plan de relance : enjeux du financement du secteur de l'insertion par l'activité économique ", 
+                "publicationDate": "2021-04-02T17:43:36"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Travail, emploi, formation professionnelle et dialogue social"
+                  ], 
+                  "tiers": [
+                    "SOLIDARITE ALIMENTAIRE FRANCE", 
+                    "1000 CAFES", 
+                    "GROUPE SOS SOLIDARITES", 
+                    "GROUPE SOS JEUNESSE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Aides aux entreprises"
+              ], 
+              "identifiantFiche": "YVIGS8Z3", 
+              "objet": "Plan de relance : enjeux du financement du secteur de l'insertion par l'activité économique ", 
+              "publicationDate": "2021-04-02T17:43:36"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Travail, emploi, formation professionnelle et dialogue social"
+                    ], 
+                    "tiers": [
+                      "GROUPE SOS SOLIDARITES", 
+                      "GROUPE SOS JEUNESSE"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Aides aux entreprises"
+                ], 
+                "identifiantFiche": "UVPWK813", 
+                "objet": "Plan de relance : parler du financement du secteur de l'insertion par l'activité économique ", 
+                "publicationDate": "2021-04-02T17:46:05"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Organiser des auditions, des consultations formelles sur des actes législatifs ou d'autres consultations ouvertes"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Travail, emploi, formation professionnelle et dialogue social"
+                  ], 
+                  "tiers": [
+                    "GROUPE SOS SOLIDARITES", 
+                    "GROUPE SOS JEUNESSE"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Aides aux entreprises"
+              ], 
+              "identifiantFiche": "UVPWK813", 
+              "objet": "Plan de relance : parler du financement du secteur de l'insertion par l'activité économique ", 
+              "publicationDate": "2021-04-02T17:46:05"
+            }
+          }
+        ], 
+        "chiffreAffaire": "< 100 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 8763, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 9, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-04-02T17:50:41"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -28176,6 +28324,529 @@
         "publierMonTelephoneDeContact": false, 
         "typeIdentifiantNational": "SIREN", 
         "ville": "PARIS CEDEX 11"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "ETRANGER", 
+              "label": "Affaires étrangères, coopération internationale", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "AGRI", 
+              "label": "Agriculture, alimentation, pêche", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "CULTURE", 
+              "label": "Arts, patrimoine culturel", 
+              "ordre": 3
+            }, 
+            {
+              "categorie": null, 
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }, 
+            {
+              "categorie": null, 
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }, 
+            {
+              "categorie": null, 
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }, 
+            {
+              "categorie": null, 
+              "code": "MEDIA", 
+              "label": "Médias, industries culturelles", 
+              "ordre": 18
+            }, 
+            {
+              "categorie": null, 
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }, 
+            {
+              "categorie": null, 
+              "code": "OUTREMER", 
+              "label": "Outre-mer", 
+              "ordre": 20
+            }, 
+            {
+              "categorie": null, 
+              "code": "MIGRA", 
+              "label": "Questions migratoires", 
+              "ordre": 24
+            }, 
+            {
+              "categorie": null, 
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }, 
+            {
+              "categorie": null, 
+              "code": "SOCIETE", 
+              "label": "Questions de société", 
+              "ordre": 26
+            }, 
+            {
+              "categorie": null, 
+              "code": "SPORTS", 
+              "label": "Sports, loisirs, tourisme", 
+              "ordre": 27
+            }
+          ]
+        }, 
+        "adresse": "GIE ALLIANCE GESTION\r\n102 C RUE AMELOT\r\nCS 61109", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [
+          {
+            "ancienClient": false, 
+            "denomination": "FOYER OBERHOLZ EDUC SURVEILLEE", 
+            "identifiantNational": "778737296", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "OEUVRE DE LA CHAUSSEE DU MAINE", 
+            "identifiantNational": "W751058116", 
+            "typeIdentifiantNational": "RNA"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "OEUVRE ORMESSON VILLIERS MARNE", 
+            "identifiantNational": "775739584", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "PROVENCE ALPES GROUPEMENT D'ECONOMIE SOLIDAIRE : PAGES", 
+            "identifiantNational": "794972620", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "RESEAU RAJE", 
+            "identifiantNational": "479392045", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ASSOC VILLAGE D ENFANTS PIERRE ET PAULE SAURY", 
+            "identifiantNational": "778443275", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ASS VILLA SAINT CAMILLE", 
+            "identifiantNational": "695722702", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "UN TOIT 2 GENERATIONS", 
+            "identifiantNational": "512685959", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "BAO FORMATION", 
+            "identifiantNational": "483467684", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ASS ARDENNAISE SAUVEGARDE ENFANCE ADOLES", 
+            "identifiantNational": "330596933", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "GROUPE SOS SENIORS", 
+            "identifiantNational": "775618150", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "CRESCENDO", 
+            "identifiantNational": "784810111", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "LE RENOUVEAU", 
+            "identifiantNational": "775664626", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "LES BLES D'OR", 
+            "identifiantNational": "539670141", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "LES TROPHEES SOLIDAIRES", 
+            "identifiantNational": "W751237639", 
+            "typeIdentifiantNational": "RNA"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ASSOCIATION MAISON DE RETRAITE SAINT FRANCOIS", 
+            "identifiantNational": "777194903", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ASS AIDE & PROTECT ENFANCE & JEUNESSE", 
+            "identifiantNational": "318226479", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ASS DEP INSERTION SANTE SOINS ADDICTIONS", 
+            "identifiantNational": "433415973", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "GROUPE SOS SOLIDARITES", 
+            "identifiantNational": "341062404", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "GROUPE SOS JEUNESSE", 
+            "identifiantNational": "775685506", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ASSOCIATION SAINTE-MARIE D'ETAGNAC", 
+            "identifiantNational": "301484291", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ASSOCIATION LE CAP", 
+            "identifiantNational": "779033125", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "GERONVIE DOMICILE", 
+            "identifiantNational": "512826090", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "BANG CULTURE", 
+            "identifiantNational": "828578310", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "LE PARISOLIDAIRE", 
+            "identifiantNational": "478492366", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "RECONNECT", 
+            "identifiantNational": "511414047", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "SANTE SUD", 
+            "identifiantNational": "338116189", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "EHPAD LES GLENANS", 
+            "identifiantNational": "515225951", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "DJANTOLI", 
+            "identifiantNational": "538804329", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ACTA VISTA", 
+            "identifiantNational": "441024718", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ARCAT", 
+            "identifiantNational": "342080736", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "MA VILLE JE T'AIDE", 
+            "identifiantNational": "809140387", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ARABESQUE", 
+            "identifiantNational": "519756290", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ASSOCIATION FERMES D AVENIR", 
+            "identifiantNational": "797400769", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "GINKGO", 
+            "identifiantNational": "500176896", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "GESTION CENTRE LOISIRS DE LA POSTE", 
+            "identifiantNational": "328833553", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "GROUPE SOS SANTE", 
+            "identifiantNational": "302891114", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "SESAME AUTISME GESTION & PERSPECTIVES", 
+            "identifiantNational": "428445142", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "FONDATION SAINTE MARIE", 
+            "identifiantNational": "783583404", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "EHPAD SAINTE GERMAINE", 
+            "identifiantNational": "524323805", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "AFGHANISTAN LIBRE", 
+            "identifiantNational": "441191863", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ASSOCIATION DEPARTEMENTAL ELYSEE", 
+            "identifiantNational": "775703382", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ASSOCIATION LA BOISNIERE", 
+            "identifiantNational": "775354251", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "LE KIOSQUE INFOS  SIDA", 
+            "identifiantNational": "390725182", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "LACS, RIVIERES ET SENTIERS", 
+            "identifiantNational": "400921409", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ENVIRONNEMENT REPONSE AMENAGEMENT", 
+            "identifiantNational": "434135166", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ESPACE FAMILLES LOIRET", 
+            "identifiantNational": "487748238", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "LE REPIT", 
+            "identifiantNational": "823224282", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "MOUVEMENT UP", 
+            "identifiantNational": "W751237637", 
+            "typeIdentifiantNational": "RNA"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ASS TAMA", 
+            "identifiantNational": "518926472", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ASS PARRAINS PAR'MILLE", 
+            "identifiantNational": "399812221", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "PLAY INTERNATIONAL", 
+            "identifiantNational": "424901916", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "PLANETE URGENCE", 
+            "identifiantNational": "433095718", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "POINT SUD", 
+            "identifiantNational": "494953243", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "FOYER RESIDENCE LE CLOS", 
+            "identifiantNational": "316503291", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ASSOCIATION LE LIEN", 
+            "identifiantNational": "308757459", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ASSOCIATION L'ESPOIR", 
+            "identifiantNational": "775560261", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ATELIER RECHERCHE TRAITEMENT ET MEDIATION INTERCULTURELLE ET SOCIALE - ARTEMIS", 
+            "identifiantNational": "481176915", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "IMPACT CAMPUS", 
+            "identifiantNational": "828198705", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "SOLIDARITE ALIMENTAIRE FRANCE", 
+            "identifiantNational": "845107796", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "75127", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "nom": "DUCLOS", 
+            "prenom": "Benjamin"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président du Directoire", 
+            "nom": "BORELLO", 
+            "prenom": "Jean-Marc"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Délégué national en charge des relations institutionnelles", 
+            "nom": "BOYADJIAN", 
+            "prenom": "Jules"
+          }, 
+          {
+            "civilite": "M", 
+            "nom": "BORELLO", 
+            "prenom": "Jean-Marc"
+          }, 
+          {
+            "civilite": "M", 
+            "nom": "BOYADJIAN", 
+            "prenom": "Jules"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Développement, Coopérations et Réseaux GROUPE SOS", 
+            "nom": "CAUSSE", 
+            "prenom": "David"
+          }, 
+          {
+            "civilite": "M", 
+            "nom": "CAUSSE", 
+            "prenom": "David"
+          }
+        ], 
+        "dateCreation": "2020-04-07T16:41:44", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": true, 
+        "denomination": "GIE ALLIANCE GESTION", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Administrateur", 
+            "nom": "DUCLOS", 
+            "prenom": "Benjamin"
+          }
+        ], 
+        "identifiantNational": "404826554", 
+        "lienSiteWeb": "http://www.groupe-sos.org", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS CEDEX 11"
       }
     ], 
     "historique_exercices": [
@@ -28204,6 +28875,19 @@
         "nombreActivite": 21, 
         "nombreSalaries": 2, 
         "publicationDate": "2020-08-26T14:57:47"
+      }, 
+      {
+        "chiffreAffaire": "< 100 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 8763, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 9, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-04-02T17:50:41"
       }
     ], 
     "identifiantNational": "404826554", 
@@ -28213,7 +28897,98 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Famille"
+        ], 
+        "identifiantFiche": "0VE76CF3", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Plan d'urgence : Mise en place d'un dispositif d'éviction d'auteurs de violences conjugales durant le confinement", 
+        "publicationDate": "2021-04-02T17:31:10"
+      }, 
+      {
+        "domainesIntervention": [
+          "Aides aux entreprises"
+        ], 
+        "identifiantFiche": "0V2AQMJV", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Importance d'un plan d'urgence aux commerces de proximité touchés par la crise sanitaire", 
+        "publicationDate": "2021-04-02T17:33:20"
+      }, 
+      {
+        "domainesIntervention": [
+          "Recherche et innovation"
+        ], 
+        "identifiantFiche": "DHMZS8YV", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Demande de soutien d'un think tank pour le développement de la recherche dans l'ESS ", 
+        "publicationDate": "2021-04-02T17:33:59"
+      }, 
+      {
+        "domainesIntervention": [
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "LV1CQM5V", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Ségur de la santé : présentation des propositions du Groupe SOS", 
+        "publicationDate": "2021-04-02T17:35:21"
+      }, 
+      {
+        "domainesIntervention": [
+          "Aides aux entreprises"
+        ], 
+        "identifiantFiche": "EVJQW8I3", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Nécessité d'un plan de soutien au secteur de l'ESS face au covid", 
+        "publicationDate": "2021-04-02T17:36:21"
+      }, 
+      {
+        "domainesIntervention": [
+          "Développement des territoires"
+        ], 
+        "identifiantFiche": "ZV98QN7H", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Plan de relance : enjeux du soutien au développement économique en zone rurale ", 
+        "publicationDate": "2021-04-02T17:36:48"
+      }, 
+      {
+        "domainesIntervention": [
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "Y3KGS85V", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Enjeux du plan d'urgence et demande de soutien aux dispositifs d'aide alimentaire", 
+        "publicationDate": "2021-04-02T17:37:20"
+      }, 
+      {
+        "domainesIntervention": [
+          "Aides aux entreprises"
+        ], 
+        "identifiantFiche": "YVIGS8Z3", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Plan de relance : enjeux du financement du secteur de l'insertion par l'activité économique ", 
+        "publicationDate": "2021-04-02T17:43:36"
+      }, 
+      {
+        "domainesIntervention": [
+          "Aides aux entreprises"
+        ], 
+        "identifiantFiche": "UVPWK813", 
+        "nom_organisation": "GIE ALLIANCE GESTION", 
+        "num_organisation": "404826554", 
+        "objet": "Plan de relance : parler du financement du secteur de l'insertion par l'activité économique ", 
+        "publicationDate": "2021-04-02T17:46:05"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/404826554.json", 
     "ville": "PARIS CEDEX 11"
