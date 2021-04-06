@@ -1582,6 +1582,116 @@
       "listNiveauIntervention": [
         {
           "categorie": null, 
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }, 
+        {
+          "categorie": null, 
+          "code": "EUROPEEN", 
+          "label": "Européen", 
+          "ordre": 3
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "categorie": null, 
+          "code": "FINANCE", 
+          "label": "Banques, assurances, secteur financier", 
+          "ordre": 4
+        }
+      ]
+    }, 
+    "adresse": "17-21 Place Etienne Pernet ", 
+    "affiliations": [
+      {
+        "denomination": "FEDERATION NATIONALE MUTUALITE FRANCAISE", 
+        "identifiantNational": "304426240", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION FRANCAISE DE L ASSURANCE (FFA)", 
+        "identifiantNational": "784409013", 
+        "typeIdentifiantNational": "SIREN"
+      }
+    ], 
+    "categorieOrganisation": {
+      "categorie": "AUTRE", 
+      "code": "AUORG", 
+      "label": "Autres organisations", 
+      "notifSansChiffreAffaire": false
+    }, 
+    "clients": [], 
+    "codePostal": "75015", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "GUIMBANG", 
+        "prenom": "Sandrine"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Juridique Groupe", 
+        "nom": "BORIAUD", 
+        "prenom": "Cecile"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur en charge des Affaires Publiques,de la RSE et des Partenariats économiques", 
+        "nom": "MICHEL", 
+        "prenom": "Xavier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur de missions", 
+        "nom": "ADREY", 
+        "prenom": "Pierre Olivier"
+      }
+    ], 
+    "dateCreation": "2021-04-06T12:38:32", 
+    "datePremierePublication": "2021-04-06T12:38:32", 
+    "declarationOrgaAppartenance": true, 
+    "declarationTiers": false, 
+    "denomination": "AEMA GROUPE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "COURET", 
+        "prenom": "Adrien"
+      }
+    ], 
+    "exercices": [
+      {
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14262, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }
+    ], 
+    "historique": [], 
+    "historique_exercices": [], 
+    "identifiantNational": "493754261", 
+    "isActivitesPubliees": false, 
+    "lienPageLinkedin": "https://www.linkedin.com/company/aema-groupe/", 
+    "lienPageTwitter": "https://twitter.com/Aema_Groupe", 
+    "lienSiteWeb": "https://aemagroupe.fr/", 
+    "pays": "France", 
+    "publierMonAdresseEmail": false, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": false, 
+    "resumes_actions": [], 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "https://www.hatvp.fr/agora/493754261.json", 
+    "ville": "PARIS"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "categorie": null, 
           "code": "LOCAL", 
           "label": "Local", 
           "ordre": 1
@@ -34279,6 +34389,11 @@
         "denomination": "FEDERATION FRANCAISE DE L ASSURANCE (FFA)", 
         "identifiantNational": "784409013", 
         "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "denomination": "FEDERATION NATIONALE MUTUALITE FRANCAISE", 
+        "identifiantNational": "304426240", 
+        "typeIdentifiantNational": "SIREN"
       }
     ], 
     "categorieOrganisation": {
@@ -34301,9 +34416,15 @@
         "fonction": "Directeur de missions", 
         "nom": "ADREY", 
         "prenom": "Pierre Olivier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur - En charge des Affaires publiques, de la RSE et des Partenariats économiques", 
+        "nom": "MICHEL", 
+        "prenom": "Xavier"
       }
     ], 
-    "dateCreation": "2020-07-09T17:28:41", 
+    "dateCreation": "2021-04-06T12:44:01", 
     "dateDernierePublicationActivite": "2021-03-31T21:26:13", 
     "datePremierePublication": "2018-03-23T17:54:26", 
     "declarationOrgaAppartenance": true, 
@@ -35412,6 +35533,76 @@
         "sigleHatvp": "SA", 
         "typeIdentifiantNational": "SIREN", 
         "ville": "NIORT"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }
+          ]
+        }, 
+        "adresse": "MACIF\r\n2 RUE DE PIED DE FOND", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION FRANCAISE DE L ASSURANCE (FFA)", 
+            "identifiantNational": "784409013", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [], 
+        "codePostal": "79000", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice juridique groupe", 
+            "nom": "BORIAUD", 
+            "prenom": "Cecile"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur de missions", 
+            "nom": "ADREY", 
+            "prenom": "Pierre Olivier"
+          }
+        ], 
+        "dateCreation": "2020-07-09T17:28:41", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "MACIF", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "DIRECTEUR GENERAL", 
+            "nom": "COURET", 
+            "prenom": "Adrien"
+          }
+        ], 
+        "identifiantNational": "781452511", 
+        "pays": "", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "sigleHatvp": "SA", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "NIORT"
       }
     ], 
     "historique_exercices": [
@@ -35483,10 +35674,14 @@
     ], 
     "identifiantNational": "781452511", 
     "isActivitesPubliees": true, 
+    "lienPageFacebook": "", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/macif", 
+    "lienPageTwitter": "https://twitter.com/MacifAssurances", 
+    "lienSiteWeb": "https://www.macif.fr", 
     "pays": "", 
-    "publierMonAdresseEmail": true, 
+    "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
-    "publierMonTelephoneDeContact": true, 
+    "publierMonTelephoneDeContact": false, 
     "resumes_actions": [], 
     "sigleHatvp": "SA", 
     "typeIdentifiantNational": "SIREN", 
