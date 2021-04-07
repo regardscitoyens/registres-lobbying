@@ -29010,66 +29010,6 @@
     "resumes_actions": [
       {
         "domainesIntervention": [
-          "Famille"
-        ], 
-        "identifiantFiche": "0VE76CF3", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Plan d'urgence : Mise en place d'un dispositif d'éviction d'auteurs de violences conjugales durant le confinement", 
-        "publicationDate": "2021-04-02T17:31:10"
-      }, 
-      {
-        "domainesIntervention": [
-          "Aides aux entreprises"
-        ], 
-        "identifiantFiche": "0V2AQMJV", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Importance d'un plan d'urgence aux commerces de proximité touchés par la crise sanitaire", 
-        "publicationDate": "2021-04-02T17:33:20"
-      }, 
-      {
-        "domainesIntervention": [
-          "Recherche et innovation"
-        ], 
-        "identifiantFiche": "DHMZS8YV", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Demande de soutien d'un think tank pour le développement de la recherche dans l'ESS ", 
-        "publicationDate": "2021-04-02T17:33:59"
-      }, 
-      {
-        "domainesIntervention": [
-          "Système de santé et médico-social"
-        ], 
-        "identifiantFiche": "LV1CQM5V", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Ségur de la santé : présentation des propositions du Groupe SOS", 
-        "publicationDate": "2021-04-02T17:35:21"
-      }, 
-      {
-        "domainesIntervention": [
-          "Aides aux entreprises"
-        ], 
-        "identifiantFiche": "EVJQW8I3", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Nécessité d'un plan de soutien au secteur de l'ESS face au covid", 
-        "publicationDate": "2021-04-02T17:36:21"
-      }, 
-      {
-        "domainesIntervention": [
-          "Développement des territoires"
-        ], 
-        "identifiantFiche": "ZV98QN7H", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Plan de relance : enjeux du soutien au développement économique en zone rurale ", 
-        "publicationDate": "2021-04-02T17:36:48"
-      }, 
-      {
-        "domainesIntervention": [
           "Système de santé et médico-social"
         ], 
         "identifiantFiche": "Y3KGS85V", 
@@ -38930,9 +38870,15 @@
         "fonction": "Conseiller du président", 
         "nom": "PALERMO", 
         "prenom": "Quentin"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Chargée d'affaires publiques", 
+        "nom": "BERRAT", 
+        "prenom": "Charlotte"
       }
     ], 
-    "dateCreation": "2020-05-27T11:48:19", 
+    "dateCreation": "2021-04-07T12:10:13", 
     "dateDernierePublicationActivite": "2021-03-30T19:10:32", 
     "datePremierePublication": "2017-09-05T15:50:43", 
     "declarationOrgaAppartenance": true, 
@@ -38947,9 +38893,9 @@
       }, 
       {
         "civilite": "M", 
-        "fonction": "Directeur Général", 
-        "nom": "DEDEYAN", 
-        "prenom": "Stéphane"
+        "fonction": "Directeur général", 
+        "nom": "HEYRIES", 
+        "prenom": "Fabrice"
       }
     ], 
     "exercices": [
@@ -40357,6 +40303,127 @@
         ], 
         "identifiantNational": "775685399", 
         "lienPageTwitter": "", 
+        "lienSiteWeb": "https://www.mgen.fr", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "sigleHatvp": "MGEN", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS CEDEX 15"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }, 
+            {
+              "categorie": null, 
+              "code": "CONSO", 
+              "label": "Concurrence, consommation", 
+              "ordre": 6
+            }, 
+            {
+              "categorie": null, 
+              "code": "EDUCATION", 
+              "label": "Education, enseignement supérieur, formation", 
+              "ordre": 9
+            }, 
+            {
+              "categorie": null, 
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }, 
+            {
+              "categorie": null, 
+              "code": "SANTE", 
+              "label": "Santé, sécurité sociale", 
+              "ordre": 25
+            }
+          ]
+        }, 
+        "adresse": "MUTUELLE GENERALE EDUCATION NATIONALE\r\nPARIS 15\r\n3 SQUARE MAX HYMANS", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION NATIONALE MUTUALITE FRANCAISE", 
+            "identifiantNational": "304426240", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "MUTUALITE FONCTION PUBLIQUE LIVRE I", 
+            "identifiantNational": "528623549", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [], 
+        "codePostal": "75748", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Déléguée nationale aux affaires publiques", 
+            "nom": "RONDOT", 
+            "prenom": "Isabelle"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Conseiller du président chargé des relations institutionnelles et de l'influence", 
+            "nom": "ALY", 
+            "prenom": "Anthony"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Conseiller du président", 
+            "nom": "PALERMO", 
+            "prenom": "Quentin"
+          }
+        ], 
+        "dateCreation": "2020-05-27T11:48:19", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "MUTUELLE GENERALE EDUCATION NATIONALE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "BERTHILIER", 
+            "prenom": "Roland"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "DEDEYAN", 
+            "prenom": "Stéphane"
+          }
+        ], 
+        "identifiantNational": "775685399", 
+        "lienPageFacebook": "https://www.facebook.com/MGEN.et.vous/", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/mgen/", 
+        "lienPageTwitter": "https://twitter.com/groupe_mgen", 
         "lienSiteWeb": "https://www.mgen.fr", 
         "pays": "FRANCE", 
         "publierMonAdresseEmail": false, 
