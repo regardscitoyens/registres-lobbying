@@ -22746,7 +22746,7 @@
         }
       ]
     }, 
-    "adresse": "5 RUE DE L HORLOGE", 
+    "adresse": "28, boulevard du Colombier", 
     "affiliations": [], 
     "categorieOrganisation": {
       "categorie": "AUTRE", 
@@ -22756,9 +22756,93 @@
     }, 
     "clients": [
       {
+        "ancienClient": true, 
+        "dateDesactivation": "09-09-2020 16:01", 
+        "denomination": "AGENCE NATIONALE SECURITE SYSTEMES INFORMATION", 
+        "identifiantNational": "130007669", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "ancienClient": true, 
+        "dateDesactivation": "09-09-2020 16:05", 
+        "denomination": "KEYNECTIS", 
+        "identifiantNational": "478217318", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "ancienClient": true, 
+        "dateDesactivation": "09-09-2020 16:05", 
+        "denomination": "MINISTERE DE L'EUROPE ET DES AFFAIRES ETRANGERES", 
+        "identifiantNational": "110006012", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "ancienClient": true, 
+        "dateDesactivation": "09-09-2020 15:58", 
+        "denomination": "CITALID CYBERSECURITE", 
+        "identifiantNational": "833926264", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "ancienClient": true, 
+        "dateDesactivation": "09-09-2020 16:01", 
+        "denomination": "MINISTERE DES ARMEES", 
+        "identifiantNational": "110090016", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "ancienClient": true, 
+        "dateDesactivation": "09-09-2020 16:06", 
+        "denomination": "REGION BRETAGNE", 
+        "identifiantNational": "233500016", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "ancienClient": true, 
+        "dateDesactivation": "09-09-2020 16:07", 
+        "denomination": "CAISSE CENTRALE DE REASSURANCE", 
+        "identifiantNational": "388202533", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "ancienClient": true, 
+        "dateDesactivation": "09-09-2020 16:16", 
+        "denomination": "AL REDEFINED", 
+        "identifiantNational": "H236491176", 
+        "typeIdentifiantNational": "HATVP"
+      }, 
+      {
         "ancienClient": false, 
         "denomination": "COMMUNAUTE AGGLO ST QUENTIN EN YVELINES", 
         "identifiantNational": "247800451", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "ancienClient": true, 
+        "dateDesactivation": "09-09-2020 16:04", 
+        "denomination": "EGERIE", 
+        "identifiantNational": "400453114", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "ancienClient": true, 
+        "dateDesactivation": "09-09-2020 16:07", 
+        "denomination": "RTE RESEAU DE TRANSPORT D'ELECTRICITE", 
+        "identifiantNational": "444619258", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "ancienClient": true, 
+        "dateDesactivation": "09-09-2020 16:07", 
+        "denomination": "GROUPE INDUSTRIE MATERIEL DEFENSE TERRES", 
+        "identifiantNational": "344322722", 
+        "typeIdentifiantNational": "SIREN"
+      }, 
+      {
+        "ancienClient": true, 
+        "dateDesactivation": "09-09-2020 15:58", 
+        "denomination": "GIP POUR LE DISPOSITIF NATIONAL D ASSISTANCE AUX VICTIMES D ACTES DE CYBERMALVEILLANCE", 
+        "identifiantNational": "130023211", 
         "typeIdentifiantNational": "SIREN"
       }, 
       {
@@ -22861,7 +22945,7 @@
         "prenom": "Sébastien"
       }
     ], 
-    "dateCreation": "2020-09-09T16:16:12", 
+    "dateCreation": "2021-04-08T20:46:07", 
     "datePremierePublication": "2020-09-09T16:08:40", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": true, 
@@ -22891,13 +22975,18 @@
         "publicationDate": "2020-10-26T11:56:52"
       }, 
       {
+        "chiffreAffaire": "< 100 000 euros", 
         "commentaire": "Dans le cadre des actions de la France dans le cyberespace, nous avons menés trois types d'actions : des réunions thématiques, des voyages d'études et un forum international. L'objectif est de créer une communauté de confiance en Europe. Les réunions de la CyberTaskForce réunissent 8 fois par an les décideurs publics/privés nationaux afin d'échanger les regards sur les enjeux de la sécurité de la transformation numérique (éducation-formation-inclusion-tech). 3 voyages d'études ont été l'occasion de rencontrer nos homologues publics et privés en Europe afin de confronter nos visions et nos initiatives. Le forum est le rendez-vous public de cette communauté en construction.", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 11287, 
-        "noActivite": false, 
-        "nombreActivite": 0
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 10 000 euros et < 25 000 euros", 
+        "noActivite": true, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-04-08T20:49:26"
       }, 
       {
         "chiffreAffaire": "> = 100 000 euros et < 500 000 euros", 
@@ -23126,6 +23215,218 @@
         "publierMonTelephoneDeContact": false, 
         "typeIdentifiantNational": "SIREN", 
         "ville": "RENNES"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }, 
+            {
+              "categorie": null, 
+              "code": "MONDIAL", 
+              "label": "Mondial", 
+              "ordre": 4
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "ETRANGER", 
+              "label": "Affaires étrangères, coopération internationale", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "SECURITE", 
+              "label": "Défense, sécurité", 
+              "ordre": 7
+            }, 
+            {
+              "categorie": null, 
+              "code": "EDUCATION", 
+              "label": "Education, enseignement supérieur, formation", 
+              "ordre": 9
+            }, 
+            {
+              "categorie": null, 
+              "code": "NUMERIQUE", 
+              "label": "Numérique", 
+              "ordre": 19
+            }, 
+            {
+              "categorie": null, 
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }, 
+            {
+              "categorie": null, 
+              "code": "SOCIETE", 
+              "label": "Questions de société", 
+              "ordre": 26
+            }, 
+            {
+              "categorie": null, 
+              "code": "COM", 
+              "label": "Communications électroniques", 
+              "ordre": 28
+            }
+          ]
+        }, 
+        "adresse": "5 RUE DE L HORLOGE", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [
+          {
+            "ancienClient": false, 
+            "denomination": "COMMUNAUTE AGGLO ST QUENTIN EN YVELINES", 
+            "identifiantNational": "247800451", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "FED IDUST ELECTR ELECTRONIQUES  COMMUNIC", 
+            "identifiantNational": "775688443", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "OLVID", 
+            "identifiantNational": "850667171", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "CNPP CYBERSECURITY", 
+            "identifiantNational": "818346264", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "SEELA", 
+            "identifiantNational": "790809016", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "CABINET BESSE TRANSPORTS RISQUES DIVERS", 
+            "identifiantNational": "314120999", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "GROUPE ECOLE SUPERIEURE COMMERCE RENNES", 
+            "identifiantNational": "378327514", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "OXIBOX GROUP", 
+            "identifiantNational": "882579931", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ALLIANCE POUR LA CONFIANCE NUMERIQUE", 
+            "identifiantNational": "797543550", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "EGERIE SOFTWARE", 
+            "identifiantNational": "817640998", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "GOOGLE FRANCE", 
+            "identifiantNational": "443061841", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "ARIADNEXT", 
+            "identifiantNational": "520769225", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "GATEWATCHER", 
+            "identifiantNational": "810505248", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "POLE D EXCELLENCE CYBER", 
+            "identifiantNational": "822406526", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "YES WE HACK", 
+            "identifiantNational": "814037214", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "ancienClient": false, 
+            "denomination": "NOMOLEX PERFORMANCE S.A.S", 
+            "identifiantNational": "838693927", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "codePostal": "35000", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "GARNAULT", 
+            "prenom": "Sébastien"
+          }
+        ], 
+        "dateCreation": "2020-09-09T16:16:12", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": true, 
+        "denomination": "GARNAULT & ASSOCIES", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "GARNAULT", 
+            "prenom": "Sébastien"
+          }
+        ], 
+        "emailDeContact": "contact@garnault-associes.com", 
+        "identifiantNational": "818007288", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/garnault-&-associ%C3%A9s", 
+        "lienPageTwitter": "https://twitter.com/rdvparlement_r", 
+        "lienSiteWeb": "http://www.garnault-associes.com", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "RENNES"
       }
     ], 
     "historique_exercices": [
@@ -23156,6 +23457,20 @@
         "nombreActivite": 0, 
         "nombreSalaries": 1, 
         "publicationDate": "2020-10-26T11:56:26"
+      }, 
+      {
+        "chiffreAffaire": "< 100 000 euros", 
+        "commentaire": "Dans le cadre des actions de la France dans le cyberespace, nous avons menés trois types d'actions : des réunions thématiques, des voyages d'études et un forum international. L'objectif est de créer une communauté de confiance en Europe. Les réunions de la CyberTaskForce réunissent 8 fois par an les décideurs publics/privés nationaux afin d'échanger les regards sur les enjeux de la sécurité de la transformation numérique (éducation-formation-inclusion-tech). 3 voyages d'études ont été l'occasion de rencontrer nos homologues publics et privés en Europe afin de confronter nos visions et nos initiatives. Le forum est le rendez-vous public de cette communauté en construction.", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11287, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 10 000 euros et < 25 000 euros", 
+        "noActivite": true, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 1, 
+        "publicationDate": "2021-04-08T20:49:26"
       }, 
       {
         "chiffreAffaire": "> = 100 000 euros et < 500 000 euros", 
