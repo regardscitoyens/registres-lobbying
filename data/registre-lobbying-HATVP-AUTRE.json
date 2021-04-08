@@ -29007,38 +29007,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Système de santé et médico-social"
-        ], 
-        "identifiantFiche": "Y3KGS85V", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Enjeux du plan d'urgence et demande de soutien aux dispositifs d'aide alimentaire", 
-        "publicationDate": "2021-04-02T17:37:20"
-      }, 
-      {
-        "domainesIntervention": [
-          "Aides aux entreprises"
-        ], 
-        "identifiantFiche": "YVIGS8Z3", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Plan de relance : enjeux du financement du secteur de l'insertion par l'activité économique ", 
-        "publicationDate": "2021-04-02T17:43:36"
-      }, 
-      {
-        "domainesIntervention": [
-          "Aides aux entreprises"
-        ], 
-        "identifiantFiche": "UVPWK813", 
-        "nom_organisation": "GIE ALLIANCE GESTION", 
-        "num_organisation": "404826554", 
-        "objet": "Plan de relance : parler du financement du secteur de l'insertion par l'activité économique ", 
-        "publicationDate": "2021-04-02T17:46:05"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/404826554.json", 
     "ville": "PARIS CEDEX 11"
