@@ -11541,7 +11541,7 @@
       }
     ], 
     "dateCreation": "2020-07-28T17:17:27", 
-    "dateDernierePublicationActivite": "2021-03-30T11:16:39", 
+    "dateDernierePublicationActivite": "2021-04-12T14:15:56", 
     "datePremierePublication": "2018-01-05T17:49:19", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": true, 
@@ -13865,6 +13865,36 @@
                       "Etablir une correspondance régulière (par courriel, par courrier…)"
                     ], 
                     "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles", 
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "CDC HABITAT (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Logement"
+                ], 
+                "identifiantFiche": "QV7R10WV", 
+                "objet": "Echanger de manière générale sur la situation du logement social et contribuer à l'organisation territoriale des organismes de logements sociaux", 
+                "publicationDate": "2021-04-12T14:15:56"
+              }, 
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
                       "Autres décisions publiques"
                     ], 
                     "reponsablesPublics": [
@@ -13894,11 +13924,13 @@
                     "Etablir une correspondance régulière (par courriel, par courrier…)"
                   ], 
                   "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles", 
                     "Autres décisions publiques"
                   ], 
                   "reponsablesPublics": [
                     "Titulaire d'un emploi à la décision du Gouvernement", 
-                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
                   ], 
                   "tiers": [
                     "CDC HABITAT (en propre)"
@@ -13910,7 +13942,7 @@
               ], 
               "identifiantFiche": "QV7R10WV", 
               "objet": "Echanger de manière générale sur la situation du logement social et contribuer à l'organisation territoriale des organismes de logements sociaux", 
-              "publicationDate": "2021-03-30T11:15:46"
+              "publicationDate": "2021-04-12T14:15:56"
             }
           }, 
           {
@@ -14421,7 +14453,18 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Logement"
+        ], 
+        "identifiantFiche": "QV7R10WV", 
+        "nom_organisation": "CDC HABITAT", 
+        "num_organisation": "470801168", 
+        "objet": "Echanger de manière générale sur la situation du logement social et contribuer à l'organisation territoriale des organismes de logements sociaux", 
+        "publicationDate": "2021-04-12T14:15:56"
+      }
+    ], 
     "sigleHatvp": "SNI", 
     "telephoneDeContact": "0155033101", 
     "typeIdentifiantNational": "SIREN", 
