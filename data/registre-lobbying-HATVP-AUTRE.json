@@ -14453,18 +14453,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Logement"
-        ], 
-        "identifiantFiche": "QV7R10WV", 
-        "nom_organisation": "CDC HABITAT", 
-        "num_organisation": "470801168", 
-        "objet": "Echanger de manière générale sur la situation du logement social et contribuer à l'organisation territoriale des organismes de logements sociaux", 
-        "publicationDate": "2021-04-12T14:15:56"
-      }
-    ], 
+    "resumes_actions": [], 
     "sigleHatvp": "SNI", 
     "telephoneDeContact": "0155033101", 
     "typeIdentifiantNational": "SIREN", 
@@ -41305,6 +41294,7 @@
       }
     ], 
     "dateCreation": "2021-03-11T17:42:09", 
+    "dateDernierePublicationActivite": "2021-04-13T14:09:55", 
     "datePremierePublication": "2021-03-11T17:42:09", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -41325,6 +41315,139 @@
     ], 
     "exercices": [
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "MUTUELLE NAT HOSPIT PROF SANTE SOCIAL (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Système de santé et médico-social"
+                ], 
+                "identifiantFiche": "Q36SQBEV", 
+                "objet": "Mieux intégrer l’amélioration de la qualité de vie au travail dans le projet social et le projet managérial des établissements hospitaliers", 
+                "publicationDate": "2021-04-13T14:09:55"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "MUTUELLE NAT HOSPIT PROF SANTE SOCIAL (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Système de santé et médico-social"
+              ], 
+              "identifiantFiche": "Q36SQBEV", 
+              "objet": "Mieux intégrer l’amélioration de la qualité de vie au travail dans le projet social et le projet managérial des établissements hospitaliers", 
+              "publicationDate": "2021-04-13T14:09:55"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Ordonnances de l'article 38 de la Constitution"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Fonction publique, Affaires sociales et santé"
+                    ], 
+                    "tiers": [
+                      "MUTUELLE NAT HOSPIT PROF SANTE SOCIAL (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Assurances", 
+                  "Système de santé et médico-social", 
+                  "Fonction publique"
+                ], 
+                "identifiantFiche": "2VRQUFAH", 
+                "objet": "Adapter le futur régime de protection sociale complémentaire aux spécificités des agents de la fonction publique hospitalière", 
+                "publicationDate": "2021-04-13T14:09:43"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique", 
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Ordonnances de l'article 38 de la Constitution"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Fonction publique, Affaires sociales et santé"
+                  ], 
+                  "tiers": [
+                    "MUTUELLE NAT HOSPIT PROF SANTE SOCIAL (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Assurances", 
+                "Système de santé et médico-social", 
+                "Fonction publique"
+              ], 
+              "identifiantFiche": "2VRQUFAH", 
+              "objet": "Adapter le futur régime de protection sociale complémentaire aux spécificités des agents de la fonction publique hospitalière", 
+              "publicationDate": "2021-04-13T14:09:43"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13850, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 2, 
+        "nombreSalaries": 4, 
+        "publicationDate": "2021-04-13T14:09:15"
+      }, 
+      {
         "dateDebut": "2021-01-01", 
         "dateFin": "2021-12-31", 
         "defautDeclaration": false, 
@@ -41334,9 +41457,23 @@
       }
     ], 
     "historique": [], 
-    "historique_exercices": [], 
+    "historique_exercices": [
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 13850, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 2, 
+        "nombreSalaries": 4, 
+        "publicationDate": "2021-04-13T14:09:15"
+      }
+    ], 
     "identifiantNational": "775606361", 
-    "isActivitesPubliees": false, 
+    "isActivitesPubliees": true, 
     "lienPageFacebook": "https://www.facebook.com/MutuelleNationaledesHospitaliers", 
     "lienPageLinkedin": "https://www.linkedin.com/company/mutuelle-nationale-des-hospitaliers/", 
     "lienPageTwitter": "https://twitter.com/MNH_Mutuelle", 
@@ -41346,7 +41483,30 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Assurances", 
+          "Système de santé et médico-social", 
+          "Fonction publique"
+        ], 
+        "identifiantFiche": "2VRQUFAH", 
+        "nom_organisation": "MUTUELLE NAT HOSPIT PROF SANTE SOCIAL", 
+        "num_organisation": "775606361", 
+        "objet": "Adapter le futur régime de protection sociale complémentaire aux spécificités des agents de la fonction publique hospitalière", 
+        "publicationDate": "2021-04-13T14:09:43"
+      }, 
+      {
+        "domainesIntervention": [
+          "Système de santé et médico-social"
+        ], 
+        "identifiantFiche": "Q36SQBEV", 
+        "nom_organisation": "MUTUELLE NAT HOSPIT PROF SANTE SOCIAL", 
+        "num_organisation": "775606361", 
+        "objet": "Mieux intégrer l’amélioration de la qualité de vie au travail dans le projet social et le projet managérial des établissements hospitaliers", 
+        "publicationDate": "2021-04-13T14:09:55"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775606361.json", 
     "ville": "AMILLY"
