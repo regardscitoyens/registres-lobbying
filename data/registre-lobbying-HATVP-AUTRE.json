@@ -1626,29 +1626,24 @@
     "collaborateurs": [
       {
         "civilite": "MME", 
-        "nom": "GUIMBANG", 
-        "prenom": "Sandrine"
-      }, 
-      {
-        "civilite": "MME", 
         "fonction": "Directrice Juridique Groupe", 
         "nom": "BORIAUD", 
         "prenom": "Cecile"
       }, 
       {
         "civilite": "M", 
-        "fonction": "Directeur en charge des Affaires Publiques,de la RSE et des Partenariats économiques", 
-        "nom": "MICHEL", 
-        "prenom": "Xavier"
-      }, 
-      {
-        "civilite": "M", 
         "fonction": "Directeur de missions", 
         "nom": "ADREY", 
         "prenom": "Pierre Olivier"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur en charge des Affaires Publiques,de la RSE et des Partenariats économiques", 
+        "nom": "MICHEL", 
+        "prenom": "Xavier"
       }
     ], 
-    "dateCreation": "2021-04-06T12:38:32", 
+    "dateCreation": "2021-04-14T16:06:47", 
     "datePremierePublication": "2021-04-06T12:38:32", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -1671,7 +1666,102 @@
         "nombreActivite": 0
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "FINANCE", 
+              "label": "Banques, assurances, secteur financier", 
+              "ordre": 4
+            }
+          ]
+        }, 
+        "adresse": "17-21 Place Etienne Pernet ", 
+        "affiliations": [
+          {
+            "denomination": "FEDERATION NATIONALE MUTUALITE FRANCAISE", 
+            "identifiantNational": "304426240", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FEDERATION FRANCAISE DE L ASSURANCE (FFA)", 
+            "identifiantNational": "784409013", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [], 
+        "codePostal": "75015", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "nom": "GUIMBANG", 
+            "prenom": "Sandrine"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Juridique Groupe", 
+            "nom": "BORIAUD", 
+            "prenom": "Cecile"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur en charge des Affaires Publiques,de la RSE et des Partenariats économiques", 
+            "nom": "MICHEL", 
+            "prenom": "Xavier"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur de missions", 
+            "nom": "ADREY", 
+            "prenom": "Pierre Olivier"
+          }
+        ], 
+        "dateCreation": "2021-04-06T12:38:32", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "AEMA GROUPE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Général", 
+            "nom": "COURET", 
+            "prenom": "Adrien"
+          }
+        ], 
+        "identifiantNational": "493754261", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/aema-groupe/", 
+        "lienPageTwitter": "https://twitter.com/Aema_Groupe", 
+        "lienSiteWeb": "https://aemagroupe.fr/", 
+        "pays": "France", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }
+    ], 
     "historique_exercices": [], 
     "identifiantNational": "493754261", 
     "isActivitesPubliees": false, 
