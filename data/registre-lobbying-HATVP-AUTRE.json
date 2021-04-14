@@ -16393,7 +16393,7 @@
       }
     ], 
     "dateCreation": "2020-07-28T10:19:24", 
-    "dateDernierePublicationActivite": "2020-07-29T14:29:59", 
+    "dateDernierePublicationActivite": "2021-04-14T10:27:59", 
     "datePremierePublication": "2017-12-19T11:18:49", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -16710,6 +16710,684 @@
         "publicationDate": "2020-07-29T15:56:11"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "W3U94Q5V", 
+                "objet": "sensibiliser les pouvoirs publics aux actions nécessaires en médecine vétérinaire solidaire", 
+                "publicationDate": "2021-04-14T10:27:45"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Agriculture"
+              ], 
+              "identifiantFiche": "W3U94Q5V", 
+              "objet": "sensibiliser les pouvoirs publics aux actions nécessaires en médecine vétérinaire solidaire", 
+              "publicationDate": "2021-04-14T10:27:45"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "O3WX6WEH", 
+                "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+                "publicationDate": "2021-04-14T10:27:30"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Agriculture"
+              ], 
+              "identifiantFiche": "O3WX6WEH", 
+              "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+              "publicationDate": "2021-04-14T10:27:30"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "C34BQLFV", 
+                "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+                "publicationDate": "2021-04-14T10:27:59"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Agriculture"
+              ], 
+              "identifiantFiche": "C34BQLFV", 
+              "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+              "publicationDate": "2021-04-14T10:27:59"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "0VE76PW3", 
+                "objet": "faire retirer un amendement modifiant la composition du capital des entreprises vétérinaires", 
+                "publicationDate": "2021-04-14T10:26:58"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Agriculture"
+              ], 
+              "identifiantFiche": "0VE76PW3", 
+              "objet": "faire retirer un amendement modifiant la composition du capital des entreprises vétérinaires", 
+              "publicationDate": "2021-04-14T10:26:58"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "DVS4Q0DH", 
+                "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+                "publicationDate": "2021-04-14T10:27:18"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Agriculture"
+              ], 
+              "identifiantFiche": "DVS4Q0DH", 
+              "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+              "publicationDate": "2021-04-14T10:27:18"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "0V2AQRRV", 
+                "objet": "faire retirer un amendement modifiant la composition du capital des entreprises vétérinaires", 
+                "publicationDate": "2021-04-14T10:26:42"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Agriculture"
+              ], 
+              "identifiantFiche": "0V2AQRRV", 
+              "objet": "faire retirer un amendement modifiant la composition du capital des entreprises vétérinaires", 
+              "publicationDate": "2021-04-14T10:26:42"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Aménagement du territoire, ruralité et collectivités territoriales"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "UHQSCD83", 
+                "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+                "publicationDate": "2021-04-14T10:25:07"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Aménagement du territoire, ruralité et collectivités territoriales"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Agriculture"
+              ], 
+              "identifiantFiche": "UHQSCD83", 
+              "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+              "publicationDate": "2021-04-14T10:25:07"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Principe de précaution"
+                ], 
+                "identifiantFiche": "Y3GQSA2H", 
+                "objet": "attirer l'attention des pouvoirs publics sur la place des vétérinaires dans la gestion de la faune sauvage", 
+                "publicationDate": "2021-04-14T10:26:12"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Principe de précaution"
+              ], 
+              "identifiantFiche": "Y3GQSA2H", 
+              "objet": "attirer l'attention des pouvoirs publics sur la place des vétérinaires dans la gestion de la faune sauvage", 
+              "publicationDate": "2021-04-14T10:26:12"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Environnement, énergie et mer"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Principe de précaution"
+                ], 
+                "identifiantFiche": "0V5TQYL3", 
+                "objet": "attirer l'attention du législateur sur la place du vétérinaire dans la gestion des populations de faune sauvage ", 
+                "publicationDate": "2021-04-14T10:24:48"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Environnement, énergie et mer"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Principe de précaution"
+              ], 
+              "identifiantFiche": "0V5TQYL3", 
+              "objet": "attirer l'attention du législateur sur la place du vétérinaire dans la gestion des populations de faune sauvage ", 
+              "publicationDate": "2021-04-14T10:24:48"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "DHMZSCMV", 
+                "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+                "publicationDate": "2021-04-14T10:23:53"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Agriculture"
+              ], 
+              "identifiantFiche": "DHMZSCMV", 
+              "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+              "publicationDate": "2021-04-14T10:23:53"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "Y3KGS6TV", 
+                "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+                "publicationDate": "2021-04-14T10:25:43"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Agriculture"
+              ], 
+              "identifiantFiche": "Y3KGS6TV", 
+              "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+              "publicationDate": "2021-04-14T10:25:43"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "QV7R8DNV", 
+                "objet": "faire retirer un amendement modifiant la composition du capital des entreprises vétérinaires", 
+                "publicationDate": "2021-04-14T10:25:57"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Agriculture"
+              ], 
+              "identifiantFiche": "QV7R8DNV", 
+              "objet": "faire retirer un amendement modifiant la composition du capital des entreprises vétérinaires", 
+              "publicationDate": "2021-04-14T10:25:57"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement"
+                    ], 
+                    "tiers": [
+                      "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "O38QZFRH", 
+                "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+                "publicationDate": "2021-04-14T10:23:18"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement"
+                  ], 
+                  "tiers": [
+                    "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Agriculture"
+              ], 
+              "identifiantFiche": "O38QZFRH", 
+              "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+              "publicationDate": "2021-04-14T10:23:18"
+            }
+          }
+        ], 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
@@ -16717,9 +17395,9 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 75 000 euros et < 100 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 13, 
         "nombreSalaries": 5, 
-        "publicationDate": "2020-07-29T14:31:17"
+        "publicationDate": "2021-04-14T10:22:18"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -16897,7 +17575,31 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 75 000 euros et < 100 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 13, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2021-04-14T10:22:18"
+      }, 
+      {
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9463, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 75 000 euros et < 100 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 13, 
+        "nombreSalaries": 5, 
+        "publicationDate": "2021-04-14T10:16:53"
+      }, 
+      {
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9463, 
+        "hasNotChiffreAffaire": true, 
+        "montantDepense": "> = 75 000 euros et < 100 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 13, 
         "nombreSalaries": 5, 
         "publicationDate": "2020-07-29T14:31:17"
       }, 
@@ -16909,7 +17611,7 @@
         "hasNotChiffreAffaire": true, 
         "montantDepense": "> = 75 000 euros et < 100 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 13, 
         "nombreSalaries": 5, 
         "publicationDate": "2020-07-29T14:31:05"
       }
@@ -16923,7 +17625,138 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Agriculture"
+        ], 
+        "identifiantFiche": "O38QZFRH", 
+        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
+        "num_organisation": "784447153", 
+        "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+        "publicationDate": "2021-04-14T10:23:18"
+      }, 
+      {
+        "domainesIntervention": [
+          "Agriculture"
+        ], 
+        "identifiantFiche": "DHMZSCMV", 
+        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
+        "num_organisation": "784447153", 
+        "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+        "publicationDate": "2021-04-14T10:23:53"
+      }, 
+      {
+        "domainesIntervention": [
+          "Principe de précaution"
+        ], 
+        "identifiantFiche": "0V5TQYL3", 
+        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
+        "num_organisation": "784447153", 
+        "objet": "attirer l'attention du législateur sur la place du vétérinaire dans la gestion des populations de faune sauvage ", 
+        "publicationDate": "2021-04-14T10:24:48"
+      }, 
+      {
+        "domainesIntervention": [
+          "Agriculture"
+        ], 
+        "identifiantFiche": "UHQSCD83", 
+        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
+        "num_organisation": "784447153", 
+        "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+        "publicationDate": "2021-04-14T10:25:07"
+      }, 
+      {
+        "domainesIntervention": [
+          "Agriculture"
+        ], 
+        "identifiantFiche": "Y3KGS6TV", 
+        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
+        "num_organisation": "784447153", 
+        "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+        "publicationDate": "2021-04-14T10:25:43"
+      }, 
+      {
+        "domainesIntervention": [
+          "Agriculture"
+        ], 
+        "identifiantFiche": "QV7R8DNV", 
+        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
+        "num_organisation": "784447153", 
+        "objet": "faire retirer un amendement modifiant la composition du capital des entreprises vétérinaires", 
+        "publicationDate": "2021-04-14T10:25:57"
+      }, 
+      {
+        "domainesIntervention": [
+          "Principe de précaution"
+        ], 
+        "identifiantFiche": "Y3GQSA2H", 
+        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
+        "num_organisation": "784447153", 
+        "objet": "attirer l'attention des pouvoirs publics sur la place des vétérinaires dans la gestion de la faune sauvage", 
+        "publicationDate": "2021-04-14T10:26:12"
+      }, 
+      {
+        "domainesIntervention": [
+          "Agriculture"
+        ], 
+        "identifiantFiche": "0V2AQRRV", 
+        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
+        "num_organisation": "784447153", 
+        "objet": "faire retirer un amendement modifiant la composition du capital des entreprises vétérinaires", 
+        "publicationDate": "2021-04-14T10:26:42"
+      }, 
+      {
+        "domainesIntervention": [
+          "Agriculture"
+        ], 
+        "identifiantFiche": "0VE76PW3", 
+        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
+        "num_organisation": "784447153", 
+        "objet": "faire retirer un amendement modifiant la composition du capital des entreprises vétérinaires", 
+        "publicationDate": "2021-04-14T10:26:58"
+      }, 
+      {
+        "domainesIntervention": [
+          "Agriculture"
+        ], 
+        "identifiantFiche": "DVS4Q0DH", 
+        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
+        "num_organisation": "784447153", 
+        "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+        "publicationDate": "2021-04-14T10:27:18"
+      }, 
+      {
+        "domainesIntervention": [
+          "Agriculture"
+        ], 
+        "identifiantFiche": "O3WX6WEH", 
+        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
+        "num_organisation": "784447153", 
+        "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+        "publicationDate": "2021-04-14T10:27:30"
+      }, 
+      {
+        "domainesIntervention": [
+          "Agriculture"
+        ], 
+        "identifiantFiche": "W3U94Q5V", 
+        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
+        "num_organisation": "784447153", 
+        "objet": "sensibiliser les pouvoirs publics aux actions nécessaires en médecine vétérinaire solidaire", 
+        "publicationDate": "2021-04-14T10:27:45"
+      }, 
+      {
+        "domainesIntervention": [
+          "Agriculture"
+        ], 
+        "identifiantFiche": "C34BQLFV", 
+        "nom_organisation": "CONSEIL NATIONAL DE L ORDRE DES VETERINAIRES", 
+        "num_organisation": "784447153", 
+        "objet": "inscrire dans la loi le soutien aux activités vétérinaires dans les territoires ruraux", 
+        "publicationDate": "2021-04-14T10:27:59"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/784447153.json", 
     "ville": "PARIS"
