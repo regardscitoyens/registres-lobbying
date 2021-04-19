@@ -42406,30 +42406,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Assurances", 
-          "Système de santé et médico-social", 
-          "Fonction publique"
-        ], 
-        "identifiantFiche": "2VRQUFAH", 
-        "nom_organisation": "MUTUELLE NAT HOSPIT PROF SANTE SOCIAL", 
-        "num_organisation": "775606361", 
-        "objet": "Adapter le futur régime de protection sociale complémentaire aux spécificités des agents de la fonction publique hospitalière", 
-        "publicationDate": "2021-04-13T14:09:43"
-      }, 
-      {
-        "domainesIntervention": [
-          "Système de santé et médico-social"
-        ], 
-        "identifiantFiche": "Q36SQBEV", 
-        "nom_organisation": "MUTUELLE NAT HOSPIT PROF SANTE SOCIAL", 
-        "num_organisation": "775606361", 
-        "objet": "Mieux intégrer l’amélioration de la qualité de vie au travail dans le projet social et le projet managérial des établissements hospitaliers", 
-        "publicationDate": "2021-04-13T14:09:55"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/775606361.json", 
     "ville": "AMILLY"
