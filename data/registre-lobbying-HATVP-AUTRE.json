@@ -37235,12 +37235,18 @@
         "publicationDate": "2020-10-08T17:24:10"
       }, 
       {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "commentaire": "Pas d'activité de représentation au cours de l'exercice 2020", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9731, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 0, 
+        "nombreSalaries": 0, 
+        "publicationDate": "2021-04-23T10:37:23"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -37265,6 +37271,20 @@
         "nombreActivite": 0, 
         "nombreSalaries": 2, 
         "publicationDate": "2020-10-08T17:24:10"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "commentaire": "Pas d'activité de représentation au cours de l'exercice 2020", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 9731, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 0, 
+        "publicationDate": "2021-04-23T10:37:23"
       }
     ], 
     "identifiantNational": "308708650", 
@@ -41936,7 +41956,7 @@
         "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
-        "defautDeclaration": false, 
+        "defautDeclaration": true, 
         "exerciceId": 9674, 
         "hasNotChiffreAffaire": false, 
         "montantDepense": "< 10 000 euros", 
@@ -41986,7 +42006,7 @@
         "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
-        "defautDeclaration": false, 
+        "defautDeclaration": true, 
         "exerciceId": 9674, 
         "hasNotChiffreAffaire": false, 
         "montantDepense": "< 10 000 euros", 
@@ -41999,7 +42019,7 @@
         "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
-        "defautDeclaration": false, 
+        "defautDeclaration": true, 
         "exerciceId": 9674, 
         "hasNotChiffreAffaire": false, 
         "montantDepense": "< 10 000 euros", 
@@ -44462,7 +44482,7 @@
       {
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
-        "defautDeclaration": false, 
+        "defautDeclaration": true, 
         "exerciceId": 11561, 
         "noActivite": false, 
         "nombreActivite": 0
@@ -45617,7 +45637,7 @@
       {
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
-        "defautDeclaration": false, 
+        "defautDeclaration": true, 
         "exerciceId": 9470, 
         "noActivite": false, 
         "nombreActivite": 0

@@ -1565,7 +1565,7 @@
       {
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
-        "defautDeclaration": false, 
+        "defautDeclaration": true, 
         "exerciceId": 10187, 
         "noActivite": false, 
         "nombreActivite": 0
