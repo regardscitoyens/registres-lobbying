@@ -8766,7 +8766,7 @@
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 9083, 
-        "noActivite": false, 
+        "noActivite": true, 
         "nombreActivite": 0
       }, 
       {
