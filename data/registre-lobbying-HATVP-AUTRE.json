@@ -42113,20 +42113,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Remboursements", 
-          "Prévention", 
-          "Système de santé et médico-social"
-        ], 
-        "identifiantFiche": "Y3KGSUNV", 
-        "nom_organisation": "MUTUELLE MALAKOFF HUMANIS", 
-        "num_organisation": "784718256", 
-        "objet": "Défendre le rôle des complémentaires santé dans l'accès aux soins et la prévention, défendre les réseaux de soins et limiter la fiscalité des complémentaires santé et la régulation excessive du marché", 
-        "publicationDate": "2021-04-27T10:54:38"
-      }
-    ], 
+    "resumes_actions": [], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/784718256.json", 
     "ville": "PARIS"
