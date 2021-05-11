@@ -44453,14 +44453,6 @@
       }, 
       {
         "dateDebut": "2020-01-01", 
-        "dateFin": "2020-02-26", 
-        "defautDeclaration": false, 
-        "exerciceId": 10477, 
-        "noActivite": true, 
-        "nombreActivite": 0
-      }, 
-      {
-        "dateDebut": "2020-02-27", 
         "dateFin": "2020-12-31", 
         "defautDeclaration": false, 
         "exerciceId": 10478, 

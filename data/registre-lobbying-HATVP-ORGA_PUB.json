@@ -8585,7 +8585,7 @@
         "noActivite": false, 
         "nombreActivite": 0, 
         "nombreSalaries": 2, 
-        "publicationDate": "2021-04-01T10:19:42"
+        "publicationDate": "2021-05-11T15:06:39"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -8623,6 +8623,19 @@
         "nombreActivite": 2, 
         "nombreSalaries": 3, 
         "publicationDate": "2020-10-13T15:33:54"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-24", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 10333, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 2, 
+        "publicationDate": "2021-05-11T15:06:39"
       }, 
       {
         "chiffreAffaire": "> = 1 000 000 euros", 
