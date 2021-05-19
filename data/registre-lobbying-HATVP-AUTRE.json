@@ -4260,7 +4260,7 @@
     ], 
     "exercices": [
       {
-        "dateDebut": "2020-05-19", 
+        "dateDebut": "2020-01-01", 
         "dateFin": "2020-09-05", 
         "defautDeclaration": false, 
         "exerciceId": 11275, 
@@ -4272,6 +4272,14 @@
         "dateFin": "2021-05-18", 
         "defautDeclaration": false, 
         "exerciceId": 11276, 
+        "noActivite": false, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-05-19", 
+        "dateFin": "2022-05-18", 
+        "defautDeclaration": false, 
+        "exerciceId": 14436, 
         "noActivite": false, 
         "nombreActivite": 0
       }
