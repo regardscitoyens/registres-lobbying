@@ -14645,7 +14645,7 @@
       }
     ], 
     "dateCreation": "2019-03-27T11:39:31", 
-    "dateDernierePublicationActivite": "2020-03-31T18:17:20", 
+    "dateDernierePublicationActivite": "2021-05-20T16:45:13", 
     "datePremierePublication": "2018-07-04T11:09:34", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -14897,6 +14897,168 @@
         "publicationDate": "2020-10-30T10:38:27"
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CHAMBRE DE COMMERCE ET D'INDUSTRIE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Budget"
+                ], 
+                "identifiantFiche": "0V2A45DV", 
+                "objet": "Examen du projet de loi de finances amendement visant à supprimer une nouvelle diminution des ressources affectées aux CCI", 
+                "publicationDate": "2021-05-20T16:44:56"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CHAMBRE DE COMMERCE ET D'INDUSTRIE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Budget"
+              ], 
+              "identifiantFiche": "0V2A45DV", 
+              "objet": "Examen du projet de loi de finances amendement visant à supprimer une nouvelle diminution des ressources affectées aux CCI", 
+              "publicationDate": "2021-05-20T16:44:56"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Envoyer des pétitions, lettres ouvertes, tracts"
+                    ], 
+                    "decisionsConcernees": [
+                      "Autres décisions publiques"
+                    ], 
+                    "observation": "Courrier à l'ensemble des mairies de Charente Maritime en sollicitant une baisse de la CFE auprès de l'ensemble des entreprises du département dans le contexte COVID", 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Ville, jeunesse et sport"
+                    ], 
+                    "tiers": [
+                      "CHAMBRE DE COMMERCE ET D'INDUSTRIE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Impôts"
+                ], 
+                "identifiantFiche": "2VRQACOH", 
+                "objet": "Demande auprès des collectivités le dégrèvement d'une quote-part du montant de la CFE payée par les entreprises", 
+                "publicationDate": "2021-05-20T16:45:13"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Envoyer des pétitions, lettres ouvertes, tracts"
+                  ], 
+                  "decisionsConcernees": [
+                    "Autres décisions publiques"
+                  ], 
+                  "observation": "Courrier à l'ensemble des mairies de Charente Maritime en sollicitant une baisse de la CFE auprès de l'ensemble des entreprises du département dans le contexte COVID", 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Ville, jeunesse et sport"
+                  ], 
+                  "tiers": [
+                    "CHAMBRE DE COMMERCE ET D'INDUSTRIE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Impôts"
+              ], 
+              "identifiantFiche": "2VRQACOH", 
+              "objet": "Demande auprès des collectivités le dégrèvement d'une quote-part du montant de la CFE payée par les entreprises", 
+              "publicationDate": "2021-05-20T16:45:13"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Etablir une correspondance régulière (par courriel, par courrier…)"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "Dispositions nouvelles liées à la cris esanitaire", 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                    ], 
+                    "tiers": [
+                      "CHAMBRE DE COMMERCE ET D'INDUSTRIE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Budget"
+                ], 
+                "identifiantFiche": "O3WXRFAH", 
+                "objet": "Préciser l'article 3 du projet de loi sur les dispositions liées à la crise sanitaire", 
+                "publicationDate": "2021-05-20T16:44:29"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Etablir une correspondance régulière (par courriel, par courrier…)"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "Dispositions nouvelles liées à la cris esanitaire", 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires"
+                  ], 
+                  "tiers": [
+                    "CHAMBRE DE COMMERCE ET D'INDUSTRIE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Budget"
+              ], 
+              "identifiantFiche": "O3WXRFAH", 
+              "objet": "Préciser l'article 3 du projet de loi sur les dispositions liées à la crise sanitaire", 
+              "publicationDate": "2021-05-20T16:44:29"
+            }
+          }
+        ], 
         "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
@@ -14905,7 +15067,7 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 3, 
         "nombreSalaries": 1, 
         "publicationDate": "2021-03-30T18:20:10"
       }, 
@@ -15057,7 +15219,7 @@
         "hasNotChiffreAffaire": false, 
         "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0, 
+        "nombreActivite": 3, 
         "nombreSalaries": 1, 
         "publicationDate": "2021-03-30T18:20:10"
       }
@@ -15069,7 +15231,38 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": false, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Budget"
+        ], 
+        "identifiantFiche": "O3WXRFAH", 
+        "nom_organisation": "CHAMBRE DE COMMERCE ET D'INDUSTRIE", 
+        "num_organisation": "181700022", 
+        "objet": "Préciser l'article 3 du projet de loi sur les dispositions liées à la crise sanitaire", 
+        "publicationDate": "2021-05-20T16:44:29"
+      }, 
+      {
+        "domainesIntervention": [
+          "Budget"
+        ], 
+        "identifiantFiche": "0V2A45DV", 
+        "nom_organisation": "CHAMBRE DE COMMERCE ET D'INDUSTRIE", 
+        "num_organisation": "181700022", 
+        "objet": "Examen du projet de loi de finances amendement visant à supprimer une nouvelle diminution des ressources affectées aux CCI", 
+        "publicationDate": "2021-05-20T16:44:56"
+      }, 
+      {
+        "domainesIntervention": [
+          "Impôts"
+        ], 
+        "identifiantFiche": "2VRQACOH", 
+        "nom_organisation": "CHAMBRE DE COMMERCE ET D'INDUSTRIE", 
+        "num_organisation": "181700022", 
+        "objet": "Demande auprès des collectivités le dégrèvement d'une quote-part du montant de la CFE payée par les entreprises", 
+        "publicationDate": "2021-05-20T16:45:13"
+      }
+    ], 
     "sigleHatvp": "CCI DE CHARENTE MARITIME 17", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/181700022.json", 
