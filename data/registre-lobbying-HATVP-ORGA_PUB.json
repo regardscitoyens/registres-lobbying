@@ -2554,7 +2554,13 @@
       ]
     }, 
     "adresse": "CHAMBRE COMMERCE ET INDUSTRIE GRENOBLE\nDirection Institutionnel\n1 PLACE ANDRE MALRAUX\nBP 297", 
-    "affiliations": [], 
+    "affiliations": [
+      {
+        "denomination": "ASSOCIATION DES CCI METROPOLITAINES (ACCIM)", 
+        "identifiantNational": "W133005375", 
+        "typeIdentifiantNational": "RNA"
+      }
+    ], 
     "categorieOrganisation": {
       "categorie": "ORGA_PUB", 
       "code": "EPAIC", 
@@ -2575,9 +2581,9 @@
         "prenom": "Hichem"
       }
     ], 
-    "dateCreation": "2021-03-30T14:53:37", 
+    "dateCreation": "2021-05-26T14:55:40", 
     "datePremierePublication": "2021-03-30T14:53:37", 
-    "declarationOrgaAppartenance": false, 
+    "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
     "denomination": "CHAMBRE COMMERCE ET INDUSTRIE GRENOBLE", 
     "dirigeants": [
@@ -2650,7 +2656,95 @@
         "nombreActivite": 0
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "COMMERCE", 
+              "label": "Commerce extérieur", 
+              "ordre": 5
+            }, 
+            {
+              "categorie": null, 
+              "code": "ECONOMIE", 
+              "label": "Economie", 
+              "ordre": 8
+            }, 
+            {
+              "categorie": null, 
+              "code": "ENTREPRISE", 
+              "label": "Gouvernance d’entreprise", 
+              "ordre": 14
+            }, 
+            {
+              "categorie": null, 
+              "code": "PUBLIC", 
+              "label": "Pouvoirs publics, institutions, fonction publique", 
+              "ordre": 21
+            }
+          ]
+        }, 
+        "adresse": "CHAMBRE COMMERCE ET INDUSTRIE GRENOBLE\nDirection Institutionnel\n1 PLACE ANDRE MALRAUX\nBP 297", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_PUB", 
+          "code": "EPAIC", 
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
+        }, 
+        "clients": [], 
+        "codePostal": "38016", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "nom": "RIVIERE", 
+            "prenom": "Emmanuelle"
+          }, 
+          {
+            "civilite": "M", 
+            "nom": "MAHBOUBI", 
+            "prenom": "Hichem"
+          }
+        ], 
+        "dateCreation": "2021-03-30T14:53:37", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "CHAMBRE COMMERCE ET INDUSTRIE GRENOBLE", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président", 
+            "nom": "VAYLET", 
+            "prenom": "Jean"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice Générale", 
+            "nom": "RIVIERE", 
+            "prenom": "Emmanuelle"
+          }
+        ], 
+        "identifiantNational": "183830017", 
+        "lienSiteWeb": "https://www.grenoble.cci.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "sigleHatvp": "CCI 38", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "GRENOBLE CEDEX 1"
+      }
+    ], 
     "historique_exercices": [
       {
         "chiffreAffaire": "> = 1 000 000 euros", 
