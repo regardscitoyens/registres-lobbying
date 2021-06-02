@@ -15231,38 +15231,7 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": false, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "Budget"
-        ], 
-        "identifiantFiche": "O3WXRFAH", 
-        "nom_organisation": "CHAMBRE DE COMMERCE ET D'INDUSTRIE", 
-        "num_organisation": "181700022", 
-        "objet": "Préciser l'article 3 du projet de loi sur les dispositions liées à la crise sanitaire", 
-        "publicationDate": "2021-05-20T16:44:29"
-      }, 
-      {
-        "domainesIntervention": [
-          "Budget"
-        ], 
-        "identifiantFiche": "0V2A45DV", 
-        "nom_organisation": "CHAMBRE DE COMMERCE ET D'INDUSTRIE", 
-        "num_organisation": "181700022", 
-        "objet": "Examen du projet de loi de finances amendement visant à supprimer une nouvelle diminution des ressources affectées aux CCI", 
-        "publicationDate": "2021-05-20T16:44:56"
-      }, 
-      {
-        "domainesIntervention": [
-          "Impôts"
-        ], 
-        "identifiantFiche": "2VRQACOH", 
-        "nom_organisation": "CHAMBRE DE COMMERCE ET D'INDUSTRIE", 
-        "num_organisation": "181700022", 
-        "objet": "Demande auprès des collectivités le dégrèvement d'une quote-part du montant de la CFE payée par les entreprises", 
-        "publicationDate": "2021-05-20T16:45:13"
-      }
-    ], 
+    "resumes_actions": [], 
     "sigleHatvp": "CCI DE CHARENTE MARITIME 17", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/181700022.json", 
