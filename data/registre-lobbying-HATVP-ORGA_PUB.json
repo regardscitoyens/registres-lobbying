@@ -1917,6 +1917,786 @@
       "listNiveauIntervention": [
         {
           "categorie": null, 
+          "code": "LOCAL", 
+          "label": "Local", 
+          "ordre": 1
+        }, 
+        {
+          "categorie": null, 
+          "code": "NATIONAL", 
+          "label": "National", 
+          "ordre": 2
+        }
+      ], 
+      "listSecteursActivites": [
+        {
+          "categorie": null, 
+          "code": "ETRANGER", 
+          "label": "Affaires étrangères, coopération internationale", 
+          "ordre": 1
+        }, 
+        {
+          "categorie": null, 
+          "code": "COMMERCE", 
+          "label": "Commerce extérieur", 
+          "ordre": 5
+        }, 
+        {
+          "categorie": null, 
+          "code": "ECONOMIE", 
+          "label": "Economie", 
+          "ordre": 8
+        }, 
+        {
+          "categorie": null, 
+          "code": "EDUCATION", 
+          "label": "Education, enseignement supérieur, formation", 
+          "ordre": 9
+        }, 
+        {
+          "categorie": null, 
+          "code": "FINANCES", 
+          "label": "Fiscalité, finances publiques", 
+          "ordre": 13
+        }, 
+        {
+          "categorie": null, 
+          "code": "AMENAGEMENT", 
+          "label": "Logement, aménagement du territoire, urbanisme", 
+          "ordre": 17
+        }
+      ]
+    }, 
+    "adresse": "BUSINESS FRANCE\r\nPARIS 14\r\n77 BOULEVARD SAINT JACQUES\r\nCS 41451", 
+    "affiliations": [], 
+    "categorieOrganisation": {
+      "categorie": "ORGA_PUB", 
+      "code": "EPAIC", 
+      "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+      "notifSansChiffreAffaire": true
+    }, 
+    "clients": [], 
+    "codePostal": "75998", 
+    "collaborateurs": [
+      {
+        "civilite": "MME", 
+        "nom": "ORTIOU", 
+        "prenom": "Hélène"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "LECOURTIER", 
+        "prenom": "Christophe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général Délégué Stratégies et Ressources", 
+        "nom": "TRIVULCE", 
+        "prenom": "Benoit"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général Délégué Export", 
+        "nom": "ROSSI", 
+        "prenom": "Frédéric"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Générale Déléguée Export", 
+        "nom": "TARDIEU", 
+        "prenom": "Marie Cécile"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général Délégué Réseau France", 
+        "nom": "BAISSAS", 
+        "prenom": "Henri"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Exécutif - Conseiller Spécial pour les Régions et Relations Institutionnelles", 
+        "nom": "CORNUAULT", 
+        "prenom": "Lorenzo"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur - Relations parlementaires et coopération Internationale", 
+        "nom": "LECAMP", 
+        "prenom": "Pascal"
+      }
+    ], 
+    "dateCreation": "2021-06-04T15:13:00", 
+    "dateDernierePublicationActivite": "2021-06-04T16:10:51", 
+    "datePremierePublication": "2021-06-04T15:13:00", 
+    "declarationOrgaAppartenance": false, 
+    "declarationTiers": false, 
+    "denomination": "BUSINESS FRANCE", 
+    "dirigeants": [
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général", 
+        "nom": "LECOURTIER", 
+        "prenom": "Christophe"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général Délégué Stratégies et Ressources", 
+        "nom": "TRIVULCE", 
+        "prenom": "Benoit"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général Délégué Réseau France", 
+        "nom": "BAISSAS", 
+        "prenom": "Henri"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur Général Délégué Export", 
+        "nom": "ROSSI", 
+        "prenom": "Frédéric"
+      }, 
+      {
+        "civilite": "MME", 
+        "fonction": "Directrice Générale Déléguée Invest", 
+        "nom": "TARDIEU", 
+        "prenom": "Marie-Cécile"
+      }
+    ], 
+    "emailDeContact": "contact@businessfrance.fr", 
+    "exercices": [
+      {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt, Aménagement du territoire, ruralité et collectivités territoriales, Economie et finances"
+                    ], 
+                    "tiers": [
+                      "BUSINESS FRANCE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "PME/TPE", 
+                  "Aides aux entreprises", 
+                  "Collectivités territoriales", 
+                  "Développement des territoires", 
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "X3C4R4O3", 
+                "objet": "Sécuriser les crédits octroyés à Business France pour financer son activé de développement de l'économie française à l'international", 
+                "publicationDate": "2021-06-04T16:03:50"
+              }, 
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt, Aménagement du territoire, ruralité et collectivités territoriales, Economie et finances"
+                    ], 
+                    "tiers": [
+                      "BUSINESS FRANCE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "PME/TPE", 
+                  "Aides aux entreprises", 
+                  "Collectivités territoriales", 
+                  "Développement des territoires", 
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "X3C4R4O3", 
+                "objet": "Sécuriser les crédits octroyés à Business France pour financer son activé de développement de l'économie française à l'international", 
+                "publicationDate": "2021-06-04T15:58:56"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt, Aménagement du territoire, ruralité et collectivités territoriales, Economie et finances"
+                  ], 
+                  "tiers": [
+                    "BUSINESS FRANCE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "PME/TPE", 
+                "Aides aux entreprises", 
+                "Collectivités territoriales", 
+                "Développement des territoires", 
+                "Agriculture"
+              ], 
+              "identifiantFiche": "X3C4R4O3", 
+              "objet": "Sécuriser les crédits octroyés à Business France pour financer son activé de développement de l'économie française à l'international", 
+              "publicationDate": "2021-06-04T16:03:50"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2017-07-01", 
+        "dateFin": "2017-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14484, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 7, 
+        "publicationDate": "2021-06-04T15:29:12"
+      }, 
+      {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt, Aménagement du territoire, ruralité et collectivités territoriales, Economie et finances"
+                    ], 
+                    "tiers": [
+                      "BUSINESS FRANCE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "PME/TPE", 
+                  "Aides aux entreprises", 
+                  "Développement des territoires", 
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "EHLFEF9H", 
+                "objet": "Sécuriser les crédits octroyés à Business France pour financer son activé de développement de l'économie française à l'international", 
+                "publicationDate": "2021-06-04T15:59:43"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt, Aménagement du territoire, ruralité et collectivités territoriales, Economie et finances"
+                  ], 
+                  "tiers": [
+                    "BUSINESS FRANCE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "PME/TPE", 
+                "Aides aux entreprises", 
+                "Développement des territoires", 
+                "Agriculture"
+              ], 
+              "identifiantFiche": "EHLFEF9H", 
+              "objet": "Sécuriser les crédits octroyés à Business France pour financer son activé de développement de l'économie française à l'international", 
+              "publicationDate": "2021-06-04T15:59:43"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2018-01-01", 
+        "dateFin": "2018-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14483, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 7, 
+        "publicationDate": "2021-06-04T15:30:01"
+      }, 
+      {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt, Aménagement du territoire, ruralité et collectivités territoriales, Economie et finances"
+                    ], 
+                    "tiers": [
+                      "BUSINESS FRANCE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "PME/TPE", 
+                  "Aides aux entreprises", 
+                  "Développement des territoires", 
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "A3YRLRMV", 
+                "objet": "Sécuriser les crédits octroyés à Business France pour financer son activé de développement de l'économie française à l'international", 
+                "publicationDate": "2021-06-04T16:04:59"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt, Aménagement du territoire, ruralité et collectivités territoriales, Economie et finances"
+                  ], 
+                  "tiers": [
+                    "BUSINESS FRANCE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "PME/TPE", 
+                "Aides aux entreprises", 
+                "Développement des territoires", 
+                "Agriculture"
+              ], 
+              "identifiantFiche": "A3YRLRMV", 
+              "objet": "Sécuriser les crédits octroyés à Business France pour financer son activé de développement de l'économie française à l'international", 
+              "publicationDate": "2021-06-04T16:04:59"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14482, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 7, 
+        "publicationDate": "2021-06-04T15:30:32"
+      }, 
+      {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Titulaire d'un emploi à la décision du Gouvernement", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt, Aménagement du territoire, ruralité et collectivités territoriales, Economie et finances"
+                    ], 
+                    "tiers": [
+                      "BUSINESS FRANCE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "PME/TPE", 
+                  "Aides aux entreprises", 
+                  "Collectivités territoriales", 
+                  "Développement des territoires", 
+                  "Agriculture"
+                ], 
+                "identifiantFiche": "6VBEWENV", 
+                "objet": "Sécuriser les crédits octroyés à Business France pour financer son activé de développement de l'économie française à l'international", 
+                "publicationDate": "2021-06-04T16:07:52"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Titulaire d'un emploi à la décision du Gouvernement", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Agriculture, agroalimentaire et forêt, Aménagement du territoire, ruralité et collectivités territoriales, Economie et finances"
+                  ], 
+                  "tiers": [
+                    "BUSINESS FRANCE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "PME/TPE", 
+                "Aides aux entreprises", 
+                "Collectivités territoriales", 
+                "Développement des territoires", 
+                "Agriculture"
+              ], 
+              "identifiantFiche": "6VBEWENV", 
+              "objet": "Sécuriser les crédits octroyés à Business France pour financer son activé de développement de l'économie française à l'international", 
+              "publicationDate": "2021-06-04T16:07:52"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Affaires étrangères et développement international"
+                    ], 
+                    "tiers": [
+                      "BUSINESS FRANCE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "PME/TPE", 
+                  "Formation professionnelle"
+                ], 
+                "identifiantFiche": "JVD0W0L3", 
+                "objet": "Contribuer à l'harmonisation du dispositif indemnitaire VIE VIA", 
+                "publicationDate": "2021-06-04T16:10:51"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Economie et finances, Affaires étrangères et développement international"
+                  ], 
+                  "tiers": [
+                    "BUSINESS FRANCE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "PME/TPE", 
+                "Formation professionnelle"
+              ], 
+              "identifiantFiche": "JVD0W0L3", 
+              "objet": "Contribuer à l'harmonisation du dispositif indemnitaire VIE VIA", 
+              "publicationDate": "2021-06-04T16:10:51"
+            }
+          }, 
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                      "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "observation": "Business France a exercé cette action dans le cadre de la Team France Export (sans existence juridique - membres fondateurs : Régions, CCI et Bpifrance)", 
+                    "reponsablesPublics": [
+                      "Collaborateur du Président de la République", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Economie et finances, Affaires étrangères et développement international"
+                    ], 
+                    "tiers": [
+                      "BUSINESS FRANCE (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "PME/TPE", 
+                  "Aides aux entreprises", 
+                  "Partenariats public/privé"
+                ], 
+                "identifiantFiche": "2VRQLQ5H", 
+                "objet": "Présenter des solutions de relance à l'Export pour le compte de la Team France Export", 
+                "publicationDate": "2021-06-04T15:38:10"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Transmettre aux décideurs publics des informations, expertises dans un objectif de conviction", 
+                    "Transmettre des suggestions afin d'influencer la rédaction d'une décision publique"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "observation": "Business France a exercé cette action dans le cadre de la Team France Export (sans existence juridique - membres fondateurs : Régions, CCI et Bpifrance)", 
+                  "reponsablesPublics": [
+                    "Collaborateur du Président de la République", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Premier ministre, Economie et finances, Affaires étrangères et développement international"
+                  ], 
+                  "tiers": [
+                    "BUSINESS FRANCE (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "PME/TPE", 
+                "Aides aux entreprises", 
+                "Partenariats public/privé"
+              ], 
+              "identifiantFiche": "2VRQLQ5H", 
+              "objet": "Présenter des solutions de relance à l'Export pour le compte de la Team France Export", 
+              "publicationDate": "2021-06-04T15:38:10"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14481, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 3, 
+        "nombreSalaries": 7, 
+        "publicationDate": "2021-06-04T15:31:00"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14480, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 7, 
+        "publicationDate": "2021-06-04T15:15:20"
+      }
+    ], 
+    "historique": [], 
+    "historique_exercices": [
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2017-07-01", 
+        "dateFin": "2017-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14484, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 7, 
+        "publicationDate": "2021-06-04T15:29:12"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2018-01-01", 
+        "dateFin": "2018-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14483, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 7, 
+        "publicationDate": "2021-06-04T15:30:01"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2019-01-01", 
+        "dateFin": "2019-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14482, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 7, 
+        "publicationDate": "2021-06-04T15:30:32"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14481, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 3, 
+        "nombreSalaries": 7, 
+        "publicationDate": "2021-06-04T15:31:00"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2021-01-01", 
+        "dateFin": "2021-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14480, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "> = 100 000 euros et < 200 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 7, 
+        "publicationDate": "2021-06-04T15:15:20"
+      }
+    ], 
+    "identifiantNational": "451930051", 
+    "isActivitesPubliees": true, 
+    "lienPageFacebook": "https://www.facebook.com/businessfrance", 
+    "lienPageLinkedin": "https://www.linkedin.com/company/business-france/mycompany/", 
+    "lienPageTwitter": "https://twitter.com/businessfrance", 
+    "lienSiteWeb": "https://www.businessfrance.fr/", 
+    "pays": "FRANCE", 
+    "publierMonAdresseEmail": true, 
+    "publierMonAdressePhysique": true, 
+    "publierMonTelephoneDeContact": true, 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "PME/TPE", 
+          "Aides aux entreprises", 
+          "Partenariats public/privé"
+        ], 
+        "identifiantFiche": "2VRQLQ5H", 
+        "nom_organisation": "BUSINESS FRANCE", 
+        "num_organisation": "451930051", 
+        "objet": "Présenter des solutions de relance à l'Export pour le compte de la Team France Export", 
+        "publicationDate": "2021-06-04T15:38:10"
+      }, 
+      {
+        "domainesIntervention": [
+          "PME/TPE", 
+          "Aides aux entreprises", 
+          "Développement des territoires", 
+          "Agriculture"
+        ], 
+        "identifiantFiche": "EHLFEF9H", 
+        "nom_organisation": "BUSINESS FRANCE", 
+        "num_organisation": "451930051", 
+        "objet": "Sécuriser les crédits octroyés à Business France pour financer son activé de développement de l'économie française à l'international", 
+        "publicationDate": "2021-06-04T15:59:43"
+      }, 
+      {
+        "domainesIntervention": [
+          "PME/TPE", 
+          "Aides aux entreprises", 
+          "Collectivités territoriales", 
+          "Développement des territoires", 
+          "Agriculture"
+        ], 
+        "identifiantFiche": "X3C4R4O3", 
+        "nom_organisation": "BUSINESS FRANCE", 
+        "num_organisation": "451930051", 
+        "objet": "Sécuriser les crédits octroyés à Business France pour financer son activé de développement de l'économie française à l'international", 
+        "publicationDate": "2021-06-04T16:03:50"
+      }, 
+      {
+        "domainesIntervention": [
+          "PME/TPE", 
+          "Aides aux entreprises", 
+          "Développement des territoires", 
+          "Agriculture"
+        ], 
+        "identifiantFiche": "A3YRLRMV", 
+        "nom_organisation": "BUSINESS FRANCE", 
+        "num_organisation": "451930051", 
+        "objet": "Sécuriser les crédits octroyés à Business France pour financer son activé de développement de l'économie française à l'international", 
+        "publicationDate": "2021-06-04T16:04:59"
+      }, 
+      {
+        "domainesIntervention": [
+          "PME/TPE", 
+          "Aides aux entreprises", 
+          "Collectivités territoriales", 
+          "Développement des territoires", 
+          "Agriculture"
+        ], 
+        "identifiantFiche": "6VBEWENV", 
+        "nom_organisation": "BUSINESS FRANCE", 
+        "num_organisation": "451930051", 
+        "objet": "Sécuriser les crédits octroyés à Business France pour financer son activé de développement de l'économie française à l'international", 
+        "publicationDate": "2021-06-04T16:07:52"
+      }, 
+      {
+        "domainesIntervention": [
+          "PME/TPE", 
+          "Formation professionnelle"
+        ], 
+        "identifiantFiche": "JVD0W0L3", 
+        "nom_organisation": "BUSINESS FRANCE", 
+        "num_organisation": "451930051", 
+        "objet": "Contribuer à l'harmonisation du dispositif indemnitaire VIE VIA", 
+        "publicationDate": "2021-06-04T16:10:51"
+      }
+    ], 
+    "telephoneDeContact": "01 40 73 30 00", 
+    "typeIdentifiantNational": "SIREN", 
+    "url_json": "https://www.hatvp.fr/agora/451930051.json", 
+    "ville": "PARIS CEDEX 14"
+  }, 
+  {
+    "activites": {
+      "listNiveauIntervention": [
+        {
+          "categorie": null, 
           "code": "NATIONAL", 
           "label": "National", 
           "ordre": 2
