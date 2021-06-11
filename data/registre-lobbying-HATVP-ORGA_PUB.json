@@ -20036,22 +20036,10 @@
     "codePostal": "93212", 
     "collaborateurs": [
       {
-        "civilite": "MME", 
-        "fonction": "Directrice des relations extérieures", 
-        "nom": "GOURLET", 
-        "prenom": "Sandrine"
-      }, 
-      {
         "civilite": "M", 
-        "fonction": "Directeur des relations parlementaires et élus nationaux", 
-        "nom": "BOY", 
-        "prenom": "Deniz"
-      }, 
-      {
-        "civilite": "M", 
-        "fonction": "Directeur de cabinet", 
-        "nom": "BOURDAIS", 
-        "prenom": "Cédric"
+        "fonction": "Président du Directoire", 
+        "nom": "MONTEILS", 
+        "prenom": "Jean-François"
       }, 
       {
         "civilite": "M", 
@@ -20067,12 +20055,24 @@
       }, 
       {
         "civilite": "MME", 
+        "fonction": "Directrice des relations extérieures", 
+        "nom": "GOURLET", 
+        "prenom": "Sandrine"
+      }, 
+      {
+        "civilite": "M", 
+        "fonction": "Directeur des relations parlementaires et élus nationaux", 
+        "nom": "BOY", 
+        "prenom": "Deniz"
+      }, 
+      {
+        "civilite": "MME", 
         "fonction": "Responsable des relations parlementaires et élus nationaux", 
         "nom": "BINCKLI", 
         "prenom": "Marine"
       }
     ], 
-    "dateCreation": "2021-03-31T11:40:13", 
+    "dateCreation": "2021-06-11T14:46:07", 
     "dateDernierePublicationActivite": "2021-03-31T11:55:49", 
     "datePremierePublication": "2019-06-25T10:53:50", 
     "declarationOrgaAppartenance": true, 
@@ -21454,6 +21454,128 @@
             "fonction": "Président du Directoire", 
             "nom": "DALLARD", 
             "prenom": "Thierry"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Membre du Directoire", 
+            "nom": "BREDILLOT", 
+            "prenom": "Frédéric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Membre du Directoire", 
+            "nom": "CATHELAIN", 
+            "prenom": "Bernard"
+          }
+        ], 
+        "emailDeContact": "info@societedugrandparis.fr", 
+        "identifiantNational": "525046017", 
+        "lienPageFacebook": "https://www.facebook.com/GrandParisExpress", 
+        "lienPageLinkedin": "https://fr.linkedin.com/company/societe-du-grand-paris", 
+        "lienPageTwitter": "https://twitter.com/GdParisExpress", 
+        "lienSiteWeb": "https://www.societedugrandparis.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "01 82 46 20 00", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "La Plaine Saint Denis"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }, 
+            {
+              "categorie": null, 
+              "code": "EUROPEEN", 
+              "label": "Européen", 
+              "ordre": 3
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "TRANSPORTS", 
+              "label": "Transports, logistique", 
+              "ordre": 29
+            }
+          ]
+        }, 
+        "adresse": "2 Mail de la Petite Espagne", 
+        "affiliations": [
+          {
+            "denomination": "UNION  TRANSPORTS PUBLICS FERROVIAIRES", 
+            "identifiantNational": "784408643", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "PARIS EUROPLACE", 
+            "identifiantNational": "W751107990", 
+            "typeIdentifiantNational": "RNA"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_PUB", 
+          "code": "EPAIC", 
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
+        }, 
+        "clients": [], 
+        "codePostal": "93212", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "Directrice des relations extérieures", 
+            "nom": "GOURLET", 
+            "prenom": "Sandrine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des relations parlementaires et élus nationaux", 
+            "nom": "BOY", 
+            "prenom": "Deniz"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur de cabinet", 
+            "nom": "BOURDAIS", 
+            "prenom": "Cédric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Membre du directoire", 
+            "nom": "BRÉDILLOT", 
+            "prenom": "Frédéric"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Membre du directoire", 
+            "nom": "CATHELAIN", 
+            "prenom": "Bernard"
+          }, 
+          {
+            "civilite": "MME", 
+            "fonction": "Responsable des relations parlementaires et élus nationaux", 
+            "nom": "BINCKLI", 
+            "prenom": "Marine"
+          }
+        ], 
+        "dateCreation": "2021-03-31T11:40:13", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "SOCIETE DU GRAND PARIS", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Président du Directoire", 
+            "nom": "MONTEILS", 
+            "prenom": "Jean-François"
           }, 
           {
             "civilite": "M", 
