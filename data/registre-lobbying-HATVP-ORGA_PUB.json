@@ -2608,19 +2608,7 @@
     "publierMonAdresseEmail": true, 
     "publierMonAdressePhysique": true, 
     "publierMonTelephoneDeContact": true, 
-    "resumes_actions": [
-      {
-        "domainesIntervention": [
-          "PME/TPE", 
-          "Formation professionnelle"
-        ], 
-        "identifiantFiche": "JVD0W0L3", 
-        "nom_organisation": "BUSINESS FRANCE", 
-        "num_organisation": "451930051", 
-        "objet": "Contribuer à l'harmonisation du dispositif indemnitaire VIE VIA", 
-        "publicationDate": "2021-06-04T16:10:51"
-      }
-    ], 
+    "resumes_actions": [], 
     "telephoneDeContact": "01 40 73 30 00", 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/451930051.json", 
