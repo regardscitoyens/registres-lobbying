@@ -67,18 +67,12 @@
       }, 
       {
         "civilite": "M", 
-        "fonction": "Directeur du Centre de Meuse / Haute-Marne", 
-        "nom": "MAZOYER", 
-        "prenom": "David"
-      }, 
-      {
-        "civilite": "M", 
         "fonction": "Responsable des relations institutionnelles", 
         "nom": "DENIS-VIENOT", 
         "prenom": "Matthieu"
       }
     ], 
-    "dateCreation": "2019-06-18T11:53:18", 
+    "dateCreation": "2021-06-23T06:51:50", 
     "dateDernierePublicationActivite": "2021-03-31T16:46:26", 
     "datePremierePublication": "2017-12-12T16:33:22", 
     "declarationOrgaAppartenance": false, 
@@ -1113,6 +1107,111 @@
           }
         ], 
         "dateCreation": "2019-03-28T15:58:41", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "AGENCE NAT GESTION DECHETS RADIOACTIFS", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "ABADIE", 
+            "prenom": "Pierre-Marie"
+          }
+        ], 
+        "identifiantNational": "390199669", 
+        "lienPageFacebook": "https://www.facebook.com/andra.france", 
+        "lienPageLinkedin": "https://www.linkedin.com/company/andra_2/", 
+        "lienPageTwitter": "https://twitter.com/Andra_France", 
+        "lienSiteWeb": "http://www.andra.fr/", 
+        "nomUsageHatvp": "AGENCE NATIONALE DE GESTION DES DECHETS RADIOACTIFS", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "sigleHatvp": "ANDRA", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "CHATENAY MALABRY CEDEX"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "ENERGIE", 
+              "label": "Energie", 
+              "ordre": 11
+            }, 
+            {
+              "categorie": null, 
+              "code": "RECHERCHE", 
+              "label": "Recherche, innovation", 
+              "ordre": 12
+            }, 
+            {
+              "categorie": null, 
+              "code": "ENVIRONNEMENT", 
+              "label": "Environnement", 
+              "ordre": 15
+            }
+          ]
+        }, 
+        "adresse": "AGENCE NAT GESTION DECHETS RADIOACTIFS\r\nPARC LA CROIX BLANCHE 1 7\r\n1 RUE JEAN MONNET", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_PUB", 
+          "code": "EPAIC", 
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
+        }, 
+        "clients": [], 
+        "codePostal": "92298", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "ABADIE", 
+            "prenom": "Pierre-Marie"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Président du Conseil d'administration", 
+            "nom": "COLRAT", 
+            "prenom": "Adolphe"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur des opérations industrielles - Directeur des Centres Industriels de l'Andra dans l'Aube", 
+            "nom": "TORRES", 
+            "prenom": "Patrice"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur du Centre de Meuse / Haute-Marne", 
+            "nom": "MAZOYER", 
+            "prenom": "David"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Responsable des relations institutionnelles", 
+            "nom": "DENIS-VIENOT", 
+            "prenom": "Matthieu"
+          }
+        ], 
+        "dateCreation": "2019-06-18T11:53:18", 
         "declarationOrgaAppartenance": false, 
         "declarationTiers": false, 
         "denomination": "AGENCE NAT GESTION DECHETS RADIOACTIFS", 
