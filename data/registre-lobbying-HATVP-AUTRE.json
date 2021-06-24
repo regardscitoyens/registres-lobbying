@@ -11260,7 +11260,7 @@
       {
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
-        "defautDeclaration": false, 
+        "defautDeclaration": true, 
         "exerciceId": 9475, 
         "noActivite": false, 
         "nombreActivite": 0
@@ -16279,7 +16279,7 @@
         "typeIdentifiantNational": "SIREN"
       }, 
       {
-        "denomination": "MEDEF RHONE ALPES", 
+        "denomination": "MEDEF AUVERGNE RHONE ALPES", 
         "identifiantNational": "300986403", 
         "typeIdentifiantNational": "SIREN"
       }
@@ -16406,7 +16406,7 @@
       {
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
-        "defautDeclaration": false, 
+        "defautDeclaration": true, 
         "exerciceId": 9918, 
         "noActivite": false, 
         "nombreActivite": 0
@@ -16460,7 +16460,7 @@
             "typeIdentifiantNational": "SIREN"
           }, 
           {
-            "denomination": "MEDEF RHONE ALPES", 
+            "denomination": "MEDEF AUVERGNE RHONE ALPES", 
             "identifiantNational": "300986403", 
             "typeIdentifiantNational": "SIREN"
           }
@@ -22068,7 +22068,7 @@
       {
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
-        "defautDeclaration": false, 
+        "defautDeclaration": true, 
         "exerciceId": 10239, 
         "noActivite": false, 
         "nombreActivite": 0
@@ -35556,7 +35556,7 @@
       {
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
-        "defautDeclaration": false, 
+        "defautDeclaration": true, 
         "exerciceId": 8610, 
         "noActivite": false, 
         "nombreActivite": 0
