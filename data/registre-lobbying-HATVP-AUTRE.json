@@ -33834,7 +33834,7 @@
     "adresse": "INVIVO GROUP\r\n83 AVENUE DE LA GRANDE ARMEE", 
     "affiliations": [
       {
-        "denomination": "COOP DE FRANCE", 
+        "denomination": "LA COOPERATION AGRICOLE", 
         "identifiantNational": "784179665", 
         "typeIdentifiantNational": "SIREN"
       }, 
@@ -34675,6 +34675,14 @@
         "exerciceId": 10894, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-07-01", 
+        "dateFin": "2022-06-30", 
+        "defautDeclaration": false, 
+        "exerciceId": 14629, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -34700,7 +34708,7 @@
         "adresse": "INVIVO GROUP\r\n83 AVENUE DE LA GRANDE ARMEE", 
         "affiliations": [
           {
-            "denomination": "COOP DE FRANCE", 
+            "denomination": "LA COOPERATION AGRICOLE", 
             "identifiantNational": "784179665", 
             "typeIdentifiantNational": "SIREN"
           }, 
@@ -44799,7 +44807,7 @@
     "adresse": "SOC COOPERATIVE AGRICOLE CAP SEINE\n16 RUE GEORGES CHARPAK\nPAT LA VATINE\nBP 108", 
     "affiliations": [
       {
-        "denomination": "COOP DE FRANCE", 
+        "denomination": "LA COOPERATION AGRICOLE", 
         "identifiantNational": "784179665", 
         "typeIdentifiantNational": "SIREN"
       }
@@ -45086,6 +45094,14 @@
         "nombreActivite": 2, 
         "nombreSalaries": 10, 
         "publicationDate": "2020-12-04T15:09:23"
+      }, 
+      {
+        "dateDebut": "2021-07-01", 
+        "dateFin": "2022-06-30", 
+        "defautDeclaration": false, 
+        "exerciceId": 14642, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [], 
