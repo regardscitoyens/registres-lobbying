@@ -6906,6 +6906,14 @@
         "exerciceId": 10851, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-07-02", 
+        "dateFin": "2022-07-01", 
+        "defautDeclaration": false, 
+        "exerciceId": 14650, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
