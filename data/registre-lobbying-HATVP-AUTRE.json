@@ -7175,6 +7175,7 @@
     "clients": [
       {
         "ancienClient": false, 
+        "dateAjout": "26-04-2018 11:26", 
         "denomination": "BUREAU NATIONAL INTERPR COGNAC", 
         "identifiantNational": "775563455", 
         "typeIdentifiantNational": "SIREN"
@@ -8472,6 +8473,14 @@
         "exerciceId": 11061, 
         "noActivite": false, 
         "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2021-08-01", 
+        "dateFin": "2022-07-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 14738, 
+        "noActivite": false, 
+        "nombreActivite": 0
       }
     ], 
     "historique": [
@@ -8558,6 +8567,7 @@
         "clients": [
           {
             "ancienClient": false, 
+            "dateAjout": "26-04-2018 11:26", 
             "denomination": "BUREAU NATIONAL INTERPR COGNAC", 
             "identifiantNational": "775563455", 
             "typeIdentifiantNational": "SIREN"
@@ -8712,6 +8722,7 @@
         "clients": [
           {
             "ancienClient": false, 
+            "dateAjout": "26-04-2018 11:26", 
             "denomination": "BUREAU NATIONAL INTERPR COGNAC", 
             "identifiantNational": "775563455", 
             "typeIdentifiantNational": "SIREN"
