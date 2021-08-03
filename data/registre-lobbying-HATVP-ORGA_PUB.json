@@ -6215,18 +6215,18 @@
     "collaborateurs": [
       {
         "civilite": "MME", 
-        "fonction": "DIrectrice de la communication et des relations institutionnelles", 
-        "nom": "AJAX", 
-        "prenom": "Géraldine"
+        "fonction": "Directrice générale adjointe Aménagement", 
+        "nom": "HAMRIOUI", 
+        "prenom": "Soraya"
       }, 
       {
         "civilite": "M", 
-        "fonction": "Directeur général délégué", 
-        "nom": "FEBVAY", 
-        "prenom": "Thierry"
+        "fonction": "Directeur général adjoint Développement économique et partenariats stratégiques", 
+        "nom": "GUISSEAU", 
+        "prenom": "Fabien"
       }
     ], 
-    "dateCreation": "2019-12-09T11:51:24", 
+    "dateCreation": "2021-08-03T17:40:45", 
     "datePremierePublication": "2018-04-30T15:33:41", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -6235,8 +6235,8 @@
       {
         "civilite": "M", 
         "fonction": "Directeur général", 
-        "nom": "LAJOIE", 
-        "prenom": "Thierry"
+        "nom": "DE FAY", 
+        "prenom": "Stéphan"
       }
     ], 
     "emailDeContact": "contact@grandparisamenagement.fr", 
@@ -6597,6 +6597,101 @@
           }
         ], 
         "dateCreation": "2018-04-30T16:07:35", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "GRAND PARIS AMENAGEMENT", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "LAJOIE", 
+            "prenom": "Thierry"
+          }
+        ], 
+        "emailDeContact": "contact@grandparisamenagement.fr", 
+        "identifiantNational": "642036941", 
+        "lienPageFacebook": "https://www.facebook.com/gpamenagement/", 
+        "lienPageTwitter": "https://twitter.com/gpamenagement", 
+        "lienSiteWeb": "http://www.grandparisamenagement.fr", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": true, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": true, 
+        "telephoneDeContact": "0140046600", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "AMENAGEMENT", 
+              "label": "Logement, aménagement du territoire, urbanisme", 
+              "ordre": 17
+            }
+          ]
+        }, 
+        "adresse": "GRAND PARIS AMENAGEMENT\r\nAFTRP\r\n11 RUE DE CAMBRAI", 
+        "affiliations": [
+          {
+            "denomination": "CLUB VILLE AMENAGEMENT", 
+            "identifiantNational": "403202823", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "ASS DES MAIRES D ILE DE FRANCE", 
+            "identifiantNational": "388139693", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "FRANCAISE DE DEVELOPPEMENT URBAIN", 
+            "identifiantNational": "352482285", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "DLC", 
+            "identifiantNational": "513772897", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_PUB", 
+          "code": "EPAIC", 
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
+        }, 
+        "clients": [], 
+        "codePostal": "75019", 
+        "collaborateurs": [
+          {
+            "civilite": "MME", 
+            "fonction": "DIrectrice de la communication et des relations institutionnelles", 
+            "nom": "AJAX", 
+            "prenom": "Géraldine"
+          }, 
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général délégué", 
+            "nom": "FEBVAY", 
+            "prenom": "Thierry"
+          }
+        ], 
+        "dateCreation": "2019-12-09T11:51:24", 
         "declarationOrgaAppartenance": true, 
         "declarationTiers": false, 
         "denomination": "GRAND PARIS AMENAGEMENT", 
