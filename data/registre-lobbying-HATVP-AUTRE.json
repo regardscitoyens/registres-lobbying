@@ -4246,6 +4246,7 @@
       }
     ], 
     "dateCreation": "2020-09-05T11:50:53", 
+    "dateDernierePublicationActivite": "2021-08-03T10:45:12", 
     "datePremierePublication": "2020-09-05T11:50:53", 
     "declarationOrgaAppartenance": false, 
     "declarationTiers": false, 
@@ -4276,18 +4277,116 @@
         "nombreActivite": 0
       }, 
       {
+        "activites": [
+          {
+            "historique": [
+              {
+                "actionsRepresentationInteret": [
+                  {
+                    "actionsMenees": [
+                      "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                      "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                    ], 
+                    "decisionsConcernees": [
+                      "Lois, y compris constitutionnelles"
+                    ], 
+                    "reponsablesPublics": [
+                      "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                      "Membre du Gouvernement ou membre de cabinet ministériel - Education nationale, enseignement supérieur et recherche"
+                    ], 
+                    "tiers": [
+                      "AIVANCITY (en propre)"
+                    ]
+                  }
+                ], 
+                "domainesIntervention": [
+                  "Recherche et innovation", 
+                  "Enseignement supérieur", 
+                  "Protection des données", 
+                  "Egalité des chances", 
+                  "Egalité femmes/hommes"
+                ], 
+                "identifiantFiche": "9V0CGWI3", 
+                "objet": "Mettre en place une réglementation relative au développement de l'intelligence artificielle éthique et soucieuse des enjeux humains et sociétaux.", 
+                "publicationDate": "2021-08-03T10:45:12"
+              }
+            ], 
+            "publicationCourante": {
+              "actionsRepresentationInteret": [
+                {
+                  "actionsMenees": [
+                    "Organiser des discussions informelles ou des réunions en tête-à-tête", 
+                    "Inviter ou organiser des évènements, des rencontres ou des activités promotionnelles"
+                  ], 
+                  "decisionsConcernees": [
+                    "Lois, y compris constitutionnelles"
+                  ], 
+                  "reponsablesPublics": [
+                    "Député ; sénateur ; collaborateur parlementaire ou agents des services des assemblées parlementaires", 
+                    "Membre du Gouvernement ou membre de cabinet ministériel - Education nationale, enseignement supérieur et recherche"
+                  ], 
+                  "tiers": [
+                    "AIVANCITY (en propre)"
+                  ]
+                }
+              ], 
+              "domainesIntervention": [
+                "Recherche et innovation", 
+                "Enseignement supérieur", 
+                "Protection des données", 
+                "Egalité des chances", 
+                "Egalité femmes/hommes"
+              ], 
+              "identifiantFiche": "9V0CGWI3", 
+              "objet": "Mettre en place une réglementation relative au développement de l'intelligence artificielle éthique et soucieuse des enjeux humains et sociétaux.", 
+              "publicationDate": "2021-08-03T10:45:12"
+            }
+          }
+        ], 
+        "chiffreAffaire": "> = 100 000 euros et < 500 000 euros", 
         "dateDebut": "2021-05-19", 
         "dateFin": "2022-05-18", 
         "defautDeclaration": false, 
         "exerciceId": 14436, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
         "noActivite": false, 
-        "nombreActivite": 0
+        "nombreActivite": 1, 
+        "nombreSalaries": 0, 
+        "publicationDate": "2021-08-03T10:47:23"
       }
     ], 
     "historique": [], 
-    "historique_exercices": [], 
+    "historique_exercices": [
+      {
+        "chiffreAffaire": "> = 100 000 euros et < 500 000 euros", 
+        "dateDebut": "2021-05-19", 
+        "dateFin": "2022-05-18", 
+        "defautDeclaration": false, 
+        "exerciceId": 14436, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 0, 
+        "publicationDate": "2021-08-03T10:47:23"
+      }, 
+      {
+        "chiffreAffaire": "> = 100 000 euros et < 500 000 euros", 
+        "dateDebut": "2021-05-19", 
+        "dateFin": "2022-05-18", 
+        "defautDeclaration": false, 
+        "exerciceId": 14436, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": false, 
+        "nombreActivite": 1, 
+        "nombreSalaries": 0, 
+        "publicationDate": "2021-08-03T10:46:26"
+      }
+    ], 
     "identifiantNational": "883439929", 
-    "isActivitesPubliees": false, 
+    "isActivitesPubliees": true, 
     "lienPageFacebook": "https://www.facebook.com/Aivancity/", 
     "lienPageLinkedin": "https://www.linkedin.com/company/aivancity", 
     "lienPageTwitter": "https://twitter.com/aivancity", 
@@ -4297,7 +4396,22 @@
     "publierMonAdresseEmail": false, 
     "publierMonAdressePhysique": false, 
     "publierMonTelephoneDeContact": false, 
-    "resumes_actions": [], 
+    "resumes_actions": [
+      {
+        "domainesIntervention": [
+          "Recherche et innovation", 
+          "Enseignement supérieur", 
+          "Protection des données", 
+          "Egalité des chances", 
+          "Egalité femmes/hommes"
+        ], 
+        "identifiantFiche": "9V0CGWI3", 
+        "nom_organisation": "AIVANCITY", 
+        "num_organisation": "883439929", 
+        "objet": "Mettre en place une réglementation relative au développement de l'intelligence artificielle éthique et soucieuse des enjeux humains et sociétaux.", 
+        "publicationDate": "2021-08-03T10:45:12"
+      }
+    ], 
     "typeIdentifiantNational": "SIREN", 
     "url_json": "https://www.hatvp.fr/agora/883439929.json", 
     "ville": "BOULOGNE-BILLANCOURT"
