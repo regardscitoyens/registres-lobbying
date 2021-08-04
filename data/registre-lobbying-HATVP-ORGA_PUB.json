@@ -1334,12 +1334,11 @@
     "collaborateurs": [
       {
         "civilite": "M", 
-        "fonction": "Secrétaire général", 
-        "nom": "GEIBEN", 
-        "prenom": "Gautier"
+        "nom": "BROCART", 
+        "prenom": "Ghislain"
       }
     ], 
-    "dateCreation": "2019-03-29T17:17:11", 
+    "dateCreation": "2021-08-04T15:26:36", 
     "dateDernierePublicationActivite": "2020-01-21T10:37:26", 
     "datePremierePublication": "2018-01-17T14:28:09", 
     "declarationOrgaAppartenance": false, 
@@ -1349,8 +1348,8 @@
       {
         "civilite": "M", 
         "fonction": "Directeur général", 
-        "nom": "LAVAL", 
-        "prenom": "Philippe"
+        "nom": "SCHMITT", 
+        "prenom": "Alain"
       }
     ], 
     "exercices": [
@@ -1662,12 +1661,17 @@
         "publicationDate": "2020-01-21T10:38:25"
       }, 
       {
+        "chiffreAffaire": "> = 1 000 000 euros", 
         "dateDebut": "2020-01-01", 
         "dateFin": "2020-12-31", 
-        "defautDeclaration": true, 
+        "defautDeclaration": false, 
         "exerciceId": 10187, 
-        "noActivite": false, 
-        "nombreActivite": 0
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": true, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 0, 
+        "publicationDate": "2021-08-04T11:49:29"
       }, 
       {
         "dateDebut": "2021-01-01", 
@@ -1942,6 +1946,71 @@
         "sigleHatvp": "ANCV", 
         "typeIdentifiantNational": "SIREN", 
         "ville": "SARCELLES CEDEX"
+      }, 
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "LOCAL", 
+              "label": "Local", 
+              "ordre": 1
+            }, 
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "SPORTS", 
+              "label": "Sports, loisirs, tourisme", 
+              "ordre": 27
+            }
+          ]
+        }, 
+        "adresse": "AGENCE NATIONALE CHEQUES VACANCES\r\n36 BOULEVARD HENRI BERGSON", 
+        "affiliations": [], 
+        "categorieOrganisation": {
+          "categorie": "ORGA_PUB", 
+          "code": "EPAIC", 
+          "label": "Etablissement public exerçant une activité industrielle et commerciale", 
+          "notifSansChiffreAffaire": true
+        }, 
+        "clients": [], 
+        "codePostal": "95201", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "Secrétaire général", 
+            "nom": "GEIBEN", 
+            "prenom": "Gautier"
+          }
+        ], 
+        "dateCreation": "2019-03-29T17:17:11", 
+        "declarationOrgaAppartenance": false, 
+        "declarationTiers": false, 
+        "denomination": "AGENCE NATIONALE CHEQUES VACANCES", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur général", 
+            "nom": "LAVAL", 
+            "prenom": "Philippe"
+          }
+        ], 
+        "identifiantNational": "326817442", 
+        "nomUsageHatvp": "AGENCE NATIONALE POUR LES CHÈQUES-VACANCES", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "sigleHatvp": "ANCV", 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "SARCELLES CEDEX"
       }
     ], 
     "historique_exercices": [
@@ -1996,6 +2065,19 @@
         "nombreActivite": 2, 
         "nombreSalaries": 1, 
         "publicationDate": "2019-03-19T11:38:47"
+      }, 
+      {
+        "chiffreAffaire": "> = 1 000 000 euros", 
+        "dateDebut": "2020-01-01", 
+        "dateFin": "2020-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 10187, 
+        "hasNotChiffreAffaire": false, 
+        "montantDepense": "< 10 000 euros", 
+        "noActivite": true, 
+        "nombreActivite": 0, 
+        "nombreSalaries": 0, 
+        "publicationDate": "2021-08-04T11:49:29"
       }
     ], 
     "identifiantNational": "326817442", 
