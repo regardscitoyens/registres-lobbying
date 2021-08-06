@@ -44856,12 +44856,11 @@
     "collaborateurs": [
       {
         "civilite": "M", 
-        "fonction": "CEO EMEA & Americas", 
-        "nom": "MORGAUT", 
-        "prenom": "Antoine"
+        "nom": "MANINGUE", 
+        "prenom": "Hubert-Mathieu"
       }
     ], 
-    "dateCreation": "2020-11-23T10:41:28", 
+    "dateCreation": "2021-08-06T15:50:07", 
     "datePremierePublication": "2020-11-23T10:41:28", 
     "declarationOrgaAppartenance": true, 
     "declarationTiers": false, 
@@ -44892,7 +44891,77 @@
         "nombreActivite": 0
       }
     ], 
-    "historique": [], 
+    "historique": [
+      {
+        "activites": {
+          "listNiveauIntervention": [
+            {
+              "categorie": null, 
+              "code": "NATIONAL", 
+              "label": "National", 
+              "ordre": 2
+            }
+          ], 
+          "listSecteursActivites": [
+            {
+              "categorie": null, 
+              "code": "EMPLOI", 
+              "label": "Travail, emploi, solidarité", 
+              "ordre": 10
+            }
+          ]
+        }, 
+        "adresse": "25 RUEBALZAC", 
+        "affiliations": [
+          {
+            "denomination": "GROUPEMENT SYNDICAT SYNTEC ETUDE CONSEIL", 
+            "identifiantNational": "420512766", 
+            "typeIdentifiantNational": "SIREN"
+          }, 
+          {
+            "denomination": "GROUPEMENT DES PROFESSIONS DE SERVICES", 
+            "identifiantNational": "477942114", 
+            "typeIdentifiantNational": "SIREN"
+          }
+        ], 
+        "categorieOrganisation": {
+          "categorie": "AUTRE", 
+          "code": "AUORG", 
+          "label": "Autres organisations", 
+          "notifSansChiffreAffaire": false
+        }, 
+        "clients": [], 
+        "codePostal": "75008", 
+        "collaborateurs": [
+          {
+            "civilite": "M", 
+            "fonction": "CEO EMEA & Americas", 
+            "nom": "MORGAUT", 
+            "prenom": "Antoine"
+          }
+        ], 
+        "dateCreation": "2020-11-23T10:41:28", 
+        "declarationOrgaAppartenance": true, 
+        "declarationTiers": false, 
+        "denomination": "ROBERT WALTERS SAS", 
+        "dirigeants": [
+          {
+            "civilite": "M", 
+            "fonction": "Directeur Administratif et Financier", 
+            "nom": "MANINGUE", 
+            "prenom": "Mathieu"
+          }
+        ], 
+        "identifiantNational": "490047057", 
+        "lienSiteWeb": "https://www.robertwalters.fr/", 
+        "pays": "FRANCE", 
+        "publierMonAdresseEmail": false, 
+        "publierMonAdressePhysique": true, 
+        "publierMonTelephoneDeContact": false, 
+        "typeIdentifiantNational": "SIREN", 
+        "ville": "PARIS 8"
+      }
+    ], 
     "historique_exercices": [], 
     "identifiantNational": "490047057", 
     "isActivitesPubliees": false, 
