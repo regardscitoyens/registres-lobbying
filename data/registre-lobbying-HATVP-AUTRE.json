@@ -45094,11 +45094,27 @@
     ], 
     "exercices": [
       {
+        "dateDebut": "2017-07-01", 
+        "dateFin": "2017-12-31", 
+        "defautDeclaration": false, 
+        "exerciceId": 11285, 
+        "noActivite": true, 
+        "nombreActivite": 0
+      }, 
+      {
+        "dateDebut": "2018-01-01", 
+        "dateFin": "2018-06-30", 
+        "defautDeclaration": false, 
+        "exerciceId": 11284, 
+        "noActivite": true, 
+        "nombreActivite": 0
+      }, 
+      {
         "dateDebut": "2018-07-01", 
         "dateFin": "2019-06-30", 
         "defautDeclaration": false, 
         "exerciceId": 11283, 
-        "noActivite": false, 
+        "noActivite": true, 
         "nombreActivite": 0
       }, 
       {
