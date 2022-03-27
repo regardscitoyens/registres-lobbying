@@ -2,9 +2,17 @@
 
 cd $(echo $0 | sed 's#/[^/]*$##')
 
-git pull > /dev/null 2>&1
-source /usr/local/bin/virtualenvwrapper.sh
-workon registrelobbying
+git stash && git pull && git stash pop > /dev/null 2>&1
+
+#source /usr/local/bin/virtualenvwrapper.sh
+#workon registrelobbying
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"    # if `pyenv` is not already on PATH
+eval "$(pyenv init --path)"                                                                                                                                                                                                              
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
+export PYENV_VIRTUALENV_DISABLE_PROMPT=1
+pyenv activate registrelobbying
 
 DEBUG=true
 if [ -z "$1" ]; then
